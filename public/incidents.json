@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-04T22:31:00.353529+00:00",
-  "total_incidents": 50,
+  "generated_at": "2026-10-04T23:29:57.737458+00:00",
+  "total_incidents": 52,
   "incidents": [
+    {
+      "id": "f2fdbaa7731bbad79362c9b5ba57981e",
+      "title": "Undersecretary of Kuwaiti Ministry of Education Dr. Khaled Al-Rasheed stressed the importance of developing teachers' capabilities and curricula to improve students' learning outcomes and enhance their critical thinking and problem-solving skills  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2106873825732219306",
+      "published": "2026-10-04T22:27:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791149584",
+      "title": "US withdraws B-1 bomber aircraft from UK\u2019s Fairford base amid Iran fears",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss",
+      "published": "2026-10-04T22:23:30+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791146124",
       "title": "Ireland refuse handshake with Israel and don armbands in Nations League tie",
