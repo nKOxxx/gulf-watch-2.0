@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-10-04T07:19:08.469302+00:00",
-  "total_incidents": 51,
+  "generated_at": "2026-10-04T09:35:33.183515+00:00",
+  "total_incidents": 48,
   "incidents": [
+    {
+      "id": "5f940694d9bc1f7464fb007de1813efa",
+      "title": "RT by @DXBMediaOffice: RT by @DXBMediaOffice: I attended the unveiling of the probe for the Emirates Mission to the Asteroid Belt. Developed, assembled and tested in the UAE, the probe has achieved flight readiness in less than two years. Guided by our visionary leadership, the UAE continues to build its capabilities in one of the world\u2019s most advanced sectors. Today, more than 150 engineers and scientists are working as one national team on a mission that will travel around 5 billion kilometres to explore 7 asteroids. The UAE\u2019s space sector is now valued at more than AED 44 billion. By 2031, we aim to double the returns of the space economy and establish the UAE among the world\u2019s top 10 spa",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/HamdanMohammed/status/2106665972308566369",
+      "published": "2026-10-04T08:41:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791030545",
+      "title": "Inside the \u2018kill box\u2019: The Yemenis who stayed behind in Houthi-held Mocha",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/10/4/inside-the-kill-box-the-yemenis-who-stayed-behind-in-houthi-held-mocha?traffic_source=rss",
+      "published": "2026-10-04T08:31:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2c785b9e1cfd24f48887e10cd4f82a3d",
+      "title": ". Five UAE humanitarian aid convoys comprising 55 trucks and carrying 617 tonnes of humanitarian aid entered the Gaza St...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DeENRdzNF-d",
+      "published": "2026-10-04T08:31:12+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/04/iran-says-strait-of-hormuz-will-not-reopen-until-its-conditions-are-met/",
+      "title": "Iran says Strait of Hormuz will not reopen until seven conditions are met",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/04/iran-says-strait-of-hormuz-will-not-reopen-until-its-conditions-are-met/",
+      "published": "2026-10-04T08:22:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791097753",
+      "title": "Gaza\u2019s Christians mourn mother and daughter killed in Israeli attack",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/4/gazas-christians-mourn-mother-and-daughter-killed-in-israeli-attack?traffic_source=rss",
+      "published": "2026-10-04T08:02:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/04/six-palestinians-killed-in-israeli-strikes-across-gaza/",
+      "title": "Six Palestinians killed in Israeli strikes across Gaza",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/04/six-palestinians-killed-in-israeli-strikes-across-gaza/",
+      "published": "2026-10-04T07:57:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791094747",
+      "title": "Saudi-led coalition dismisses \u2018misleading\u2019 Houthi claim of Riyadh attack",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss",
+      "published": "2026-10-04T07:39:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "dd25c2a52c7969180cc438c625a34989",
+      "title": "Dubai\u2019s Roads and Transport Authority (RTA) organises the inaugural Dubai International Electric Vehicle Exhibition and Conference 2026 (EV World 2026) from 10th to 12th November 2026 at Dubai World Trade Centre, under the theme: Driving a Smart and Sustainable Mobility Future. @rta_dubai",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2106645412551815583",
+      "published": "2026-10-04T07:19:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/arts-culture/pop-culture/2026/10/04/angelina-jolie-shares-images-of-gaza-destruction-and-calls-for-urgent-aid/",
       "title": "Angelina Jolie shares images of Gaza destruction and calls for urgent aid",
@@ -69,50 +245,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/sport/football/2026/10/04/we-will-be-better-in-the-final-dalic-confident-uae-can-improve-for-gulf-cup-showdown-against-saudi-arabia/",
-      "title": "\u2018We will be better in the final\u2019: Dalic confident UAE can improve for Gulf Cup showdown against Saudi Arabia",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/04/we-will-be-better-in-the-final-dalic-confident-uae-can-improve-for-gulf-cup-showdown-against-saudi-arabia/",
-      "published": "2026-10-04T05:29:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791089921",
-      "title": "Somalia President: Houthis \u2018not in a position\u2019 to bring Yemen peace",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
-      "published": "2026-10-04T05:00:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o#0",
       "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
       "source": "BBC Middle East",
@@ -127,138 +259,6 @@
         "lng": 55.2708
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/04/yemen-government-forces-strike-sanaa-and-saada-as-houthis-claim-aramco-attack/",
-      "title": "Yemeni armed forces hit Houthi strongholds as fighting rages",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/04/yemen-government-forces-strike-sanaa-and-saada-as-houthis-claim-aramco-attack/",
-      "published": "2026-10-04T04:47:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791085805",
-      "title": "Saudi-backed Yemeni army says 700 Houthis killed in 24 hours",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/saudi-backed-yemeni-army-says-700-houthis-killed-in-24-hours?traffic_source=rss",
-      "published": "2026-10-04T04:09:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791086629",
-      "title": "Pick-up truck overturns trying to carry military chopper in Russia",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/pick-up-truck-overturns-trying-to-carry-military-chopper-in-russia?traffic_source=rss",
-      "published": "2026-10-04T04:06:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/europe/2026/10/04/race-to-unlock-russias-deadly-jet-drone-secrets/",
-      "title": "Race to unlock secrets of Russia\u2019s deadly jet-drone",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/04/race-to-unlock-russias-deadly-jet-drone-secrets/",
-      "published": "2026-10-04T04:00:00+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/04/syria-pressing-on-accelerator-to-attract-us-investors/",
-      "title": "Syria 'pressing on accelerator' to attract US investors",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/04/syria-pressing-on-accelerator-to-attract-us-investors/",
-      "published": "2026-10-04T04:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791079573",
-      "title": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss",
-      "published": "2026-10-04T03:33:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -370,50 +370,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "1f42ee7ef7b53e66baf179ca00846207",
-      "title": "#Kuwait housing reforms mark new phase of sustainable development (Report)  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2106293828353180013",
-      "published": "2026-10-03T08:02:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "58f94de788a5fab373fa83daf33c3810",
-      "title": "KPC: #Kuwait oil prices went up USD 1.32 to reach USD 105.91 pb on Saturday's trading  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2106281392329863425",
-      "published": "2026-10-03T07:13:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -744,28 +700,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5522d56faa97b1bf56d43485563e12b0",
-      "title": ". The National Human Rights Institution (NHRI) has submitted a written report on \u201cLocalising the Right to Adequate Housi...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/Dd_jVObiKjh",
-      "published": "2026-10-02T13:06:01+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
