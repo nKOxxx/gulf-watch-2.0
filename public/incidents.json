@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-04T03:19:36.411300+00:00",
-  "total_incidents": 52,
+  "generated_at": "2026-10-04T04:49:48.845014+00:00",
+  "total_incidents": 53,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791085805",
+      "title": "Saudi-backed Yemeni army says 700 Houthis killed in 24 hours",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/saudi-backed-yemeni-army-says-700-houthis-killed-in-24-hours?traffic_source=rss",
+      "published": "2026-10-04T04:09:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791086629",
+      "title": "Pick-up truck overturns trying to carry military chopper in Russia",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/pick-up-truck-overturns-trying-to-carry-military-chopper-in-russia?traffic_source=rss",
+      "published": "2026-10-04T04:06:05+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/europe/2026/10/04/race-to-unlock-russias-deadly-jet-drone-secrets/",
+      "title": "Race to unlock secrets of Russia\u2019s deadly jet-drone",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/04/race-to-unlock-russias-deadly-jet-drone-secrets/",
+      "published": "2026-10-04T04:00:00+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/04/syria-pressing-on-accelerator-to-attract-us-investors/",
+      "title": "Syria 'pressing on accelerator' to attract US investors",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/04/syria-pressing-on-accelerator-to-attract-us-investors/",
+      "published": "2026-10-04T04:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791079573",
+      "title": "Houthis claim strike on Saudi energy facility as Yemen fighting intensifies",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss",
+      "published": "2026-10-04T03:33:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791078002",
       "title": "Ethiopian government troops seize Tigray\u2019s capital Mekelle",
@@ -37,94 +147,6 @@
         "city": null,
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791068729",
-      "title": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way?traffic_source=rss",
-      "published": "2026-10-04T00:00:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791064370",
-      "title": "Air ambulance missing on flight from Bermuda to Boston",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston?traffic_source=rss",
-      "published": "2026-10-03T23:03:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791060836",
-      "title": "Pelosi-backed US candidate calls for \u2018full arms embargo\u2019 on Israel",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss",
-      "published": "2026-10-03T22:43:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791062006",
-      "title": "Israeli settlers attack Palestinian farmers during olive harvest",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss",
-      "published": "2026-10-03T21:15:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
