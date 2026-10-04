@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-04T14:18:57.240085+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-04T15:53:07.504549+00:00",
+  "total_incidents": 54,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
+      "title": "Israel condemns Green party passing \u2018Zionism is racism\u2019 as a \u2018stain on history of UK\u2019 \u2013 UK politics live",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
+      "published": "2026-10-04T15:51:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791127670",
+      "title": "Why does the US want to deport Salah Sarsour?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/why-does-the-us-want-to-deport-salah-sarsour?traffic_source=rss",
+      "published": "2026-10-04T15:36:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 17.0151,
+        "lng": 54.0924
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791098484",
+      "title": "\u2018Did he know?\u2019: Why Israel is rejecting an October 7 reckoning",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/opinions/2026/10/4/did-he-know-why-israel-is-rejecting-an-october-7-reckoning?traffic_source=rss",
+      "published": "2026-10-04T15:22:25+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/04/uae-football-association-charters-six-flights-to-fly-fans-to-gulf-cup-final/",
+      "title": "UAE Football Association charters six flights to fly fans to Gulf Cup final in Jeddah",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/04/uae-football-association-charters-six-flights-to-fly-fans-to-gulf-cup-final/",
+      "published": "2026-10-04T15:06:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 21.4858,
+        "lng": 39.1925
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791126230",
+      "title": "Iran tells US: there is \u2018no military solution\u2019 to end the war",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/iran-tells-us-there-is-no-military-solution-to-end-the-war?traffic_source=rss",
+      "published": "2026-10-04T15:06:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/04/asian-games-show-uae-is-rising-as-a-sporting-force-says-president-of-the-uae-olympic-committee/",
+      "title": "Asian Games success shows UAE is rising as a sporting force, says President of the UAE Olympic Committee",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/04/asian-games-show-uae-is-rising-as-a-sporting-force-says-president-of-the-uae-olympic-committee/",
+      "published": "2026-10-04T14:25:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791116265",
+      "title": "Dodik declared Bosnia \u2018dead\u2019. Irrelevant rhetoric or serious threat?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/4/dodik-declared-bosnia-dead-irrelevant-rhetoric-or-serious-threat?traffic_source=rss",
+      "published": "2026-10-04T14:21:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791104659",
       "title": "How was Flydubai co-pilot cleared despite being deemed a security risk?",
@@ -91,50 +245,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791109615",
-      "title": "What are the five questions being asked regarding the Flydubai attack?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/4/what-are-the-five-questions-being-asked-regarding-the-flydubai-attack?traffic_source=rss",
-      "published": "2026-10-04T13:11:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791116066",
-      "title": "Yemen\u2019s leader announces military operation to retake Houthi-held territory",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/4/yemens-leader-announces-military-operation-to-retake-houthi-held-territory?traffic_source=rss",
-      "published": "2026-10-04T12:48:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/04/iraqs-pm-orders-probe-after-us-flag-trampled-by-iran-backed-militias/",
       "title": "Iraq\u2019s PM orders probe after US flag trampled by Iran-backed militias",
       "source": "The National UAE",
@@ -216,50 +326,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/10/04/opec-keeps-oil-output-targets-unchanged-for-november/",
-      "title": "Opec+ keeps oil output targets unchanged for November",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/04/opec-keeps-oil-output-targets-unchanged-for-november/",
-      "published": "2026-10-04T11:30:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791107993",
-      "title": "Iran says Hormuz to remain closed until US meets conditions",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss",
-      "published": "2026-10-04T11:11:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1109,50 +1175,6 @@
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/01/ukraine-deploys-fp-7-tactical-ballistic-missile-in-combat-for-first-time-zelenskyy-says/",
       "published": "2026-10-01T19:54:35+00:00",
       "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0a8a529aa5436668d7c0d94c5d12b0a1",
-      "title": "Iranian Foreign Minister Abbas Araghchi and Japanese Foreign Minister Toshimitsu Motegi held phone talks Thursday on the latest regional and international developments and issues of mutual interest.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2105683772419043383",
-      "published": "2026-10-01T15:38:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/europe/2026/10/01/dutch-say-asw-frigate-talks-ongoing-amid-reports-belgium-may-quit-project/",
-      "title": "Dutch say ASW frigate talks ongoing amid reports Belgium may quit project",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/10/01/dutch-say-asw-frigate-talks-ongoing-amid-reports-belgium-may-quit-project/",
-      "published": "2026-10-01T15:01:55+00:00",
-      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": null,
