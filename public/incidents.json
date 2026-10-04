@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-04T19:32:15.081112+00:00",
-  "total_incidents": 52,
+  "generated_at": "2026-10-04T21:09:07.152461+00:00",
+  "total_incidents": 49,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/04/all-us-bombers-depart-raf-fairford-amid-security-fears/",
+      "title": "All US bombers depart RAF Fairford amid security fears",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/04/all-us-bombers-depart-raf-fairford-amid-security-fears/",
+      "published": "2026-10-04T21:02:51+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/mideast-africa/2026/10/04/yemeni-government-launches-offensive-to-seize-all-areas-from-iran-backed-houthis/",
+      "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/mideast-africa/2026/10/04/yemeni-government-launches-offensive-to-seize-all-areas-from-iran-backed-houthis/",
+      "published": "2026-10-04T19:50:12+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "332802a435118df9a51c65d1f56e4ea7",
       "title": "Minister of State for Youth and Sports Affairs Tareq Al-Jalahma welcomes the head of the Palestinian Football Federation Jibril Rajoub who is currently visiting #Kuwait  #KUNA",
@@ -245,72 +289,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791124336",
-      "title": "Air strike in Sudan kills UN aid truck driver: WFP",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss",
-      "published": "2026-10-04T16:28:43+00:00",
-      "type": "airstrike",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791129967",
-      "title": "Three years of genocide in Gaza through one man\u2019s camera",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss",
-      "published": "2026-10-04T16:18:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791129626",
-      "title": "Jerusalem Daily: Israeli forces arrest school children during raid",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss",
-      "published": "2026-10-04T16:04:53+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/uae/2026/10/04/uae-football-association-charters-six-flights-to-fly-fans-to-gulf-cup-final/",
       "title": "UAE Football Association charters six flights to fly fans to Gulf Cup final in Jeddah",
       "source": "The National UAE",
@@ -466,14 +444,14 @@
     },
     {
       "id": "f79dcc33b16c48bebb2f33c6ab44419d",
-      "title": "RT by @SaudiDCD: RT by @SaudiDCD: \u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (27) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
-      "source": "Saudi Civil Defense (RSS.app)",
+      "title": "\u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (27) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
+      "source": "Saudi MOI (RSS.app)",
       "source_url": "https://x.com/MOISaudiArabia/status/2106685766718177541",
       "published": "2026-10-04T10:00:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
-        "country": "Saudi Arabia",
+        "country": null,
         "city": null,
         "lat": 29.0,
         "lng": 48.0
@@ -488,14 +466,14 @@
     },
     {
       "id": "f79dcc33b16c48bebb2f33c6ab44419d",
-      "title": "\u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (27) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
-      "source": "Saudi MOI (RSS.app)",
+      "title": "RT by @SaudiDCD: RT by @SaudiDCD: \u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (27) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
+      "source": "Saudi Civil Defense (RSS.app)",
       "source_url": "https://x.com/MOISaudiArabia/status/2106685766718177541",
       "published": "2026-10-04T10:00:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
-        "country": null,
+        "country": "Saudi Arabia",
         "city": null,
         "lat": 29.0,
         "lng": 48.0
@@ -1086,50 +1064,6 @@
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/01/us-navy-awards-rtxs-raytheon-244b-for-sm-6-missiles-amid-stockpile-concerns/",
       "published": "2026-10-01T22:05:46+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crje8edqyej9o#0",
-      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01T19:59:24+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/industry/techwatch/2026/10/01/ukraine-deploys-fp-7-tactical-ballistic-missile-in-combat-for-first-time-zelenskyy-says/",
-      "title": "Ukraine deploys FP-7 tactical ballistic missile in combat for first time, Zelenskyy says",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/01/ukraine-deploys-fp-7-tactical-ballistic-missile-in-combat-for-first-time-zelenskyy-says/",
-      "published": "2026-10-01T19:54:35+00:00",
       "type": "missile",
       "status": "unconfirmed",
       "location": {
