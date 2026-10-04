@@ -1,13 +1,123 @@
 {
-  "generated_at": "2026-10-04T15:53:07.504549+00:00",
+  "generated_at": "2026-10-04T17:47:57.582409+00:00",
   "total_incidents": 54,
   "incidents": [
     {
+      "id": "e37cc156babd5db8404b85a12319d3ea",
+      "title": "Ahmed bin Mohammed attends Saudi National Day celebrations held at the Saudi Consulate in Dubai. Upon his arrival at the venue, His Highness was received by Dr. Meshal bin Ahmed Al Ghamdi, Consul General of the Kingdom of Saudi Arabia in Dubai and the Northern Emirates, along with a number of ministers and senior officials.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2106796378500559096",
+      "published": "2026-10-04T17:19:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/04/egypt-committed-to-diplomatic-solution-on-nile-dam-dispute-with-ethiopia-says-pm/",
+      "title": "Egypt committed to diplomatic solution on Nile dam dispute with Ethiopia, says PM",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/04/egypt-committed-to-diplomatic-solution-on-nile-dam-dispute-with-ethiopia-says-pm/",
+      "published": "2026-10-04T17:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.8206,
+        "lng": 30.8025
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "dc9842e87fb78924facd562c9bbe24bb",
+      "title": "#Kuwait's Oil Minister is set to join his counterparts from across the Gulf Cooperation Council (GCC) for talks aiming to ratchet up energy cooperation within the six-member bloc, says the Kuwaiti oil ministry  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2106789603969528194",
+      "published": "2026-10-04T16:52:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "7ca80fe5b1a4348bc0b53416d9efb653",
+      "title": "The 20th Asian Games (Aichi-Nagoya 2026) conclude in #Japan, closing the continent's biggest sporting event, which began September 19th with 45 countries and more than 11,000 athletes competing across 43 different sports  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2106788933958840632",
+      "published": "2026-10-04T16:49:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/04/us-iran/",
+      "title": "US refuses to rule out further military action against Iran",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/04/us-iran/",
+      "published": "2026-10-04T16:48:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
-      "title": "Israel condemns Green party passing \u2018Zionism is racism\u2019 as a \u2018stain on history of UK\u2019 \u2013 UK politics live",
+      "title": "As it happened: Israel condemns Green party passing \u2018Zionism is racism\u2019 as a \u2018stain on history of UK\u2019",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
-      "published": "2026-10-04T15:51:31+00:00",
+      "published": "2026-10-04T16:32:00+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -25,18 +135,18 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791127670",
-      "title": "Why does the US want to deport Salah Sarsour?",
+      "id": "https://www.aljazeera.com/?t=1791124336",
+      "title": "Air strike in Sudan kills UN aid truck driver: WFP",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/why-does-the-us-want-to-deport-salah-sarsour?traffic_source=rss",
-      "published": "2026-10-04T15:36:10+00:00",
-      "type": "incident",
+      "source_url": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss",
+      "published": "2026-10-04T16:28:43+00:00",
+      "type": "airstrike",
       "status": "unconfirmed",
       "location": {
-        "country": "Oman",
+        "country": null,
         "city": null,
-        "lat": 17.0151,
-        "lng": 54.0924
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -47,18 +157,62 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791098484",
-      "title": "\u2018Did he know?\u2019: Why Israel is rejecting an October 7 reckoning",
+      "id": "https://www.aljazeera.com/?t=1791129967",
+      "title": "Three years of genocide in Gaza through one man\u2019s camera",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/opinions/2026/10/4/did-he-know-why-israel-is-rejecting-an-october-7-reckoning?traffic_source=rss",
-      "published": "2026-10-04T15:22:25+00:00",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss",
+      "published": "2026-10-04T16:18:01+00:00",
       "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791129626",
+      "title": "Jerusalem Daily: Israeli forces arrest school children during raid",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss",
+      "published": "2026-10-04T16:04:53+00:00",
+      "type": "raid",
       "status": "unconfirmed",
       "location": {
         "country": "Israel",
         "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791126963",
+      "title": "LIVE: Portugal vs Norway \u2013 UEFA Nations League",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/liveblog/2026/10/4/live-portugal-vs-norway-uefa-nations-league?traffic_source=rss",
+      "published": "2026-10-04T15:47:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -91,28 +245,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791126230",
-      "title": "Iran tells US: there is \u2018no military solution\u2019 to end the war",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/iran-tells-us-there-is-no-military-solution-to-end-the-war?traffic_source=rss",
-      "published": "2026-10-04T15:06:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/uae/2026/10/04/asian-games-show-uae-is-rising-as-a-sporting-force-says-president-of-the-uae-olympic-committee/",
       "title": "Asian Games success shows UAE is rising as a sporting force, says President of the UAE Olympic Committee",
       "source": "The National UAE",
@@ -127,94 +259,6 @@
         "lng": 53.8478
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791116265",
-      "title": "Dodik declared Bosnia \u2018dead\u2019. Irrelevant rhetoric or serious threat?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/4/dodik-declared-bosnia-dead-irrelevant-rhetoric-or-serious-threat?traffic_source=rss",
-      "published": "2026-10-04T14:21:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791104659",
-      "title": "How was Flydubai co-pilot cleared despite being deemed a security risk?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/4/how-was-flydubai-co-pilot-cleared-despite-being-deemed-a-security-risk?traffic_source=rss",
-      "published": "2026-10-04T13:42:16+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791095141",
-      "title": "Why is fighting intensifying in Yemen\u2019s Taiz governorate?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/4/why-is-fighting-intensifying-in-yemens-taiz-governorate?traffic_source=rss",
-      "published": "2026-10-04T13:31:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 38.0962,
-        "lng": 46.2738
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791119893",
-      "title": "Somali president: Ethiopia can access our port, but must negotiate",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somali-president-ethiopia-can-access-our-port-but-must-negotiate?traffic_source=rss",
-      "published": "2026-10-04T13:22:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 23.5859,
-        "lng": 58.4059
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -279,28 +323,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/04/syria-christians-suqaylabiyah/",
-      "title": "Clashes erupt in Christian town in central Syria",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/04/syria-christians-suqaylabiyah/",
-      "published": "2026-10-04T11:59:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
       },
       "credibility": 85,
       "is_government": false,
@@ -457,28 +479,6 @@
         "lng": 48.0
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "956bdbcf25c1f88729637f63070194fa",
-      "title": "#Kuwait Fire Force carried out an inspection campaign in Farwaniya Governorate, resulting in 115 notices, 34 administrative closures & warnings issued to 15 sites over possible closure.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2106682356341854507",
-      "published": "2026-10-04T09:46:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
