@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-04T21:09:07.152461+00:00",
-  "total_incidents": 49,
+  "generated_at": "2026-10-04T21:39:58.223795+00:00",
+  "total_incidents": 52,
   "incidents": [
+    {
+      "id": "250eae8bbbb78e063ce145efaedd7915",
+      "title": "#Kuwait's Minister of Education Sayed Jalal Al-Tabtabaei: The Scout Movement has represented an important field for building youth, equipping them with skills and fostering a spirit of initiative and teamwork  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2106857997544689953",
+      "published": "2026-10-04T21:24:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791147541",
+      "title": "Ronaldo-less Portugal beat Norway 2-1 to reach Nations League quarterfinals",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals?traffic_source=rss",
+      "published": "2026-10-04T21:10:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/us/2026/10/04/all-us-bombers-depart-raf-fairford-amid-security-fears/",
       "title": "All US bombers depart RAF Fairford amid security fears",
@@ -17,6 +61,28 @@
         "lng": 48.0
       },
       "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791137717",
+      "title": "Israel lashes out as UK\u2019s Green Party formally defines Zionism as \u2018racism\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss",
+      "published": "2026-10-04T20:38:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -444,14 +510,14 @@
     },
     {
       "id": "f79dcc33b16c48bebb2f33c6ab44419d",
-      "title": "\u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (27) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
-      "source": "Saudi MOI (RSS.app)",
+      "title": "RT by @SaudiDCD: RT by @SaudiDCD: \u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (27) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
+      "source": "Saudi Civil Defense (RSS.app)",
       "source_url": "https://x.com/MOISaudiArabia/status/2106685766718177541",
       "published": "2026-10-04T10:00:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
-        "country": null,
+        "country": "Saudi Arabia",
         "city": null,
         "lat": 29.0,
         "lng": 48.0
@@ -466,14 +532,14 @@
     },
     {
       "id": "f79dcc33b16c48bebb2f33c6ab44419d",
-      "title": "RT by @SaudiDCD: RT by @SaudiDCD: \u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (27) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
-      "source": "Saudi Civil Defense (RSS.app)",
+      "title": "\u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (27) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
+      "source": "Saudi MOI (RSS.app)",
       "source_url": "https://x.com/MOISaudiArabia/status/2106685766718177541",
       "published": "2026-10-04T10:00:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
-        "country": "Saudi Arabia",
+        "country": null,
         "city": null,
         "lat": 29.0,
         "lng": 48.0
