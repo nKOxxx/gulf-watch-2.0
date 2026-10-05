@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-05T05:46:26.855350+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-05T07:08:48.386313+00:00",
+  "total_incidents": 50,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/05/australia-university-engineering-flydubai-co-pilot-rmit-ntwnfb",
+      "title": "Alleged flydubai attacker left Australia without finishing engineering course, university says",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/05/australia-university-engineering-flydubai-co-pilot-rmit-ntwnfb",
+      "published": "2026-10-05T05:52:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/05/yemen-begins-offensive-against-houthis-egypt-seeks-nile-dam-solution-and-uae-launches-commercial-satellite/",
       "title": "Yemen begins offensive against Houthis, Egypt seeks Nile dam solution and UAE launches commercial satellite",
@@ -92,8 +114,8 @@
     },
     {
       "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @UAEmediaoffice: RT by @UAEmediaoffice: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
-      "source": "UAE Media Office (RSS.app)",
+      "title": "RT by @moiuae: RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
+      "source": "UAE MOI (RSS.app)",
       "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
       "published": "2026-10-05T04:09:00+00:00",
       "type": "incident",
@@ -114,8 +136,8 @@
     },
     {
       "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @moiuae: RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
-      "source": "UAE MOI (RSS.app)",
+      "title": "RT by @UAEmediaoffice: RT by @UAEmediaoffice: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
+      "source": "UAE Media Office (RSS.app)",
       "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
       "published": "2026-10-05T04:09:00+00:00",
       "type": "incident",
@@ -237,28 +259,6 @@
         "lng": 34.8516
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791167839",
-      "title": "Yemen gov\u2019t forces commence major combat operation against Houthis",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/yemen-govt-forces-commence-major-combat-operation-against-houthis?traffic_source=rss",
-      "published": "2026-10-05T03:11:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -458,6 +458,28 @@
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o#0",
+      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T16:51:30+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -751,28 +773,6 @@
       }
     },
     {
-      "id": "7da117db65c4b43dc58877c64d423be2",
-      "title": "#\u0644\u0627_\u062a\u0633\u0647\u0644\u0647\u0627_\u0639\u0644\u064a\u0647\u0645 #\u0634\u0647\u0631_\u0627\u0644\u062a\u0648\u0639\u064a\u0629_\u0628\u0627\u0644\u0623\u0645\u0646_\u0627\u0644\u0633\u064a\u0628\u0631\u0627\u0646\u064a #DontMakeItEasyForThem #CybersecurityAwarenessMonth #bahrain",
-      "source": "Bahrain MOI (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DeBUwmNiYVh",
-      "published": "2026-10-03T05:44:06+00:00",
-      "type": "cyber",
-      "status": "confirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 26.0667,
-        "lng": 50.5577
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=97409",
       "title": "Army to establish new autonomy command, acquisition executive",
       "source": "Breaking Defense",
@@ -993,28 +993,6 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo#0",
-      "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T11:52:04+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "5f6f3a1f868e679622f9e66c2882bd69",
       "title": "ROP WEEKLY_An accident happens in seconds. What happens next matters. Give way. Keep clear. Stay calm. Every right move can help emergency teams reach those who need them. Don\u2019t add to the accident. Help end it. #royalomanpolice For listening, click the link below",
       "source": "Royal Oman Police (RSS.app)",
@@ -1117,50 +1095,6 @@
         "lng": 53.8478
       },
       "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "21064d9bbd5074d10e291bd61bd8daa9",
-      "title": "RT by @CivilDefenceAD: RT by @CivilDefenceAD: Hazza bin Zayed received a delegation from Abu Dhabi\u2019s Police, Civil Defence Authority and Crises Management Centre, reviewing their efforts in ensuring a safe business environment that supports Al Ain\u2019s economic competitiveness and ensures continuity of business and services.",
-      "source": "Abu Dhabi Civil Defence (RSS.app)",
-      "source_url": "https://x.com/ADMediaOffice/status/2105916335662444855",
-      "published": "2026-10-02T07:02:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "84b85a901e727ef4d2ad266680524996",
-      "title": "RT by @CivilDefenceAD: RT by @CivilDefenceAD: Hazza bin Zayed received a delegation from Abu Dhabi\u2019s Police, Civil Defence Authority and Emergency, Crises and Disaster Management Centre, and reviewed the first half-year performance report as well as plans to enhance emergency and crisis preparedness in Al Ain Region.",
-      "source": "Abu Dhabi Civil Defence (RSS.app)",
-      "source_url": "https://x.com/ADMediaOffice/status/2105915926407422231",
-      "published": "2026-10-02T07:00:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 100,
       "is_government": true,
       "casualties": {
         "total": 0,
