@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-05T07:55:23.205510+00:00",
-  "total_incidents": 51,
+  "generated_at": "2026-10-05T08:52:35.456150+00:00",
+  "total_incidents": 52,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/05/iran-oil-minister-resigns-amid-fuel-shortages-and-crude-export-pressure/",
+      "title": "Iran oil minister resigns amid fuel shortages and crude export pressure",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/05/iran-oil-minister-resigns-amid-fuel-shortages-and-crude-export-pressure/",
+      "published": "2026-10-05T08:36:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/2026/10/05/sport-quiz-of-the-week-october-5-2026/",
+      "title": "Sport quiz of the week: October 5, 2026",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/sport/2026/10/05/sport-quiz-of-the-week-october-5-2026/",
+      "published": "2026-10-05T08:27:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791093041",
+      "title": "Pakistan installs fishing nets at security outposts to block drone attacks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/5/pakistan-installs-fishing-nets-at-security-outposts-to-block-drone-attacks?traffic_source=rss",
+      "published": "2026-10-05T08:20:34+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/economy/2026/10/05/non-oil-sectors-in-uae-and-saudi-arabia-maintain-strong-growth-trajectory-despite-iran-war/",
+      "title": "Non-oil sectors in UAE and Saudi Arabia maintain strong growth trajectory despite Iran war",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/05/non-oil-sectors-in-uae-and-saudi-arabia-maintain-strong-growth-trajectory-despite-iran-war/",
+      "published": "2026-10-05T07:56:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.defensenews.com/air/2026/10/05/us-removes-b-1-bombers-from-uk-base-amid-security-concerns/",
       "title": "US removes B-1 bombers from UK base amid security concerns",
@@ -223,28 +311,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/05/israeli-forces-kill-man-in-occupied-syrian-territory-amid-incursions/",
-      "title": "Israeli forces kill man in occupied Syrian territory amid incursions",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/05/israeli-forces-kill-man-in-occupied-syrian-territory-amid-incursions/",
-      "published": "2026-10-05T03:58:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "0b9307a87c5dda0bc2b596f8e3fee327",
       "title": "A senior adviser to the IRGC commander-in-chief said that for the first time, no American vessel is present in the Persian Gulf, the Strait of Hormuz, the Sea of Oman or even the northern Indian Ocean.",
       "source": "Mehr News (RSS.app)",
@@ -281,28 +347,6 @@
         "lng": 51.389
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/football/2026/10/05/hallgrimsson-says-israel-tried-to-intimidate-ireland-players-during-tense-nations-league-draw/",
-      "title": "Hallgrimsson says Israel tried to intimidate Ireland players during tense Nations League draw",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/05/hallgrimsson-says-israel-tried-to-intimidate-ireland-players-during-tense-nations-league-draw/",
-      "published": "2026-10-05T03:36:21+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -477,28 +521,6 @@
         "city": null,
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "dc9842e87fb78924facd562c9bbe24bb",
-      "title": "#Kuwait's Oil Minister is set to join his counterparts from across the Gulf Cooperation Council (GCC) for talks aiming to ratchet up energy cooperation within the six-member bloc, says the Kuwaiti oil ministry  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2106789603969528194",
-      "published": "2026-10-04T16:52:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
