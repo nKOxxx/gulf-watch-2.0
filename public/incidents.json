@@ -1,7 +1,293 @@
 {
-  "generated_at": "2026-10-05T14:39:01.236361+00:00",
-  "total_incidents": 47,
+  "generated_at": "2026-10-05T15:35:06.741707+00:00",
+  "total_incidents": 51,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791204257",
+      "title": "Yemeni gov\u2019t forces aim for Sanaa, but Houthi defeat will be a challenge",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss",
+      "published": "2026-10-05T15:29:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Yemen",
+        "city": null,
+        "lat": 15.3694,
+        "lng": 44.191
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791181382",
+      "title": "What happened between Ireland and Israel in their Nations League match?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/10/5/what-happened-between-ireland-and-israel-in-their-nations-league-match?traffic_source=rss",
+      "published": "2026-10-05T15:28:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/05/syria-israel-golan/",
+      "title": "Israel building military line in occupied Syrian territory, Damascus says",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/05/syria-israel-golan/",
+      "published": "2026-10-05T15:22:41+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 33.5138,
+        "lng": 36.2765
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/05/yemen-air-campaign-houthis-saudi-led-coalition",
+      "title": "Yemen air campaign against Houthis under way, says Saudi-led coalition",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/05/yemen-air-campaign-houthis-saudi-led-coalition",
+      "published": "2026-10-05T15:21:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/economy/2026/10/05/gulf-family-businesses-face-new-succession-test-as-women-prepare-to-take-on-bigger-roles/",
+      "title": "Gulf family businesses face new succession test as women prepare to take on bigger roles",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/05/gulf-family-businesses-face-new-succession-test-as-women-prepare-to-take-on-bigger-roles/",
+      "published": "2026-10-05T15:19:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/news/video/2026/oct/05/why-did-the-us-withdraw-bombers-from-raf-fairford-the-latest",
+      "title": "Why did the US rush to withdraw bombers from RAF Fairford? - The Latest",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/news/video/2026/oct/05/why-did-the-us-withdraw-bombers-from-raf-fairford-the-latest",
+      "published": "2026-10-05T15:18:55+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "cc3805bc8e8542d7d4545e125be554b1",
+      "title": "Minister of State for Development & Sustainability Dr. Reem Al-Fulaij and Minister of State for Communications & Information Technology Omar Al-Omar announces the National Digital Livestock Platform project, as part of Kuwait's efforts to develop the sector & advance food security.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107127100876505503",
+      "published": "2026-10-05T15:13:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/property/2026/10/05/abu-dhabis-eagle-hills-to-develop-residential-and-tourism-projects-in-syria/",
+      "title": "Abu Dhabi\u2019s Eagle Hills to develop residential and tourism projects in Syria",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/property/2026/10/05/abu-dhabis-eagle-hills-to-develop-residential-and-tourism-projects-in-syria/",
+      "published": "2026-10-05T15:01:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791206653",
+      "title": "Latest US military strike on alleged drug boat kills four in Caribbean",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/5/latest-us-military-strike-on-alleged-drug-boat-kills-four-in-caribbean?traffic_source=rss",
+      "published": "2026-10-05T14:58:02+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/10/05/european-defense-startups-to-raise-record-105-billion-in-2026-dealroom-forecasts/",
+      "title": "European defense startups to raise record $10.5 billion in 2026, Dealroom forecasts",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/05/european-defense-startups-to-raise-record-105-billion-in-2026-dealroom-forecasts/",
+      "published": "2026-10-05T14:54:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uk/2026/10/05/withdrawal-of-us-bombers-from-uk-base-signals-success-for-iran/",
+      "title": "Withdrawal of US bombers from UK base signals 'success' for Iran",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/05/withdrawal-of-us-bombers-from-uk-base-signals-success-for-iran/",
+      "published": "2026-10-05T14:38:48+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791203349",
+      "title": "Murder in Okinawa: The US military\u2019s history of alleged crime in Japan",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/5/murder-in-okinawa-the-us-militarys-history-of-alleged-crime-in-japan?traffic_source=rss",
+      "published": "2026-10-05T14:37:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo#0",
+      "title": "Yemeni government forces say they have 'secured' Bab al-Mandab Strait",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T14:37:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791204250",
       "title": "US pulls bombers from UK base: Is Iran manoeuvring Trump\u2019s war plans?",
@@ -201,50 +487,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/sport/football/2026/10/05/uae-ready-for-the-moment-as-they-face-saudi-arabia-in-arabian-gulf-cup-final/",
-      "title": "UAE 'ready for the moment' as they face Saudi Arabia in Arabian Gulf Cup final",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/05/uae-ready-for-the-moment-as-they-face-saudi-arabia-in-arabian-gulf-cup-final/",
-      "published": "2026-10-05T12:55:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791196355",
-      "title": "In Russia-occupied Oleshky, Ukrainians face hunger, drones and landmines",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/5/in-russia-occupied-oleshky-ukrainians-face-hunger-drones-and-landmines?traffic_source=rss",
-      "published": "2026-10-05T12:26:40+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/global/asia-pacific/2026/10/05/us-marine-corps-anti-ship-weaponry-to-see-exercise-action-on-remote-japan-island-near-taiwan/",
       "title": "US Marine Corps anti-ship weaponry to see exercise action on remote Japan island near Taiwan",
       "source": "Defense News",
@@ -259,50 +501,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/05/uae-foils-14-drug-smuggling-attempts-seizing-300kg-of-narcotics-at-airports/",
-      "title": "UAE foils 14 drug smuggling attempts, seizing 300kg of narcotics at airports",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/05/uae-foils-14-drug-smuggling-attempts-seizing-300kg-of-narcotics-at-airports/",
-      "published": "2026-10-05T12:24:24+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/05/makkah-pact-countries-to-meet-in-riyadh-with-houthi-attacks-on-agenda/",
-      "title": "Makkah pact countries to meet in Riyadh with Houthi attacks on agenda",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/05/makkah-pact-countries-to-meet-in-riyadh-with-houthi-attacks-on-agenda/",
-      "published": "2026-10-05T12:15:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -348,6 +546,28 @@
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o#0",
+      "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T11:34:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.0853,
+        "lng": 34.7818
+      },
+      "credibility": 95,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -455,28 +675,6 @@
         "city": null,
         "lat": 23.4241,
         "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a88f56c07e0197944ce60b3d77452499",
-      "title": "Dubai Future Foundation announces the launch of \u201cAgentic AI for Government Services Accelerator\u201d under Dubai Future Accelerators (DFA). Organised by Dubai Centre for Artificial Intelligence (DCAI), an initiative overseen by DFF, in collaboration with Digital Dubai and the Dubai Electronic Security Center (DESC), the Accelerator will enable government entities to develop agentic AI-powered services within significantly shorter timeframes while maintaining the highest standards of quality and digital compliance.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2107043492128252381",
-      "published": "2026-10-05T09:41:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 95,
       "is_government": true,
@@ -839,50 +1037,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/04/flydubai-co-pilot-time-in-australia-being-investigated-security-agencies-ntwnfb",
-      "title": "Flydubai co-pilot\u2019s time in Australia being investigated by security agencies after alleged cockpit attack",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/04/flydubai-co-pilot-time-in-australia-being-investigated-security-agencies-ntwnfb",
-      "published": "2026-10-04T01:26:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
-      "title": "Flydubai co-pilot used crash axe to attack captain, says UAE",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
-      "published": "2026-10-03T11:56:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "d4877a7b2f975b12f9e972b6673b372f",
       "title": "Ambassador and Charge de'affairs of the Islamic Republic of Iran to the United Nations Gholamhossein Darzi has scolded the US and its allies for abusing the UN Security Council (UNSC) to advance their own political agendas.",
       "source": "Mehr News (RSS.app)",
@@ -963,72 +1117,6 @@
         "lng": 38.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/europe/2026/10/02/ukraine-war-fatigue-fuels-defense-spending-downgrade-plan-in-italy/",
-      "title": "Ukraine war fatigue fuels defense-spending downgrade plan in Italy",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/10/02/ukraine-war-fatigue-fuels-defense-spending-downgrade-plan-in-italy/",
-      "published": "2026-10-02T15:29:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwp8gn13lmygo#0",
-      "title": "Three reasons Middle East oil supply is nearly back to pre-Iran war levels",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwp8gn13lmygo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T15:29:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=96995",
-      "title": "The NIH-Pentagon deal isn\u2019t a cash grab. It\u2019s a rescue.",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/the-nih-pentagon-deal-isnt-a-cash-grab-its-a-rescue/",
-      "published": "2026-10-02T15:10:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
