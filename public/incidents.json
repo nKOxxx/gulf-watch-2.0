@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-05T08:52:35.456150+00:00",
-  "total_incidents": 52,
+  "generated_at": "2026-10-05T09:47:49.653663+00:00",
+  "total_incidents": 50,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791184736",
+      "title": "Yemen forces claim to seize Dhubab, sites near Bab al-Mandeb from Houthis",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis?traffic_source=rss",
+      "published": "2026-10-05T09:40:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791180824",
+      "title": "Yemen war escalates: What\u2019s the latest, as government forces claim gains?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield?traffic_source=rss",
+      "published": "2026-10-05T09:38:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "7949ffdc8930a1029710b1f7938306bb",
+      "title": "RT by @DXBMediaOffice: RT by @DXBMediaOffice: On UAE Civil Aviation Day, we recognise aviation\u2019s role in the nation\u2019s development and in establishing the UAE as a global aviation hub. This progress reflects the expertise and commitment of people across the sector, from airport operations and engineering to the services that keep the ecosystem operating efficiently. We are advancing our aviation ecosystem through innovation, technology and artificial intelligence. These advances will enhance the traveller experience, strengthen aviation\u2019s contribution to global trade and chart new horizons for the future of aviation.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/HHAhmedBinSaeed/status/2107041982547677310",
+      "published": "2026-10-05T09:35:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/travel/2026/10/05/uae-israel-flights-etihad-flydubai-dubai-tel-aviv/",
+      "title": "Can you still fly from the UAE to Israel? Which airlines are operating",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/travel/2026/10/05/uae-israel-flights-etihad-flydubai-dubai-tel-aviv/",
+      "published": "2026-10-05T09:30:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/europe/2026/10/05/hundreds-of-european-ex-ministers-urge-eu-sanctions-against-israeli-e1-settlement/",
+      "title": "Hundreds of European ex-ministers urge EU sanctions against Israeli E1 settlement",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/05/hundreds-of-european-ex-ministers-urge-eu-sanctions-against-israeli-e1-settlement/",
+      "published": "2026-10-05T09:26:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/10/05/oil-prices-could-have-hit-200-a-barrel-if-not-for-east-west-pipeline-aramco-chief-says/",
+      "title": "Oil prices could have hit $200 a barrel if not for East-West pipeline, Aramco chief says",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/05/oil-prices-could-have-hit-200-a-barrel-if-not-for-east-west-pipeline-aramco-chief-says/",
+      "published": "2026-10-05T09:26:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/05/iran-oil-minister-resigns-amid-fuel-shortages-and-crude-export-pressure/",
       "title": "Iran oil minister resigns amid fuel shortages and crude export pressure",
@@ -179,28 +311,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791172327",
-      "title": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss",
-      "published": "2026-10-05T05:20:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/business/energy/2026/10/05/saudi-aramco-cuts-asia-crude-prices-to-six-year-low-amid-recovery-as-oil-flows-rebound/",
       "title": "Saudi Aramco cuts Asia crude prices to six-year low amid recovery as oil flows rebound",
       "source": "The National UAE",
@@ -210,28 +320,6 @@
       "status": "unconfirmed",
       "location": {
         "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/travel/2026/10/05/uae-dubai-abu-dhabi-flights-status/",
-      "title": "Middle East flights: Singapore Airlines and Scoot extend suspensions",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/travel/2026/10/05/uae-dubai-abu-dhabi-flights-status/",
-      "published": "2026-10-05T04:55:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
         "city": null,
         "lat": 29.0,
         "lng": 48.0
@@ -568,28 +656,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "35592cbfe1592a4cb21333633d9edeb5",
-      "title": ". The UAE Football Association (UAEFA) has announced that it will provide six chartered aircraft to transport UAE fans t...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DeEuhWwiL58",
-      "published": "2026-10-04T13:19:59+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1030,116 +1096,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5f6f3a1f868e679622f9e66c2882bd69",
-      "title": "ROP WEEKLY_An accident happens in seconds. What happens next matters. Give way. Keep clear. Stay calm. Every right move can help emergency teams reach those who need them. Don\u2019t add to the accident. Help end it. #royalomanpolice For listening, click the link below",
-      "source": "Royal Oman Police (RSS.app)",
-      "source_url": "https://x.com/RoyalOmanPolice/status/2105953050531918175",
-      "published": "2026-10-02T09:28:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 21.4735,
-        "lng": 55.9754
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c639m98gde00o#0",
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T09:08:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=97149",
-      "title": "In Ukraine, data centers \u2018facing increased attacks\u2019 in recent weeks: Ex-official",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/in-ukraine-data-centers-facing-increased-attacks-in-recent-weeks-ex-official/",
-      "published": "2026-10-02T09:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "38dc7fe0c931d5ce7675deeb485e8429",
-      "title": "RT by @moiuae: RT by @moiuae: Legal Advisor Dr. Abdullah explains beneficial ownership and why disclosure matters in the General Secretariat\u2019s \u201cA Moment of Awareness\u201d, because identifying who owns or controls a company helps protect it from misuse for money laundering. @gsnamlcftpc #MomentofAwareness",
-      "source": "UAE MOI (RSS.app)",
-      "source_url": "https://x.com/GSNAMLCFTPC/status/2105945292365582664",
-      "published": "2026-10-02T08:57:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "38dc7fe0c931d5ce7675deeb485e8429",
-      "title": "RT by @moiuae: RT by @moiuae: Legal Advisor Dr. Abdullah explains beneficial ownership and why disclosure matters in the General Secretariat\u2019s \u201cA Moment of Awareness\u201d, because identifying who owns or controls a company helps protect it from misuse for money laundering. @gsnamlcftpc #MomentofAwareness",
-      "source": "IDF (RSS.app)",
-      "source_url": "https://x.com/GSNAMLCFTPC/status/2105945292365582664",
-      "published": "2026-10-02T08:57:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,

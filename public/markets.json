@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-10-05T08:52:35.753384+00:00",
+  "generated_at": "2026-10-05T09:47:49.946261+00:00",
   "rows": [
     {
       "sym": "BRENT",
-      "price": 102.3,
-      "chg": 0.05
+      "price": 102.25,
+      "chg": 0.0
     },
     {
       "sym": "TTF GAS",
-      "price": 3.05,
-      "chg": 0.4
+      "price": 3.03,
+      "chg": -0.23
     },
     {
       "sym": "GOLD",
-      "price": 4192.0,
-      "chg": 0.71
+      "price": 4189.9,
+      "chg": 0.66
     },
     {
       "sym": "BTC",
-      "price": 86217.5,
-      "chg": -0.3
+      "price": 85959.77,
+      "chg": -0.6
     }
   ]
 }
