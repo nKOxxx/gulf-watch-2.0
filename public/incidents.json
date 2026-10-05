@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-05T19:37:14.960161+00:00",
-  "total_incidents": 50,
+  "generated_at": "2026-10-05T20:45:17.638075+00:00",
+  "total_incidents": 56,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791230447",
+      "title": "Turkiye, Pakistan agree to military deployment to Saudi Arabia",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/turkiye-pakistan-agree-to-military-deployment-to-saudi-arabia?traffic_source=rss",
+      "published": "2026-10-05T20:17:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791211069",
+      "title": "Ukraine says Russian drone attack sinks ship in Romanian waters",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters?traffic_source=rss",
+      "published": "2026-10-05T20:03:06+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 21.4735,
+        "lng": 55.9754
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791229794",
+      "title": "Freed Syrians recount torture in Israeli detention centre",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/freed-syrians-recount-torture-in-israeli-detention-centre?traffic_source=rss",
+      "published": "2026-10-05T19:57:29+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/05/polish-embassy-in-us-expresses-outrage-over-tucker-carlson-comments-on-second-world-war/",
+      "title": "Polish embassy in US expresses outrage over Tucker Carlson comments on Second World War",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/05/polish-embassy-in-us-expresses-outrage-over-tucker-carlson-comments-on-second-world-war/",
+      "published": "2026-10-05T19:56:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/05/saudi-forces-recapture-key-areas-strait-houthis-yemen",
+      "title": "Saudi-backed forces recapture key areas around strait from Houthis in Yemen",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/05/saudi-forces-recapture-key-areas-strait-houthis-yemen",
+      "published": "2026-10-05T19:44:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791215826",
+      "title": "Mexico seeks evidence of border shooting that prompted US troop deployment",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/5/mexico-seeks-evidence-of-border-shooting-that-prompted-us-troop-deployment?traffic_source=rss",
+      "published": "2026-10-05T19:43:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=97486",
+      "title": "US OKs missile guidance kits, Patriot repairs, Javelins for Middle East partners",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/us-oks-missile-guidance-kits-patriot-repairs-javelins-to-middle-east-partners/",
+      "published": "2026-10-05T19:39:32+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791222829",
       "title": "Trump blames Democrats and Ukraine for soaring US fuel prices, not Iran war",
@@ -260,28 +414,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791208224",
-      "title": "Rubio: No direct link between US bombers removal and UK base incident",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/5/rubio-no-direct-link-between-us-bombers-removal-and-uk-base-incident?traffic_source=rss",
-      "published": "2026-10-05T17:34:15+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
