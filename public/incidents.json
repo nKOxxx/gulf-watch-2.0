@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-05T07:08:48.386313+00:00",
-  "total_incidents": 50,
+  "generated_at": "2026-10-05T07:55:23.205510+00:00",
+  "total_incidents": 51,
   "incidents": [
+    {
+      "id": "https://www.defensenews.com/air/2026/10/05/us-removes-b-1-bombers-from-uk-base-amid-security-concerns/",
+      "title": "US removes B-1 bombers from UK base amid security concerns",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/air/2026/10/05/us-removes-b-1-bombers-from-uk-base-amid-security-concerns/",
+      "published": "2026-10-05T07:40:09+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b6bdf88d8ffc89c957eeaeb50da83feb",
+      "title": "#Morocco seeks to enhance its health sector through better services & more medical campaigns (FANA report)  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107006132715663562",
+      "published": "2026-10-05T07:13:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/2026/oct/05/australia-university-engineering-flydubai-co-pilot-rmit-ntwnfb",
       "title": "Alleged flydubai attacker left Australia without finishing engineering course, university says",
@@ -480,28 +524,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "7ca80fe5b1a4348bc0b53416d9efb653",
-      "title": "The 20th Asian Games (Aichi-Nagoya 2026) conclude in #Japan, closing the continent's biggest sporting event, which began September 19th with 45 countries and more than 11,000 athletes competing across 43 different sports  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2106788933958840632",
-      "published": "2026-10-04T16:49:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
