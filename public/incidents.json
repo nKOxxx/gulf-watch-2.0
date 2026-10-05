@@ -1,10 +1,142 @@
 {
-  "generated_at": "2026-10-05T09:47:49.653663+00:00",
+  "generated_at": "2026-10-05T10:37:00.652129+00:00",
   "total_incidents": 50,
   "incidents": [
     {
+      "id": "https://www.aljazeera.com/?t=1791101935",
+      "title": "The Republican consensus on Israel is starting to fracture",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/opinions/2026/10/5/the-republican-consensus-on-israel-is-starting-to-fracture?traffic_source=rss",
+      "published": "2026-10-05T10:05:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "1c4845a46771f4245611680dfa88a0dd",
+      "title": ". The UAE Floating Hospital in the Egyptian city of Al Arish has received 12 new patients and injured people from the Ga...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DeG87zZtG1Y",
+      "published": "2026-10-05T10:05:39+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/05/live-iran-war-yemen-houthis-latest/",
+      "title": "Middle East latest: Yemeni government forces attack Houthi positions near Bab Al Mandeb",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/05/live-iran-war-yemen-houthis-latest/",
+      "published": "2026-10-05T10:00:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/05/iranian-flights-land-in-iraqs-najaf-after-us-sanctions-exemption/",
+      "title": "Iranian flights land in Iraq's Najaf after US sanctions exemption",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/05/iranian-flights-land-in-iraqs-najaf-after-us-sanctions-exemption/",
+      "published": "2026-10-05T09:47:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5a65102e4e3189b77b27e2abd2d16125",
+      "title": "#Kuwait's National Guard Undersecretary affirms readiness & coordination integrating with military & security agencies to safeguard national security & stability.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107045116317720811",
+      "published": "2026-10-05T09:47:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a88f56c07e0197944ce60b3d77452499",
+      "title": "Dubai Future Foundation announces the launch of \u201cAgentic AI for Government Services Accelerator\u201d under Dubai Future Accelerators (DFA). Organised by Dubai Centre for Artificial Intelligence (DCAI), an initiative overseen by DFF, in collaboration with Digital Dubai and the Dubai Electronic Security Center (DESC), the Accelerator will enable government entities to develop agentic AI-powered services within significantly shorter timeframes while maintaining the highest standards of quality and digital compliance.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2107043492128252381",
+      "published": "2026-10-05T09:41:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.aljazeera.com/?t=1791184736",
-      "title": "Yemen forces claim to seize Dhubab, sites near Bab al-Mandeb from Houthis",
+      "title": "Yemeni forces reclaim Dhubab, key positions near Bab al-Mandeb from Houthis",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis?traffic_source=rss",
       "published": "2026-10-05T09:40:37+00:00",
@@ -26,7 +158,7 @@
     },
     {
       "id": "https://www.aljazeera.com/?t=1791180824",
-      "title": "Yemen war escalates: What\u2019s the latest, as government forces claim gains?",
+      "title": "Yemen war: What\u2019s the latest, as government forces claim advances?",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield?traffic_source=rss",
       "published": "2026-10-05T09:38:26+00:00",
@@ -114,7 +246,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/business/energy/2026/10/05/oil-prices-could-have-hit-200-a-barrel-if-not-for-east-west-pipeline-aramco-chief-says/",
-      "title": "Oil prices could have hit $200 a barrel if not for East-West pipeline, Aramco chief says",
+      "title": "Oil prices would have hit $200 a barrel if not for East-West pipeline, Aramco chief says",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/business/energy/2026/10/05/oil-prices-could-have-hit-200-a-barrel-if-not-for-east-west-pipeline-aramco-chief-says/",
       "published": "2026-10-05T09:26:33+00:00",
@@ -281,50 +413,6 @@
         "lng": 55.2708
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/05/yemen-begins-offensive-against-houthis-egypt-seeks-nile-dam-solution-and-uae-launches-commercial-satellite/",
-      "title": "Yemen begins offensive against Houthis, Egypt seeks Nile dam solution and UAE launches commercial satellite",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/05/yemen-begins-offensive-against-houthis-egypt-seeks-nile-dam-solution-and-uae-launches-commercial-satellite/",
-      "published": "2026-10-05T05:38:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/10/05/saudi-aramco-cuts-asia-crude-prices-to-six-year-low-amid-recovery-as-oil-flows-rebound/",
-      "title": "Saudi Aramco cuts Asia crude prices to six-year low amid recovery as oil flows rebound",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/05/saudi-aramco-cuts-asia-crude-prices-to-six-year-low-amid-recovery-as-oil-flows-rebound/",
-      "published": "2026-10-05T05:18:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -524,94 +612,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "332802a435118df9a51c65d1f56e4ea7",
-      "title": "Minister of State for Youth and Sports Affairs Tareq Al-Jalahma welcomes the head of the Palestinian Football Federation Jibril Rajoub who is currently visiting #Kuwait  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2106825602078503285",
-      "published": "2026-10-04T19:15:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f3f4b3ac92c07d6c0e1c3094e0019b17",
-      "title": "Ministry of Foreign Affairs expresses #Kuwait's strong condemnation and denunciation of the violations of #Syria's territory by the Israeli occupation, the latest of them is the completion of the so-called the \"Sufa 53\" line  @MOFAKuwait #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2106825281335869661",
-      "published": "2026-10-04T19:14:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8ccd3e86e39878ba5edf67213321a402",
-      "title": ". The UAE Football Association (UAEFA) has increased the number of chartered aircraft transporting UAE supporters to Jed...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DeFRpSsk7u8",
-      "published": "2026-10-04T18:26:54+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e37cc156babd5db8404b85a12319d3ea",
-      "title": "Ahmed bin Mohammed attends Saudi National Day celebrations held at the Saudi Consulate in Dubai. Upon his arrival at the venue, His Highness was received by Dr. Meshal bin Ahmed Al Ghamdi, Consul General of the Kingdom of Saudi Arabia in Dubai and the Northern Emirates, along with a number of ministers and senior officials.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2106796378500559096",
-      "published": "2026-10-04T17:19:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
