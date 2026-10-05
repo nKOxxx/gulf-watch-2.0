@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-05T12:47:53.534363+00:00",
-  "total_incidents": 50,
+  "generated_at": "2026-10-05T13:41:52.019003+00:00",
+  "total_incidents": 51,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/05/from-iranian-proxies-to-giants-brigades-whos-who-in-yemen-conflict/",
+      "title": "From Iranian proxies to Giants Brigades: Who's who in Yemen conflict",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/05/from-iranian-proxies-to-giants-brigades-whos-who-in-yemen-conflict/",
+      "published": "2026-10-05T13:32:53+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/opinion/comment/2026/10/05/iran-europe-us-terror-plots-netflix/",
+      "title": "The UK has failed to recognise the scale of Iran\u2019s covert threat",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/opinion/comment/2026/10/05/iran-europe-us-terror-plots-netflix/",
+      "published": "2026-10-05T13:30:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791187687",
+      "title": "Is Iran charging a toll to allow oil traffic through Hormuz?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz?traffic_source=rss",
+      "published": "2026-10-05T13:11:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/10/05/adnoc-signs-thai-lng-deal-after-iran-war-disrupts-gulf-supply/",
+      "title": "Adnoc signs Thai LNG deal after Iran war disrupts Gulf supply",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/05/adnoc-signs-thai-lng-deal-after-iran-war-disrupts-gulf-supply/",
+      "published": "2026-10-05T13:10:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "77416d3ed7f06026bf8a899873bf44a5",
+      "title": "#Kuwait's Saud Nasser Al-Sabah Diplomatic Institute signs MoU with the Stockholm International Peace Research Institute (SIPRI) to strengthen cooperation in the fields of peace and regional and international security studies  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107093666766405822",
+      "published": "2026-10-05T13:00:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/football/2026/10/05/uae-ready-for-the-moment-as-they-face-saudi-arabia-in-arabian-gulf-cup-final/",
+      "title": "UAE 'ready for the moment' as they face Saudi Arabia in Arabian Gulf Cup final",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/05/uae-ready-for-the-moment-as-they-face-saudi-arabia-in-arabian-gulf-cup-final/",
+      "published": "2026-10-05T12:55:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791196355",
       "title": "In Russia-occupied Oleshky, Ukrainians face hunger, drones and landmines",
@@ -201,28 +333,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791112240",
-      "title": "Photos: Yemen\u2019s hospitals struggle to operate amid persistent power outages",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/gallery/2026/10/5/photos-yemens-hospitals-struggle-to-operate-amid-persistent-power-outages?traffic_source=rss",
-      "published": "2026-10-05T11:01:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "257bcdaf1b40f7c728e56b640f18cbf5",
       "title": "Hamdan bin Mohammed chairs chaired the third Defence Council meeting of 2026. The meeting reviewed updates on key programmes to develop the defence system and enhance efficiency and readiness in line with the Ministry of Defence\u2019s strategic direction. The meeting discussed development and codernisation plans across defence sectors, alongside initiatives to enhance operational readiness and strengthen human and technical capabilities. It also reviewed future projects supporting the Ministry of Defence\u2019s priorities and long-term development.",
       "source": "Dubai Media Office (RSS.app)",
@@ -238,50 +348,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/05/yemen-government-forces-claim-bab-al-mandeb-gains-as-saudi-coalition-says-100-jets-join-houthi-offensive/",
-      "title": "Yemen government forces claim Bab Al Mandeb gains as Saudi coalition says 100 jets join Houthi offensive",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/05/yemen-government-forces-claim-bab-al-mandeb-gains-as-saudi-coalition-says-100-jets-join-houthi-offensive/",
-      "published": "2026-10-05T10:49:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791196362",
-      "title": "Gaza mothers seek breastfeeding support amid hunger and siege",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/gaza-mothers-seek-breastfeeding-support-amid-hunger-and-siege?traffic_source=rss",
-      "published": "2026-10-05T10:42:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -377,28 +443,6 @@
       }
     },
     {
-      "id": "7949ffdc8930a1029710b1f7938306bb",
-      "title": "RT by @DXBMediaOffice: RT by @DXBMediaOffice: On UAE Civil Aviation Day, we recognise aviation\u2019s role in the nation\u2019s development and in establishing the UAE as a global aviation hub. This progress reflects the expertise and commitment of people across the sector, from airport operations and engineering to the services that keep the ecosystem operating efficiently. We are advancing our aviation ecosystem through innovation, technology and artificial intelligence. These advances will enhance the traveller experience, strengthen aviation\u2019s contribution to global trade and chart new horizons for the future of aviation.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/HHAhmedBinSaeed/status/2107041982547677310",
-      "published": "2026-10-05T09:35:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/air/2026/10/05/us-removes-b-1-bombers-from-uk-base-amid-security-concerns/",
       "title": "US removes B-1 bombers from UK base amid security concerns",
       "source": "Defense News",
@@ -414,28 +458,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b6bdf88d8ffc89c957eeaeb50da83feb",
-      "title": "#Morocco seeks to enhance its health sector through better services & more medical campaigns (FANA report)  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2107006132715663562",
-      "published": "2026-10-05T07:13:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -466,8 +488,8 @@
     },
     {
       "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @UAEmediaoffice: RT by @UAEmediaoffice: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
-      "source": "UAE Media Office (RSS.app)",
+      "title": "RT by @moiuae: RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
+      "source": "UAE MOI (RSS.app)",
       "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
       "published": "2026-10-05T04:09:00+00:00",
       "type": "incident",
@@ -488,8 +510,8 @@
     },
     {
       "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @moiuae: RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
-      "source": "UAE MOI (RSS.app)",
+      "title": "RT by @UAEmediaoffice: RT by @UAEmediaoffice: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
+      "source": "UAE Media Office (RSS.app)",
       "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
       "published": "2026-10-05T04:09:00+00:00",
       "type": "incident",
