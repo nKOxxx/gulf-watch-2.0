@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-05T18:41:12.726527+00:00",
-  "total_incidents": 47,
+  "generated_at": "2026-10-05T19:37:14.960161+00:00",
+  "total_incidents": 50,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791222829",
+      "title": "Trump blames Democrats and Ukraine for soaring US fuel prices, not Iran war",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/10/5/trump-blames-democrats-and-ukraine-for-soaring-us-fuel-prices-not-iran-war?traffic_source=rss",
+      "published": "2026-10-05T19:01:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a4e00b4a5d304cb583c1019ececff299",
+      "title": "The United Arab Emirates has condemned Israeli forces\u2019 resumption of excavation and bulldozing operations, as well as th...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DeH6JXaCDtg",
+      "published": "2026-10-05T18:59:18+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791222216",
+      "title": "UK \u2018threatens to expel 27 Israeli diplomats\u2019 over Jerusalem consulate",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/5/uk-threatens-to-expel-27-israeli-diplomats-over-jerusalem-consulate?traffic_source=rss",
+      "published": "2026-10-05T18:42:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791224058",
+      "title": "Mecca Alliance: Turkiye, Pakistan agree to military deployment to Saudi Arabia",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures?traffic_source=rss",
+      "published": "2026-10-05T18:32:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 21.3891,
+        "lng": 39.8579
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/uae/2026/10/05/uae-aviation-authority-completes-passenger-transfers-after-flydubai-tel-aviv-suspension/",
       "title": "UAE aviation authority completes passenger transfers after flydubai Tel Aviv suspension",
@@ -1007,28 +1095,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/mideast-africa/2026/10/02/saudis-plan-assault-on-houthis-to-break-red-sea-chokehold/",
-      "title": "Saudis plan assault on Houthis to break Red Sea chokehold",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/mideast-africa/2026/10/02/saudis-plan-assault-on-houthis-to-break-red-sea-chokehold/",
-      "published": "2026-10-02T19:00:24+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 20.0,
-        "lng": 38.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
