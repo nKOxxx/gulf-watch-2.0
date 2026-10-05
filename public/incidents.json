@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-05T04:59:06.404526+00:00",
-  "total_incidents": 51,
+  "generated_at": "2026-10-05T05:46:26.855350+00:00",
+  "total_incidents": 53,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/05/yemen-begins-offensive-against-houthis-egypt-seeks-nile-dam-solution-and-uae-launches-commercial-satellite/",
+      "title": "Yemen begins offensive against Houthis, Egypt seeks Nile dam solution and UAE launches commercial satellite",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/05/yemen-begins-offensive-against-houthis-egypt-seeks-nile-dam-solution-and-uae-launches-commercial-satellite/",
+      "published": "2026-10-05T05:38:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791172327",
+      "title": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss",
+      "published": "2026-10-05T05:20:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/10/05/saudi-aramco-cuts-asia-crude-prices-to-six-year-low-amid-recovery-as-oil-flows-rebound/",
+      "title": "Saudi Aramco cuts Asia crude prices to six-year low amid recovery as oil flows rebound",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/05/saudi-aramco-cuts-asia-crude-prices-to-six-year-low-amid-recovery-as-oil-flows-rebound/",
+      "published": "2026-10-05T05:18:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/travel/2026/10/05/uae-dubai-abu-dhabi-flights-status/",
       "title": "Middle East flights: Singapore Airlines and Scoot extend suspensions",
@@ -18,6 +84,28 @@
       },
       "credibility": 85,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "39d17ff535910e749311eec25c1ac5a7",
+      "title": "RT by @UAEmediaoffice: RT by @UAEmediaoffice: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
+      "source": "UAE Media Office (RSS.app)",
+      "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
+      "published": "2026-10-05T04:09:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 100,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -169,50 +257,6 @@
         "city": null,
         "lat": 15.5527,
         "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791167191",
-      "title": "Spitting allegations as Ireland and Israel fight out ill-tempered draw",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spitting-allegations-as-ireland-and-israel-fight-out-ill-tempered-draw?traffic_source=rss",
-      "published": "2026-10-05T02:28:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791149622",
-      "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings?traffic_source=rss",
-      "published": "2026-10-05T01:08:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
