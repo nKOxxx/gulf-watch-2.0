@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-05T11:32:45.682764+00:00",
-  "total_incidents": 52,
+  "generated_at": "2026-10-05T12:47:53.534363+00:00",
+  "total_incidents": 50,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791196355",
+      "title": "In Russia-occupied Oleshky, Ukrainians face hunger, drones and landmines",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/5/in-russia-occupied-oleshky-ukrainians-face-hunger-drones-and-landmines?traffic_source=rss",
+      "published": "2026-10-05T12:26:40+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/asia-pacific/2026/10/05/us-marine-corps-anti-ship-weaponry-to-see-exercise-action-on-remote-japan-island-near-taiwan/",
+      "title": "US Marine Corps anti-ship weaponry to see exercise action on remote Japan island near Taiwan",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/asia-pacific/2026/10/05/us-marine-corps-anti-ship-weaponry-to-see-exercise-action-on-remote-japan-island-near-taiwan/",
+      "published": "2026-10-05T12:24:45+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/05/uae-foils-14-drug-smuggling-attempts-seizing-300kg-of-narcotics-at-airports/",
+      "title": "UAE foils 14 drug smuggling attempts, seizing 300kg of narcotics at airports",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/05/uae-foils-14-drug-smuggling-attempts-seizing-300kg-of-narcotics-at-airports/",
+      "published": "2026-10-05T12:24:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/05/makkah-pact-countries-to-meet-in-riyadh-with-houthi-attacks-on-agenda/",
+      "title": "Makkah pact countries to meet in Riyadh with Houthi attacks on agenda",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/05/makkah-pact-countries-to-meet-in-riyadh-with-houthi-attacks-on-agenda/",
+      "published": "2026-10-05T12:15:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah",
+      "title": "Guardian readers fund life-changing surgery for Somali boy injured in US airstrike",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah",
+      "published": "2026-10-05T12:00:24+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9a59513afa572e8c04625653dd996a33",
+      "title": ". ADNOC today announced the signing of a multi-year Sales and Purchase Agreement (SPA) with Gulf Group, Thailand\u2019s leadi...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DeHJRjykyjn",
+      "published": "2026-10-05T11:52:15+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "359c673c24795c829f439931103d0aee",
       "title": "The NATO Regional Center and the Istanbul Cooperation Initiative (ICI) launch a training for crisis management and disaster response, in cooperation with #Bulgaria's Crisis Management and Disaster Response Center  #KUNA #KUNA",
@@ -113,10 +245,10 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/05/yemen-government-forces-claim-bab-al-mandeb-gains-as-saudi-coalition-says-100-jets-join-houthi-offensive/",
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/05/yemen-government-forces-claim-bab-al-mandeb-gains-as-saudi-coalition-says-100-jets-join-houthi-offensive/",
       "title": "Yemen government forces claim Bab Al Mandeb gains as Saudi coalition says 100 jets join Houthi offensive",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/05/yemen-government-forces-claim-bab-al-mandeb-gains-as-saudi-coalition-says-100-jets-join-houthi-offensive/",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/05/yemen-government-forces-claim-bab-al-mandeb-gains-as-saudi-coalition-says-100-jets-join-houthi-offensive/",
       "published": "2026-10-05T10:49:58+00:00",
       "type": "incident",
       "status": "unconfirmed",
@@ -125,28 +257,6 @@
         "city": null,
         "lat": 15.5527,
         "lng": 48.5164
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/aviation/2026/10/05/wizz-air-delays-start-of-abu-dhabi-flights-to-january-due-to-europes-security-update/",
-      "title": "Wizz Air delays start of Abu Dhabi flights to January due to Europe's security update",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/aviation/2026/10/05/wizz-air-delays-start-of-abu-dhabi-flights-to-january-due-to-europes-security-update/",
-      "published": "2026-10-05T10:44:36+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
       },
       "credibility": 85,
       "is_government": false,
@@ -201,50 +311,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791181772",
-      "title": "Libyan teachers\u2019 strike escalates as union demands major education reforms",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/5/libyan-teachers-strike-escalates-as-union-demands-major-education-reforms?traffic_source=rss",
-      "published": "2026-10-05T10:33:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791101935",
-      "title": "The Republican consensus on Israel is starting to fracture",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/opinions/2026/10/5/the-republican-consensus-on-israel-is-starting-to-fracture?traffic_source=rss",
-      "published": "2026-10-05T10:05:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "1c4845a46771f4245611680dfa88a0dd",
       "title": ". The UAE Floating Hospital in the Egyptian city of Al Arish has received 12 new patients and injured people from the Ga...",
       "source": "WAM News (RSS.app)",
@@ -260,50 +326,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/05/live-iran-war-yemen-houthis-latest/",
-      "title": "Middle East latest: Yemeni government forces attack Houthi positions near Bab Al Mandeb",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/05/live-iran-war-yemen-houthis-latest/",
-      "published": "2026-10-05T10:00:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/05/iranian-flights-land-in-iraqs-najaf-after-us-sanctions-exemption/",
-      "title": "Iranian flights land in Iraq's Najaf after US sanctions exemption",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/05/iranian-flights-land-in-iraqs-najaf-after-us-sanctions-exemption/",
-      "published": "2026-10-05T09:47:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -355,50 +377,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791184736",
-      "title": "Yemeni forces reclaim Dhubab, key positions near Bab al-Mandeb from Houthis",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis?traffic_source=rss",
-      "published": "2026-10-05T09:40:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791180824",
-      "title": "Yemen war: What\u2019s the latest, as government forces claim advances?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield?traffic_source=rss",
-      "published": "2026-10-05T09:38:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "7949ffdc8930a1029710b1f7938306bb",
       "title": "RT by @DXBMediaOffice: RT by @DXBMediaOffice: On UAE Civil Aviation Day, we recognise aviation\u2019s role in the nation\u2019s development and in establishing the UAE as a global aviation hub. This progress reflects the expertise and commitment of people across the sector, from airport operations and engineering to the services that keep the ecosystem operating efficiently. We are advancing our aviation ecosystem through innovation, technology and artificial intelligence. These advances will enhance the traveller experience, strengthen aviation\u2019s contribution to global trade and chart new horizons for the future of aviation.",
       "source": "Dubai Media Office (RSS.app)",
@@ -414,28 +392,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/travel/2026/10/05/uae-israel-flights-etihad-flydubai-dubai-tel-aviv/",
-      "title": "Can you still fly from the UAE to Israel? Which airlines are operating",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/travel/2026/10/05/uae-israel-flights-etihad-flydubai-dubai-tel-aviv/",
-      "published": "2026-10-05T09:30:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -510,8 +466,8 @@
     },
     {
       "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @moiuae: RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
-      "source": "UAE MOI (RSS.app)",
+      "title": "RT by @UAEmediaoffice: RT by @UAEmediaoffice: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
+      "source": "UAE Media Office (RSS.app)",
       "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
       "published": "2026-10-05T04:09:00+00:00",
       "type": "incident",
@@ -532,8 +488,8 @@
     },
     {
       "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @UAEmediaoffice: RT by @UAEmediaoffice: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
-      "source": "UAE Media Office (RSS.app)",
+      "title": "RT by @moiuae: RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
+      "source": "UAE MOI (RSS.app)",
       "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
       "published": "2026-10-05T04:09:00+00:00",
       "type": "incident",
