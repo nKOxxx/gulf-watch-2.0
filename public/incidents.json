@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-05T21:31:52.753416+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-05T22:30:53.257523+00:00",
+  "total_incidents": 52,
   "incidents": [
+    {
+      "id": "c90cf514e729c0b8f80100d5e4430c5e",
+      "title": "The Coalition to Support Legitimacy in Yemen carried out a military operation in Hodeidah Governorate that led to the destruction of legitimate military targets of the terrorist Houthis militia  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107232130350592142",
+      "published": "2026-10-05T22:11:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Yemen",
+        "city": null,
+        "lat": 14.7974,
+        "lng": 42.957
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=97532",
+      "title": "Pentagon picks 4 vendors for counter-drone directed energy pilot program",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/pentagon-picks-4-vendors-for-counter-drone-directed-energy-pilot-program/",
+      "published": "2026-10-05T21:51:21+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791224442",
       "title": "Ethiopia\u2019s PM insists on access to Red Sea despite regional conflict threat",
@@ -487,28 +531,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/uk/2026/10/05/kuwaiti-jailed-for-life-in-uk-after-failed-israeli-embassy-attack/",
-      "title": "Kuwaiti jailed for life in UK after failed Israeli embassy attack",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/05/kuwaiti-jailed-for-life-in-uk-after-failed-israeli-embassy-attack/",
-      "published": "2026-10-05T16:09:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/news/audio/2026/oct/05/why-did-us-withdraw-bombers-from-raf-fairford-the-latest",
       "title": "Why did the US rush to withdraw bombers from RAF Fairford? - The Latest",
       "source": "The Guardian",
@@ -612,28 +634,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "cc3805bc8e8542d7d4545e125be554b1",
-      "title": "Minister of State for Development & Sustainability Dr. Reem Al-Fulaij and Minister of State for Communications & Information Technology Omar Al-Omar announces the National Digital Livestock Platform project, as part of Kuwait's efforts to develop the sector & advance food security.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2107127100876505503",
-      "published": "2026-10-05T15:13:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1139,28 +1139,6 @@
         "lng": 53.688
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=97409",
-      "title": "Army to establish new autonomy command, acquisition executive",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/army-to-establish-new-autonomy-command-acquisition-executive/",
-      "published": "2026-10-02T21:46:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
