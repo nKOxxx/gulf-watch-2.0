@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-10-05T15:35:06.741707+00:00",
-  "total_incidents": 51,
+  "generated_at": "2026-10-05T16:37:22.073246+00:00",
+  "total_incidents": 50,
   "incidents": [
+    {
+      "id": "2fd6acbb8be99a87cb8766f53ec377ce",
+      "title": "Minister of Electricity, Water & Renewable Energy Dr. Sabeeh Al-Mukhaizeem affirms Gulf integration in the electricity & water sectors represents a strategic pillar for strengthening energy & water security & enhancing GCC states' readiness to meet changing & future needs.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107145050912083983",
+      "published": "2026-10-05T16:25:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=97438",
+      "title": "Germany pledges $1.1B military aid package to Ukraine flush with drone interceptors",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/germany-pledges-1-1-b-military-aid-package-to-ukraine-flush-with-drone-interceptors/",
+      "published": "2026-10-05T16:22:51+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/05/i-was-deceived-french-isis-recruit-on-trial-in-iraq-says-he-regrets-joining-group/",
+      "title": "'I was deceived': French ISIS recruit on trial in Iraq says he regrets joining group",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/05/i-was-deceived-french-isis-recruit-on-trial-in-iraq-says-he-regrets-joining-group/",
+      "published": "2026-10-05T16:14:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uk/2026/10/05/kuwaiti-jailed-for-life-in-uk-after-failed-israeli-embassy-attack/",
+      "title": "Kuwaiti jailed for life in UK after failed Israeli embassy attack",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/05/kuwaiti-jailed-for-life-in-uk-after-failed-israeli-embassy-attack/",
+      "published": "2026-10-05T16:09:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/news/audio/2026/oct/05/why-did-us-withdraw-bombers-from-raf-fairford-the-latest",
+      "title": "Why did the US withdraw bombers from RAF Fairford? \u2013 The Latest",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/news/audio/2026/oct/05/why-did-us-withdraw-bombers-from-raf-fairford-the-latest",
+      "published": "2026-10-05T15:45:46+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "22a485e989c77340603296c906abb0b7",
+      "title": "Egyptian President Abdelfattah Al-Sisi affirms the security of the Gulf states is an integral part of Egypt's national security, reiterating Egypt's firm rejection & condemnation of any attacks targeting Arab states & stressing the need to safeguard freedom of navigation in international waterways.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107132532030378329",
+      "published": "2026-10-05T15:35:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.8206,
+        "lng": 30.8025
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/your-military/2026/10/05/us-army-tests-counter-drone-tech-at-mexican-border-as-cartel-drone-use-rises/",
+      "title": "US Army tests counter-drone tech at Mexican border as cartel drone use rises",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/10/05/us-army-tests-counter-drone-tech-at-mexican-border-as-cartel-drone-use-rises/",
+      "published": "2026-10-05T15:31:00+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791210169",
+      "title": "Nigeria launches rescue after military plane crashes with 32 aboard",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss",
+      "published": "2026-10-05T15:30:15+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791204257",
       "title": "Yemeni gov\u2019t forces aim for Sanaa, but Houthi defeat will be a challenge",
@@ -70,7 +246,7 @@
     },
     {
       "id": "https://www.theguardian.com/world/2026/oct/05/yemen-air-campaign-houthis-saudi-led-coalition",
-      "title": "Yemen air campaign against Houthis under way, says Saudi-led coalition",
+      "title": "Air campaign against Houthis under way in Yemen, says Saudi-led coalition",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/2026/oct/05/yemen-air-campaign-houthis-saudi-led-coalition",
       "published": "2026-10-05T15:21:54+00:00",
@@ -245,28 +421,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791203349",
-      "title": "Murder in Okinawa: The US military\u2019s history of alleged crime in Japan",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/5/murder-in-okinawa-the-us-militarys-history-of-alleged-crime-in-japan?traffic_source=rss",
-      "published": "2026-10-05T14:37:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo#0",
       "title": "Yemeni government forces say they have 'secured' Bab al-Mandab Strait",
       "source": "BBC Middle East",
@@ -281,28 +435,6 @@
         "lng": 48.5164
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791204250",
-      "title": "US pulls bombers from UK base: Is Iran manoeuvring Trump\u2019s war plans?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news-analysis/2026/10/5/us-pulls-bombers-from-uk-base-is-iran-maneouvering-trumps-war-plans?traffic_source=rss",
-      "published": "2026-10-05T14:19:44+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -369,94 +501,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/05/from-iranian-proxies-to-giants-brigades-whos-who-in-yemen-conflict/",
-      "title": "From Iranian proxies to Giants Brigades: Who's who in Yemen conflict",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/05/from-iranian-proxies-to-giants-brigades-whos-who-in-yemen-conflict/",
-      "published": "2026-10-05T13:32:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/opinion/comment/2026/10/05/iran-europe-us-terror-plots-netflix/",
-      "title": "The UK has failed to recognise the scale of Iran\u2019s covert threat",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/opinion/comment/2026/10/05/iran-europe-us-terror-plots-netflix/",
-      "published": "2026-10-05T13:30:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791187687",
-      "title": "Is Iran charging a toll to allow oil traffic through Hormuz?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz?traffic_source=rss",
-      "published": "2026-10-05T13:11:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/10/05/adnoc-signs-thai-lng-deal-after-iran-war-disrupts-gulf-supply/",
-      "title": "Adnoc signs Thai LNG deal after Iran war disrupts Gulf supply",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/05/adnoc-signs-thai-lng-deal-after-iran-war-disrupts-gulf-supply/",
-      "published": "2026-10-05T13:10:56+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -575,55 +619,11 @@
       }
     },
     {
-      "id": "359c673c24795c829f439931103d0aee",
-      "title": "The NATO Regional Center and the Istanbul Cooperation Initiative (ICI) launch a training for crisis management and disaster response, in cooperation with #Bulgaria's Crisis Management and Disaster Response Center  #KUNA #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2107069600491872393",
-      "published": "2026-10-05T11:25:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "5855700417d83a642621801ab8b02e76",
       "title": "Hamdan bin Mohammed chairs the third Defence Council meeting of 2026. The meeting reviewed updates on key programmes to develop the defence system and enhance efficiency and readiness in line with the Ministry of Defence\u2019s strategic direction. The meeting discussed development and codernisation plans across defence sectors, alongside initiatives to enhance operational readiness and strengthen human and technical capabilities. It also reviewed future projects supporting the Ministry of Defence\u2019s priorities and long-term development.",
       "source": "Dubai Media Office (RSS.app)",
       "source_url": "https://x.com/DXBMediaOffice/status/2107063911824658509",
       "published": "2026-10-05T11:02:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "257bcdaf1b40f7c728e56b640f18cbf5",
-      "title": "Hamdan bin Mohammed chairs chaired the third Defence Council meeting of 2026. The meeting reviewed updates on key programmes to develop the defence system and enhance efficiency and readiness in line with the Ministry of Defence\u2019s strategic direction. The meeting discussed development and codernisation plans across defence sectors, alongside initiatives to enhance operational readiness and strengthen human and technical capabilities. It also reviewed future projects supporting the Ministry of Defence\u2019s priorities and long-term development.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2107062704116789482",
-      "published": "2026-10-05T10:57:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
@@ -730,8 +730,8 @@
     },
     {
       "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
-      "source": "UAE MOI (RSS.app)",
+      "title": "RT by @UAEmediaoffice: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
+      "source": "UAE Media Office (RSS.app)",
       "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
       "published": "2026-10-05T04:09:00+00:00",
       "type": "incident",
@@ -752,8 +752,8 @@
     },
     {
       "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @UAEmediaoffice: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
-      "source": "UAE Media Office (RSS.app)",
+      "title": "RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
+      "source": "UAE MOI (RSS.app)",
       "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
       "published": "2026-10-05T04:09:00+00:00",
       "type": "incident",
@@ -980,28 +980,6 @@
       "status": "confirmed",
       "location": {
         "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f79dcc33b16c48bebb2f33c6ab44419d",
-      "title": "RT by @SaudiDCD: \u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (27) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/MOISaudiArabia/status/2106685766718177541",
-      "published": "2026-10-04T10:00:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
         "city": null,
         "lat": 29.0,
         "lng": 48.0
