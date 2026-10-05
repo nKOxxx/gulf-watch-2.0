@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-05T13:41:52.019003+00:00",
-  "total_incidents": 51,
+  "generated_at": "2026-10-05T14:39:01.236361+00:00",
+  "total_incidents": 47,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791204250",
+      "title": "US pulls bombers from UK base: Is Iran manoeuvring Trump\u2019s war plans?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news-analysis/2026/10/5/us-pulls-bombers-from-uk-base-is-iran-maneouvering-trumps-war-plans?traffic_source=rss",
+      "published": "2026-10-05T14:19:44+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/05/iran-oil-minister-resigns-economic-crisis",
+      "title": "Iran\u2019s oil minister resigns as country\u2019s economic crisis worsens",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/05/iran-oil-minister-resigns-economic-crisis",
+      "published": "2026-10-05T14:16:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4de23f7d59deb190e007ad8ba193782d",
+      "title": "#GCC Secretary-General affirms that electricity and water sectors represent strategic priorities and key pillars of joint Gulf action, given their vital role in ensuring resource sustainability  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107110653332697107",
+      "published": "2026-10-05T14:08:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/10/05/germany-to-set-up-first-drone-regiment-next-year-modeled-after-ukraine-war-lessons/",
+      "title": "Germany to set up first drone regiment next year, modeled after Ukraine war lessons",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/05/germany-to-set-up-first-drone-regiment-next-year-modeled-after-ukraine-war-lessons/",
+      "published": "2026-10-05T14:01:14+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/05/from-iranian-proxies-to-giants-brigades-whos-who-in-yemen-conflict/",
       "title": "From Iranian proxies to Giants Brigades: Who's who in Yemen conflict",
@@ -289,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791197104",
-      "title": "US abruptly withdraws bombers from UK\u2019s RAF Fairford",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/us-abruptly-withdraws-bombers-from-uks-raf-fairford?traffic_source=rss",
-      "published": "2026-10-05T11:09:57+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "5855700417d83a642621801ab8b02e76",
       "title": "Hamdan bin Mohammed chairs the third Defence Council meeting of 2026. The meeting reviewed updates on key programmes to develop the defence system and enhance efficiency and readiness in line with the Ministry of Defence\u2019s strategic direction. The meeting discussed development and codernisation plans across defence sectors, alongside initiatives to enhance operational readiness and strengthen human and technical capabilities. It also reviewed future projects supporting the Ministry of Defence\u2019s priorities and long-term development.",
       "source": "Dubai Media Office (RSS.app)",
@@ -399,28 +465,6 @@
       }
     },
     {
-      "id": "5a65102e4e3189b77b27e2abd2d16125",
-      "title": "#Kuwait's National Guard Undersecretary affirms readiness & coordination integrating with military & security agencies to safeguard national security & stability.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2107045116317720811",
-      "published": "2026-10-05T09:47:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "a88f56c07e0197944ce60b3d77452499",
       "title": "Dubai Future Foundation announces the launch of \u201cAgentic AI for Government Services Accelerator\u201d under Dubai Future Accelerators (DFA). Organised by Dubai Centre for Artificial Intelligence (DCAI), an initiative overseen by DFF, in collaboration with Digital Dubai and the Dubai Electronic Security Center (DESC), the Accelerator will enable government entities to develop agentic AI-powered services within significantly shorter timeframes while maintaining the highest standards of quality and digital compliance.",
       "source": "Dubai Media Office (RSS.app)",
@@ -488,7 +532,7 @@
     },
     {
       "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @moiuae: RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
+      "title": "RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
       "source": "UAE MOI (RSS.app)",
       "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
       "published": "2026-10-05T04:09:00+00:00",
@@ -510,7 +554,7 @@
     },
     {
       "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @UAEmediaoffice: RT by @UAEmediaoffice: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
+      "title": "RT by @UAEmediaoffice: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
       "source": "UAE Media Office (RSS.app)",
       "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
       "published": "2026-10-05T04:09:00+00:00",
@@ -532,7 +576,7 @@
     },
     {
       "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @moiuae: RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
+      "title": "RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
       "source": "IDF (RSS.app)",
       "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
       "published": "2026-10-05T04:09:00+00:00",
@@ -752,7 +796,7 @@
     },
     {
       "id": "f79dcc33b16c48bebb2f33c6ab44419d",
-      "title": "RT by @SaudiDCD: RT by @SaudiDCD: \u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (27) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
+      "title": "RT by @SaudiDCD: \u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (27) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
       "source": "Saudi Civil Defense (RSS.app)",
       "source_url": "https://x.com/MOISaudiArabia/status/2106685766718177541",
       "published": "2026-10-04T10:00:00+00:00",
@@ -829,28 +873,6 @@
         "city": null,
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
-      "title": "Libyan unity talks upended as warlord\u2019s son linked to drone attacks on fuel facilities",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
-      "published": "2026-10-03T09:00:56+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -999,116 +1021,6 @@
       "source_url": "https://breakingdefense.com/2026/10/the-nih-pentagon-deal-isnt-a-cash-grab-its-a-rescue/",
       "published": "2026-10-02T15:10:00+00:00",
       "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "99d2db5d003e9d4c3ac976b00841b59f",
-      "title": "\u0627\u062e\u062a\u062a\u0645\u062a \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0645\u0634\u0627\u0631\u0643\u062a\u0647\u0627 \u0641\u064a \u0623\u0639\u0645\u0627\u0644 \u0645\u0624\u062a\u0645\u0631 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0627\u0644\u062e\u0627\u0645\u0633 \u0639\u0634\u0631 \u0644\u0645\u0646\u0639 \u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0648\u0627\u0644\u0639\u062f\u0627\u0644\u0629 \u0627\u0644\u062c\u0646\u0627\u0626\u064a\u0629 \u2013 \u0623\u0628\u0648\u0638\u0628\u064a 2026\u060c \u0648\u0634\u0647\u062f\u062a \u0645\u0634\u0627\u0631\u0643\u0629 \u0627\u0644\u0648\u0632\u0627\u0631\u0629 \u062a\u0646\u0638\u064a\u0645 \u062d\u062f\u062b\u064a\u0646 \u0631\u0641\u064a\u0639\u064a \u0627\u0644\u0645\u0633\u062a\u0648\u0649\u060c \u0648\u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629 \u0641\u064a 6 \u062c\u0644\u0633\u0627\u062a \u0648\u0627\u062c\u062a\u0645\u0627\u0639\u0627\u062a \u0645\u062a\u062e\u0635\u0635\u0629\u060c \u0625\u0644\u0649 \u062c\u0627\u0646\u0628 \u0627\u0633\u062a\u0639\u0631\u0627\u0636 \u0639\u062f\u062f \u0645\u0646 \u0627\u0644\u0627\u0628\u062a\u0643\u0627\u0631\u0627\u062a \u0648\u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0648\u0627\u0644\u0631\u0642\u0645\u064a\u0629 \u0645\u0646 \u062e\u0644\u0627\u0644 \u062c\u0646\u0627\u062d \u0627\u0644\u0648\u0632\u0627\u0631\u0629 \u0641\u064a \u0627\u0644\u0645\u0639\u0631\u0636 \u0627\u0644\u0645\u0635\u0627\u062d\u0628 \u0644\u0644\u0645\u0624\u062a\u0645\u0631. The Ministry of Interior has concluded its participation in the 15th United Nations Congress on Crime Prevention and Criminal Justice \u2013 Abu Dhabi 2026. The Ministry\u2019s participation featured the organization of two high-level events and participation in six specialized sessions and meetings, in addition to showcasing a number of security and digital innovations and applications throu",
-      "source": "UAE MOI (RSS.app)",
-      "source_url": "https://x.com/moiuae/status/2106030443187544403",
-      "published": "2026-10-02T14:36:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "99d2db5d003e9d4c3ac976b00841b59f",
-      "title": "\u0627\u062e\u062a\u062a\u0645\u062a \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0645\u0634\u0627\u0631\u0643\u062a\u0647\u0627 \u0641\u064a \u0623\u0639\u0645\u0627\u0644 \u0645\u0624\u062a\u0645\u0631 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0627\u0644\u062e\u0627\u0645\u0633 \u0639\u0634\u0631 \u0644\u0645\u0646\u0639 \u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0648\u0627\u0644\u0639\u062f\u0627\u0644\u0629 \u0627\u0644\u062c\u0646\u0627\u0626\u064a\u0629 \u2013 \u0623\u0628\u0648\u0638\u0628\u064a 2026\u060c \u0648\u0634\u0647\u062f\u062a \u0645\u0634\u0627\u0631\u0643\u0629 \u0627\u0644\u0648\u0632\u0627\u0631\u0629 \u062a\u0646\u0638\u064a\u0645 \u062d\u062f\u062b\u064a\u0646 \u0631\u0641\u064a\u0639\u064a \u0627\u0644\u0645\u0633\u062a\u0648\u0649\u060c \u0648\u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629 \u0641\u064a 6 \u062c\u0644\u0633\u0627\u062a \u0648\u0627\u062c\u062a\u0645\u0627\u0639\u0627\u062a \u0645\u062a\u062e\u0635\u0635\u0629\u060c \u0625\u0644\u0649 \u062c\u0627\u0646\u0628 \u0627\u0633\u062a\u0639\u0631\u0627\u0636 \u0639\u062f\u062f \u0645\u0646 \u0627\u0644\u0627\u0628\u062a\u0643\u0627\u0631\u0627\u062a \u0648\u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0648\u0627\u0644\u0631\u0642\u0645\u064a\u0629 \u0645\u0646 \u062e\u0644\u0627\u0644 \u062c\u0646\u0627\u062d \u0627\u0644\u0648\u0632\u0627\u0631\u0629 \u0641\u064a \u0627\u0644\u0645\u0639\u0631\u0636 \u0627\u0644\u0645\u0635\u0627\u062d\u0628 \u0644\u0644\u0645\u0624\u062a\u0645\u0631. The Ministry of Interior has concluded its participation in the 15th United Nations Congress on Crime Prevention and Criminal Justice \u2013 Abu Dhabi 2026. The Ministry\u2019s participation featured the organization of two high-level events and participation in six specialized sessions and meetings, in addition to showcasing a number of security and digital innovations and applications throu",
-      "source": "IDF (RSS.app)",
-      "source_url": "https://x.com/moiuae/status/2106030443187544403",
-      "published": "2026-10-02T14:36:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/asia-pacific/2026/10/02/taiwans-first-two-f-16v-fighter-jets-arrive-to-bolster-defenses-against-china/",
-      "title": "Taiwan\u2019s first two F-16V fighter jets arrive to bolster defenses against China",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/asia-pacific/2026/10/02/taiwans-first-two-f-16v-fighter-jets-arrive-to-bolster-defenses-against-china/",
-      "published": "2026-10-02T14:15:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/europe/2026/10/02/french-air-force-plans-loyal-wingman-flight-in-2028-in-sovereign-ai-push/",
-      "title": "French Air Force plans loyal wingman flight in 2028 in sovereign AI push",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/10/02/french-air-force-plans-loyal-wingman-flight-in-2028-in-sovereign-ai-push/",
-      "published": "2026-10-02T13:59:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=97296",
-      "title": "Navy, Raytheon ink $24.4B deal for SM-6 \u2018acceleration\u2019",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/navy-raytheon-ink-24-4b-deal-for-sm-6-acceleration/",
-      "published": "2026-10-02T13:49:31+00:00",
-      "type": "naval",
       "status": "unconfirmed",
       "location": {
         "country": null,
