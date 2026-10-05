@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-05T16:37:22.073246+00:00",
-  "total_incidents": 50,
+  "generated_at": "2026-10-05T17:31:48.494463+00:00",
+  "total_incidents": 48,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/05/saudi-arabia-has-right-to-defend-itself-from-houthis-marco-rubio-says/",
+      "title": "Saudi Arabia has right to defend itself from Houthis, Marco Rubio says",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/05/saudi-arabia-has-right-to-defend-itself-from-houthis-marco-rubio-says/",
+      "published": "2026-10-05T17:22:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "579b8fc9c17c2506e1fbf065e8f4009b",
+      "title": "#US President Donald Trump says the current rise in fuel prices was due to Ukrainian strikes on Russian oil refineries rather than tensions with Iran over the Strait of Hormuz.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107159611300024414",
+      "published": "2026-10-05T17:22:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "2fd6acbb8be99a87cb8766f53ec377ce",
       "title": "Minister of Electricity, Water & Renewable Energy Dr. Sabeeh Al-Mukhaizeem affirms Gulf integration in the electricity & water sectors represents a strategic pillar for strengthening energy & water security & enhancing GCC states' readiness to meet changing & future needs.  #KUNA",
@@ -92,7 +136,7 @@
     },
     {
       "id": "https://www.theguardian.com/news/audio/2026/oct/05/why-did-us-withdraw-bombers-from-raf-fairford-the-latest",
-      "title": "Why did the US withdraw bombers from RAF Fairford? \u2013 The Latest",
+      "title": "Why did the US rush to withdraw bombers from RAF Fairford? - The Latest",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/news/audio/2026/oct/05/why-did-us-withdraw-bombers-from-raf-fairford-the-latest",
       "published": "2026-10-05T15:45:46+00:00",
@@ -191,28 +235,6 @@
         "city": null,
         "lat": 15.3694,
         "lng": 44.191
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791181382",
-      "title": "What happened between Ireland and Israel in their Nations League match?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/10/5/what-happened-between-ireland-and-israel-in-their-nations-league-match?traffic_source=rss",
-      "published": "2026-10-05T15:28:16+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -355,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791206653",
-      "title": "Latest US military strike on alleged drug boat kills four in Caribbean",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/5/latest-us-military-strike-on-alleged-drug-boat-kills-four-in-caribbean?traffic_source=rss",
-      "published": "2026-10-05T14:58:02+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/global/europe/2026/10/05/european-defense-startups-to-raise-record-105-billion-in-2026-dealroom-forecasts/",
       "title": "European defense startups to raise record $10.5 billion in 2026, Dealroom forecasts",
       "source": "Defense News",
@@ -391,28 +391,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uk/2026/10/05/withdrawal-of-us-bombers-from-uk-base-signals-success-for-iran/",
-      "title": "Withdrawal of US bombers from UK base signals 'success' for Iran",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/05/withdrawal-of-us-bombers-from-uk-base-signals-success-for-iran/",
-      "published": "2026-10-05T14:38:48+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -663,28 +641,6 @@
       }
     },
     {
-      "id": "1c4845a46771f4245611680dfa88a0dd",
-      "title": ". The UAE Floating Hospital in the Egyptian city of Al Arish has received 12 new patients and injured people from the Ga...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DeG87zZtG1Y",
-      "published": "2026-10-05T10:05:39+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/air/2026/10/05/us-removes-b-1-bombers-from-uk-base-amid-security-concerns/",
       "title": "US removes B-1 bombers from UK base amid security concerns",
       "source": "Defense News",
@@ -730,8 +686,8 @@
     },
     {
       "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @UAEmediaoffice: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
-      "source": "UAE Media Office (RSS.app)",
+      "title": "RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
+      "source": "UAE MOI (RSS.app)",
       "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
       "published": "2026-10-05T04:09:00+00:00",
       "type": "incident",
@@ -752,8 +708,8 @@
     },
     {
       "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
-      "source": "UAE MOI (RSS.app)",
+      "title": "RT by @UAEmediaoffice: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
+      "source": "UAE Media Office (RSS.app)",
       "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
       "published": "2026-10-05T04:09:00+00:00",
       "type": "incident",
