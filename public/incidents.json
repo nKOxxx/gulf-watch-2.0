@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-06T01:45:09.459586+00:00",
-  "total_incidents": 50,
+  "generated_at": "2026-10-06T02:44:42.861328+00:00",
+  "total_incidents": 49,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791250610",
+      "title": "Turkiye, Pakistan to deploy forces to Saudi as Yemen fighting grows",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-yemen-war-update-sv?traffic_source=rss",
+      "published": "2026-10-06T01:39:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo#0",
       "title": "Yemeni military says it has 'secured' Red Sea waterway",
@@ -421,28 +443,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/05/saudi-arabia-has-right-to-defend-itself-from-houthis-marco-rubio-says/",
-      "title": "Saudi Arabia has right to defend itself from Houthis, Marco Rubio says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/05/saudi-arabia-has-right-to-defend-itself-from-houthis-marco-rubio-says/",
-      "published": "2026-10-05T17:22:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "579b8fc9c17c2506e1fbf065e8f4009b",
       "title": "#US President Donald Trump says the current rise in fuel prices was due to Ukrainian strikes on Russian oil refineries rather than tensions with Iran over the Strait of Hormuz.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -477,28 +477,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/05/i-was-deceived-french-isis-recruit-on-trial-in-iraq-says-he-regrets-joining-group/",
-      "title": "'I was deceived': French ISIS recruit on trial in Iraq says he regrets joining group",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/05/i-was-deceived-french-isis-recruit-on-trial-in-iraq-says-he-regrets-joining-group/",
-      "published": "2026-10-05T16:14:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
       },
       "credibility": 85,
       "is_government": false,
