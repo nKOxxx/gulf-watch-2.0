@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-10-06T14:34:11.509264+00:00",
-  "total_incidents": 60,
+  "generated_at": "2026-10-06T15:31:45.450684+00:00",
+  "total_incidents": 62,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/06/india-condemns-strike-on-oil-tanker-owned-by-dubai-company-in-strait-of-hormuz/",
+      "title": "India condemns strike on oil tanker owned by Dubai company in Strait of Hormuz",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/06/india-condemns-strike-on-oil-tanker-owned-by-dubai-company-in-strait-of-hormuz/",
+      "published": "2026-10-06T15:29:00+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791288452",
+      "title": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters?traffic_source=rss",
+      "published": "2026-10-06T14:50:01+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791286849",
+      "title": "\u2018Not the act of a friend\u2019: Israel\u2019s deadline to close UK consulate nears",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/6/its-not-the-act-of-a-friend-or-ally-israel-moves-to-shut-uk-consulate?traffic_source=rss",
+      "published": "2026-10-06T14:47:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791268398",
+      "title": "What new measures is Iran taking to counter US economic pressure?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/6/what-new-measures-is-iran-taking-to-counter-us-economic-pressure?traffic_source=rss",
+      "published": "2026-10-06T14:42:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791295751",
+      "title": "In Gaza, we cannot even begin to recover from trauma",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/opinions/2026/10/6/in-gaza-we-cannot-even-begin-to-recover-from-trauma?traffic_source=rss",
+      "published": "2026-10-06T14:42:22+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791293770",
+      "title": "Saudi Arabia says East-West pipeline pumping 5.8 million bpd",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-east-west-pipeline-pumping-5-8-million-bpd?traffic_source=rss",
+      "published": "2026-10-06T14:38:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo#0",
+      "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T14:30:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uk/2026/10/06/three-iranians-spied-on-dissident-journalists-and-plotted-violent-attack-in-london/",
+      "title": "Three Iranians 'spied on dissident journalists and plotted violent attack' in London",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/06/three-iranians-spied-on-dissident-journalists-and-plotted-violent-attack-in-london/",
+      "published": "2026-10-06T14:30:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "8bad42acd0d7b7d757066a38abe88868",
       "title": "DXB: Up to 36 weekly flights between Dubai and Europe are returning to DXB Lufthansa: from DXB to Munich and Frankfurt, starting from 25 October Fly Swiss: from DXB to Zurich, starting from 27 October Euro Wings: from DXB to Berlin, Stuttgart and Cologne-Bonn, starting from 1 November Austrian Airlines: from DXB to Vienna, starting from 12 December",
@@ -201,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/06/saudi-crown-prince-meets-syrias-president-al-shara-in-riyadh/",
-      "title": "Saudi Crown Prince meets Syria's President Al Shara in Riyadh",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/06/saudi-crown-prince-meets-syrias-president-al-shara-in-riyadh/",
-      "published": "2026-10-06T13:49:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3a1337f0286bf1cc02e0603a682a615a",
       "title": "Latifa bint Mohammed: In Dubai, we believe the future of culture begins with investing in the minds shaping policies and driving change. The Global Fellowship Programme, co-founded by Dubai Culture and the World Cities Culture Forum, brings this vision to life by empowering 20 experienced professionals, including five representatives from various Dubai government entities, to develop strategic projects that respond to the opportunities and challenges shaping the cultural landscape in their cities. The launch of the inaugural cohort reflects Dubai\u2019s cultural ambitions and its commitment to nurturing leaders who turn knowledge into impact and build bridges of collaboration between cities.",
       "source": "Dubai Media Office (RSS.app)",
@@ -267,28 +421,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/business/economy/2026/10/06/dp-world-to-invest-90m-in-upgrading-angolas-port-of-luanda/",
-      "title": "DP World to invest $90m to upgrade Angola's Port of Luanda",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/06/dp-world-to-invest-90m-in-upgrading-angolas-port-of-luanda/",
-      "published": "2026-10-06T13:22:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "15949676d1e23565c12e4e46c0badda8",
       "title": "DP World has been granted a 10-year extension to its concession to operate the multipurpose terminal at the Port of Luanda, Angola, extending the concession term through to 2051.",
       "source": "Dubai Media Office (RSS.app)",
@@ -304,28 +436,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791269120",
-      "title": "Ukraine launches major drone attack on Russia\u2019s Moscow region, killing two",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two?traffic_source=rss",
-      "published": "2026-10-06T12:42:19+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -399,28 +509,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791280340",
-      "title": "Mapping where US bombers are based globally",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/6/mapping-where-us-bombers-are-based-around-the-world?traffic_source=rss",
-      "published": "2026-10-06T12:22:54+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/us-news/2026/oct/06/us-israel-far-right-conference",
       "title": "US, Israeli and European far-right figures to gather for conference in Israel",
       "source": "The Guardian",
@@ -435,50 +523,6 @@
         "lng": 34.8516
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/06/abu-dhabi-unveils-hundreds-of-luxury-taxis-to-boost-airport-transport-links/",
-      "title": "Abu Dhabi unveils hundreds of luxury taxis to boost airport transport links",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/06/abu-dhabi-unveils-hundreds-of-luxury-taxis-to-boost-airport-transport-links/",
-      "published": "2026-10-06T12:18:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uk/2026/10/06/uk-threatens-tit-for-tat-after-israel-rebuffs-plea-on-closure-of-jerusalem-consulate/",
-      "title": "UK threatens tit-for-tat after Israel rebuffs plea on closure of Jerusalem consulate",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/06/uk-threatens-tit-for-tat-after-israel-rebuffs-plea-on-closure-of-jerusalem-consulate/",
-      "published": "2026-10-06T12:17:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1148,8 +1192,8 @@
     },
     {
       "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
-      "source": "UAE MOI (RSS.app)",
+      "title": "RT by @UAEmediaoffice: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
+      "source": "UAE Media Office (RSS.app)",
       "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
       "published": "2026-10-05T04:09:00+00:00",
       "type": "incident",
@@ -1170,8 +1214,8 @@
     },
     {
       "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @UAEmediaoffice: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
-      "source": "UAE Media Office (RSS.app)",
+      "title": "RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
+      "source": "UAE MOI (RSS.app)",
       "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
       "published": "2026-10-05T04:09:00+00:00",
       "type": "incident",
@@ -1301,7 +1345,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o#1",
       "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
