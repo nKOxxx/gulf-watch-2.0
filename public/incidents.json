@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-06T06:51:04.575657+00:00",
-  "total_incidents": 50,
+  "generated_at": "2026-10-06T07:41:35.336342+00:00",
+  "total_incidents": 54,
   "incidents": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o#0",
+      "title": "Children brave snipers and mortars to go to school near Yemen front line",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T07:23:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/06/saudi-arabia-to-legalise-status-of-yemenis-living-in-country-without-proper-authority/",
+      "title": "Saudi Arabia to legalise status of Yemenis living in country without proper authority",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/06/saudi-arabia-to-legalise-status-of-yemenis-living-in-country-without-proper-authority/",
+      "published": "2026-10-06T07:17:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791243995",
+      "title": "Southeast Asia\u2019s energy chiefs meet against backdrop of Iran war",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/10/6/southeast-asias-energy-chiefs-meet-against-backdrop-of-iran-war?traffic_source=rss",
+      "published": "2026-10-06T07:07:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8bc22c02f026fd3b40b84c73bcee3bcc",
+      "title": "#Kuwait oil prices up USD 1.31 to USD 107.22 pb  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107364257155207202",
+      "published": "2026-10-06T06:56:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b3c676b798032f09f7e63044cd7a397e",
+      "title": "On October 6th, 1976 #Kuwait Amir Sheikh Sabah Al-Salem Al-Sabah signed decree No. 70 establishing Kuwait News Agency (#KUNA) to report & distribute news to media outlets, as well as highlighting Kuwait's causes regionally & internationally",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107364011184390345",
+      "published": "2026-10-06T06:55:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791197844",
       "title": "Will Cristiano Ronaldo play for Portugal after a row with coach Jesus?",
@@ -524,28 +634,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0d18aac0475240f2752675e00bf3acac",
-      "title": "Minister of Oil Tariq Al-Roumi affirms GCC states are moving forward with strengthening cooperation & integrating their energy capabilities to support supply security & enhance preparedness for regional & international developments.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2107165914323914779",
-      "published": "2026-10-05T17:47:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
