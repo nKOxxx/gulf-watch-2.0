@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-06T10:34:10.484015+00:00",
-  "total_incidents": 56,
+  "generated_at": "2026-10-06T11:31:44.695353+00:00",
+  "total_incidents": 54,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/06/iran-politician-files-impeachment-motion-against-araghchi-over-us-contacts/",
+      "title": "Iran politician files impeachment motion against Araghchi over US contacts",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/06/iran-politician-files-impeachment-motion-against-araghchi-over-us-contacts/",
+      "published": "2026-10-06T11:15:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/europe/2026/10/06/french-warships-ready-to-go-now-for-gulf-deployment-says-admiral/",
+      "title": "French warships \u2018ready to go now\u2019 for Gulf deployment, says admiral",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/06/french-warships-ready-to-go-now-for-gulf-deployment-says-admiral/",
+      "published": "2026-10-06T11:04:12+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791183367",
+      "title": "Pro-Palestine Greens challenge Labour\u2019s grip on Starmer\u2019s former seat",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/6/pro-palestine-greens-challenge-labours-grip-on-starmers-former-seat?traffic_source=rss",
+      "published": "2026-10-06T11:01:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 31.9522,
+        "lng": 35.2332
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0f68234d38436d0ac7840a01c51a7f85",
+      "title": "The #EU condemns attacks by the Houthis targeting infrastructure in #SaudiArabia, including a refinery & airports, warning that the attacks contribute to destabilizing the region & threaten global energy security.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107424498467107309",
+      "published": "2026-10-06T10:55:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791274832",
+      "title": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border?traffic_source=rss",
+      "published": "2026-10-06T10:47:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "703a7b08926f5cd2d12a732f9c46d29a",
       "title": "#Kuwait's Minister of Defense congratulates his Egyptian counterpart on the 53rd anniversary of the October 6 War victory  #KUNA",
@@ -18,6 +128,28 @@
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791277369",
+      "title": "UEFA to investigate spitting incident at Ireland-Israel football match",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/10/6/uefa-to-investigate-spitting-incident-at-ireland-israel-football?traffic_source=rss",
+      "published": "2026-10-06T10:15:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -52,50 +184,6 @@
       "source": "KUNA Kuwait (RSS.app)",
       "source_url": "https://x.com/kuna_en/status/2107413276111831118",
       "published": "2026-10-06T10:10:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "09d44b5c5f704f6eb3d5ae53513d7a45",
-      "title": "#Kuwait strongly condemns & denounces the Houthi militia's continued blatant & disgraceful attacks targeting the holy cities of Makkah & Madinah in #Saudi Arabia  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2107412458277060772",
-      "published": "2026-10-06T10:07:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "92ef28daaf75fd3ba359c01f82ddbb24",
-      "title": "#KUNA celebrates its 50th anniversary today, marking a pioneering journey of professional & technological advancement that has extended across regional & international spheres (news report)  #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2107411845275353376",
-      "published": "2026-10-06T10:05:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
@@ -289,116 +377,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/06/iraqi-police-officer-killed-in-isis-attack-near-kirkuk/",
-      "title": "Iraqi police officer killed in ISIS attack near Kirkuk",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/06/iraqi-police-officer-killed-in-isis-attack-near-kirkuk/",
-      "published": "2026-10-06T08:55:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791275866",
-      "title": "Gaza woman rescues books from rubble to keep education alive",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/gaza-woman-rescues-books-from-rubble-to-keep-education-alive?traffic_source=rss",
-      "published": "2026-10-06T08:43:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791197528",
-      "title": "How hunger is devastating Yemen\u2019s children",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/6/malnutrition-among-yemens-children?traffic_source=rss",
-      "published": "2026-10-06T08:42:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791267194",
-      "title": "Yemen forces claim key gains near Bab al-Mandeb: What\u2019s the latest?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/6/yemen-war-whats-the-latest-on-the-battlefield?traffic_source=rss",
-      "published": "2026-10-06T08:27:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/06/saudi-airports-attacked-as-yemens-west-coast-battle-intensifies/",
-      "title": "Saudi airports attacked as Yemen's west coast battle intensifies",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/06/saudi-airports-attacked-as-yemens-west-coast-battle-intensifies/",
-      "published": "2026-10-06T08:25:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/global-development/2026/oct/06/iranian-nobel-laureate-narges-mohammadi-recounts-prison-beating",
       "title": "\u2018A return to prison is always looming\u2019: Iran nobel laureate recounts torture in jail and hopes for the future",
       "source": "The Guardian",
@@ -502,28 +480,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8bc22c02f026fd3b40b84c73bcee3bcc",
-      "title": "#Kuwait oil prices up USD 1.31 to USD 107.22 pb  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2107364257155207202",
-      "published": "2026-10-06T06:56:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
