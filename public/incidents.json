@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-06T20:36:00.333543+00:00",
-  "total_incidents": 61,
+  "generated_at": "2026-10-06T21:31:14.562477+00:00",
+  "total_incidents": 60,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791319285",
+      "title": "Tokyo protests US military presence after Okinawa killing",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss",
+      "published": "2026-10-06T21:20:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "12d662649984777d3c28f09127a6ff51",
+      "title": "#Kuwait Prime Minister Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah sent a cable of congratulations to the Custodian of the Two Holy Mosques King Salman bin Abdulaziz Al Saud, King of Saudi Arabia, expressing sincere congratulations on the Saudi national football team's victory in the 27th Arabian Gulf Cup  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107580728217145346",
+      "published": "2026-10-06T21:16:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "45bf9ee00165ce6e331b3adb4660dd08",
+      "title": "His Highness the Crown Prince Sheikh Sabah Khaled Al-Hamad Al-Sabah sent a cable of congratulations to the Custodian of the Two Holy Mosques King Salman bin Abdulaziz Al Saud, King of Saudi Arabia, expressing sincere congratulations on the Saudi national football team's victory in the 27th Arabian Gulf Cup  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107580314583204133",
+      "published": "2026-10-06T21:14:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/06/israeli-settlers-beat-press-photographer-as-soldiers-watch-in-west-bank",
+      "title": "Israeli settlers beat press photographer as soldiers watch in West Bank",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/06/israeli-settlers-beat-press-photographer-as-soldiers-watch-in-west-bank",
+      "published": "2026-10-06T21:00:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8a0aaa74cb2064a6e0c9e5dfe50724f9",
+      "title": "His Highness the Amir Sheikh Meshal Al-Ahmad Al-Jaber Al-Sabah sent a cable of congratulations to the Custodian of the Two Holy Mosques King Salman bin Abdulaziz Al Saud, King of Saudi Arabia, expressing sincere congratulations on the Saudi national football team's victory in the 27th Arabian Gulf Cup (Khaleeji 27)  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107574804450562066",
+      "published": "2026-10-06T20:52:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4fe0619ba2d70cd51d4218130edf0560",
+      "title": "Saudi Arabia defeats UAE 2-0 and claims fourth Arabian Gulf Cup title  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107573549015695383",
+      "published": "2026-10-06T20:47:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791310304",
+      "title": "US lawmakers call on Israel to release imprisoned doctor Hussam Abu Safia",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/6/us-lawmakers-call-on-israel-to-release-imprisoned-doctor-hussam-abu-safia?traffic_source=rss",
+      "published": "2026-10-06T20:42:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/sport/football/2026/10/06/uae-fall-short-as-saudi-arabia-win-arabian-gulf-cup-final/",
       "title": "UAE fall short as Saudi Arabia win Arabian Gulf Cup final",
@@ -69,28 +223,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791315878",
-      "title": "Ronaldo apologizes for Portugal walkout; says Jesus broke promise",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise?traffic_source=rss",
-      "published": "2026-10-06T19:56:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/industry/techwatch/2026/10/06/its-official-us-armys-improved-m8-rifle-to-begin-fielding-in-december/",
       "title": "It\u2019s official: US Army\u2019s improved M8 rifle to begin fielding in December",
       "source": "Defense News",
@@ -103,28 +235,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791298222",
-      "title": "Yemen\u2019s government is on the attack against the Houthis. What has changed?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed?traffic_source=rss",
-      "published": "2026-10-06T19:43:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
       },
       "credibility": 90,
       "is_government": false,
@@ -311,28 +421,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791308287",
-      "title": "Jerusalem Daily:  Tension high in Israel ahead of October 7",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/jerusalem-daily-tension-high-in-israel-ahead-of-october-7?traffic_source=rss",
-      "published": "2026-10-06T17:39:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3758683eba2a52613539de9409edf480",
       "title": "Kuwaiti Minister of State for Economic Affairs & Investment and Acting Minister of Commerce and Industry Abdulaziz Al-Marzouq headed Kuwait's delegation attending the 71st meeting of Gulf ministers of commerce, held in Manama.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -414,28 +502,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "282c7f30943651b67a52c11da652ee1f",
-      "title": "World Health Organization Chief announces new reported Ebola cases in #Kenya  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2107508943043907607",
-      "published": "2026-10-06T16:31:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -531,28 +597,6 @@
       }
     },
     {
-      "id": "0f680f2e89efeb1094a15719aba23ce7",
-      "title": "#US Central Command denies Iranian media reports that a US Navy helicopter crashed in the Red Sea on Monday night.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2107498980565201329",
-      "published": "2026-10-06T15:51:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/industry/techwatch/2026/10/06/northrop-grummans-yfq-48a-cca-completes-first-fully-autonomous-flight/",
       "title": "Northrop Grumman\u2019s YFQ-48A CCA completes first fully autonomous flight",
       "source": "Defense News",
@@ -575,28 +619,6 @@
       }
     },
     {
-      "id": "d2f1473f211173b32324e3fc9d381ffe",
-      "title": "During the \"Made in Gulf 2026\" Forum & Exhibition, #Bahrain Crown Prince & Prime Minister affirms that Gulf industrial integration is an important pillar of joint Gulf action, contributing to expanding industrial partnerships among #GCC countries.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2107497671275495829",
-      "published": "2026-10-06T15:46:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 26.0667,
-        "lng": 50.5577
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/06/how-quickly-could-turkey-send-military-forces-to-back-saudi-arabia/",
       "title": "How quickly could Turkey send military forces to back Saudi Arabia?",
       "source": "The National UAE",
@@ -612,28 +634,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8616b3bfc606de5397084ae9a62dcc6c",
-      "title": "#GCC Chief: The \"Made in the Gulf\" initiative embodies the Gulf leaders' vision that industry is a key pillar for diversifying Gulf economies.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2107475343300792785",
-      "published": "2026-10-06T14:17:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1093,28 +1093,6 @@
         "city": null,
         "lat": 31.7683,
         "lng": 35.2137
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/news/audio/2026/oct/05/why-did-us-withdraw-bombers-from-raf-fairford-the-latest",
-      "title": "Why did the US rush to withdraw bombers from RAF Fairford? - The Latest",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/news/audio/2026/oct/05/why-did-us-withdraw-bombers-from-raf-fairford-the-latest",
-      "published": "2026-10-05T15:45:46+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
