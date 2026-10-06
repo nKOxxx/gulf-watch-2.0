@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-06T12:44:35.351892+00:00",
-  "total_incidents": 54,
+  "generated_at": "2026-10-06T13:34:47.845471+00:00",
+  "total_incidents": 55,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/business/economy/2026/10/06/dp-world-to-invest-90m-in-upgrading-angolas-port-of-luanda/",
+      "title": "DP World to invest $90m in upgrading Angola's Port of Luanda",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/06/dp-world-to-invest-90m-in-upgrading-angolas-port-of-luanda/",
+      "published": "2026-10-06T13:22:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "15949676d1e23565c12e4e46c0badda8",
+      "title": "DP World has been granted a 10-year extension to its concession to operate the multipurpose terminal at the Port of Luanda, Angola, extending the concession term through to 2051.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2107456832063365298",
+      "published": "2026-10-06T13:03:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791269120",
+      "title": "Ukraine launches major drone attack on Russia\u2019s Moscow region, killing two",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two?traffic_source=rss",
+      "published": "2026-10-06T12:42:19+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791280340",
+      "title": "Mapping where US bombers are based globally",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/6/mapping-where-us-bombers-are-based-around-the-world?traffic_source=rss",
+      "published": "2026-10-06T12:22:54+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791283311",
+      "title": "Pakistan, Turkiye join Saudi deterrence against Houthis: What that means",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/6/pakistan-turkiye-join-saudi-deterrence-against-houthis-what-that-means?traffic_source=rss",
+      "published": "2026-10-06T12:22:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/us-news/2026/oct/06/us-israel-far-right-conference",
       "title": "US, Israeli and European far-right figures to gather for conference in Israel",
@@ -223,50 +333,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/europe/2026/10/06/french-warships-ready-to-go-now-for-gulf-deployment-says-admiral/",
-      "title": "French warships \u2018ready to go now\u2019 for Gulf deployment, says admiral",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/06/french-warships-ready-to-go-now-for-gulf-deployment-says-admiral/",
-      "published": "2026-10-06T11:04:12+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791183367",
-      "title": "Pro-Palestine Greens challenge Labour\u2019s grip on Starmer\u2019s former seat",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/6/pro-palestine-greens-challenge-labours-grip-on-starmers-former-seat?traffic_source=rss",
-      "published": "2026-10-06T11:01:43+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9522,
-        "lng": 35.2332
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "0f68234d38436d0ac7840a01c51a7f85",
       "title": "The #EU condemns attacks by the Houthis targeting infrastructure in #SaudiArabia, including a refinery & airports, warning that the attacks contribute to destabilizing the region & threaten global energy security.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -289,28 +355,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791274832",
-      "title": "Saudi Arabia says three wounded in attacks on airports near Yemen border",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border?traffic_source=rss",
-      "published": "2026-10-06T10:47:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "703a7b08926f5cd2d12a732f9c46d29a",
       "title": "#Kuwait's Minister of Defense congratulates his Egyptian counterpart on the 53rd anniversary of the October 6 War victory  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -326,28 +370,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791277369",
-      "title": "UEFA to investigate spitting incident at Ireland-Israel football match",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/10/6/uefa-to-investigate-spitting-incident-at-ireland-israel-football?traffic_source=rss",
-      "published": "2026-10-06T10:15:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
