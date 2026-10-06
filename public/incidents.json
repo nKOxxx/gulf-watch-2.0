@@ -1,7 +1,249 @@
 {
-  "generated_at": "2026-10-06T09:36:40.498164+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-06T10:34:10.484015+00:00",
+  "total_incidents": 56,
   "incidents": [
+    {
+      "id": "703a7b08926f5cd2d12a732f9c46d29a",
+      "title": "#Kuwait's Minister of Defense congratulates his Egyptian counterpart on the 53rd anniversary of the October 6 War victory  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107417079963853017",
+      "published": "2026-10-06T10:26:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f4172d721ac93fba9f877d3c399dfd0b",
+      "title": "Secretary General of the Gulf Cooperation Council condemns the two flagrant Houthi militia attacks, targeting Saudi Arabia airports in Jazan & Najran  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107414405432393973",
+      "published": "2026-10-06T10:15:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4408551fe2bdb742d0351c0352ba3d39",
+      "title": "The Secretary-General of the Gulf Cooperation Council hails #KUNA's role in supporting the Gulf integration process, marking its 50th anniversary  #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107413276111831118",
+      "published": "2026-10-06T10:10:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "09d44b5c5f704f6eb3d5ae53513d7a45",
+      "title": "#Kuwait strongly condemns & denounces the Houthi militia's continued blatant & disgraceful attacks targeting the holy cities of Makkah & Madinah in #Saudi Arabia  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107412458277060772",
+      "published": "2026-10-06T10:07:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "92ef28daaf75fd3ba359c01f82ddbb24",
+      "title": "#KUNA celebrates its 50th anniversary today, marking a pioneering journey of professional & technological advancement that has extended across regional & international spheres (news report)  #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107411845275353376",
+      "published": "2026-10-06T10:05:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "88094388f37eea1f8ecff5e26c97b6d5",
+      "title": ". The United Arab Emirates has strongly condemned the aerial attack on two trucks contracted by the World Food Programme...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DeJhu0diLH0",
+      "published": "2026-10-06T10:04:26+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/06/how-iran-gets-away-with-it-the-struggle-to-bring-architects-of-atrocities-to-trial/",
+      "title": "How Iran gets away with it: The struggle to bring 'architects of atrocities' to trial",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/06/how-iran-gets-away-with-it-the-struggle-to-bring-architects-of-atrocities-to-trial/",
+      "published": "2026-10-06T09:57:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791280182",
+      "title": "Kenya ministry of health confirms first imported Ebola case",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/kenya-ministry-of-health-confirms-first-imported-ebola-case?traffic_source=rss",
+      "published": "2026-10-06T09:51:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/06/us-envoy-in-rare-meeting-with-sudans-army-chief-in-egypt/",
+      "title": "US envoy in rare meeting with Sudan's army chief in Egypt",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/06/us-envoy-in-rare-meeting-with-sudans-army-chief-in-egypt/",
+      "published": "2026-10-06T09:42:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.8206,
+        "lng": 30.8025
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/10/06/lithuania-says-it-would-pay-the-cost-if-us-establishes-military-base/",
+      "title": "Lithuania says it would pay the cost if US establishes military base",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/06/lithuania-says-it-would-pay-the-cost-if-us-establishes-military-base/",
+      "published": "2026-10-06T09:41:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791272528",
+      "title": "\u2018Hitting the right nail\u2019: Refugee rescue group defiant as Greece targets it",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/6/hitting-the-right-nail-refugee-rescue-group-defiant-as-greece-targets-it?traffic_source=rss",
+      "published": "2026-10-06T09:25:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "7f9eec13f4d1bc98db16818f09bd4d56",
       "title": "Israel and Argentina Sign G2G Agreement for IWI's ARAD Rifles \ud83c\uddee\ud83c\uddf1\ud83c\udde6\ud83c\uddf7 Under a G2G agreement led by the IMOD's International Defense Cooperation Directorate (SIBAT), Argentina's Armed Forces have selected IWI's ARAD 5 and ARAD 7 rifles. Read More:",
@@ -18,6 +260,28 @@
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791232576",
+      "title": "Palestine weekly: Olive harvest opens under assault",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/6/palestine-weekly-olive-harvest-opens-under-assault?traffic_source=rss",
+      "published": "2026-10-06T09:22:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 31.9522,
+        "lng": 35.2332
+      },
+      "credibility": 90,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -92,7 +356,7 @@
     },
     {
       "id": "https://www.aljazeera.com/?t=1791267194",
-      "title": "Yemen war: What\u2019s the latest on the battlefield?",
+      "title": "Yemen forces claim key gains near Bab al-Mandeb: What\u2019s the latest?",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/2026/10/6/yemen-war-whats-the-latest-on-the-battlefield?traffic_source=rss",
       "published": "2026-10-06T08:27:51+00:00",
@@ -125,28 +389,6 @@
         "city": null,
         "lat": 15.5527,
         "lng": 48.5164
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/06/saudi-arabia-warns-against-filming-missile-interceptions-as-houthi-attacks-intensify/",
-      "title": "Saudi Arabia warns against filming or sharing missile and drone interceptions",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/06/saudi-arabia-warns-against-filming-missile-interceptions-as-houthi-attacks-intensify/",
-      "published": "2026-10-06T08:18:19+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
       },
       "credibility": 85,
       "is_government": false,
@@ -267,50 +509,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791263833",
-      "title": "Trump approves firing squad execution for Fort Hood attacker Nidal Hasan",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/6/trump-approves-firing-squad-execution-for-fort-hood-attacker-nidal-hasan?traffic_source=rss",
-      "published": "2026-10-06T07:23:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791270513",
-      "title": "Trump jokes about letting Iran bomb Los Angeles and San Diego",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/trump-jokes-about-letting-iran-bomb-los-angeles-and-san-diego?traffic_source=rss",
-      "published": "2026-10-06T07:12:00+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "8bc22c02f026fd3b40b84c73bcee3bcc",
       "title": "#Kuwait oil prices up USD 1.31 to USD 107.22 pb  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -333,28 +531,6 @@
       }
     },
     {
-      "id": "b3c676b798032f09f7e63044cd7a397e",
-      "title": "On October 6th, 1976 #Kuwait Amir Sheikh Sabah Al-Salem Al-Sabah signed decree No. 70 establishing Kuwait News Agency (#KUNA) to report & distribute news to media outlets, as well as highlighting Kuwait's causes regionally & internationally",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2107364011184390345",
-      "published": "2026-10-06T06:55:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "01b6bb2096de0406f0520e39418b2dcc",
       "title": "Dubai Retail, under Dubai Holding Asset Management, unveils Skylight Mall, a new super-regional destination set to open in 2027 on Al Khail Road. Spanning 1.3 million sq. ft. of gross leasable area (GLA), the mall will feature more than 360 stores, making it the latest addition to Dubai Retail\u2019s growing portfolio of 58 malls and lifestyle destinations across the emirate.",
       "source": "Dubai Media Office (RSS.app)",
@@ -367,94 +543,6 @@
         "city": null,
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "809285e7a36204f59821e9b2ae23c088",
-      "title": "#Bahrain supports #Saudi_Arabia's efforts to restore #Yemeni state  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2107330665477701912",
-      "published": "2026-10-06T04:42:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a6379ed448a4f1eac3650ecbdefcdf44",
-      "title": "#Yemeni_army neutralize 250 Houthi militants in Taiz.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2107302563896770816",
-      "published": "2026-10-06T02:50:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "449996d11199048c958239282f0f3828",
-      "title": "#US President Donald Trump: Withdrawing B-1 bombers stationed at British base following detecting threats  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2107248177308934621",
-      "published": "2026-10-05T23:14:00+00:00",
-      "type": "explosion",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "c90cf514e729c0b8f80100d5e4430c5e",
-      "title": "The Coalition to Support Legitimacy in Yemen carried out a military operation in Hodeidah Governorate that led to the destruction of legitimate military targets of the terrorist Houthis militia  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2107232130350592142",
-      "published": "2026-10-05T22:11:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Yemen",
-        "city": null,
-        "lat": 14.7974,
-        "lng": 42.957
       },
       "credibility": 95,
       "is_government": true,
@@ -523,28 +611,6 @@
         "lng": 48.0
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "36f772f9d15c980bac5dc694a8dc1b52",
-      "title": "Director of Public Relations and Petroleum Media at #Kuwait's Ministry of Oil Sheikha Tamadher Khaled Al-Ahmad Al-Sabah: Developing #GCC oil media enhances aligning with energy transformations  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2107209922614096090",
-      "published": "2026-10-05T20:42:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
