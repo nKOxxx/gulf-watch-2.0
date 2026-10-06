@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-06T19:30:59.814365+00:00",
+  "generated_at": "2026-10-06T20:36:00.333543+00:00",
   "total_incidents": 61,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/sport/football/2026/10/06/uae-fall-short-as-saudi-arabia-win-arabian-gulf-cup-final/",
+      "title": "UAE fall short as Saudi Arabia win Arabian Gulf Cup final",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/06/uae-fall-short-as-saudi-arabia-win-arabian-gulf-cup-final/",
+      "published": "2026-10-06T20:20:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/future/2026/10/06/nuclear-renaissance-data-center-ppa-constellation/",
+      "title": "Google backs 'existing nuclear plants' as AI strains US energy grid",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/future/2026/10/06/nuclear-renaissance-data-center-ppa-constellation/",
+      "published": "2026-10-06T20:20:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/06/trauma-of-7-october-israel-survivors-three-years-hamas-after-attacks",
+      "title": "\u2018All I want to do is cry\u2019: trauma of 7 October survivors three years after the attacks",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/06/trauma-of-7-october-israel-survivors-three-years-hamas-after-attacks",
+      "published": "2026-10-06T20:00:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791315878",
+      "title": "Ronaldo apologizes for Portugal walkout; says Jesus broke promise",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise?traffic_source=rss",
+      "published": "2026-10-06T19:56:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/10/06/its-official-us-armys-improved-m8-rifle-to-begin-fielding-in-december/",
+      "title": "It\u2019s official: US Army\u2019s improved M8 rifle to begin fielding in December",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/06/its-official-us-armys-improved-m8-rifle-to-begin-fielding-in-december/",
+      "published": "2026-10-06T19:46:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791298222",
+      "title": "Yemen\u2019s government is on the attack against the Houthis. What has changed?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed?traffic_source=rss",
+      "published": "2026-10-06T19:43:05+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo#0",
       "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
@@ -201,28 +333,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791307913",
-      "title": "Yemen\u2019s Taiz residents fear food and fuel crisis amid fighting",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/yemens-taiz-residents-fear-food-and-fuel-crisis-amid-fighting?traffic_source=rss",
-      "published": "2026-10-06T17:34:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 38.0962,
-        "lng": 46.2738
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3758683eba2a52613539de9409edf480",
       "title": "Kuwaiti Minister of State for Economic Affairs & Investment and Acting Minister of Commerce and Industry Abdulaziz Al-Marzouq headed Kuwait's delegation attending the 71st meeting of Gulf ministers of commerce, held in Manama.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -289,28 +399,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791304949",
-      "title": "Ship sinks off Bulgaria after drone attack in Black Sea",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss",
-      "published": "2026-10-06T16:53:04+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/uae/2026/10/06/sheikh-mansour-bin-zayed-calls-for-innovation-and-resilience-to-boost-worlds-food-security/",
       "title": "Sheikh Mansour bin Zayed calls for innovation and resilience to boost world's food security",
       "source": "The National UAE",
@@ -325,28 +413,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791295039",
-      "title": "What would it take for the Yemen offensive to succeed?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/opinions/2026/10/6/what-would-it-take-for-the-yemen-offensive-to-succeed?traffic_source=rss",
-      "published": "2026-10-06T16:46:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -543,28 +609,6 @@
         "city": null,
         "lat": 23.8859,
         "lng": 45.0792
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/06/india-condemns-strike-on-oil-tanker-owned-by-dubai-company-in-strait-of-hormuz/",
-      "title": "India condemns strike on oil tanker owned by Dubai company in Strait of Hormuz",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/06/india-condemns-strike-on-oil-tanker-owned-by-dubai-company-in-strait-of-hormuz/",
-      "published": "2026-10-06T15:29:00+00:00",
-      "type": "ground",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 85,
       "is_government": false,
@@ -1103,56 +1147,12 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/05/yemen-air-campaign-houthis-saudi-led-coalition",
-      "title": "Air campaign against Houthis under way in Yemen, says Saudi-led coalition",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/05/yemen-air-campaign-houthis-saudi-led-coalition",
-      "published": "2026-10-05T15:21:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/global/europe/2026/10/05/european-defense-startups-to-raise-record-105-billion-in-2026-dealroom-forecasts/",
       "title": "European defense startups to raise record $10.5 billion in 2026, Dealroom forecasts",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/global/europe/2026/10/05/european-defense-startups-to-raise-record-105-billion-in-2026-dealroom-forecasts/",
       "published": "2026-10-05T14:54:11+00:00",
       "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/europe/2026/10/05/germany-to-set-up-first-drone-regiment-next-year-modeled-after-ukraine-war-lessons/",
-      "title": "Germany to set up first drone regiment next year, modeled after Ukraine war lessons",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/10/05/germany-to-set-up-first-drone-regiment-next-year-modeled-after-ukraine-war-lessons/",
-      "published": "2026-10-05T14:01:14+00:00",
-      "type": "drone",
       "status": "unconfirmed",
       "location": {
         "country": null,
