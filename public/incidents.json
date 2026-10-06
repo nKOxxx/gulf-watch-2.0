@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-10-06T15:31:45.450684+00:00",
+  "generated_at": "2026-10-06T16:37:08.255054+00:00",
   "total_incidents": 62,
   "incidents": [
+    {
+      "id": "e9915a7e88a39c72f5087bc54760c222",
+      "title": "DXB: Up to 36 weekly flights between Dubai and Europe are returning to DXB Lufthansa: from DXB to Munich and Frankfurt, starting from 25 October Fly Swiss: from DXB to Zurich, starting from 27 October Euro Wings: from DXB to Berlin, Stuttgart and Cologne-Bonn, starting from 1 November Austrian Airlines: from DXB to Vienna, starting from 12 December",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2107504576970756392",
+      "published": "2026-10-06T16:13:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/uk/2026/10/06/energy-forum-seeks-to-rescue-supply-disrupted-by-us-iran-war/",
+      "title": "Energy forum seeks to rescue supply disrupted by US-Iran war",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/uk/2026/10/06/energy-forum-seeks-to-rescue-supply-disrupted-by-us-iran-war/",
+      "published": "2026-10-06T16:11:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/10/06/france-fires-upgraded-nuclear-capable-missile-from-submarine-for-first-time/",
+      "title": "France fires upgraded nuclear-capable missile from submarine for first time",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/06/france-fires-upgraded-nuclear-capable-missile-from-submarine-for-first-time/",
+      "published": "2026-10-06T16:08:47+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=97325",
+      "title": "EU deepens collective space security with mutual defense pact",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/eu-deepens-collective-space-security-with-mutual-defense-pact/",
+      "published": "2026-10-06T16:04:45+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0f680f2e89efeb1094a15719aba23ce7",
+      "title": "#US Central Command denies Iranian media reports that a US Navy helicopter crashed in the Red Sea on Monday night.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107498980565201329",
+      "published": "2026-10-06T15:51:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/10/06/northrop-grummans-yfq-48a-cca-completes-first-fully-autonomous-flight/",
+      "title": "Northrop Grumman\u2019s YFQ-48A CCA completes first fully autonomous flight",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/06/northrop-grummans-yfq-48a-cca-completes-first-fully-autonomous-flight/",
+      "published": "2026-10-06T15:46:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "d2f1473f211173b32324e3fc9d381ffe",
+      "title": "During the \"Made in Gulf 2026\" Forum & Exhibition, #Bahrain Crown Prince & Prime Minister affirms that Gulf industrial integration is an important pillar of joint Gulf action, contributing to expanding industrial partnerships among #GCC countries.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107497671275495829",
+      "published": "2026-10-06T15:46:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 26.0667,
+        "lng": 50.5577
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/06/how-quickly-could-turkey-send-military-forces-to-back-saudi-arabia/",
+      "title": "How quickly could Turkey send military forces to back Saudi Arabia?",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/06/how-quickly-could-turkey-send-military-forces-to-back-saudi-arabia/",
+      "published": "2026-10-06T15:34:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/uae/2026/10/06/india-condemns-strike-on-oil-tanker-owned-by-dubai-company-in-strait-of-hormuz/",
       "title": "India condemns strike on oil tanker owned by Dubai company in Strait of Hormuz",
@@ -245,28 +421,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791279317",
-      "title": "Hormuz ship attacks surge: Are increased oil exports sustainable?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable?traffic_source=rss",
-      "published": "2026-10-06T14:15:09+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "28ea9e389252987ac848bf299f94e9e1",
       "title": "#Kuwait & the #Czech Republic sign a memorandum of understanding on diplomatic training between the Saud Al-Nasser Al-Sabah Diplomatic Institute & the Czech Diplomatic Academy.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -360,72 +514,6 @@
       "source": "IDF (RSS.app)",
       "source_url": "https://x.com/moiuae/status/2107471914226848194",
       "published": "2026-10-06T14:03:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3a1337f0286bf1cc02e0603a682a615a",
-      "title": "Latifa bint Mohammed: In Dubai, we believe the future of culture begins with investing in the minds shaping policies and driving change. The Global Fellowship Programme, co-founded by Dubai Culture and the World Cities Culture Forum, brings this vision to life by empowering 20 experienced professionals, including five representatives from various Dubai government entities, to develop strategic projects that respond to the opportunities and challenges shaping the cultural landscape in their cities. The launch of the inaugural cohort reflects Dubai\u2019s cultural ambitions and its commitment to nurturing leaders who turn knowledge into impact and build bridges of collaboration between cities.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2107465112995201377",
-      "published": "2026-10-06T13:36:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "82ff3da8ab087cbbc30e5f33c468597e",
-      "title": "RT by @DXBMediaOffice: In Dubai, we believe the future of culture begins with investing in the minds shaping policies and driving change. The Global Fellowship Programme, co-founded by Dubai Culture and the World Cities Culture Forum, brings this vision to life by empowering 20 experienced professionals, including five representatives from various Dubai government entities, to develop strategic projects that respond to the opportunities and challenges shaping the cultural landscape in their cities. The launch of the inaugural cohort reflects Dubai\u2019s cultural ambitions and its commitment to nurturing leaders who turn knowledge into impact and build bridges of collaboration between cities.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/hhshklatifa/status/2107464064645607547",
-      "published": "2026-10-06T13:32:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "15949676d1e23565c12e4e46c0badda8",
-      "title": "DP World has been granted a 10-year extension to its concession to operate the multipurpose terminal at the Port of Luanda, Angola, extending the concession term through to 2051.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2107456832063365298",
-      "published": "2026-10-06T13:03:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
@@ -861,28 +949,6 @@
       }
     },
     {
-      "id": "a4e00b4a5d304cb583c1019ececff299",
-      "title": "The United Arab Emirates has condemned Israeli forces\u2019 resumption of excavation and bulldozing operations, as well as th...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DeH6JXaCDtg",
-      "published": "2026-10-05T18:59:18+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/05/flydubai-co-pilot-originally-planned-attack-for-july-investigators-believe",
       "title": "Flydubai co-pilot originally planned attack for July, investigators believe",
       "source": "The Guardian",
@@ -932,28 +998,6 @@
       "source": "Breaking Defense",
       "source_url": "https://breakingdefense.com/2026/10/northrop-logs-first-flight-for-self-funded-drone-wingman/",
       "published": "2026-10-05T17:52:56+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=97438",
-      "title": "Germany pledges $1.1B military aid package to Ukraine flush with drone interceptors",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/germany-pledges-1-1-b-military-aid-package-to-ukraine-flush-with-drone-interceptors/",
-      "published": "2026-10-05T16:22:51+00:00",
       "type": "drone",
       "status": "unconfirmed",
       "location": {
@@ -1139,50 +1183,6 @@
         "lng": 34.7818
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/europe/2026/10/05/missiles-satellites-and-warplanes-ukraine-europe-advance-key-arms-projects/",
-      "title": "Missiles, satellites and warplanes \u2014 Ukraine, Europe advance key arms projects",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/10/05/missiles-satellites-and-warplanes-ukraine-europe-advance-key-arms-projects/",
-      "published": "2026-10-05T10:36:55+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/air/2026/10/05/us-removes-b-1-bombers-from-uk-base-amid-security-concerns/",
-      "title": "US removes B-1 bombers from UK base amid security concerns",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/air/2026/10/05/us-removes-b-1-bombers-from-uk-base-amid-security-concerns/",
-      "published": "2026-10-05T07:40:09+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
