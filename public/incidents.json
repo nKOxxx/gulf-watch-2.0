@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-06T03:39:08.211632+00:00",
+  "generated_at": "2026-10-06T04:38:11.397342+00:00",
   "total_incidents": 48,
   "incidents": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo#0",
+      "title": "Yemeni military says it has 'secured' Red Sea waterway",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T04:29:53+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/opinion/comment/2026/10/06/gulf-gcc-economies-manufacturing-industrial-revolution/",
+      "title": "The Gulf\u2019s next industrial revolution should be made across borders",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/opinion/comment/2026/10/06/gulf-gcc-economies-manufacturing-industrial-revolution/",
+      "published": "2026-10-06T04:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/football/2026/10/06/lionel-messi-set-for-last-tango-with-argentina-as-cristiano-ronaldo-pouts-on-portugal-sidelines/",
+      "title": "Lionel Messi set for 'Last Tango' with Argentina as Cristiano Ronaldo pouts on Portugal sidelines",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/06/lionel-messi-set-for-last-tango-with-argentina-as-cristiano-ronaldo-pouts-on-portugal-sidelines/",
+      "published": "2026-10-06T03:44:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791246631",
       "title": "UN rights council condemns attacks on civilians in Sudan, calls for truce",
@@ -69,28 +135,6 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo#0",
-      "title": "Yemeni military says it has 'secured' Red Sea waterway",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T01:05:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1791246214",
       "title": "Syrian Airlines unveils laser-sharp look for the future",
       "source": "Al Jazeera",
@@ -103,28 +147,6 @@
         "city": null,
         "lat": 34.8021,
         "lng": 38.9968
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791238318",
-      "title": "New York state declares measles disaster amid resurgence of disease in US",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/6/new-york-state-declares-measles-disaster-amid-resurgence-of-disease-in-us?traffic_source=rss",
-      "published": "2026-10-06T00:00:36+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -238,28 +260,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/05/polish-embassy-in-us-expresses-outrage-over-tucker-carlson-comments-on-second-world-war/",
-      "title": "Polish embassy in US expresses outrage over Tucker Carlson comments on Second World War",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/05/polish-embassy-in-us-expresses-outrage-over-tucker-carlson-comments-on-second-world-war/",
-      "published": "2026-10-05T19:56:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
