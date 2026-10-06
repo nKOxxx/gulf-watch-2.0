@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-06T21:31:14.562477+00:00",
+  "generated_at": "2026-10-06T22:32:38.794965+00:00",
   "total_incidents": 60,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791322823",
+      "title": "Houthis, Saudi-led forces claim victories as Yemen fighting rages on",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on?traffic_source=rss",
+      "published": "2026-10-06T21:57:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791319285",
       "title": "Tokyo protests US military presence after Okinawa killing",
@@ -128,28 +150,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791310304",
-      "title": "US lawmakers call on Israel to release imprisoned doctor Hussam Abu Safia",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/6/us-lawmakers-call-on-israel-to-release-imprisoned-doctor-hussam-abu-safia?traffic_source=rss",
-      "published": "2026-10-06T20:42:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
