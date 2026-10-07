@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-10-07T05:35:28.060741+00:00",
-  "total_incidents": 57,
+  "generated_at": "2026-10-07T06:50:35.129032+00:00",
+  "total_incidents": 60,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791270579",
+      "title": "Has Russia\u2019s fuel crisis given Iranian oil an opening in Central Asia?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss",
+      "published": "2026-10-07T06:33:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "6f6ac783bc2d0832450954ead9bea5c2",
+      "title": "Minister of Oil says that the 50th anniversary of the establishment of #Kuwait News Agency marks five decades of national and media service  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107719579531173942",
+      "published": "2026-10-07T06:28:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791354339",
+      "title": "How has Israel\u2019s genocide changed Gaza?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss",
+      "published": "2026-10-07T06:27:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791350707",
+      "title": "At least two killed in Kyiv as Russia launches \u2018massive\u2019 attack on Ukraine",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
+      "published": "2026-10-07T06:19:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ecf4c2794ac0c636cbd34b94d845e082",
+      "title": "#Kuwait oil price down to USD 102.80 pb  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107716837857173990",
+      "published": "2026-10-07T06:17:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791225399",
+      "title": "Yemen\u2019s displaced children dream of returning to school",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss",
+      "published": "2026-10-07T06:15:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/economy/2026/10/07/iran-war-energy-prices-imf-shocks/",
+      "title": "Iran war energy price shock large but contained so far, IMF chief says",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/07/iran-war-energy-prices-imf-shocks/",
+      "published": "2026-10-07T06:03:15+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791309809",
+      "title": "How three years of Israel\u2019s genocidal war have changed Gaza",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/7/how-three-years-of-israels-genocidal-war-have-changed-gaza?traffic_source=rss",
+      "published": "2026-10-07T05:41:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/07/houthis-claim-attacks-qatar-and-turkey-in-olympics-bid-race-and-uae-brand-to-export-camel-milk-abroad/",
+      "title": "Houthis claim attacks, Qatar and Turkey in Olympics bid race, and UAE brand to export camel milk abroad",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/07/houthis-claim-attacks-qatar-and-turkey-in-olympics-bid-race-and-uae-brand-to-export-camel-milk-abroad/",
+      "published": "2026-10-07T05:33:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb",
       "title": "Flydubai attack investigation widens as alleged hijacker\u2019s training in New Zealand scrutinised",
@@ -113,10 +311,10 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/sport/football/2026/10/07/cristiano-ronaldo-not-retiring-wants-punishment-and-says-portugal-boss-twice-broke-his-word/",
+      "id": "https://www.thenationalnews.com/sport/football/2026/10/07/cristiano-ronaldo-jorge-jesus-portugal/",
       "title": "Cristiano Ronaldo not retiring, wants punishment and says Portugal boss twice 'broke his word'",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/07/cristiano-ronaldo-not-retiring-wants-punishment-and-says-portugal-boss-twice-broke-his-word/",
+      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/07/cristiano-ronaldo-jorge-jesus-portugal/",
       "published": "2026-10-07T04:06:35+00:00",
       "type": "incident",
       "status": "unconfirmed",
@@ -179,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791316922",
-      "title": "What Israeli schools teach",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/what-israeli-schools-teach?traffic_source=rss",
-      "published": "2026-10-07T04:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/gulf/2026/10/07/houthis-claim-dawn-drone-and-missile-strikes-on-saudi-and-yemeni-airports/",
       "title": "Houthis claim dawn drone and missile strikes on Saudi and Yemeni airports",
       "source": "The National UAE",
@@ -224,7 +400,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/uae/2026/10/07/fog-alert-issued-as-abu-dhabi-cuts-speed-limits-to-80kph-on-key-routes/",
-      "title": "Fog alert issued as Abu Dhabi cuts speed limits to 80kph on key routes",
+      "title": "Abu Dhabi lifts 80kph speed limit cap after morning fog alert",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/uae/2026/10/07/fog-alert-issued-as-abu-dhabi-cuts-speed-limits-to-80kph-on-key-routes/",
       "published": "2026-10-07T03:35:57+00:00",
@@ -237,28 +413,6 @@
         "lng": 54.3773
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791335348",
-      "title": "Oman evacuates injured crew from attacked tanker in Strait of Hormuz",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/7/oman-evacuates-injured-crew-from-attacked-tanker-in-strait-of-hormuz?traffic_source=rss",
-      "published": "2026-10-07T03:16:32+00:00",
-      "type": "ground",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 21.4735,
-        "lng": 55.9754
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -282,50 +436,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791339692",
-      "title": "Explosion shutters Venezuela\u2019s second-largest oil refinery",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/explosion-shutters-venezuelas-second-largest-oil-refinery?traffic_source=rss",
-      "published": "2026-10-07T02:23:03+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791338961",
-      "title": "Why do airport and flight rules exist?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/why-do-airport-and-flight-rules-exist?traffic_source=rss",
-      "published": "2026-10-07T02:20:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -590,50 +700,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f828c10034837f48e6332e4dbeadee4b",
-      "title": "Minister of Justice says the Cabinet's approval of a draft decree-law amending certain provisions of the Notarization Law represents an important step toward strengthening family stability, protecting family members' rights & developing notarization services.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2107526357215297645",
-      "published": "2026-10-06T17:40:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3758683eba2a52613539de9409edf480",
-      "title": "Kuwaiti Minister of State for Economic Affairs & Investment and Acting Minister of Commerce and Industry Abdulaziz Al-Marzouq headed Kuwait's delegation attending the 71st meeting of Gulf ministers of commerce, held in Manama.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2107523731677430262",
-      "published": "2026-10-06T17:29:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 26.2285,
-        "lng": 50.586
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
