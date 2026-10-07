@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-07T04:39:09.133699+00:00",
-  "total_incidents": 59,
+  "generated_at": "2026-10-07T05:35:28.060741+00:00",
+  "total_incidents": 57,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb",
+      "title": "Flydubai attack investigation widens as alleged hijacker\u2019s training in New Zealand scrutinised",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb",
+      "published": "2026-10-07T05:25:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o#0",
+      "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T05:02:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791207827",
+      "title": "Three years of Israel\u2019s genocide in Gaza: In numbers",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers?traffic_source=rss",
+      "published": "2026-10-07T05:02:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/07/president-sheikh-mohamed-congratulates-saudi-arabia-on-arabian-gulf-cup-triumph-over-uae/",
+      "title": "President Sheikh Mohamed congratulates Saudi Arabia on Arabian Gulf Cup triumph over UAE",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/07/president-sheikh-mohamed-congratulates-saudi-arabia-on-arabian-gulf-cup-triumph-over-uae/",
+      "published": "2026-10-07T04:44:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791345374",
+      "title": "Israelis pause to mark October 7 Hamas-attack anniversary",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israelis-pause-to-mark-october-7-hamas-attack-anniversary?traffic_source=rss",
+      "published": "2026-10-07T04:43:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/sport/football/2026/10/07/cristiano-ronaldo-not-retiring-wants-punishment-and-says-portugal-boss-twice-broke-his-word/",
       "title": "Cristiano Ronaldo not retiring, wants punishment and says Portugal boss twice 'broke his word'",
@@ -157,28 +267,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/opinion/comment/2026/10/07/palestine-israel-gaza-hamas-october-7-donald-trump/",
-      "title": "Gaza and the choice ahead",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/opinion/comment/2026/10/07/palestine-israel-gaza-hamas-october-7-donald-trump/",
-      "published": "2026-10-07T03:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "5407b36a9414ab25d6c7ff0dd348df31",
       "title": "Yemen vehemently condemns Houthi militia attacks on Saudi airports, holy sites  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -235,50 +323,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791338117",
-      "title": "Two Houthi missiles target Yemen\u2019s Aden International Airport",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/two-houthi-missiles-target-yemens-aden-international-airport?traffic_source=rss",
-      "published": "2026-10-07T01:59:15+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Yemen",
-        "city": null,
-        "lat": 12.7855,
-        "lng": 45.0187
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791335838",
-      "title": "Syrian embassy returns seized passport after 43 years",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss",
-      "published": "2026-10-07T01:20:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
       },
       "credibility": 90,
       "is_government": false,
@@ -817,28 +861,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/06/former-un-food-agency-official-fao-benjamin-davis-hunger-gaza",
-      "title": "Former UN food agency official claims he was fired for highlighting hunger in Gaza",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/06/former-un-food-agency-official-fao-benjamin-davis-hunger-gaza",
-      "published": "2026-10-06T11:31:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "88094388f37eea1f8ecff5e26c97b6d5",
       "title": ". The United Arab Emirates has strongly condemned the aerial attack on two trucks contracted by the World Food Programme...",
       "source": "WAM News (RSS.app)",
@@ -905,28 +927,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/global-development/2026/oct/06/iranian-nobel-laureate-narges-mohammadi-recounts-prison-beating",
-      "title": "\u2018A return to prison is always looming\u2019: Iran\u2019s Nobel laureate recounts torture in jail and hopes for the future",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/global-development/2026/oct/06/iranian-nobel-laureate-narges-mohammadi-recounts-prison-beating",
-      "published": "2026-10-06T08:00:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo#0",
       "title": "Yemeni military says it has 'secured' Red Sea waterway",
       "source": "BBC Middle East",
@@ -986,28 +986,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o#0",
-      "title": "Children brave snipers and mortars to go to school near Yemen front line",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T07:23:24+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1257,7 +1235,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o#1",
       "title": "Yemen's government announces all-out war to reclaim land from Houthis",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
@@ -1269,28 +1247,6 @@
         "city": null,
         "lat": 15.5527,
         "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o#1",
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-04T04:57:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 95,
       "is_government": false,
