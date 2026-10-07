@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-07T01:50:25.664109+00:00",
+  "generated_at": "2026-10-07T02:49:21.167306+00:00",
   "total_incidents": 61,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791339692",
+      "title": "Explosion shutters Venezuela\u2019s second-largest oil refinery",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/explosion-shutters-venezuelas-second-largest-oil-refinery?traffic_source=rss",
+      "published": "2026-10-07T02:23:03+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791338961",
+      "title": "Why do airport and flight rules exist?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/why-do-airport-and-flight-rules-exist?traffic_source=rss",
+      "published": "2026-10-07T02:20:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791338117",
+      "title": "Two Houthi missiles target Yemen\u2019s Aden International Airport",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/two-houthi-missiles-target-yemens-aden-international-airport?traffic_source=rss",
+      "published": "2026-10-07T01:59:15+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Yemen",
+        "city": null,
+        "lat": 12.7855,
+        "lng": 45.0187
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/us/2026/10/07/firing-squad-execution-nidal-hasan/",
       "title": "Trump orders firing squad execution for gunman who killed 13 people at Fort Hood",
@@ -96,28 +162,6 @@
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss",
       "published": "2026-10-07T00:35:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 38.0962,
-        "lng": 46.2738
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791324628",
-      "title": "Iran war live: Yemen forces claim control over strategic Taiz mountain peak",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss",
-      "published": "2026-10-07T00:00:00+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -355,28 +399,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/06/trump-los-angeles-newsom-san-diego/",
-      "title": "California Governor Newsom says Trump's remarks on Iran striking Los Angeles and San Diego were 'disgusting'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/06/trump-los-angeles-newsom-san-diego/",
-      "published": "2026-10-06T19:17:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/commentisfree/2026/oct/06/the-guardian-view-on-the-green-party-and-palestine-rejecting-two-states-is-no-shortcut-to-peace",
       "title": "The Guardian view on the Green party and Palestine: rejecting two states is no shortcut to peace | Editorial",
       "source": "The Guardian",
@@ -436,28 +458,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/future/technology/2026/10/06/hackers-saudi-arabia-cyberattack-world-cup/",
-      "title": "Hackers steal 1.5 million files from Saudi construction firm, cybersecurity group says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/06/hackers-saudi-arabia-cyberattack-world-cup/",
-      "published": "2026-10-06T17:58:55+00:00",
-      "type": "cyber",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
