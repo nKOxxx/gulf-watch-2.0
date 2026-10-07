@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-07T01:11:52.466595+00:00",
-  "total_incidents": 59,
+  "generated_at": "2026-10-07T01:50:25.664109+00:00",
+  "total_incidents": 61,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/07/firing-squad-execution-nidal-hasan/",
+      "title": "Trump orders firing squad execution for gunman who killed 13 people at Fort Hood",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/07/firing-squad-execution-nidal-hasan/",
+      "published": "2026-10-07T01:31:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791335838",
+      "title": "Syrian embassy returns seized passport after 43 years",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss",
+      "published": "2026-10-07T01:20:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791327511",
+      "title": "Politicians slam Trump\u2019s suggestion that Iran \u2018take\u2019 San Diego, Los Angeles",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss",
+      "published": "2026-10-07T01:07:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791334265",
       "title": "What\u2019s behind Israel\u2019s growing shift to the right?",
@@ -502,28 +568,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/06/sheikh-mansour-bin-zayed-calls-for-innovation-and-resilience-to-boost-worlds-food-security/",
-      "title": "Sheikh Mansour bin Zayed calls for innovation and resilience to boost world's food security",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/06/sheikh-mansour-bin-zayed-calls-for-innovation-and-resilience-to-boost-worlds-food-security/",
-      "published": "2026-10-06T16:48:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
