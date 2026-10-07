@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-07T09:37:44.360432+00:00",
-  "total_incidents": 60,
+  "generated_at": "2026-10-07T10:34:03.367754+00:00",
+  "total_incidents": 59,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791364362",
+      "title": "Bulgaria ends search for missing crew after drone strike sinks cargo ship",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/7/bulgaria-ends-search-for-missing-crew-after-drone-strike-sinks-cargo-ship?traffic_source=rss",
+      "published": "2026-10-07T10:12:04+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Egypt",
+        "city": null,
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791360548",
+      "title": "Photos: Three years of Israel\u2019s war on Gaza as tent cities spread amid ruin",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/gallery/2026/10/7/photos-three-years-of-israels-war-on-gaza-as-tent-cities-spread-amid-ruin?traffic_source=rss",
+      "published": "2026-10-07T09:55:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/business/markets/2026/10/07/iraq-devalues-currency-as-war-and-hormuz-closure-squeeze-cash/",
       "title": "Iraq devalues currency as war and Hormuz closure squeeze cash",
@@ -40,6 +84,28 @@
       },
       "credibility": 85,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "df61827ae9b141d50111507cfa92242f",
+      "title": ". The United Arab Emirates has condemned in the strongest terms the Houthi group\u2019s continued targeting of civilians and ...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DeMBAKICKDM",
+      "published": "2026-10-07T09:16:10+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -201,28 +267,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791360371",
-      "title": "Israeli troops seen smashing memorial in occupied West Bank",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israeli-troops-seen-smashing-memorial-in-occupied-west-bank?traffic_source=rss",
-      "published": "2026-10-07T08:16:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "f12897ba4160adfadeba74c0fb9973c9",
       "title": "Mansoor bin Mohammed: Cooperation between sports federations and clubs in Dubai and at the UAE level represents a vital pillar in the development of the sports sector and the realisation of its national goals. We value the sincere efforts of all those striving to develop our athletes, nurture talent, and supply our national teams with true champions, which reinforces the leadership\u2019s steadfast support for the sports sector and highlights sports as an integral aspect of our society that exemplifies its advancement across diverse fields.",
       "source": "Dubai Media Office (RSS.app)",
@@ -282,28 +326,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791346235",
-      "title": "Yemen\u2019s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss",
-      "published": "2026-10-07T06:41:11+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Yemen",
-        "city": null,
-        "lat": 12.7855,
-        "lng": 45.0187
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -685,28 +707,6 @@
       }
     },
     {
-      "id": "cdeb7fca69fbf9f8adcba2ecd0ab2174",
-      "title": "RT by @DXBMediaOffice: We inaugurated the 30th edition of Beautyworld Dubai, bringing together leading industry experts and global brands to showcase the latest innovations and trends shaping the beauty industry. With each edition, the exhibition continues to strengthen Dubai\u2019s position as a global hub connecting east to west, bringing together brands, experts and professionals to exchange knowledge, explore the latest market trends and create new opportunities for collaboration and growth.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/hhshklatifa/status/2107538722707394602",
-      "published": "2026-10-06T18:29:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=96824",
       "title": "What it takes to succeed as Secretary of the Navy",
       "source": "Breaking Defense",
@@ -920,28 +920,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "88094388f37eea1f8ecff5e26c97b6d5",
-      "title": ". The United Arab Emirates has strongly condemned the aerial attack on two trucks contracted by the World Food Programme...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DeJhu0diLH0",
-      "published": "2026-10-06T10:04:26+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1192,8 +1170,8 @@
     },
     {
       "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
-      "source": "UAE MOI (RSS.app)",
+      "title": "RT by @UAEmediaoffice: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
+      "source": "UAE Media Office (RSS.app)",
       "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
       "published": "2026-10-05T04:09:00+00:00",
       "type": "incident",
@@ -1214,8 +1192,8 @@
     },
     {
       "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @UAEmediaoffice: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
-      "source": "UAE Media Office (RSS.app)",
+      "title": "RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
+      "source": "UAE MOI (RSS.app)",
       "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
       "published": "2026-10-05T04:09:00+00:00",
       "type": "incident",
