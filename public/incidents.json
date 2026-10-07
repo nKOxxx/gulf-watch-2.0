@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-07T17:35:09.187449+00:00",
-  "total_incidents": 50,
+  "generated_at": "2026-10-07T18:40:52.391616+00:00",
+  "total_incidents": 52,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/gallery/2026/oct/07/commemorations-for-the-7-october-hamas-attacks-in-pictures",
+      "title": "Commemorations for victims of the 7 October Hamas attacks \u2013 in pictures",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/gallery/2026/oct/07/commemorations-for-the-7-october-hamas-attacks-in-pictures",
+      "published": "2026-10-07T18:29:27+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/10/07/rubio-says-us-greece-to-jointly-combat-security-threats/",
+      "title": "Rubio says US, Greece to jointly combat security threats",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/07/rubio-says-us-greece-to-jointly-combat-security-threats/",
+      "published": "2026-10-07T18:25:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791396856",
+      "title": "How genocide in Gaza followed Bosnia\u2019s painful pattern",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-genocide-in-gaza-followed-bosnias-painful-pattern?traffic_source=rss",
+      "published": "2026-10-07T18:16:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791387696",
+      "title": "US Supreme Court hears challenge to air force UXO detonations in Guam",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/7/us-supreme-court-hears-challenge-to-air-force-uxo-detonations-in-guam?traffic_source=rss",
+      "published": "2026-10-07T18:16:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791395261",
+      "title": "Jerusalem Daily: Gaza\u2019s devastation, three years after October 7",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/jerusalem-daily-gazas-devastation-three-years-after-october-7?traffic_source=rss",
+      "published": "2026-10-07T18:03:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791391703",
+      "title": "Spanish unions call general strike over housing before snap election",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/7/spanish-unions-call-general-strike-over-housing-before-snap-election?traffic_source=rss",
+      "published": "2026-10-07T18:02:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/07/under-pressure-araghchi-defends-irans-war-diplomacy/",
+      "title": "Under-pressure Araghchi defends Iran's war diplomacy",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/07/under-pressure-araghchi-defends-irans-war-diplomacy/",
+      "published": "2026-10-07T17:43:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "943bf2fcd50efa4c890244fcd60b6f2d",
       "title": "#Kuwait Ministry of Interior Undersecretary Maj. Gen. Abdulwahab Al-Wuhaib stresses the importance of continuing coordination between security and ministry sectors to handle new developments efficiently, and ensure the safety of citizens and residents  #KUNA #KUWAIT",
@@ -245,28 +399,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791371012",
-      "title": "How Israel\u2019s genocide in Gaza pulled Britons into the Palestine movement",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/7/how-israels-genocide-in-gaza-pulled-britons-into-the-palestine-movement?traffic_source=rss",
-      "published": "2026-10-07T15:13:21+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/europe/2026/10/07/crown-prince-of-jordan-and-european-leaders-discuss-energy-crisis-caused-by-hormuz-blockade/",
       "title": "Crown Prince of Jordan and European leaders discuss energy crisis caused by Hormuz blockade",
       "source": "The National UAE",
@@ -303,50 +435,6 @@
         "lng": 34.8516
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/07/four-deputies-one-son-in-law-iraqi-pms-cabinet-deal-exposes-price-of-consensus/",
-      "title": "Four deputies, one son-in-law: Iraqi PM\u2019s cabinet deal exposes price of consensus",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/07/four-deputies-one-son-in-law-iraqi-pms-cabinet-deal-exposes-price-of-consensus/",
-      "published": "2026-10-07T14:47:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791376378",
-      "title": "South Korea signals military exemption cuts for athletes after Asian Games",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/10/7/south-korea-signals-military-exemption-cuts-for-gold-medallists-after-backlash-at-athletes-asian-games-comments?traffic_source=rss",
-      "published": "2026-10-07T13:38:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -633,28 +721,6 @@
         "lng": 35.2137
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/commentisfree/2026/oct/06/the-guardian-view-on-the-green-party-and-palestine-rejecting-two-states-is-no-shortcut-to-peace",
-      "title": "The Guardian view on the Green party and Palestine: rejecting two states is no shortcut to peace | Editorial",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/oct/06/the-guardian-view-on-the-green-party-and-palestine-rejecting-two-states-is-no-shortcut-to-peace",
-      "published": "2026-10-06T18:34:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9522,
-        "lng": 35.2332
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -986,28 +1052,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/your-military/2026/10/05/us-army-tests-counter-drone-tech-at-mexican-border-as-cartel-drone-use-rises/",
-      "title": "US Army tests counter-drone tech at Mexican border as cartel drone use rises",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-military/2026/10/05/us-army-tests-counter-drone-tech-at-mexican-border-as-cartel-drone-use-rises/",
-      "published": "2026-10-05T15:31:00+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
