@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-10-06T23:31:41.317436+00:00",
+  "generated_at": "2026-10-07T01:11:52.466595+00:00",
   "total_incidents": 59,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1791322823",
-      "title": "Houthis, Saudi-led forces claim victories as Yemen fighting rages on",
+      "id": "https://www.aljazeera.com/?t=1791334265",
+      "title": "What\u2019s behind Israel\u2019s growing shift to the right?",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on?traffic_source=rss",
-      "published": "2026-10-06T21:57:03+00:00",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss",
+      "published": "2026-10-07T00:58:21+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Saudi Arabia",
+        "country": "Israel",
         "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
+        "lat": 31.0461,
+        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -25,18 +25,40 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791319285",
-      "title": "Tokyo protests US military presence after Okinawa killing",
+      "id": "https://www.aljazeera.com/?t=1791322819",
+      "title": "Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss",
-      "published": "2026-10-06T21:20:28+00:00",
+      "source_url": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss",
+      "published": "2026-10-07T00:35:57+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": null,
+        "country": "Iran",
         "city": null,
-        "lat": 29.0,
-        "lng": 48.0
+        "lat": 38.0962,
+        "lng": 46.2738
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791324628",
+      "title": "Iran war live: Yemen forces claim control over strategic Taiz mountain peak",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss",
+      "published": "2026-10-07T00:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 38.0962,
+        "lng": 46.2738
       },
       "credibility": 90,
       "is_government": false,
@@ -179,10 +201,10 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/future/2026/10/06/nuclear-renaissance-data-center-ppa-constellation/",
-      "title": "Google backs 'existing nuclear plants' as AI strains US energy grid",
+      "id": "https://www.thenationalnews.com/future/2026/10/06/google-constellation-energy-nuclear-ppa/",
+      "title": "Google backs 'existing nuclear plants' as data centres strain US energy grid",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/2026/10/06/nuclear-renaissance-data-center-ppa-constellation/",
+      "source_url": "https://www.thenationalnews.com/future/2026/10/06/google-constellation-energy-nuclear-ppa/",
       "published": "2026-10-06T20:20:08+00:00",
       "type": "incident",
       "status": "unconfirmed",
@@ -524,28 +546,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/uk/2026/10/06/energy-forum-seeks-to-rescue-supply-disrupted-by-us-iran-war/",
-      "title": "Energy forum seeks to rescue supply disrupted by US-Iran war",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/uk/2026/10/06/energy-forum-seeks-to-rescue-supply-disrupted-by-us-iran-war/",
-      "published": "2026-10-06T16:11:04+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1148,8 +1148,8 @@
     },
     {
       "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @UAEmediaoffice: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
-      "source": "UAE Media Office (RSS.app)",
+      "title": "RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
+      "source": "UAE MOI (RSS.app)",
       "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
       "published": "2026-10-05T04:09:00+00:00",
       "type": "incident",
@@ -1170,8 +1170,8 @@
     },
     {
       "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
-      "source": "UAE MOI (RSS.app)",
+      "title": "RT by @UAEmediaoffice: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
+      "source": "UAE Media Office (RSS.app)",
       "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
       "published": "2026-10-05T04:09:00+00:00",
       "type": "incident",
