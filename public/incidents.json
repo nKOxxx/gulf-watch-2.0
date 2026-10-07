@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-07T06:50:35.129032+00:00",
-  "total_incidents": 60,
+  "generated_at": "2026-10-07T07:42:37.639475+00:00",
+  "total_incidents": 59,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/future/technology/2026/10/07/uaes-very-powerful-cyber-defences-can-repel-attacks-says-mistral-ai-boss/",
+      "title": "UAE's 'very powerful' cyber defences can repel attacks, says Mistral AI boss",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/07/uaes-very-powerful-cyber-defences-can-repel-attacks-says-mistral-ai-boss/",
+      "published": "2026-10-07T07:04:29+00:00",
+      "type": "cyber",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "29705747a23069e83010ebfbc5ffd79e",
+      "title": "RT by @DXBMediaOffice: During the Dubai Sports Council meeting, I approved the 2026\u20132027 sports events calendar, featuring a diverse line-up of sporting events and championships taking place across Dubai throughout the year. We also reviewed progress on projects and initiatives under the Dubai Sports Strategy 2033, as well as preparations for the second edition of the World Sports Summit on 28 and 29 December, which will bring together leading sports stars and figures from around the world.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/sheikhmansoor/status/2107727906512543827",
+      "published": "2026-10-07T07:01:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791346235",
+      "title": "Yemen\u2019s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss",
+      "published": "2026-10-07T06:41:11+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Yemen",
+        "city": null,
+        "lat": 12.7855,
+        "lng": 45.0187
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791270579",
       "title": "Has Russia\u2019s fuel crisis given Iranian oil an opening in Central Asia?",
@@ -289,28 +355,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791345374",
-      "title": "Israelis pause to mark October 7 Hamas-attack anniversary",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israelis-pause-to-mark-october-7-hamas-attack-anniversary?traffic_source=rss",
-      "published": "2026-10-07T04:43:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/sport/football/2026/10/07/cristiano-ronaldo-jorge-jesus-portugal/",
       "title": "Cristiano Ronaldo not retiring, wants punishment and says Portugal boss twice 'broke his word'",
       "source": "The National UAE",
@@ -369,50 +413,6 @@
         "lng": 35.2332
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/07/houthis-claim-dawn-drone-and-missile-strikes-on-saudi-and-yemeni-airports/",
-      "title": "Houthis claim dawn drone and missile strikes on Saudi and Yemeni airports",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/07/houthis-claim-dawn-drone-and-missile-strikes-on-saudi-and-yemeni-airports/",
-      "published": "2026-10-07T03:40:33+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/07/fog-alert-issued-as-abu-dhabi-cuts-speed-limits-to-80kph-on-key-routes/",
-      "title": "Abu Dhabi lifts 80kph speed limit cap after morning fog alert",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/07/fog-alert-issued-as-abu-dhabi-cuts-speed-limits-to-80kph-on-key-routes/",
-      "published": "2026-10-07T03:35:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -700,28 +700,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e9915a7e88a39c72f5087bc54760c222",
-      "title": "DXB: Up to 36 weekly flights between Dubai and Europe are returning to DXB Lufthansa: from DXB to Munich and Frankfurt, starting from 25 October Fly Swiss: from DXB to Zurich, starting from 27 October Euro Wings: from DXB to Berlin, Stuttgart and Cologne-Bonn, starting from 1 November Austrian Airlines: from DXB to Vienna, starting from 12 December",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2107504576970756392",
-      "published": "2026-10-06T16:13:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1192,8 +1170,8 @@
     },
     {
       "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @UAEmediaoffice: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
-      "source": "UAE Media Office (RSS.app)",
+      "title": "RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
+      "source": "UAE MOI (RSS.app)",
       "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
       "published": "2026-10-05T04:09:00+00:00",
       "type": "incident",
@@ -1214,8 +1192,8 @@
     },
     {
       "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
-      "source": "UAE MOI (RSS.app)",
+      "title": "RT by @UAEmediaoffice: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
+      "source": "UAE Media Office (RSS.app)",
       "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
       "published": "2026-10-05T04:09:00+00:00",
       "type": "incident",
