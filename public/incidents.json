@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-10-07T13:36:54.765161+00:00",
-  "total_incidents": 52,
+  "generated_at": "2026-10-07T14:34:57.442050+00:00",
+  "total_incidents": 55,
   "incidents": [
+    {
+      "id": "525c8672660ca3fb6364a15c17b4f0bf",
+      "title": "Hamdan bin Mohammed: Today, we honoured the winners of the third edition of the \u2018Create Apps Championship\u2019. Over three editions, the initiative has attracted more than 15,000 entries from 153 countries, helped develop 1,700 innovative prototypes, and supported the launch of more than 140 applications across vital and future-focused sectors. Ideas and talent from around the world have come together in Dubai, where innovators can access the support and investment needed to turn their ideas into impact. We also launched the \u2018AI Agents Championship\u2019, further advancing Dubai\u2019s leadership in the use of AI to deliver faster, easier and more efficient services. We invite innovators worldwide to shar",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2107835608395903276",
+      "published": "2026-10-07T14:09:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/07/uk-consulate-east-jerusalem-prepares-close-israel",
+      "title": "\u2018Palestinians will bear the cost\u2019: UK consulate in East Jerusalem prepares to shut its doors",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/07/uk-consulate-east-jerusalem-prepares-close-israel",
+      "published": "2026-10-07T14:00:53+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "88e16129e6cc426b0817ba7022b52ac7",
+      "title": "#Bahrain's Shura Council Chairman meets with #Kuwait's Ambassador, underlining the importance of building on the joint successes and bilateral achievements between both sides.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107832715970032086",
+      "published": "2026-10-07T13:57:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 26.0667,
+        "lng": 50.5577
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "7329b5c8000d7c9981a5a5d501c40de6",
+      "title": "RT by @DXBMediaOffice: Today, we honoured the winners of the third edition of the \u2018Create Apps Championship\u2019. Over three editions, the initiative has attracted more than 15,000 entries from 153 countries, helped develop 1,700 innovative prototypes, and supported the launch of more than 140 applications across vital and future-focused sectors. Ideas and talent from around the world have come together in Dubai, where innovators can access the support and investment needed to turn their ideas into impact. We also launched the \u2018AI Agents Championship\u2019, further advancing Dubai\u2019s leadership in the use of AI to deliver faster, easier and more efficient services. We invite innovators worldwide to sh",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/HamdanMohammed/status/2107831845018857475",
+      "published": "2026-10-07T13:54:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791376378",
+      "title": "South Korea signals military exemption cuts for athletes after Asian Games",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/10/7/south-korea-signals-military-exemption-cuts-for-gold-medallists-after-backlash-at-athletes-asian-games-comments?traffic_source=rss",
+      "published": "2026-10-07T13:38:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "42ea8ac9e50a426f2b1c60e1299a27cd",
+      "title": "#Kuwait's Sports & Youth Affairs hails the country's state news agency KUNA as having conveyed a \"positive\" image of Kuwait to the world, against the backdrop of the agency's 50th anniversary.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2107826937406054721",
+      "published": "2026-10-07T13:34:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791371955",
+      "title": "Saudi Arabia beat UAE 2-0 to end 22-year wait for Arabian Gulf Cup crown",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/10/7/saudi-arabia-beat-uae-2-0-to-end-22-year-wait-for-arabian-gulf-cup-crown?traffic_source=rss",
+      "published": "2026-10-07T13:30:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "50190893065fe7c0b6b1beed4d684277",
+      "title": "DP World reaffirms its long-term commitment to supporting India\u2019s economic growth and global trade ambitions, as Essa Kazim, Executive Chairman, made his first visit to the country in his new role, accompanied by Yuvraj Narayan, Group Chief Executive Officer, and members of DP World\u2019s Global Board of Directors. During the visit, the second phase of the Nhava Sheva Business Park was inaugurated, adding one million square feet of warehousing capacity to the existing one million-square-foot facility, with an investment of approximately US$52 million.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2107825352164954277",
+      "published": "2026-10-07T13:28:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/business/energy/2026/10/07/iran-war-disruption-creates-huge-oil-trading-opportunities-vitol-says/",
       "title": "Iran war disruption creates \u2018huge\u2019 oil trading opportunities, Vitol says",
@@ -92,7 +268,7 @@
     },
     {
       "id": "https://www.aljazeera.com/?t=1791366512",
-      "title": "Palestinian killed, several injured in Israeli pogrom in occupied West Bank",
+      "title": "Palestinian killed, 16 wounded in Israeli pogrom in occupied West Bank",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/2026/10/7/palestinian-killed-several-injured-in-israeli-pogrom-in-occupied-west-bank?traffic_source=rss",
       "published": "2026-10-07T12:38:31+00:00",
@@ -107,9 +283,9 @@
       "credibility": 90,
       "is_government": false,
       "casualties": {
-        "total": 0,
+        "total": 16,
         "military": 0,
-        "civilian": 0
+        "civilian": 16
       }
     },
     {
@@ -193,28 +369,6 @@
         "lng": 51.389
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791374798",
-      "title": "South Korea\u2019s military service exemption could be cut for athletes",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/south-koreas-military-service-exemption-could-be-cut-for-athletes?traffic_source=rss",
-      "published": "2026-10-07T12:09:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -323,50 +477,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f12897ba4160adfadeba74c0fb9973c9",
-      "title": "Mansoor bin Mohammed: Cooperation between sports federations and clubs in Dubai and at the UAE level represents a vital pillar in the development of the sports sector and the realisation of its national goals. We value the sincere efforts of all those striving to develop our athletes, nurture talent, and supply our national teams with true champions, which reinforces the leadership\u2019s steadfast support for the sports sector and highlights sports as an integral aspect of our society that exemplifies its advancement across diverse fields.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2107745521939140795",
-      "published": "2026-10-07T08:11:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4061cf41027048b37de0f40a7628c1f4",
-      "title": "Mansoor bin Mohammed chairs Dubai Sports Council Board meeting and approves the general calendar of sporting events in Dubai for the 2026-27 season. During a meeting of the Board of Directors of the Dubai Sports Council (DSC), His Highness also directed that the hundreds of sporting events held annually in Dubai be well publicised to encourage more sports enthusiasts and fans to attend international tournaments and savour sporting experiences highlighted by the presence of champions from different sports all year round in Dubai.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2107745491643728352",
-      "published": "2026-10-07T08:10:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 95,
       "is_government": true,
@@ -817,28 +927,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/us-news/2026/oct/06/us-israel-far-right-conference",
-      "title": "US, Israeli and European far-right figures to gather for conference in Israel",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/oct/06/us-israel-far-right-conference",
-      "published": "2026-10-06T12:21:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/global/europe/2026/10/06/lithuania-says-it-would-pay-the-cost-if-us-establishes-military-base/",
       "title": "Lithuania says it would pay the cost if US establishes military base",
       "source": "Defense News",
@@ -986,28 +1074,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=97486",
-      "title": "US OKs missile guidance kits, Patriot repairs, Javelins for Middle East partners",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/us-oks-missile-guidance-kits-patriot-repairs-javelins-to-middle-east-partners/",
-      "published": "2026-10-05T19:39:32+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
