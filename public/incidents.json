@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-07T02:49:21.167306+00:00",
-  "total_incidents": 61,
+  "generated_at": "2026-10-07T03:41:58.727758+00:00",
+  "total_incidents": 60,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791335348",
+      "title": "Oman evacuates injured crew from attacked tanker in Strait of Hormuz",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/7/oman-evacuates-injured-crew-from-attacked-tanker-in-strait-of-hormuz?traffic_source=rss",
+      "published": "2026-10-07T03:16:32+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 21.4735,
+        "lng": 55.9754
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/opinion/comment/2026/10/07/palestine-israel-gaza-hamas-october-7-donald-trump/",
+      "title": "Gaza and the choice ahead",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/opinion/comment/2026/10/07/palestine-israel-gaza-hamas-october-7-donald-trump/",
+      "published": "2026-10-07T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791339692",
       "title": "Explosion shutters Venezuela\u2019s second-largest oil refinery",
@@ -157,28 +201,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791322819",
-      "title": "Yemeni forces launch offensive to retake Houthi-held al-Waziiya in Taiz",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/7/yemeni-forces-launch-offensive-to-retake-houthi-held-al-waziiya-in-taiz?traffic_source=rss",
-      "published": "2026-10-07T00:35:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 38.0962,
-        "lng": 46.2738
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "12d662649984777d3c28f09127a6ff51",
       "title": "#Kuwait Prime Minister Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah sent a cable of congratulations to the Custodian of the Two Holy Mosques King Salman bin Abdulaziz Al Saud, King of Saudi Arabia, expressing sincere congratulations on the Saudi national football team's victory in the 27th Arabian Gulf Cup  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -282,50 +304,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/football/2026/10/06/uae-fall-short-as-saudi-arabia-win-arabian-gulf-cup-final/",
-      "title": "UAE fall short as Saudi Arabia win Arabian Gulf Cup final",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/06/uae-fall-short-as-saudi-arabia-win-arabian-gulf-cup-final/",
-      "published": "2026-10-06T20:20:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/future/2026/10/06/google-constellation-energy-nuclear-ppa/",
-      "title": "Google backs 'existing nuclear plants' as data centres strain US energy grid",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/2026/10/06/google-constellation-energy-nuclear-ppa/",
-      "published": "2026-10-06T20:20:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
