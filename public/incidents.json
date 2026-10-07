@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-07T08:42:57.452735+00:00",
+  "generated_at": "2026-10-07T09:37:44.360432+00:00",
   "total_incidents": 60,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/business/markets/2026/10/07/iraq-devalues-currency-as-war-and-hormuz-closure-squeeze-cash/",
+      "title": "Iraq devalues currency as war and Hormuz closure squeeze cash",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/markets/2026/10/07/iraq-devalues-currency-as-war-and-hormuz-closure-squeeze-cash/",
+      "published": "2026-10-07T09:27:41+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/07/live-iran-war-yemen-houthis-latest/",
+      "title": "Middle East latest: Houthi attacks on Taiz kill six and wound 18, Yemeni minister says",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/07/live-iran-war-yemen-houthis-latest/",
+      "published": "2026-10-07T09:16:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 38.0962,
+        "lng": 46.2738
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/football/2026/10/07/arabian-gulf-cup-uae-have-plenty-to-work-with-despite-final-defeat-in-jeddah/",
+      "title": "Arabian Gulf Cup: UAE have plenty to work with despite final defeat in Jeddah",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/07/arabian-gulf-cup-uae-have-plenty-to-work-with-despite-final-defeat-in-jeddah/",
+      "published": "2026-10-07T09:04:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 21.4858,
+        "lng": 39.1925
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/07/cheers-for-hardliners-and-jeers-for-palestinians-on-israels-campaign-trail/",
+      "title": "Cheers for hardliners on Israel's campaign trail as security drowns out social and economic problems",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/07/cheers-for-hardliners-and-jeers-for-palestinians-on-israels-campaign-trail/",
+      "published": "2026-10-07T09:03:45+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791363170",
+      "title": "What does a year-long ceasefire in Gaza look like?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/7/what-does-a-year-long-ceasefire-in-gaza-look-like?traffic_source=rss",
+      "published": "2026-10-07T08:55:12+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791016477",
+      "title": "Fear and a far-right lurch: How October 7 reshaped Israel",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/7/fear-and-a-far-right-lurch-how-october-7-reshaped-israel?traffic_source=rss",
+      "published": "2026-10-07T08:53:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/10/07/guyana-the-tiny-country-with-big-ambitions-fast-emerging-as-a-global-oil-producer/",
+      "title": "Guyana: The tiny country with big ambitions fast emerging as a global oil producer",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/07/guyana-the-tiny-country-with-big-ambitions-fast-emerging-as-a-global-oil-producer/",
+      "published": "2026-10-07T08:46:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791316987",
       "title": "Three years of Israel\u2019s mass dispossession of West Bank Palestinians",
@@ -113,28 +267,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/future/technology/2026/10/07/uaes-very-powerful-cyber-defences-can-repel-attacks-says-mistral-ai-boss/",
-      "title": "UAE's 'very powerful' cyber defences can repel attacks, says Mistral AI boss",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/07/uaes-very-powerful-cyber-defences-can-repel-attacks-says-mistral-ai-boss/",
-      "published": "2026-10-07T07:04:29+00:00",
-      "type": "cyber",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "29705747a23069e83010ebfbc5ffd79e",
       "title": "RT by @DXBMediaOffice: During the Dubai Sports Council meeting, I approved the 2026\u20132027 sports events calendar, featuring a diverse line-up of sporting events and championships taking place across Dubai throughout the year. We also reviewed progress on projects and initiatives under the Dubai Sports Strategy 2033, as well as preparations for the second edition of the World Sports Summit on 28 and 29 December, which will bring together leading sports stars and figures from around the world.",
       "source": "Dubai Media Office (RSS.app)",
@@ -179,28 +311,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791270579",
-      "title": "Has Russia\u2019s fuel crisis given Iranian oil an opening in Central Asia?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss",
-      "published": "2026-10-07T06:33:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "6f6ac783bc2d0832450954ead9bea5c2",
       "title": "Minister of Oil says that the 50th anniversary of the establishment of #Kuwait News Agency marks five decades of national and media service  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -223,50 +333,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791354339",
-      "title": "How has Israel\u2019s genocide changed Gaza?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss",
-      "published": "2026-10-07T06:27:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791350707",
-      "title": "At least two killed in Kyiv as Russia launches \u2018massive\u2019 attack on Ukraine",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
-      "published": "2026-10-07T06:19:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "ecf4c2794ac0c636cbd34b94d845e082",
       "title": "#Kuwait oil price down to USD 102.80 pb  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -282,72 +348,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791225399",
-      "title": "Yemen\u2019s displaced children dream of returning to school",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss",
-      "published": "2026-10-07T06:15:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/economy/2026/10/07/iran-war-energy-prices-imf-shocks/",
-      "title": "Iran war energy price shock large but contained so far, IMF chief says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/07/iran-war-energy-prices-imf-shocks/",
-      "published": "2026-10-07T06:03:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/07/houthis-claim-attacks-qatar-and-turkey-in-olympics-bid-race-and-uae-brand-to-export-camel-milk-abroad/",
-      "title": "Houthis claim attacks, Qatar and Turkey in Olympics bid race, and UAE brand to export camel milk abroad",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/07/houthis-claim-attacks-qatar-and-turkey-in-olympics-bid-race-and-uae-brand-to-export-camel-milk-abroad/",
-      "published": "2026-10-07T05:33:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
