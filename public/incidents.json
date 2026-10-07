@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-07T20:34:07.570969+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-07T21:32:41.889374+00:00",
+  "total_incidents": 50,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/07/ai-water-scarcity-uae-report/",
+      "title": "UAE report examines how to power AI in a water-scarce world",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/07/ai-water-scarcity-uae-report/",
+      "published": "2026-10-07T21:27:53+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791407089",
+      "title": "Gaza child\u2019s autoimmune condition triggered amid Israel\u2019s war",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/gaza-childs-autoimmune-condition-triggered-amid-israels-war?traffic_source=rss",
+      "published": "2026-10-07T21:06:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/07/palestinians-gaza-existing-amid-disease-despair-ruins",
+      "title": "\u2018Neither war nor peace\u2019: Palestinians in Gaza on existing amid disease, despair and ruins",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/07/palestinians-gaza-existing-amid-disease-despair-ruins",
+      "published": "2026-10-07T21:00:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791403460",
       "title": "Israel\u2019s deadline to close UK consulate in East Jerusalem nears",
@@ -103,94 +169,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791388832",
-      "title": "Witnesses spot Eritrean troops inside northern Ethiopia as tensions flare",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/7/witnesses-spot-eritrean-troops-inside-northern-ethiopia-as-tensions-flare?traffic_source=rss",
-      "published": "2026-10-07T18:43:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791394554",
-      "title": "At least 24 killed as Russia launches massive attack on Ukraine",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/at-least-24-killed-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
-      "published": "2026-10-07T18:32:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 24,
-        "military": 0,
-        "civilian": 24
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791395006",
-      "title": "Kenya on high alert amid concern over screening after first Ebola death",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/kenya-on-high-alert-amid-concern-over-screening-after-first-ebola-death?traffic_source=rss",
-      "published": "2026-10-07T18:31:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791396454",
-      "title": "Saudi Arabia says Houthi attacks on airports killed three foreign nationals",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports?traffic_source=rss",
-      "published": "2026-10-07T18:29:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
       },
       "credibility": 90,
       "is_government": false,
@@ -465,28 +443,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/europe/2026/10/07/crown-prince-of-jordan-and-european-leaders-discuss-energy-crisis-caused-by-hormuz-blockade/",
-      "title": "Crown Prince of Jordan and European leaders discuss energy crisis caused by Hormuz blockade",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/07/crown-prince-of-jordan-and-european-leaders-discuss-energy-crisis-caused-by-hormuz-blockade/",
-      "published": "2026-10-07T14:53:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Jordan",
-        "city": null,
-        "lat": 30.5852,
-        "lng": 36.2384
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "d1076b9e018d3f2314e83f6aadd9dbbb",
       "title": "\u0634\u0627\u0631\u0643\u062a \u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0641\u064a \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639 \u0627\u0644\u0633\u0627\u0628\u0639 \u0644\u0645\u062f\u064a\u0631\u064a \u0627\u0644\u0623\u0645\u0646 \u0627\u0644\u0639\u0627\u0645 \u0628\u062f\u0648\u0644 \u0645\u062c\u0644\u0633 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0644\u062f\u0648\u0644 \u0627\u0644\u062e\u0644\u064a\u062c \u0627\u0644\u0639\u0631\u0628\u064a\u0629\u060c \u0627\u0644\u0630\u064a \u0627\u0646\u0639\u0642\u062f \u0641\u064a \u0645\u0642\u0631 \u0627\u0644\u0623\u0645\u0627\u0646\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0645\u062c\u0644\u0633 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0628\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u060c \u0648\u062a\u0631\u0623\u0633 \u0648\u0641\u062f \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0641\u064a \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639 \u0627\u0644\u0639\u0645\u064a\u062f \u0633\u0639\u064a\u062f \u0628\u0646 \u062a\u0648\u064a\u0631 \u0627\u0644\u0633\u0648\u064a\u062f\u064a\u060c \u0627\u0644\u0648\u0643\u064a\u0644 \u0627\u0644\u0645\u0633\u0627\u0639\u062f \u0644\u0634\u0624\u0648\u0646 \u0627\u0644\u0623\u0645\u0646\u060c \u062d\u064a\u062b \u0646\u0627\u0642\u0634 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639 \u0639\u062f\u062f\u0627\u064b \u0645\u0646 \u0627\u0644\u0645\u0648\u0636\u0648\u0639\u0627\u062a \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0630\u0627\u062a \u0627\u0644\u0627\u0647\u062a\u0645\u0627\u0645 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u060c \u0648\u0627\u0633\u062a\u0639\u0631\u0636 \u0646\u062a\u0627\u0626\u062c \u0648\u062a\u0648\u0635\u064a\u0627\u062a \u0627\u0644\u0644\u062c\u0627\u0646 \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u0629\u060c \u0648\u0633\u0628\u0644 \u062a\u0646\u0641\u064a\u0630\u0647\u0627 \u062f\u0639\u0645\u0627\u064b \u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0623\u0645\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a. The UAE took part in the 7th Meeting of Public Security Directors of the GCC countries, held at the GCC General Secretariat headquarters in Riyadh. Brigadier Saeed bin Tuwair Al Suwaidi, Assistant Undersecretary for Security Affairs, headed the Ministry of Interior\u2019s delegation to t",
       "source": "UAE MOI (RSS.app)",
@@ -653,28 +609,6 @@
         "city": null,
         "lat": 31.9522,
         "lng": 35.2332
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/06/israeli-settlers-beat-press-photographer-as-soldiers-watch-in-west-bank",
-      "title": "Israeli settlers beat press photographer as soldiers watch in West Bank",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/06/israeli-settlers-beat-press-photographer-as-soldiers-watch-in-west-bank",
-      "published": "2026-10-06T21:00:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
