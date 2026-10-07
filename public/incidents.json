@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-07T07:42:37.639475+00:00",
-  "total_incidents": 59,
+  "generated_at": "2026-10-07T08:42:57.452735+00:00",
+  "total_incidents": 60,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791316987",
+      "title": "Three years of Israel\u2019s mass dispossession of West Bank Palestinians",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/10/7/three-years-of-israels-mass-dispossession-of-west-bank-palestinians?traffic_source=rss",
+      "published": "2026-10-07T08:22:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791100292",
+      "title": "Palestine: The Lost Team",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/al-jazeera-world/2026/10/7/palestine-the-lost-team?traffic_source=rss",
+      "published": "2026-10-07T08:17:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 31.9522,
+        "lng": 35.2332
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791360371",
+      "title": "Israeli troops seen smashing memorial in occupied West Bank",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israeli-troops-seen-smashing-memorial-in-occupied-west-bank?traffic_source=rss",
+      "published": "2026-10-07T08:16:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f12897ba4160adfadeba74c0fb9973c9",
+      "title": "Mansoor bin Mohammed: Cooperation between sports federations and clubs in Dubai and at the UAE level represents a vital pillar in the development of the sports sector and the realisation of its national goals. We value the sincere efforts of all those striving to develop our athletes, nurture talent, and supply our national teams with true champions, which reinforces the leadership\u2019s steadfast support for the sports sector and highlights sports as an integral aspect of our society that exemplifies its advancement across diverse fields.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2107745521939140795",
+      "published": "2026-10-07T08:11:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4061cf41027048b37de0f40a7628c1f4",
+      "title": "Mansoor bin Mohammed chairs Dubai Sports Council Board meeting and approves the general calendar of sporting events in Dubai for the 2026-27 season. During a meeting of the Board of Directors of the Dubai Sports Council (DSC), His Highness also directed that the hundreds of sporting events held annually in Dubai be well publicised to encourage more sports enthusiasts and fans to attend international tournaments and savour sporting experiences highlighted by the presence of champions from different sports all year round in Dubai.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2107745491643728352",
+      "published": "2026-10-07T08:10:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/future/technology/2026/10/07/uaes-very-powerful-cyber-defences-can-repel-attacks-says-mistral-ai-boss/",
       "title": "UAE's 'very powerful' cyber defences can repel attacks, says Mistral AI boss",
@@ -223,28 +333,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791309809",
-      "title": "How three years of Israel\u2019s genocidal war have changed Gaza",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/7/how-three-years-of-israels-genocidal-war-have-changed-gaza?traffic_source=rss",
-      "published": "2026-10-07T05:41:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/07/houthis-claim-attacks-qatar-and-turkey-in-olympics-bid-race-and-uae-brand-to-export-camel-milk-abroad/",
       "title": "Houthis claim attacks, Qatar and Turkey in Olympics bid race, and UAE brand to export camel milk abroad",
       "source": "The National UAE",
@@ -303,72 +391,6 @@
         "lng": 48.0
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791207827",
-      "title": "Three years of Israel\u2019s genocide in Gaza: In numbers",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers?traffic_source=rss",
-      "published": "2026-10-07T05:02:04+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/07/president-sheikh-mohamed-congratulates-saudi-arabia-on-arabian-gulf-cup-triumph-over-uae/",
-      "title": "President Sheikh Mohamed congratulates Saudi Arabia on Arabian Gulf Cup triumph over UAE",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/07/president-sheikh-mohamed-congratulates-saudi-arabia-on-arabian-gulf-cup-triumph-over-uae/",
-      "published": "2026-10-07T04:44:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/football/2026/10/07/cristiano-ronaldo-jorge-jesus-portugal/",
-      "title": "Cristiano Ronaldo not retiring, wants punishment and says Portugal boss twice 'broke his word'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/07/cristiano-ronaldo-jorge-jesus-portugal/",
-      "published": "2026-10-07T04:06:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
