@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-07T12:47:29.919914+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-07T13:36:54.765161+00:00",
+  "total_incidents": 52,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/10/07/iran-war-disruption-creates-huge-oil-trading-opportunities-vitol-says/",
+      "title": "Iran war disruption creates \u2018huge\u2019 oil trading opportunities, Vitol says",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/07/iran-war-disruption-creates-huge-oil-trading-opportunities-vitol-says/",
+      "published": "2026-10-07T13:11:27+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "d1076b9e018d3f2314e83f6aadd9dbbb",
+      "title": "\u0634\u0627\u0631\u0643\u062a \u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0641\u064a \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639 \u0627\u0644\u0633\u0627\u0628\u0639 \u0644\u0645\u062f\u064a\u0631\u064a \u0627\u0644\u0623\u0645\u0646 \u0627\u0644\u0639\u0627\u0645 \u0628\u062f\u0648\u0644 \u0645\u062c\u0644\u0633 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0644\u062f\u0648\u0644 \u0627\u0644\u062e\u0644\u064a\u062c \u0627\u0644\u0639\u0631\u0628\u064a\u0629\u060c \u0627\u0644\u0630\u064a \u0627\u0646\u0639\u0642\u062f \u0641\u064a \u0645\u0642\u0631 \u0627\u0644\u0623\u0645\u0627\u0646\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0645\u062c\u0644\u0633 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0628\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u060c \u0648\u062a\u0631\u0623\u0633 \u0648\u0641\u062f \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0641\u064a \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639 \u0627\u0644\u0639\u0645\u064a\u062f \u0633\u0639\u064a\u062f \u0628\u0646 \u062a\u0648\u064a\u0631 \u0627\u0644\u0633\u0648\u064a\u062f\u064a\u060c \u0627\u0644\u0648\u0643\u064a\u0644 \u0627\u0644\u0645\u0633\u0627\u0639\u062f \u0644\u0634\u0624\u0648\u0646 \u0627\u0644\u0623\u0645\u0646\u060c \u062d\u064a\u062b \u0646\u0627\u0642\u0634 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639 \u0639\u062f\u062f\u0627\u064b \u0645\u0646 \u0627\u0644\u0645\u0648\u0636\u0648\u0639\u0627\u062a \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0630\u0627\u062a \u0627\u0644\u0627\u0647\u062a\u0645\u0627\u0645 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u060c \u0648\u0627\u0633\u062a\u0639\u0631\u0636 \u0646\u062a\u0627\u0626\u062c \u0648\u062a\u0648\u0635\u064a\u0627\u062a \u0627\u0644\u0644\u062c\u0627\u0646 \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u0629\u060c \u0648\u0633\u0628\u0644 \u062a\u0646\u0641\u064a\u0630\u0647\u0627 \u062f\u0639\u0645\u0627\u064b \u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0623\u0645\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a. The UAE took part in the 7th Meeting of Public Security Directors of the GCC countries, held at the GCC General Secretariat headquarters in Riyadh. Brigadier Saeed bin Tuwair Al Suwaidi, Assistant Undersecretary for Security Affairs, headed the Ministry of Interior\u2019s delegation to t",
+      "source": "UAE MOI (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2107816238428676368",
+      "published": "2026-10-07T12:52:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "d1076b9e018d3f2314e83f6aadd9dbbb",
+      "title": "\u0634\u0627\u0631\u0643\u062a \u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0641\u064a \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639 \u0627\u0644\u0633\u0627\u0628\u0639 \u0644\u0645\u062f\u064a\u0631\u064a \u0627\u0644\u0623\u0645\u0646 \u0627\u0644\u0639\u0627\u0645 \u0628\u062f\u0648\u0644 \u0645\u062c\u0644\u0633 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0644\u062f\u0648\u0644 \u0627\u0644\u062e\u0644\u064a\u062c \u0627\u0644\u0639\u0631\u0628\u064a\u0629\u060c \u0627\u0644\u0630\u064a \u0627\u0646\u0639\u0642\u062f \u0641\u064a \u0645\u0642\u0631 \u0627\u0644\u0623\u0645\u0627\u0646\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0645\u062c\u0644\u0633 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0628\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u060c \u0648\u062a\u0631\u0623\u0633 \u0648\u0641\u062f \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0641\u064a \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639 \u0627\u0644\u0639\u0645\u064a\u062f \u0633\u0639\u064a\u062f \u0628\u0646 \u062a\u0648\u064a\u0631 \u0627\u0644\u0633\u0648\u064a\u062f\u064a\u060c \u0627\u0644\u0648\u0643\u064a\u0644 \u0627\u0644\u0645\u0633\u0627\u0639\u062f \u0644\u0634\u0624\u0648\u0646 \u0627\u0644\u0623\u0645\u0646\u060c \u062d\u064a\u062b \u0646\u0627\u0642\u0634 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639 \u0639\u062f\u062f\u0627\u064b \u0645\u0646 \u0627\u0644\u0645\u0648\u0636\u0648\u0639\u0627\u062a \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0630\u0627\u062a \u0627\u0644\u0627\u0647\u062a\u0645\u0627\u0645 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u060c \u0648\u0627\u0633\u062a\u0639\u0631\u0636 \u0646\u062a\u0627\u0626\u062c \u0648\u062a\u0648\u0635\u064a\u0627\u062a \u0627\u0644\u0644\u062c\u0627\u0646 \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u0629\u060c \u0648\u0633\u0628\u0644 \u062a\u0646\u0641\u064a\u0630\u0647\u0627 \u062f\u0639\u0645\u0627\u064b \u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0623\u0645\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a. The UAE took part in the 7th Meeting of Public Security Directors of the GCC countries, held at the GCC General Secretariat headquarters in Riyadh. Brigadier Saeed bin Tuwair Al Suwaidi, Assistant Undersecretary for Security Affairs, headed the Ministry of Interior\u2019s delegation to t",
+      "source": "IDF (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2107816238428676368",
+      "published": "2026-10-07T12:52:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791376217",
+      "title": "Israeli soldier assaults Palestinian woman in occupied West Bank",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israeli-soldier-assaults-palestinian-woman-in-occupied-west-bank?traffic_source=rss",
+      "published": "2026-10-07T12:39:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791366512",
+      "title": "Palestinian killed, several injured in Israeli pogrom in occupied West Bank",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/7/palestinian-killed-several-injured-in-israeli-pogrom-in-occupied-west-bank?traffic_source=rss",
+      "published": "2026-10-07T12:38:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.defensenews.com/global/asia-pacific/2026/10/07/embraer-lockheed-martin-vie-for-indias-105b-military-transport-aircraft-deal/",
       "title": "Embraer, Lockheed Martin vie for India\u2019s $10.5B military transport aircraft deal",
@@ -201,116 +311,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/07/mine-clearance-workers-trapped-in-besieged-yemeni-city-of-taiz/",
-      "title": "Mine-clearance workers trapped in besieged Yemeni city of Taiz",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/07/mine-clearance-workers-trapped-in-besieged-yemeni-city-of-taiz/",
-      "published": "2026-10-07T11:26:43+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 38.0962,
-        "lng": 46.2738
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791219639",
-      "title": "US military aid to Israel continues three years into Gaza genocide",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/7/how-us-military-aid-to-israel-continues-three-years-into-gaza-genocide?traffic_source=rss",
-      "published": "2026-10-07T11:23:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791367373",
-      "title": "Israeli attacks across Gaza kill at least four Palestinians",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/7/israeli-attacks-across-gaza-kill-at-least-four-palestinians?traffic_source=rss",
-      "published": "2026-10-07T11:13:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/07/will-israelis-ever-find-out-what-failures-led-to-october-7-rampage/",
-      "title": "Will Israelis ever find out what failures led to October 7 rampage?",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/07/will-israelis-ever-find-out-what-failures-led-to-october-7-rampage/",
-      "published": "2026-10-07T11:12:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791367910",
-      "title": "US sets new demands for Iran deal: What are they?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they?traffic_source=rss",
-      "published": "2026-10-07T10:58:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "df61827ae9b141d50111507cfa92242f",
       "title": ". The United Arab Emirates has condemned in the strongest terms the Houthi group\u2019s continued targeting of civilians and ...",
       "source": "WAM News (RSS.app)",
@@ -479,6 +479,28 @@
         "lng": 34.8516
       },
       "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo#0",
+      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T20:15:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1015,7 +1037,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o#1",
       "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
@@ -1038,28 +1060,6 @@
     },
     {
       "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
-      "source": "UAE MOI (RSS.app)",
-      "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
-      "published": "2026-10-05T04:09:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "39d17ff535910e749311eec25c1ac5a7",
       "title": "RT by @UAEmediaoffice: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
       "source": "UAE Media Office (RSS.app)",
       "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
@@ -1073,28 +1073,6 @@
         "lng": 53.8478
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "39d17ff535910e749311eec25c1ac5a7",
-      "title": "RT by @moiuae: On World Teachers' Day, I express my appreciation and gratitude to teachers across the UAE and commend their role in shaping future generations. Let this day be an opportunity for all of us to recognise our teachers and thank them for the lasting impact they have had on our lives.",
-      "source": "IDF (RSS.app)",
-      "source_url": "https://x.com/MohamedBinZayed/status/2106959842397065374",
-      "published": "2026-10-05T04:09:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
