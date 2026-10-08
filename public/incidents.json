@@ -1,7 +1,249 @@
 {
-  "generated_at": "2026-10-08T17:31:56.139335+00:00",
-  "total_incidents": 56,
+  "generated_at": "2026-10-08T18:40:34.308401+00:00",
+  "total_incidents": 60,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/08/uae-and-saudi-arabia-sign-rail-and-energy-agreement-to-boost-cross-border-trade-and-connectivity/",
+      "title": "UAE and Saudi Arabia sign rail and energy agreement to boost cross-border trade and connectivity",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/08/uae-and-saudi-arabia-sign-rail-and-energy-agreement-to-boost-cross-border-trade-and-connectivity/",
+      "published": "2026-10-08T18:25:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=97702",
+      "title": "Power at the sprocket: It\u2019s the transmission that gives tracked vehicles their control",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/power-at-the-sprocket-its-the-transmission-that-gives-tracked-vehicles-their-control/",
+      "published": "2026-10-08T18:23:57+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791475339",
+      "title": "Israel opens first-ever pavilion at Morocco defence show",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/8/israel-opens-first-ever-pavilion-at-morocco-defence-show?traffic_source=rss",
+      "published": "2026-10-08T18:11:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=97318",
+      "title": "Lessons for CENTCOM from counter-drone experiments in the Arizona desert",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/lessons-for-centcom-from-counter-drone-experiments-in-the-arizona-desert/",
+      "published": "2026-10-08T18:08:11+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791479519",
+      "title": "Colombian embassy to open in Jerusalem, Israeli FM says",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/8/colombian-embassy-to-open-in-jerusalem-israeli-fm-says?traffic_source=rss",
+      "published": "2026-10-08T18:07:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791472552",
+      "title": "Two Latvian men arrested inside UK military base after breach",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/8/two-latvian-men-arrested-inside-uk-military-base-after-breach?traffic_source=rss",
+      "published": "2026-10-08T18:01:20+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791470194",
+      "title": "Hurricane Isaias charges towards the US Gulf Coast with dangerous winds",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/8/hurricane-isaias-charges-towards-the-us-gulf-coast-with-dangerous-winds?traffic_source=rss",
+      "published": "2026-10-08T17:58:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/08/israel-promotes-film-that-mimics-naza-documentary",
+      "title": "Israel promotes film that mimics NAZA documentary",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/08/israel-promotes-film-that-mimics-naza-documentary",
+      "published": "2026-10-08T17:52:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/08/trump-rules-out-attack-on-iran-before-midterm-elections/",
+      "title": "Trump rules out attack on Iran before midterm elections",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/08/trump-rules-out-attack-on-iran-before-midterm-elections/",
+      "published": "2026-10-08T17:37:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791465430",
+      "title": "Syria calls for independent probe into sinking of ship in Black Sea",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/8/syria-calls-for-independent-probe-into-sinking-of-ship-in-black-sea?traffic_source=rss",
+      "published": "2026-10-08T17:27:47+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "1e6a33ff9210cec2f5763fbf870b9c6d",
+      "title": ". Mohamed Hassan Alsuwaidi, UAE Minister of Investment, and Prince Abdulaziz bin Salman bin Abdulaziz Minister of Energy...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DePc0aBCKIC",
+      "published": "2026-10-08T17:16:57+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/2026/oct/08/israel-downgrading-uk-consulate-tighten-hold-jerusalem",
       "title": "Israel\u2019s downgrading of UK consulate aims to tighten its hold on Jerusalem",
@@ -59,28 +301,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/08/israel-promotes-film-that-mimics-naza-documentary",
-      "title": "Israel promotes film that mimics NAZA documentary",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/08/israel-promotes-film-that-mimics-naza-documentary",
-      "published": "2026-10-08T17:05:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -245,28 +465,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791474176",
-      "title": "Video said to show Mali army in Kidal after retaking city",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/video-said-to-show-mali-army-in-kidal-after-retaking-city?traffic_source=rss",
-      "published": "2026-10-08T15:50:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=97817",
       "title": "Navy, Shield AI pour big bucks into X-BAT drone development",
       "source": "Breaking Defense",
@@ -325,28 +523,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/economy/2026/10/08/dp-world-signs-15-year-concession-for-terminal-at-bangladeshs-chittagong-port/",
-      "title": "DP World signs 15-year concession for terminal at Bangladesh's Chittagong port",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/08/dp-world-signs-15-year-concession-for-terminal-at-bangladeshs-chittagong-port/",
-      "published": "2026-10-08T14:30:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -685,28 +861,6 @@
       }
     },
     {
-      "id": "c4c0575771556d6fcddb8611508bf088",
-      "title": ". Latakia Racecourse in Syria will host the 16th leg of the UAE President\u2019s Cup for Purebred Arabian Horses on Friday, m...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DeOggUfiLYl",
-      "published": "2026-10-08T08:29:55+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=97689",
       "title": "After B-1\u2019s leave England, analysts point to limited options, importance of base defense",
       "source": "Breaking Defense",
@@ -883,50 +1037,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=97683",
-      "title": "Army issues just under $100M in application awards for NGC2 to 9 companies",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/army-issues-just-under-100m-in-application-awards-for-ngc2-to-9-companies/",
-      "published": "2026-10-07T19:38:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/gallery/2026/oct/07/commemorations-for-the-7-october-hamas-attacks-in-pictures",
-      "title": "Commemorations for victims of the 7 October Hamas attacks \u2013 in pictures",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/gallery/2026/oct/07/commemorations-for-the-7-october-hamas-attacks-in-pictures",
-      "published": "2026-10-07T18:29:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/global/europe/2026/10/07/rubio-says-us-greece-to-jointly-combat-security-threats/",
       "title": "Rubio says US, Greece to jointly combat security threats",
       "source": "Defense News",
@@ -941,28 +1051,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=97671",
-      "title": "From directed energy to AI and hardening, JIATF-401 is widening counter-UAS options",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/from-directed-energy-to-ai-and-hardening-jiatf-401-is-widening-counter-uas-options/",
-      "published": "2026-10-07T16:39:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
