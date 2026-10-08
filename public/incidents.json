@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-08T08:44:05.287087+00:00",
-  "total_incidents": 60,
+  "generated_at": "2026-10-08T09:38:42.569036+00:00",
+  "total_incidents": 61,
   "incidents": [
+    {
+      "id": "https://breakingdefense.com/?p=97649",
+      "title": "NIOA, AeroVironment team to offer and support loitering munitions Down Under",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/nioa-aerovironment-team-to-offer-and-support-loitering-munitions-down-under/",
+      "published": "2026-10-08T09:32:00+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/08/syrian-official-denies-saudi-arabia-asked-damascus-to-deploy-troops-in-war-with-houthis/",
+      "title": "Syrian official denies Saudi Arabia asked Damascus to deploy troops in war with Houthis",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/08/syrian-official-denies-saudi-arabia-asked-damascus-to-deploy-troops-in-war-with-houthis/",
+      "published": "2026-10-08T09:26:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 33.5138,
+        "lng": 36.2765
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
+      "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
+      "published": "2026-10-08T09:20:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat",
+      "title": "Oil prices rise sharply on Middle East tensions and US hurricane threat",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat",
+      "published": "2026-10-08T08:44:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791361019",
+      "title": "\u2018Nature can recover\u2019: Inside the race to rescue world\u2019s crisis-hit wildlife",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/10/8/nature-can-recover-inside-the-race-to-rescue-worlds-crisis-hit-wildlife?traffic_source=rss",
+      "published": "2026-10-08T08:37:15+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791371747",
       "title": "How Gaza war sped up India\u2019s shift towards Israel under Modi",
@@ -18,6 +128,28 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c4c0575771556d6fcddb8611508bf088",
+      "title": ". Latakia Racecourse in Syria will host the 16th leg of the UAE President\u2019s Cup for Purebred Arabian Horses on Friday, m...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DeOggUfiLYl",
+      "published": "2026-10-08T08:29:55+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -193,28 +325,6 @@
         "lng": 55.2708
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
-      "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
-      "published": "2026-10-08T07:17:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -487,28 +597,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/uk/2026/10/08/attacks-on-british-mosques-intensify-in-wave-of-sustained-harassment/",
-      "title": "Attacks on British mosques intensify in wave of 'sustained harassment'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/08/attacks-on-british-mosques-intensify-in-wave-of-sustained-harassment/",
-      "published": "2026-10-08T05:00:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3e4a6c1b80bd75e7ee97b4fcfaa13ab2",
       "title": "RT by @DXBMediaOffice: At RISE 2026 in Belgrade, the UAE shared its experience in advancing women\u2019s participation in the economy, in decision making and in promoting equal opportunities through effective legislation, policiesand partnerships. We share our experience to exchange knowledge, learn from the world and build partnerships that create greater opportunities for future generations",
       "source": "Dubai Media Office (RSS.app)",
@@ -524,28 +612,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/10/08/oil-prices-rise-on-potential-us-strikes-in-iran-ahead-of-midterm-polls/",
-      "title": "Oil prices rise on potential US strikes on Iran before midterm elections",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/08/oil-prices-rise-on-potential-us-strikes-in-iran-ahead-of-midterm-polls/",
-      "published": "2026-10-08T04:46:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -949,28 +1015,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/07/yemen-civil-war-what-sparked-latest-escalation-and-who-is-involved",
-      "title": "Yemen civil war: what sparked latest escalation and who is involved?",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/07/yemen-civil-war-what-sparked-latest-escalation-and-who-is-involved",
-      "published": "2026-10-07T04:00:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo#1",
       "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
       "source": "BBC Middle East",
@@ -1095,28 +1139,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=97325",
-      "title": "EU deepens collective space security with mutual defense pact",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/eu-deepens-collective-space-security-with-mutual-defense-pact/",
-      "published": "2026-10-06T16:04:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
