@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-08T12:47:22.350629+00:00",
-  "total_incidents": 61,
+  "generated_at": "2026-10-08T13:38:29.379935+00:00",
+  "total_incidents": 63,
   "incidents": [
+    {
+      "id": "https://www.defensenews.com/news/your-military/2026/10/08/german-pilots-prepare-for-ch47f-fleet-with-us-army-flight-simulator/",
+      "title": "German pilots prepare for CH\u201147F fleet with US Army flight simulator",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/10/08/german-pilots-prepare-for-ch47f-fleet-with-us-army-flight-simulator/",
+      "published": "2026-10-08T13:25:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/10/08/france-to-start-training-ukrainian-pilots-on-rafale-warplanes-in-november-minister-says/",
+      "title": "France to start training Ukrainian pilots on Rafale warplanes in November, minister says",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/08/france-to-start-training-ukrainian-pilots-on-rafale-warplanes-in-november-minister-says/",
+      "published": "2026-10-08T13:21:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/mideast-africa/2026/10/08/turkeys-foreign-minister-says-ankara-weighing-saudi-defense-support-rules-out-offensive-role/",
+      "title": "Turkey\u2019s foreign minister says Ankara weighing Saudi defense support, rules out offensive role",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/mideast-africa/2026/10/08/turkeys-foreign-minister-says-ankara-weighing-saudi-defense-support-rules-out-offensive-role/",
+      "published": "2026-10-08T13:07:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9acbce2c24e3727700806603782b8c1f",
+      "title": "DP World and the Chittagong Port Authority in Bangladesh sign a 15-year concession agreement for the operation and maintenance of the New Mooring Container Terminal (NCT), including the Overflow Container Yard (NCT OCY), at Chittagong Port under a Public-Private Partnership (PPP) framework. DP World\u2019s global network includes more than 60 ports and terminals handling nearly 10% of global container traffic.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2108179288524787895",
+      "published": "2026-10-08T12:54:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791454760",
+      "title": "Two killed after building partially collapses in Turkiye\u2019s Istanbul",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/8/two-killed-after-building-partially-collapses-in-turkiye-capital?traffic_source=rss",
+      "published": "2026-10-08T12:44:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791456818",
+      "title": "South Korea to recall Ukraine envoy in diplomatic row over POWs",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/8/south-korea-recalls-envoy-to-kyiv-over-diplomatic-row-with-ukraine?traffic_source=rss",
+      "published": "2026-10-08T12:44:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "50b69509a88b395dd04a7aad97163b0e",
+      "title": "His Highness the Prime Minister Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah receives, in the presence of Minister of Foreign Affairs Sheikh Jarrah Jaber Al-Ahmad Al-Sabah, the UN Secretary-General's Senior Representative Mary Yamashita for overseeing implementation of UN Security Council (UNSC) Resolution 2792 of 2025 and her accompanying delegation  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2108176814455521488",
+      "published": "2026-10-08T12:44:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "240f920a5835758738a79a430510d1a0",
       "title": "Dubai Health Authority celebrates the enrolment of 49 students in the 11th cohort of its \"Medicine and Science\" scholarship programme for Emirati students, which targets outstanding high school graduates and university students pursuing health-related specialisations. From its launch in 2016 through 2026, the programme has enrolled a total of 618 students, including 297 graduates, reflecting the Authority\u2019s continued efforts to support and develop national talent in healthcare and prepare them to contribute to the advancement of Dubai\u2019s health sector.",
@@ -245,28 +399,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/08/uae-states-support-for-saudi-arabia-after-houthi-airport-attacks/",
-      "title": "UAE states support for Saudi Arabia after Houthi airport attacks",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/08/uae-states-support-for-saudi-arabia-after-houthi-airport-attacks/",
-      "published": "2026-10-08T11:07:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "55f2fe3bd5089c74983ff5415dc0a6e8",
       "title": "Dubai Customs graduates 33 male and female inspectors under \"Masar 33\" to strengthen the readiness of its Customs Inspection Division. In addition, Dubai Customs recently celebrated the graduation of the fourth and fifth batches of the Advanced Security Refresher Course in cooperation with Dubai Police Academy.",
       "source": "Dubai Media Office (RSS.app)",
@@ -282,28 +414,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791448204",
-      "title": "The Hormuz bonus: Sailor salaries soar for transits amid Iran war",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/8/the-hormuz-bonus-sailor-salaries-soar-for-transits-amid-iran-war?traffic_source=rss",
-      "published": "2026-10-08T11:02:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1059,28 +1169,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/07/yemen-civil-war-what-sparked-latest-escalation-and-who-is-involved",
-      "title": "Yemen civil war: what sparked latest escalation and who is involved?",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/07/yemen-civil-war-what-sparked-latest-escalation-and-who-is-involved",
-      "published": "2026-10-07T04:00:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo#1",
       "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
       "source": "BBC Middle East",
@@ -1191,28 +1279,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/industry/techwatch/2026/10/06/anduril-us-navy-invest-66-billion-to-boost-submarine-parts-production/",
-      "title": "Anduril, US Navy invest $6.6 billion to boost submarine parts production",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/06/anduril-us-navy-invest-66-billion-to-boost-submarine-parts-production/",
-      "published": "2026-10-06T14:15:29+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "0bf7f782168fcb472dc828a70625b5a6",
       "title": "\u0645\u0627 \u064a\u0628\u062f\u0648 \u0641\u0631\u0635\u0629 .. \u0642\u062f \u064a\u0643\u0648\u0646 \u062e\u062f\u0639\u0629 It may seem like an opportunity .. but it\u2019s a scam #\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a_\u0622\u0645\u0646\u0629_\u0628\u0648\u0639\u064a\u0643_\u0627\u0644\u0631\u0642\u0645\u064a #\u0634\u0647\u0631_\u0627\u0644\u062a\u0648\u0639\u064a\u0629_\u0628\u0627\u0644\u0623\u0645\u0646_\u0627\u0644\u0633\u064a\u0628\u0631\u0627\u0646\u064a #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a #\u0641\u062e\u0648\u0631\u064a\u0646_\u0628\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \ud83c\udde6\ud83c\uddea",
       "source": "UAE MOI (RSS.app)",
@@ -1250,28 +1316,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/europe/2026/10/06/lithuania-says-it-would-pay-the-cost-if-us-establishes-military-base/",
-      "title": "Lithuania says it would pay the cost if US establishes military base",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/10/06/lithuania-says-it-would-pay-the-cost-if-us-establishes-military-base/",
-      "published": "2026-10-06T09:41:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
