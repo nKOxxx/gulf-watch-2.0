@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T01:51:00.269497+00:00",
-  "total_incidents": 51,
+  "generated_at": "2026-10-08T02:47:33.850953+00:00",
+  "total_incidents": 48,
   "incidents": [
     {
       "id": "https://www.aljazeera.com/?t=1791417771",
@@ -103,28 +103,6 @@
         "city": null,
         "lat": 15.5527,
         "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791408735",
-      "title": "UN peacekeeping force in Lebanon says shots fired at Israeli border post",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/7/un-peacekeeping-force-in-lebanon-says-shots-fired-at-israeli-border-post?traffic_source=rss",
-      "published": "2026-10-07T23:33:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -355,55 +333,11 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/business/economy/2026/10/07/uae-seeks-to-boost-gulf-industrial-integration-and-supply-chain-resilience/",
-      "title": "UAE seeks to boost Gulf industrial integration and supply chain resilience",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/07/uae-seeks-to-boost-gulf-industrial-integration-and-supply-chain-resilience/",
-      "published": "2026-10-07T16:43:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=97671",
       "title": "From directed energy to AI and hardening, JIATF-401 is widening counter-UAS options",
       "source": "Breaking Defense",
       "source_url": "https://breakingdefense.com/2026/10/from-directed-energy-to-ai-and-hardening-jiatf-401-is-widening-counter-uas-options/",
       "published": "2026-10-07T16:39:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/10/07/iea-members-support-faster-release-of-reserve-oil-stocks/",
-      "title": "IEA members support faster release of reserve oil stocks",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/07/iea-members-support-faster-release-of-reserve-oil-stocks/",
-      "published": "2026-10-07T16:30:42+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
