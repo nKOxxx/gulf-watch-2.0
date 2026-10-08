@@ -1,10 +1,54 @@
 {
-  "generated_at": "2026-10-08T18:40:34.308401+00:00",
+  "generated_at": "2026-10-08T19:32:15.461446+00:00",
   "total_incidents": 60,
   "incidents": [
     {
+      "id": "https://www.defensenews.com/news/your-army/2026/10/08/sig-sauer-develops-25-round-mag-for-armys-next-gen-rifle/",
+      "title": "Sig Sauer develops 25-round mag for Army\u2019s next-gen rifle",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-army/2026/10/08/sig-sauer-develops-25-round-mag-for-armys-next-gen-rifle/",
+      "published": "2026-10-08T19:23:25+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791468885",
+      "title": "\u2018War lives in me\u2019: Gaza playwright Ali Abu Yasin wins English PEN award",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/8/gaza-playwright-award?traffic_source=rss",
+      "published": "2026-10-08T19:12:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.thenationalnews.com/news/uae/2026/10/08/uae-and-saudi-arabia-sign-rail-and-energy-agreement-to-boost-cross-border-trade-and-connectivity/",
-      "title": "UAE and Saudi Arabia sign rail and energy agreement to boost cross-border trade and connectivity",
+      "title": "UAE and Saudi Arabia sign rail and energy agreement to boost trade and connectivity",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/uae/2026/10/08/uae-and-saudi-arabia-sign-rail-and-energy-agreement-to-boost-cross-border-trade-and-connectivity/",
       "published": "2026-10-08T18:25:31+00:00",
@@ -279,28 +323,6 @@
         "city": null,
         "lat": 31.5017,
         "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791473269",
-      "title": "Dozens killed in Russian strike on civilian buses in eastern Ukraine",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-buses-in-eastern-ukraine?traffic_source=rss",
-      "published": "2026-10-08T17:07:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -1118,28 +1140,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/asia-pacific/2026/10/07/embraer-lockheed-martin-vie-for-indias-105b-military-transport-aircraft-deal/",
-      "title": "Embraer, Lockheed Martin vie for India\u2019s $10.5B military transport aircraft deal",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/asia-pacific/2026/10/07/embraer-lockheed-martin-vie-for-indias-105b-military-transport-aircraft-deal/",
-      "published": "2026-10-07T12:35:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
