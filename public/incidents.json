@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-08T05:35:33.302535+00:00",
-  "total_incidents": 51,
+  "generated_at": "2026-10-08T06:52:59.170445+00:00",
+  "total_incidents": 56,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
+      "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
+      "published": "2026-10-08T06:51:05+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno#0",
+      "title": "Most UK diplomats to leave East Jerusalem consulate as Miliband says 'mission' to remain",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T06:47:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "14b8abe69e962168deabc5bd2f54dd58",
+      "title": ". UAE President His Highness Sheikh Mohamed bin Zayed Al Nahyan and President of the Syrian Arab Republic His Excellency...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DeOQws5iAaO",
+      "published": "2026-10-08T06:12:21+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "1a7e22fc33988cda55b75ff2480fa627",
+      "title": ". The UAE continues to provide water to Palestinians in the Gaza Strip under Operation Chivalrous Knight 3 through desal...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DeOO1VdNmjk",
+      "published": "2026-10-08T06:06:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "172cfd15d104a84ac98632739e41bab0",
+      "title": "First Iron Dome Tamir Interceptor Fully Produced in the U.S. Delivered to Israel \ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 Read More:",
+      "source": "Israel MOD (RSS.app)",
+      "source_url": "https://x.com/Israel_MOD/status/2108071666525823022",
+      "published": "2026-10-08T05:47:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/travel/2026/10/08/riyadh-airport-flights-delayed-and-cancelled-after-houthi-attacks-on-saudi-arabia/",
       "title": "Riyadh airport flights delayed and cancelled after Houthi attacks on Saudi Arabia",
@@ -40,6 +150,28 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3d677f1c5a2d8d8ca8b20d76dd1c8a28",
+      "title": "The Ministry of Foreign Affairs expressed Thursday Kuwait's strongest condemnation and denunciation of Houthi militia's flagrant attacks on Saudi Arabia's Abha International Airport and King Khalid International Airport.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2108061978610610202",
+      "published": "2026-10-08T05:08:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -325,6 +457,28 @@
         "lng": 34.4668
       },
       "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo#0",
+      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T20:27:03+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -729,29 +883,7 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/news/audio/2026/oct/07/from-the-archive-no-place-like-home-return-to-palestine-podcast",
-      "title": "From the archive \u2013 No place like home: my bitter return to Palestine \u2013 podcast",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/news/audio/2026/oct/07/from-the-archive-no-place-like-home-return-to-palestine-podcast",
-      "published": "2026-10-07T04:00:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9522,
-        "lng": 35.2332
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo#1",
       "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
@@ -1030,28 +1162,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo#1",
-      "title": "Yemeni military says it has 'secured' Red Sea waterway",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T07:43:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
