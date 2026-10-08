@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-08T15:35:04.219143+00:00",
-  "total_incidents": 60,
+  "generated_at": "2026-10-08T16:38:29.372167+00:00",
+  "total_incidents": 57,
   "incidents": [
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/10/08/us-air-force-army-eye-industry-access-on-test-ranges/",
+      "title": "US Air Force, Army eye industry access on test ranges",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/08/us-air-force-army-eye-industry-access-on-test-ranges/",
+      "published": "2026-10-08T16:27:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/08/un-sudan-arms-embargo/",
+      "title": "UN Security Council extends arms embargo in Sudan's Darfur as US pushes for nationwide ban",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/08/un-sudan-arms-embargo/",
+      "published": "2026-10-08T16:27:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "d75cb5413ee08829b34c006708c90204",
+      "title": "Saudi Civil Defense: Intercepted missile debris damages a kindergarten & a medical clinic complex in Riyadh  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2108232342724600132",
+      "published": "2026-10-08T16:25:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/oct/08/florida-torture-lawsuit-parviz-sabeti-iran-shah",
+      "title": "Florida judge allows lawsuit against Shah of Iran\u2019s alleged \u2018chief torturer\u2019 to move forward",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/oct/08/florida-torture-lawsuit-parviz-sabeti-iran-shah",
+      "published": "2026-10-08T16:00:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791474176",
+      "title": "Video said to show Mali army in Kidal after retaking city",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/video-said-to-show-mali-army-in-kidal-after-retaking-city?traffic_source=rss",
+      "published": "2026-10-08T15:50:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://breakingdefense.com/?p=97817",
       "title": "Navy, Shield AI pour big bucks into X-BAT drone development",
@@ -245,28 +355,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/08/nine-syrians-missing-after-cargo-ship-sunk-by-drone-in-black-sea/",
-      "title": "Nine Syrians missing after cargo ship sunk by drone in Black Sea",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/08/nine-syrians-missing-after-cargo-ship-sunk-by-drone-in-black-sea/",
-      "published": "2026-10-08T13:47:51+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Egypt",
-        "city": null,
-        "lat": 30.0444,
-        "lng": 31.2357
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-military/2026/10/08/german-pilots-prepare-for-ch47f-fleet-with-us-army-flight-simulator/",
       "title": "German pilots prepare for CH\u201147F fleet with US Army flight simulator",
       "source": "Defense News",
@@ -333,28 +421,6 @@
       }
     },
     {
-      "id": "9acbce2c24e3727700806603782b8c1f",
-      "title": "DP World and the Chittagong Port Authority in Bangladesh sign a 15-year concession agreement for the operation and maintenance of the New Mooring Container Terminal (NCT), including the Overflow Container Yard (NCT OCY), at Chittagong Port under a Public-Private Partnership (PPP) framework. DP World\u2019s global network includes more than 60 ports and terminals handling nearly 10% of global container traffic.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2108179288524787895",
-      "published": "2026-10-08T12:54:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "50b69509a88b395dd04a7aad97163b0e",
       "title": "His Highness the Prime Minister Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah receives, in the presence of Minister of Foreign Affairs Sheikh Jarrah Jaber Al-Ahmad Al-Sabah, the UN Secretary-General's Senior Representative Mary Yamashita for overseeing implementation of UN Security Council (UNSC) Resolution 2792 of 2025 and her accompanying delegation  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -367,28 +433,6 @@
         "city": null,
         "lat": 29.3117,
         "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "240f920a5835758738a79a430510d1a0",
-      "title": "Dubai Health Authority celebrates the enrolment of 49 students in the 11th cohort of its \"Medicine and Science\" scholarship programme for Emirati students, which targets outstanding high school graduates and university students pursuing health-related specialisations. From its launch in 2016 through 2026, the programme has enrolled a total of 618 students, including 297 graduates, reflecting the Authority\u2019s continued efforts to support and develop national talent in healthcare and prepare them to contribute to the advancement of Dubai\u2019s health sector.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2108176425782251928",
-      "published": "2026-10-08T12:43:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 95,
       "is_government": true,
@@ -641,50 +685,6 @@
       }
     },
     {
-      "id": "ddca7579f91a88fc9395621ab04a884b",
-      "title": "#Kuwaiti oil price up 41 cents to USD 103.21 pb -KPC  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108091481944711665",
-      "published": "2026-10-08T07:05:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5afcddd979d675f2dea3ee9fcd77509e",
-      "title": "#Egypt condemns the attacks targeting #Saudi Arabia, reiterating its full solidarity with the Kingdom in the face of everything threatens its stability & security  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108091244832329901",
-      "published": "2026-10-08T07:04:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "172cfd15d104a84ac98632739e41bab0",
       "title": "First Iron Dome Tamir Interceptor Fully Produced in the U.S. Delivered to Israel \ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 Read More:",
       "source": "Israel MOD (RSS.app)",
@@ -927,28 +927,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=97101",
-      "title": "Urban warfare: Next Falcon Peak exercise to take counter-drone tech to the streets",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/urban-warfare-next-falcon-peak-exercise-to-take-counter-drone-tech-to-the-streets/",
-      "published": "2026-10-07T16:02:00+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o#0",
       "title": "Israelis demand accountability over 7 October failures three years after attacks",
       "source": "BBC Middle East",
@@ -1125,28 +1103,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/07/yemen-civil-war-what-sparked-latest-escalation-and-who-is-involved",
-      "title": "Yemen civil war: what sparked latest escalation and who is involved?",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/07/yemen-civil-war-what-sparked-latest-escalation-and-who-is-involved",
-      "published": "2026-10-07T04:00:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo#1",
       "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
       "source": "BBC Middle East",
@@ -1175,28 +1131,6 @@
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/06/its-official-us-armys-improved-m8-rifle-to-begin-fielding-in-december/",
       "published": "2026-10-06T19:46:03+00:00",
       "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/industry/techwatch/2026/10/06/pentagon-names-4-directed-energy-weapons-for-counter-drone-program-at-us-bases/",
-      "title": "Pentagon names 4 directed-energy weapons for counter-drone program at US bases",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/06/pentagon-names-4-directed-energy-weapons-for-counter-drone-program-at-us-bases/",
-      "published": "2026-10-06T18:29:50+00:00",
-      "type": "drone",
       "status": "unconfirmed",
       "location": {
         "country": null,
