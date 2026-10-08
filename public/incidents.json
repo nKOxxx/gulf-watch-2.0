@@ -1,10 +1,186 @@
 {
-  "generated_at": "2026-10-08T07:45:05.718960+00:00",
-  "total_incidents": 59,
+  "generated_at": "2026-10-08T08:44:05.287087+00:00",
+  "total_incidents": 60,
   "incidents": [
     {
+      "id": "https://www.aljazeera.com/?t=1791371747",
+      "title": "How Gaza war sped up India\u2019s shift towards Israel under Modi",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/8/how-gaza-war-sped-up-indias-shift-towards-israel-under-modi?traffic_source=rss",
+      "published": "2026-10-08T08:31:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791446106",
+      "title": "Christa Pike almost taken off life support before she woke up",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/christa-pike-almost-taken-off-life-support-before-she-woke-up?traffic_source=rss",
+      "published": "2026-10-08T08:29:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=97689",
+      "title": "After B-1\u2019s leave England, analysts point to limited options, importance of base defense",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/after-b-1s-leave-england-analysts-point-to-limited-options-importance-of-base-defense/",
+      "published": "2026-10-08T08:29:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791445999",
+      "title": "Video: Signs removed from British consulate in occupied East Jerusalem",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/video-signs-removed-from-british-consulate-in-occupied-east-jerusalem?traffic_source=rss",
+      "published": "2026-10-08T08:25:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno#0",
+      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T08:18:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791375052",
+      "title": "Why Israel loves skunk water",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/opinions/2026/10/8/why-israel-loves-skunk-water?traffic_source=rss",
+      "published": "2026-10-08T08:15:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/08/president-sheikh-mohamed-and-syrias-al-shara-discuss-regional-security-in-call/",
+      "title": "President Sheikh Mohamed and Syria's Al Shara discuss regional security in call",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/08/president-sheikh-mohamed-and-syrias-al-shara-discuss-regional-security-in-call/",
+      "published": "2026-10-08T08:12:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.3463,
+        "lng": 55.4209
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/travel/2026/10/08/uae-dubai-abu-dhabi-flights-status/",
+      "title": "Middle East flights: Singapore Airlines, Scoot and Wizz Air extend suspensions",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/travel/2026/10/08/uae-dubai-abu-dhabi-flights-status/",
+      "published": "2026-10-08T08:10:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.thenationalnews.com/business/aviation/2026/10/08/wizz-air-cancels-winter-season-flights-to-abu-dhabi-and-dubai-routes/",
-      "title": "Wizz Air cancels winter season flights to Abu Dhabi and Dubai routes",
+      "title": "Wizz Air cancels winter season flights to Abu Dhabi and Dubai",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/business/aviation/2026/10/08/wizz-air-cancels-winter-season-flights-to-abu-dhabi-and-dubai-routes/",
       "published": "2026-10-08T07:42:16+00:00",
@@ -39,28 +215,6 @@
         "lng": 35.2137
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno#0",
-      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T07:06:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -267,28 +421,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791434077",
-      "title": "Protesters in Colombia rally against ties with Israel",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/8/protesters-in-colombia-rally-against-ties-with-israel?traffic_source=rss",
-      "published": "2026-10-08T05:09:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3d677f1c5a2d8d8ca8b20d76dd1c8a28",
       "title": "The Ministry of Foreign Affairs expressed Thursday Kuwait's strongest condemnation and denunciation of Houthi militia's flagrant attacks on Saudi Arabia's Abha International Airport and King Khalid International Airport.  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -304,28 +436,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791433785",
-      "title": "UK says East Jerusalem consulate building to remain open as a mission",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over?traffic_source=rss",
-      "published": "2026-10-08T05:06:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -433,72 +543,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/08/riyadh-flights-pause-after-houthi-attacks-us-claims-hormuz-is-open-and-uae-calls-for-rain-prayers/",
-      "title": "Riyadh flights pause after Houthi attacks, US claims Hormuz is open and UAE calls for rain prayers",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/08/riyadh-flights-pause-after-houthi-attacks-us-claims-hormuz-is-open-and-uae-calls-for-rain-prayers/",
-      "published": "2026-10-08T04:33:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791427501",
-      "title": "South Korea pledges legal action over alleged fuel exports to Russia",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/8/south-korea-pledges-legal-action-over-alleged-fuel-exports-to-russia?traffic_source=rss",
-      "published": "2026-10-08T04:14:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/2026/10/08/hormuz-traffic-hits-lowest-level-in-two-months-as-tanker-attacks-surge/",
-      "title": "Hormuz traffic hits lowest level in two months as tanker attacks surge",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/2026/10/08/hormuz-traffic-hits-lowest-level-in-two-months-as-tanker-attacks-surge/",
-      "published": "2026-10-08T04:02:25+00:00",
-      "type": "ground",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 85,
       "is_government": false,
@@ -678,28 +722,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "65069cea9911ebb885454a7f79d045d8",
-      "title": "Mohammed bin Rashid School of Government (MBRSG) launches the \"UAE Model Research Centre\" to document and study the UAE\u2019s experience in governance, development, innovation, and economic transformation, and convert the expertise and practices into research outputs, case studies, and applied knowledge that support policymakers, leaders, researchers, and practitioners. The Centre seeks to enhance the use of the UAE\u2019s experience and promote knowledge exchange around it regionally and internationally.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2107875916399751353",
-      "published": "2026-10-07T16:49:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
