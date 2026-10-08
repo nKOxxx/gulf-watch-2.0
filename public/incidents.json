@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-08T20:35:42.407881+00:00",
-  "total_incidents": 61,
+  "generated_at": "2026-10-08T21:32:39.727928+00:00",
+  "total_incidents": 59,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791490779",
+      "title": "Israel shuts down British consulate in occupied East Jerusalem",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/israel-shuts-down-british-consulate-in-occupied-east-jerusalem?traffic_source=rss",
+      "published": "2026-10-08T20:34:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://breakingdefense.com/?p=97909",
       "title": "In first, Israeli firms, delegation display at Morocco\u2019s Marrakech Airshow",
@@ -135,28 +157,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791470968",
-      "title": "At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/8/at-least-81-us-aircraft-worth-up-to-3-3bn-lost-or-damaged-in-iran-war?traffic_source=rss",
-      "published": "2026-10-08T19:43:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-army/2026/10/08/sig-sauer-develops-25-round-mag-for-armys-next-gen-rifle/",
       "title": "Sig Sauer develops 25-round mag for Army\u2019s next-gen rifle",
       "source": "Defense News",
@@ -169,28 +169,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791468885",
-      "title": "\u2018War lives in me\u2019: Gaza playwright Ali Abu Yasin wins English PEN award",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/8/gaza-playwright-award?traffic_source=rss",
-      "published": "2026-10-08T19:12:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
       },
       "credibility": 90,
       "is_government": false,
@@ -237,28 +215,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791475339",
-      "title": "Israel opens first-ever pavilion at Morocco defence show",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/8/israel-opens-first-ever-pavilion-at-morocco-defence-show?traffic_source=rss",
-      "published": "2026-10-08T18:11:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
