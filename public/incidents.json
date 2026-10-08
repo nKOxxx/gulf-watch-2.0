@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-08T13:38:29.379935+00:00",
-  "total_incidents": 63,
+  "generated_at": "2026-10-08T14:37:19.901527+00:00",
+  "total_incidents": 61,
   "incidents": [
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/10/08/dutch-firm-uses-ai-to-help-drone-systems-talk-on-ukraines-battlefield/",
+      "title": "Dutch firm uses AI to help drone systems \u2018talk\u2019 on Ukraine\u2019s battlefield",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/08/dutch-firm-uses-ai-to-help-drone-systems-talk-on-ukraines-battlefield/",
+      "published": "2026-10-08T14:35:46+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/economy/2026/10/08/dp-world-signs-15-year-concession-for-terminal-at-bangladeshs-chittagong-port/",
+      "title": "DP World signs 15-year concession for terminal at Bangladesh's Chittagong port",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/08/dp-world-signs-15-year-concession-for-terminal-at-bangladeshs-chittagong-port/",
+      "published": "2026-10-08T14:30:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
+      "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
+      "published": "2026-10-08T14:20:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/your-military/2026/10/08/pentagon-recruits-drone-pilots-from-across-services-for-upcoming-competition/",
+      "title": "Pentagon recruits drone pilots from across services for upcoming competition",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/10/08/pentagon-recruits-drone-pilots-from-across-services-for-upcoming-competition/",
+      "published": "2026-10-08T14:06:55+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791453299",
+      "title": "King David Hotel bombing to consulate row: A timeline of UK-Israel tension",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/8/king-david-hotel-bombing-to-consulate-row-a-timeline-of-uk-israel-tension?traffic_source=rss",
+      "published": "2026-10-08T14:01:54+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/08/nine-syrians-missing-after-cargo-ship-sunk-by-drone-in-black-sea/",
+      "title": "Nine Syrians missing after cargo ship sunk by drone in Black Sea",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/08/nine-syrians-missing-after-cargo-ship-sunk-by-drone-in-black-sea/",
+      "published": "2026-10-08T13:47:51+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Egypt",
+        "city": null,
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791461548",
+      "title": "Has Israel shut the UK consulate in East Jerusalem \u2013 or downgraded it?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/8/has-israel-shut-the-uk-consulate-in-east-jerusalem-or-downgraded?traffic_source=rss",
+      "published": "2026-10-08T13:32:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.defensenews.com/news/your-military/2026/10/08/german-pilots-prepare-for-ch47f-fleet-with-us-army-flight-simulator/",
       "title": "German pilots prepare for CH\u201147F fleet with US Army flight simulator",
@@ -113,28 +267,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791456818",
-      "title": "South Korea to recall Ukraine envoy in diplomatic row over POWs",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/8/south-korea-recalls-envoy-to-kyiv-over-diplomatic-row-with-ukraine?traffic_source=rss",
-      "published": "2026-10-08T12:44:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "50b69509a88b395dd04a7aad97163b0e",
       "title": "His Highness the Prime Minister Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah receives, in the presence of Minister of Foreign Affairs Sheikh Jarrah Jaber Al-Ahmad Al-Sabah, the UN Secretary-General's Senior Representative Mary Yamashita for overseeing implementation of UN Security Council (UNSC) Resolution 2792 of 2025 and her accompanying delegation  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -172,28 +304,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791453457",
-      "title": "UK\u2019s Burnham \u2018open\u2019 to Germany joining GCAP fighter jet programme",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/8/uks-burnham-open-to-germany-joining-gcap-fighter-jet-programme?traffic_source=rss",
-      "published": "2026-10-08T12:27:21+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -289,50 +399,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791447830",
-      "title": "Why has Iraq devalued its currency, and why are some MPs against it?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/10/8/why-has-iraq-devalued-its-currency-and-why-are-some-mps-against-it?traffic_source=rss",
-      "published": "2026-10-08T11:59:21+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791459098",
-      "title": "Can emergency reserves ease the diesel crisis?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/counting-the-cost/2026/10/8/can-emergency-reserves-ease-the-diesel-crisis?traffic_source=rss",
-      "published": "2026-10-08T11:56:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "1459c630509d0cb171960d897130636c",
       "title": "\u0627\u0644\u062a\u0642\u0649 \u0645\u0639\u0627\u0644\u064a \u0627\u0644\u0641\u0631\u064a\u0642 \u0627\u0644\u0631\u0643\u0646 \u0625\u0628\u0631\u0627\u0647\u064a\u0645 \u0646\u0627\u0635\u0631 \u0627\u0644\u0639\u0644\u0648\u064a\u060c \u0648\u0643\u064a\u0644 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0641\u0627\u0639\u060c \u0627\u0644\u0641\u0631\u064a\u0642 \u0628\u062d\u0631\u064a \u0625\u062f\u0648\u0627\u0631\u062f \u0623\u0647\u0644\u063a\u0631\u064a\u0646\u060c \u0643\u0628\u064a\u0631 \u0645\u0633\u062a\u0634\u0627\u0631\u064a \u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a \u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642 \u0627\u0644\u0623\u0648\u0633\u0637 \u0648\u0634\u0645\u0627\u0644 \u0623\u0641\u0631\u064a\u0642\u064a\u0627\u060c \u0648\u0630\u0644\u0643 \u0641\u064a \u0625\u0637\u0627\u0631 \u062a\u0639\u0632\u064a\u0632 \u0639\u0644\u0627\u0642\u0627\u062a \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0648\u0627\u0644\u062a\u0646\u0633\u064a\u0642 \u0627\u0644\u0645\u0634\u062a\u0631\u0643 \u0628\u064a\u0646 \u0627\u0644\u0628\u0644\u062f\u064a\u0646 \u0641\u064a \u0627\u0644\u0645\u062c\u0627\u0644\u0627\u062a \u0627\u0644\u062f\u0641\u0627\u0639\u064a\u0629 \u0648\u0627\u0644\u0639\u0633\u0643\u0631\u064a\u0629. \u0648\u062c\u0631\u0649 \u062e\u0644\u0627\u0644 \u0627\u0644\u0644\u0642\u0627\u0621 \u0628\u062d\u062b \u0639\u062f\u062f \u0645\u0646 \u0627\u0644\u0645\u0648\u0636\u0648\u0639\u0627\u062a \u0630\u0627\u062a \u0627\u0644\u0627\u0647\u062a\u0645\u0627\u0645 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u060c \u0625\u0644\u0649 \u062c\u0627\u0646\u0628 \u0627\u0633\u062a\u0639\u0631\u0627\u0636 \u0623\u0648\u062c\u0647 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0648\u0633\u0628\u0644 \u062a\u0637\u0648\u064a\u0631\u0647\u0627 \u0628\u0645\u0627 \u064a\u062e\u062f\u0645 \u0627\u0644\u0645\u0635\u0627\u0644\u062d \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u0629. His Excellency Lieutenant General Staff Ibrahim Nasser Al Alawi, Undersecretary of the Ministry of Defence, met with Vice Admiral Edward Ahlgren, UK Senior Defence Adviser for the Middle East and North Africa. The meeting was held as part of efforts to strengthen bilateral defence and military cooperation and coordi",
       "source": "UAE MOD (RSS.app)",
@@ -355,28 +421,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/08/ethiopia-and-eritrea-edge-closer-to-direct-conflict-as-troops-enter-tigray/",
-      "title": "Ethiopia and Eritrea edge closer to direct conflict as troops enter Tigray",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/08/ethiopia-and-eritrea-edge-closer-to-direct-conflict-as-troops-enter-tigray/",
-      "published": "2026-10-08T11:25:59+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat",
       "title": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
       "source": "The Guardian",
@@ -392,28 +436,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "55f2fe3bd5089c74983ff5415dc0a6e8",
-      "title": "Dubai Customs graduates 33 male and female inspectors under \"Masar 33\" to strengthen the readiness of its Customs Inspection Division. In addition, Dubai Customs recently celebrated the graduation of the fourth and fifth batches of the Advanced Security Refresher Course in cooperation with Dubai Police Academy.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2108151503144001990",
-      "published": "2026-10-08T11:04:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -524,28 +546,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
-      "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
-      "published": "2026-10-08T09:20:59+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -675,28 +675,6 @@
         "city": null,
         "lat": 34.8021,
         "lng": 38.9968
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "1a7e22fc33988cda55b75ff2480fa627",
-      "title": ". The UAE continues to provide water to Palestinians in the Gaza Strip under Operation Chivalrous Knight 3 through desal...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DeOO1VdNmjk",
-      "published": "2026-10-08T06:06:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
       },
       "credibility": 95,
       "is_government": true,
@@ -1169,6 +1147,28 @@
       }
     },
     {
+      "id": "https://www.theguardian.com/world/2026/oct/07/yemen-civil-war-what-sparked-latest-escalation-and-who-is-involved",
+      "title": "Yemen civil war: what sparked latest escalation and who is involved?",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/07/yemen-civil-war-what-sparked-latest-escalation-and-who-is-involved",
+      "published": "2026-10-07T04:00:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo#1",
       "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
       "source": "BBC Middle East",
@@ -1219,50 +1219,6 @@
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/06/pentagon-names-4-directed-energy-weapons-for-counter-drone-program-at-us-bases/",
       "published": "2026-10-06T18:29:50+00:00",
       "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/europe/2026/10/06/france-fires-upgraded-nuclear-capable-missile-from-submarine-for-first-time/",
-      "title": "France fires upgraded nuclear-capable missile from submarine for first time",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/10/06/france-fires-upgraded-nuclear-capable-missile-from-submarine-for-first-time/",
-      "published": "2026-10-06T16:08:47+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/industry/techwatch/2026/10/06/northrop-grummans-yfq-48a-cca-completes-first-fully-autonomous-flight/",
-      "title": "Northrop Grumman\u2019s YFQ-48A CCA completes first fully autonomous flight",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/06/northrop-grummans-yfq-48a-cca-completes-first-fully-autonomous-flight/",
-      "published": "2026-10-06T15:46:33+00:00",
-      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": null,
