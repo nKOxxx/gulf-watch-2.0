@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-08T16:38:29.372167+00:00",
-  "total_incidents": 57,
+  "generated_at": "2026-10-08T17:31:56.139335+00:00",
+  "total_incidents": 56,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/08/israel-downgrading-uk-consulate-tighten-hold-jerusalem",
+      "title": "Israel\u2019s downgrading of UK consulate aims to tighten its hold on Jerusalem",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/08/israel-downgrading-uk-consulate-tighten-hold-jerusalem",
+      "published": "2026-10-08T17:16:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/commentisfree/picture/2026/oct/08/ben-jennings-the-gaza-ceasefire-cartoon",
+      "title": "Ben Jennings on the Gaza \u2018ceasefire\u2019 \u2013\u00a0cartoon",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/commentisfree/picture/2026/oct/08/ben-jennings-the-gaza-ceasefire-cartoon",
+      "published": "2026-10-08T17:10:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791473269",
+      "title": "Dozens killed in Russian strike on civilian buses in eastern Ukraine",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-buses-in-eastern-ukraine?traffic_source=rss",
+      "published": "2026-10-08T17:07:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/08/israel-promotes-film-that-mimics-naza-documentary",
+      "title": "Israel promotes film that mimics NAZA documentary",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/08/israel-promotes-film-that-mimics-naza-documentary",
+      "published": "2026-10-08T17:05:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/commentisfree/2026/oct/08/911-uk-security-crisis-threat-liberal-principles-securocracy",
+      "title": "Not since 9/11 has the UK faced such a security crisis \u2013 and threat to our liberal principles | Gaby Hinsliff",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/commentisfree/2026/oct/08/911-uk-security-crisis-threat-liberal-principles-securocracy",
+      "published": "2026-10-08T16:55:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
+      "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
+      "published": "2026-10-08T16:43:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/2026/10/08/future-cost-use-of-marine-corps-acvs-scrutinized-in-congressional-report/",
+      "title": "Future cost, use of Marine Corps ACVs scrutinized in congressional report",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/2026/10/08/future-cost-use-of-marine-corps-acvs-scrutinized-in-congressional-report/",
+      "published": "2026-10-08T16:34:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.defensenews.com/industry/techwatch/2026/10/08/us-air-force-army-eye-industry-access-on-test-ranges/",
       "title": "US Air Force, Army eye industry access on test ranges",
@@ -157,50 +311,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791460629",
-      "title": "More killed in Kramatorsk as Russia targets Ukraine\u2019s transportation system",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/8/more-killed-in-kramatorsk-as-russia-targets-ukraines-transportation-system?traffic_source=rss",
-      "published": "2026-10-08T14:50:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791466984",
-      "title": "Saudi-led coalition says it intercepts three Houthi ballistic missiles",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/8/saudi-led-coalition-says-it-intercepts-three-houthi-ballistic-missiles?traffic_source=rss",
-      "published": "2026-10-08T14:43:19+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/industry/techwatch/2026/10/08/dutch-firm-uses-ai-to-help-drone-systems-talk-on-ukraines-battlefield/",
       "title": "Dutch firm uses AI to help drone systems \u2018talk\u2019 on Ukraine\u2019s battlefield",
       "source": "Defense News",
@@ -216,28 +326,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0b7abca8cdd68732b23e56f35cee6833",
-      "title": "The Supervisory Committee for Initiatives under the \u2018Sheikha Hind bint Maktoum Family Programme\u2019 held its first meeting, chaired by Hessa bint Essa Buhumaid, Director General of the Community Development Authority in Dubai. The meeting reviewed the outcomes of initiatives aimed at supporting Emirati families, including the \u2018Dubai Weddings\u2019 initiative, which accounted for 48% of all Emirati weddings held in Dubai in 2026. The \u2018Sheikha Hind bint Maktoum Family Programme\u2019 has contributed to the establishment of around 1,500 Emirati families since its launch. In addition, 1,300 individuals have benefited from financial support, while 472 births were recorded among the outcomes of the \u2018Dubai Wedd",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2108203877703290930",
-      "published": "2026-10-08T14:32:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -289,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
-      "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
-      "published": "2026-10-08T14:20:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-military/2026/10/08/pentagon-recruits-drone-pilots-from-across-services-for-upcoming-competition/",
       "title": "Pentagon recruits drone pilots from across services for upcoming competition",
       "source": "Defense News",
@@ -323,28 +389,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791453299",
-      "title": "King David Hotel bombing to consulate row: A timeline of UK-Israel tension",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/8/king-david-hotel-bombing-to-consulate-row-a-timeline-of-uk-israel-tension?traffic_source=rss",
-      "published": "2026-10-08T14:01:54+00:00",
-      "type": "airstrike",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -949,28 +993,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/07/uk-consulate-east-jerusalem-prepares-close-israel",
-      "title": "\u2018Palestinians will bear the cost\u2019: UK consulate in East Jerusalem prepares to shut its doors",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/07/uk-consulate-east-jerusalem-prepares-close-israel",
-      "published": "2026-10-07T15:14:12+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "d1076b9e018d3f2314e83f6aadd9dbbb",
       "title": "\u0634\u0627\u0631\u0643\u062a \u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0641\u064a \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639 \u0627\u0644\u0633\u0627\u0628\u0639 \u0644\u0645\u062f\u064a\u0631\u064a \u0627\u0644\u0623\u0645\u0646 \u0627\u0644\u0639\u0627\u0645 \u0628\u062f\u0648\u0644 \u0645\u062c\u0644\u0633 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0644\u062f\u0648\u0644 \u0627\u0644\u062e\u0644\u064a\u062c \u0627\u0644\u0639\u0631\u0628\u064a\u0629\u060c \u0627\u0644\u0630\u064a \u0627\u0646\u0639\u0642\u062f \u0641\u064a \u0645\u0642\u0631 \u0627\u0644\u0623\u0645\u0627\u0646\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0645\u062c\u0644\u0633 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0628\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u060c \u0648\u062a\u0631\u0623\u0633 \u0648\u0641\u062f \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0641\u064a \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639 \u0627\u0644\u0639\u0645\u064a\u062f \u0633\u0639\u064a\u062f \u0628\u0646 \u062a\u0648\u064a\u0631 \u0627\u0644\u0633\u0648\u064a\u062f\u064a\u060c \u0627\u0644\u0648\u0643\u064a\u0644 \u0627\u0644\u0645\u0633\u0627\u0639\u062f \u0644\u0634\u0624\u0648\u0646 \u0627\u0644\u0623\u0645\u0646\u060c \u062d\u064a\u062b \u0646\u0627\u0642\u0634 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639 \u0639\u062f\u062f\u0627\u064b \u0645\u0646 \u0627\u0644\u0645\u0648\u0636\u0648\u0639\u0627\u062a \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0630\u0627\u062a \u0627\u0644\u0627\u0647\u062a\u0645\u0627\u0645 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u060c \u0648\u0627\u0633\u062a\u0639\u0631\u0636 \u0646\u062a\u0627\u0626\u062c \u0648\u062a\u0648\u0635\u064a\u0627\u062a \u0627\u0644\u0644\u062c\u0627\u0646 \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u0629\u060c \u0648\u0633\u0628\u0644 \u062a\u0646\u0641\u064a\u0630\u0647\u0627 \u062f\u0639\u0645\u0627\u064b \u0644\u0645\u0633\u064a\u0631\u0629 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0623\u0645\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a. The UAE took part in the 7th Meeting of Public Security Directors of the GCC countries, held at the GCC General Secretariat headquarters in Riyadh. Brigadier Saeed bin Tuwair Al Suwaidi, Assistant Undersecretary for Security Affairs, headed the Ministry of Interior\u2019s delegation to t",
       "source": "UAE MOI (RSS.app)",
@@ -1059,28 +1081,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb",
-      "title": "Flydubai attack investigation widens as alleged hijacker\u2019s training in New Zealand scrutinised",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb",
-      "published": "2026-10-07T05:25:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o#1",
       "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
       "source": "BBC Middle East",
@@ -1117,28 +1117,6 @@
         "lng": 53.688
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/industry/techwatch/2026/10/06/its-official-us-armys-improved-m8-rifle-to-begin-fielding-in-december/",
-      "title": "It\u2019s official: US Army\u2019s improved M8 rifle to begin fielding in December",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/06/its-official-us-armys-improved-m8-rifle-to-begin-fielding-in-december/",
-      "published": "2026-10-06T19:46:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
