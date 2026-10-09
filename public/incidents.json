@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-09T20:33:43.371536+00:00",
-  "total_incidents": 64,
+  "generated_at": "2026-10-09T21:31:37.414406+00:00",
+  "total_incidents": 63,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791574180",
+      "title": "UN envoy warns Yemen has returned to \u2018full-scale war\u2019, urges dialogue",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
+      "published": "2026-10-09T20:56:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "32a0e72be88730c71bded9cff70625cc",
+      "title": "Latifa bint Mohammed: Dubai is blessed with a leadership that recognises the vital role of culture and the arts in enriching lives and shaping the future. We are grateful to His Highness Sheikh Mohammed bin Rashid Al Maktoum for his continued support for culture and the arts, and his belief in their role in strengthening Dubai\u2019s identity and international standing. The establishment of the Dubai Orchestra Foundation is another step forward in this journey, nurturing local talent and strengthening Dubai\u2019s presence on the global cultural stage.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2108660941038690704",
+      "published": "2026-10-09T20:48:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/09/flydubai-co-pilot-planned-suicide-attack-on-israeli-airport-uae-prosecutors-say",
+      "title": "Flydubai co-pilot planned suicide attack on Israeli airport, UAE prosecutors say",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/09/flydubai-co-pilot-planned-suicide-attack-on-israeli-airport-uae-prosecutors-say",
+      "published": "2026-10-09T20:38:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "2f8245aa7ba1738db74f9dc3c363cd0e",
       "title": "#Kuwait reaffirms support for int'l justice, respect for int'l law.  #KUNA #KUWAIT",
@@ -47,20 +113,20 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/business/energy/2026/10/09/trump-putin-diesel-russia/",
-      "title": "Trump lifts US sanctions on Russian diesel exports amid price surge",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/09/trump-putin-diesel-russia/",
-      "published": "2026-10-09T20:17:08+00:00",
+      "id": "https://www.aljazeera.com/?t=1791570005",
+      "title": "Flydubai co-pilot plotted \u2018suicide\u2019 attack on Israel, UAE says",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
+      "published": "2026-10-09T20:13:24+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": null,
+        "country": "UAE",
         "city": null,
-        "lat": 29.0,
-        "lng": 48.0
+        "lat": 25.2048,
+        "lng": 55.2708
       },
-      "credibility": 85,
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -180,17 +246,17 @@
     },
     {
       "id": "https://www.aljazeera.com/?t=1791571295",
-      "title": "Tsunami warnings across Latin America after 7.7 magnitude earthquake hits",
+      "title": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
       "published": "2026-10-09T19:22:56+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": null,
+        "country": "Bahrain",
         "city": null,
-        "lat": 29.0,
-        "lng": 48.0
+        "lat": 26.2285,
+        "lng": 50.586
       },
       "credibility": 90,
       "is_government": false,
@@ -311,50 +377,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791561561",
-      "title": "Gaza ceasefire \u2018exists in name only\u2019, more than 100 NGOs say",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss",
-      "published": "2026-10-09T18:15:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791569097",
-      "title": "\u2018An attack against sovereign states\u2019: ICC President slams US sanctions",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/an-attack-against-sovereign-states-icc-president-slams-us-sanctions?traffic_source=rss",
-      "published": "2026-10-09T18:06:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=97969",
       "title": "Ideal Aerosmith debuts \u2018Troublemaker\u2019 for one-way attack",
       "source": "Breaking Defense",
@@ -391,28 +413,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791561706",
-      "title": "Jerusalem Daily: US charity to use AI to monitor Gaza classrooms",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/jerusalem-daily-us-charity-to-use-ai-to-monitor-gaza-classrooms?traffic_source=rss",
-      "published": "2026-10-09T17:37:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -983,28 +983,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/08/israel-downgrading-uk-consulate-tighten-hold-jerusalem",
-      "title": "Israel\u2019s downgrading of UK consulate aims to tighten its hold on Jerusalem",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/08/israel-downgrading-uk-consulate-tighten-hold-jerusalem",
-      "published": "2026-10-08T17:16:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
       },
       "credibility": 90,
       "is_government": false,
