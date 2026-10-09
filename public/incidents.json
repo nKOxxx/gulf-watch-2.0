@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-09T12:44:45.545002+00:00",
-  "total_incidents": 60,
+  "generated_at": "2026-10-09T13:36:44.072301+00:00",
+  "total_incidents": 62,
   "incidents": [
     {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/09/revised-suicide-law-can-reduce-mental-health-stigma-and-improve-support/",
-      "title": "Revised suicide law can 'reduce mental health stigma and improve support'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/09/revised-suicide-law-can-reduce-mental-health-stigma-and-improve-support/",
-      "published": "2026-10-09T12:32:35+00:00",
+      "id": "https://www.aljazeera.com/?t=1791543808",
+      "title": "Ukraine pushes Russia back in Donetsk as military, civilian casualties soar",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/9/ukraine-pushes-russia-back-in-donetsk-as-military-civilian-casualties-soar?traffic_source=rss",
+      "published": "2026-10-09T13:09:15+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -15,6 +15,116 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791551080",
+      "title": "Child flees as Israeli settlers hijack car during pogrom",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/child-flees-as-israeli-settlers-hijack-car-during-pogrom?traffic_source=rss",
+      "published": "2026-10-09T13:09:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/09/agricultural-city-being-developed-in-abu-dhabi-to-aid-uaes-food-security-efforts/",
+      "title": "Agricultural city being developed in Abu Dhabi to aid UAE's food security efforts",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/09/agricultural-city-being-developed-in-abu-dhabi-to-aid-uaes-food-security-efforts/",
+      "published": "2026-10-09T13:01:41+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/your-military/2026/10/09/official-poster-depicts-the-us-armys-newest-threat-the-iranian-soldier/",
+      "title": "Official poster depicts the US Army\u2019s newest threat: The Iranian soldier",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/10/09/official-poster-depicts-the-us-armys-newest-threat-the-iranian-soldier/",
+      "published": "2026-10-09T13:00:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3c6f9467bbde8810ffd04ac5f6479b69",
+      "title": "Maktoum bin Mohammed: Today, I met with Bruce Richards, Chairman, Chief Executive Officer and Co-Founder of CVC Marathon, a global asset management firm. We discussed opportunities for cooperation in investment and asset management. Guided by the vision of its leadership, the UAE continues to provide global investors with the enablers they need to succeed. Dubai continues to strengthen its position as a global gateway for investors and a launchpad for growth opportunities across regional and international markets, supported by an integrated financial ecosystem and a competitive investment environment that advances the objectives of the Dubai Economic Agenda D33.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2108537680082706536",
+      "published": "2026-10-09T12:38:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/09/revised-suicide-law-can-reduce-mental-health-stigma-and-improve-support/",
+      "title": "UAE's revised suicide law can 'reduce mental health stigma and improve support'",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/09/revised-suicide-law-can-reduce-mental-health-stigma-and-improve-support/",
+      "published": "2026-10-09T12:32:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
       },
       "credibility": 85,
       "is_government": false,
@@ -125,50 +235,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791532440",
-      "title": "Is Trump signalling a return to war with Iran after the midterms?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms?traffic_source=rss",
-      "published": "2026-10-09T10:40:36+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/economy/2026/10/09/uae-economy-grew-in-first-half-of-2026-despite-impact-of-iran-war/",
-      "title": "UAE economy grew in first half of 2026 despite impact of Iran war",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/09/uae-economy-grew-in-first-half-of-2026-despite-impact-of-iran-war/",
-      "published": "2026-10-09T10:39:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 85,
       "is_government": false,
@@ -910,28 +976,6 @@
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/news/your-military/2026/10/08/german-pilots-prepare-for-ch47f-fleet-with-us-army-flight-simulator/",
       "published": "2026-10-08T13:25:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/europe/2026/10/08/france-to-start-training-ukrainian-pilots-on-rafale-warplanes-in-november-minister-says/",
-      "title": "France to start training Ukrainian pilots on Rafale warplanes in November, minister says",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/10/08/france-to-start-training-ukrainian-pilots-on-rafale-warplanes-in-november-minister-says/",
-      "published": "2026-10-08T13:21:08+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
