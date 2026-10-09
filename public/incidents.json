@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-09T02:49:53.717379+00:00",
-  "total_incidents": 58,
+  "generated_at": "2026-10-09T03:43:01.822263+00:00",
+  "total_incidents": 62,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/09/we-made-our-own-supply-chain-how-uae-food-retailers-and-producers-adapted-to-absorb-impact-of-iran-war/",
+      "title": "'We made our own supply chain': How UAE food retailers and producers adapted to absorb impact of Iran war",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/09/we-made-our-own-supply-chain-how-uae-food-retailers-and-producers-adapted-to-absorb-impact-of-iran-war/",
+      "published": "2026-10-09T03:30:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/10/09/iran-war-drives-south-east-asia-towards-renewables-but-investment-falls-short/",
+      "title": "Iran war drives South-East Asia towards renewables but investment falls short",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/09/iran-war-drives-south-east-asia-towards-renewables-but-investment-falls-short/",
+      "published": "2026-10-09T03:24:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/09/google-earth-shows-a-cold-hard-fact-for-many-gazans-there-is-no-place-to-live/",
+      "title": "Google Earth shows a cold, hard fact: for many Gazans, there is no place to live",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/09/google-earth-shows-a-cold-hard-fact-for-many-gazans-there-is-no-place-to-live/",
+      "published": "2026-10-09T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uk/2026/10/09/test-show-ai-models-likely-to-give-terrorist-advice/",
+      "title": "Test shows AI models likely to give advice for terrorist attacks",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/09/test-show-ai-models-likely-to-give-terrorist-advice/",
+      "published": "2026-10-09T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/opinion/editorial/2026/10/09/yemen-houthis-saudi-arabia-middle-east/",
+      "title": "The Houthis have no answer for Yemen's problems",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/opinion/editorial/2026/10/09/yemen-houthis-saudi-arabia-middle-east/",
+      "published": "2026-10-09T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/2026/10/09/online-sports-gaming-takes-root-in-the-uae-after-successful-fifa-world-cup/",
+      "title": "Online sports gaming takes root in the UAE after successful Fifa World Cup",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/sport/2026/10/09/online-sports-gaming-takes-root-in-the-uae-after-successful-fifa-world-cup/",
+      "published": "2026-10-09T02:51:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
       "title": "Houthis claim attack on Riyadh airport as airlines suspend flights to Saudi capital",
@@ -289,28 +421,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/08/uae-and-saudi-arabia-sign-rail-and-energy-agreement-to-boost-cross-border-trade-and-connectivity/",
-      "title": "UAE and Saudi Arabia sign rail and energy agreement to boost trade and connectivity",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/08/uae-and-saudi-arabia-sign-rail-and-energy-agreement-to-boost-cross-border-trade-and-connectivity/",
-      "published": "2026-10-08T18:25:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=97702",
       "title": "Power at the sprocket: It\u2019s the transmission that gives tracked vehicles their control",
       "source": "Breaking Defense",
@@ -369,28 +479,6 @@
         "lng": 34.8516
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/08/trump-rules-out-attack-on-iran-before-midterm-elections/",
-      "title": "Trump rules out attack on Iran before midterm elections",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/08/trump-rules-out-attack-on-iran-before-midterm-elections/",
-      "published": "2026-10-08T17:37:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
