@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-09T11:31:10.906023+00:00",
-  "total_incidents": 56,
+  "generated_at": "2026-10-09T12:44:45.545002+00:00",
+  "total_incidents": 60,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/09/revised-suicide-law-can-reduce-mental-health-stigma-and-improve-support/",
+      "title": "Revised suicide law can 'reduce mental health stigma and improve support'",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/09/revised-suicide-law-can-reduce-mental-health-stigma-and-improve-support/",
+      "published": "2026-10-09T12:32:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=97769",
+      "title": "Bringing real autonomy to battlefield drone swarms",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/bringing-real-autonomy-to-battlefield-drone-swarms/",
+      "published": "2026-10-09T12:25:00+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ea630d6591d645d25feadcf14a98b152",
+      "title": "RT by @DXBMediaOffice: Today, I met with Bruce Richards, Chairman, Chief Executive Officer and Co-Founder of CVC Marathon, a global asset management firm. We discussed opportunities for cooperation in investment and asset management. Guided by the vision of its leadership, the UAE continues to provide global investors with the enablers they need to succeed. Dubai continues to strengthen its position as a global gateway for investors and a launchpad for growth opportunities across regional and international markets, supported by an integrated financial ecosystem and a competitive investment environment that advances the objectives of the Dubai Economic Agenda D33.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/MaktoumMohammed/status/2108530078443536877",
+      "published": "2026-10-09T12:08:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791538306",
+      "title": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
+      "published": "2026-10-09T11:46:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/09/abu-dhabi-police-share-video-warning-about-dangers-of-reversing-on-busy-roads/",
+      "title": "Abu Dhabi Police share video warning about dangers of reversing on busy roads",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/09/abu-dhabi-police-share-video-warning-about-dangers-of-reversing-on-busy-roads/",
+      "published": "2026-10-09T11:36:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/2026/10/09/among-the-worlds-megaprojects-the-gulf-is-building-big/",
       "title": "Among the world's megaprojects, the Gulf is building big",
@@ -69,21 +179,43 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791448030",
-      "title": "The girls in the Gaza school photograph",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/longform/2026/10/9/the-girls-in-the-gaza-school-photograph?traffic_source=rss",
-      "published": "2026-10-09T10:23:42+00:00",
+      "id": "a6476701f108906804d7ff9832c1561c",
+      "title": "Chief of the General Staff of the #Kuwaiti Army meets with #UK's Senior Defence Adviser for the Middle East & North Africa, discussing ways to strengthen & develop military cooperation.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2108507739655696712",
+      "published": "2026-10-09T10:39:00+00:00",
       "type": "incident",
-      "status": "unconfirmed",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3f047f9da9138d33fb4fadb4947283a8",
+      "title": "International Organization for Migration Chief: Nearly two million people in Gaza need urgent shelter assistance as winter looms  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2108502137701318721",
+      "published": "2026-10-09T10:17:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
       "location": {
         "country": "Palestine",
         "city": null,
         "lat": 31.5017,
         "lng": 34.4668
       },
-      "credibility": 90,
-      "is_government": false,
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -201,28 +333,6 @@
       }
     },
     {
-      "id": "f6f205239a8ec6cd5fffe6f42d54e624",
-      "title": "Dubai\u2019s Community Development Authority (CDA) graduates 37 social professionals in its sixth cohort, bringing the total number of licensed professionals in Dubai to 1,263. The initiative strengthens workforce competencies, enhances community services and advances the social professions licensing framework, supporting the objectives of Dubai Social Agenda 33.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2108496484165423116",
-      "published": "2026-10-09T09:55:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
       "title": "Three Saudis killed in Riyadh airport attack claimed by Houthis",
       "source": "The Guardian",
@@ -259,28 +369,6 @@
         "lng": 34.8516
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/09/saudi-airline-pilot-among-three-killed-in-attacks-on-riyadh-airport/",
-      "title": "Saudi airline pilot among three killed in attacks on Riyadh airport",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/09/saudi-airline-pilot-among-three-killed-in-attacks-on-riyadh-airport/",
-      "published": "2026-10-09T08:53:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
