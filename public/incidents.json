@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-09T10:35:16.744919+00:00",
-  "total_incidents": 54,
+  "generated_at": "2026-10-09T11:31:10.906023+00:00",
+  "total_incidents": 56,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/2026/10/09/among-the-worlds-megaprojects-the-gulf-is-building-big/",
+      "title": "Among the world's megaprojects, the Gulf is building big",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/2026/10/09/among-the-worlds-megaprojects-the-gulf-is-building-big/",
+      "published": "2026-10-09T10:56:15+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791532440",
+      "title": "Is Trump signalling a return to war with Iran after the midterms?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms?traffic_source=rss",
+      "published": "2026-10-09T10:40:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/economy/2026/10/09/uae-economy-grew-in-first-half-of-2026-despite-impact-of-iran-war/",
+      "title": "UAE economy grew in first half of 2026 despite impact of Iran war",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/09/uae-economy-grew-in-first-half-of-2026-despite-impact-of-iran-war/",
+      "published": "2026-10-09T10:39:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791448030",
+      "title": "The girls in the Gaza school photograph",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/longform/2026/10/9/the-girls-in-the-gaza-school-photograph?traffic_source=rss",
+      "published": "2026-10-09T10:23:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.defensenews.com/global/europe/2026/10/09/estonias-krattworks-crafting-shahed-like-dummy-drone-for-target-practice/",
       "title": "Estonia\u2019s KrattWorks crafting Shahed-like dummy drone for target practice",
@@ -223,28 +311,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/09/irans-supreme-leader-calls-for-greater-use-of-ai-to-strengthen-security/",
-      "title": "Iran's supreme leader calls for greater use of AI to strengthen security",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/09/irans-supreme-leader-calls-for-greater-use-of-ai-to-strengthen-security/",
-      "published": "2026-10-09T08:27:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "ec102e4910556c13173597f8a642b14e",
       "title": "#Pakistan's Prime Minister condemns the repeated attacks launched by the Houthis militia against the Kingdom of #SaudiArabia.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -282,28 +348,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791447672",
-      "title": "Three years after October 7, prolonged war takes its toll on Israelis",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/9/three-years-after-october-7-prolonged-war-takes-its-toll-on-israelis?traffic_source=rss",
-      "published": "2026-10-09T07:57:36+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
