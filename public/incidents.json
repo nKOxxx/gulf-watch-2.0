@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-09T18:38:56.232616+00:00",
-  "total_incidents": 65,
+  "generated_at": "2026-10-09T19:31:48.871950+00:00",
+  "total_incidents": 64,
   "incidents": [
+    {
+      "id": "https://breakingdefense.com/?p=98044",
+      "title": "Drones and autonomous warfare: \u2018One-way attack\u2019 and reshaping ISR",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/drones-and-autonomous-warfare-one-way-attack-and-reshaping-isr/",
+      "published": "2026-10-09T19:19:11+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791571323",
+      "title": "Injured Orangutan rescued from Indonesia wildfires",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss",
+      "published": "2026-10-09T19:14:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791561561",
       "title": "Gaza ceasefire \u2018exists in name only\u2019, more than 100 NGOs say",
@@ -238,28 +282,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791558777",
-      "title": "DHS defends ICE shooting in NYC, says officers believed they were in danger",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/9/dhs-defends-ice-shooting-in-nyc-says-officers-believed-they-were-in-danger?traffic_source=rss",
-      "published": "2026-10-09T16:36:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -543,28 +565,6 @@
         "city": null,
         "lat": 24.7136,
         "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3c6f9467bbde8810ffd04ac5f6479b69",
-      "title": "Maktoum bin Mohammed: Today, I met with Bruce Richards, Chairman, Chief Executive Officer and Co-Founder of CVC Marathon, a global asset management firm. We discussed opportunities for cooperation in investment and asset management. Guided by the vision of its leadership, the UAE continues to provide global investors with the enablers they need to succeed. Dubai continues to strengthen its position as a global gateway for investors and a launchpad for growth opportunities across regional and international markets, supported by an integrated financial ecosystem and a competitive investment environment that advances the objectives of the Dubai Economic Agenda D33.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2108537680082706536",
-      "published": "2026-10-09T12:38:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 95,
       "is_government": true,
@@ -942,28 +942,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "1e6a33ff9210cec2f5763fbf870b9c6d",
-      "title": ". Mohamed Hassan Alsuwaidi, UAE Minister of Investment, and Prince Abdulaziz bin Salman bin Abdulaziz Minister of Energy...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DePc0aBCKIC",
-      "published": "2026-10-08T17:16:57+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
