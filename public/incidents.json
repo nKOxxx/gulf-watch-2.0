@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-09T07:44:22.504698+00:00",
-  "total_incidents": 58,
+  "generated_at": "2026-10-09T08:43:45.904193+00:00",
+  "total_incidents": 60,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/09/irans-supreme-leader-calls-for-greater-use-of-ai-to-strengthen-security/",
+      "title": "Iran's supreme leader calls for greater use of AI to strengthen security",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/09/irans-supreme-leader-calls-for-greater-use-of-ai-to-strengthen-security/",
+      "published": "2026-10-09T08:27:45+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ec102e4910556c13173597f8a642b14e",
+      "title": "#Pakistan's Prime Minister condemns the repeated attacks launched by the Houthis militia against the Kingdom of #SaudiArabia.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2108473454831751543",
+      "published": "2026-10-09T08:23:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "098b829487015202d37535c1803849ab",
+      "title": "#Saudi General Authority of Civil Aviation: Three nationals were killed in two attacks on King Khalid International Airport in #Riyadh #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2108472508588478513",
+      "published": "2026-10-09T08:19:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791447672",
+      "title": "Three years after October 7, prolonged war takes its toll on Israelis",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/9/three-years-after-october-7-prolonged-war-takes-its-toll-on-israelis?traffic_source=rss",
+      "published": "2026-10-09T07:57:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791463119",
+      "title": "Why has Iraq decided to ban online map service Waze?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/9/why-has-iraq-decided-to-ban-online-map-service-waze?traffic_source=rss",
+      "published": "2026-10-09T07:48:15+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/business/energy/2026/10/09/oil-headed-for-weekly-gain-on-impact-of-middle-east-tension-and-hurricane-isaias/",
       "title": "Oil headed for weekly gain on impact of Middle East tension and Hurricane Isaias",
@@ -26,17 +136,17 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/09/live-iran-war-yemen-saudi-arabia-houthis/",
-      "title": "Middle East latest: Saudi Arabia intercepts ballistic missiles targeting two cities",
+      "title": "Middle East latest: Three Saudi citizens killed in Houthi attacks on King Khalid International Airport",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/mena/2026/10/09/live-iran-war-yemen-saudi-arabia-houthis/",
       "published": "2026-10-09T06:57:22+00:00",
-      "type": "missile",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Saudi Arabia",
         "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 85,
       "is_government": false,
@@ -223,28 +333,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/09/syria-israel-golan-heights/",
-      "title": "Golan Heights dilemma: Israel's new military line blurs engagement and confrontation",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/09/syria-israel-golan-heights/",
-      "published": "2026-10-09T05:31:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1791437747",
       "title": "Photos: Gaza before and after \u2013 a city transformed by war",
       "source": "Al Jazeera",
@@ -282,28 +370,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "469332e00672abb678cc5a9c2ee307a1",
-      "title": "#US to pursue measures to sever \"Iran's economic lifelines\"  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108330700898172993",
-      "published": "2026-10-08T22:56:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -942,28 +1008,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8593125f37c1e8d3242cb5ab93e87cda",
-      "title": ". The United Arab Emirates has condemned in the strongest terms the attacks by the Houthi Group on Abha International Ai...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DeOmy5zCO8A",
-      "published": "2026-10-08T09:24:53+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
