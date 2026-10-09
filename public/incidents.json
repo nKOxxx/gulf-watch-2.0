@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T21:31:37.414406+00:00",
-  "total_incidents": 63,
+  "generated_at": "2026-10-09T22:33:07.390648+00:00",
+  "total_incidents": 61,
   "incidents": [
     {
       "id": "https://www.aljazeera.com/?t=1791574180",
@@ -18,6 +18,28 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "6329a66b127d09cee64a74e248d558cb",
+      "title": "Kuwaiti Diplomatic Attach\u00e9 Abdullah Bousakhar: #Kuwait underscored the importance of strengthening international cooperation in the digital field to bridge technological gaps  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2108662697109717007",
+      "published": "2026-10-09T20:55:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -245,28 +267,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791571295",
-      "title": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
-      "published": "2026-10-09T19:22:56+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 26.2285,
-        "lng": 50.586
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=98044",
       "title": "Drones and autonomous warfare: \u2018One-way attack\u2019 and reshaping ISR",
       "source": "Breaking Defense",
@@ -281,28 +281,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791571323",
-      "title": "Injured Orangutan rescued from Indonesia wildfires",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss",
-      "published": "2026-10-09T19:14:56+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -741,28 +719,6 @@
         "city": null,
         "lat": 24.7136,
         "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f06a1c228538b45a108bc862ec453f70",
-      "title": "#Kuwait government efforts accelerated during the third quarter of the year to develop the financial and economic infrastructure through legislative reforms and structural changes aimed at improving the business environment, diversifying revenues and attracting foreign investment (A news report)  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108537501338005742",
-      "published": "2026-10-09T12:38:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
