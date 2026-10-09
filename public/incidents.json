@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-09T15:32:59.486084+00:00",
-  "total_incidents": 61,
+  "generated_at": "2026-10-09T16:35:16.338618+00:00",
+  "total_incidents": 62,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/09/el-sayed-rogers-debate-michigan/",
+      "title": "El-Sayed and Rogers trade personal attacks in bitter Michigan Senate debate",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/09/el-sayed-rogers-debate-michigan/",
+      "published": "2026-10-09T16:23:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/politics/2026/oct/09/zionism-racism-and-the-green-party-in-turmoil",
+      "title": "Zionism, racism and the Green party in turmoil | Letters",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/politics/2026/oct/09/zionism-racism-and-the-green-party-in-turmoil",
+      "published": "2026-10-09T16:22:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/09/flydubai-co-pilot-planned-suicide-attack-on-tel-aviv-airport-uae-prosecutors-say/",
+      "title": "Flydubai co-pilot planned suicide attack on Tel Aviv airport, UAE prosecutors say",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/09/flydubai-co-pilot-planned-suicide-attack-on-tel-aviv-airport-uae-prosecutors-say/",
+      "published": "2026-10-09T16:17:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.0853,
+        "lng": 34.7818
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=97853",
+      "title": "New leaders, new drone command: What we expect from AUSA 2026",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/new-leaders-new-drone-command-what-we-expect-from-ausa-2026/",
+      "published": "2026-10-09T16:07:00+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/your-army/2026/10/09/us-army-corps-of-engineers-failed-to-explain-drop-in-environmental-mitigation-work-watchdog/",
+      "title": "US Army Corps of Engineers failed to explain drop in environmental mitigation work: Watchdog",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-army/2026/10/09/us-army-corps-of-engineers-failed-to-explain-drop-in-environmental-mitigation-work-watchdog/",
+      "published": "2026-10-09T15:59:53+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791552283",
+      "title": "Israeli settler attacks target Palestinian olive harvest in West Bank",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/9/israeli-settler-attacks-target-palestinian-olive-harvest-in-west-bank?traffic_source=rss",
+      "published": "2026-10-09T15:28:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://breakingdefense.com/?p=97715",
       "title": "A leap in drone range and payloads come from a battery with different chemistry",
@@ -157,28 +289,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/09/agricultural-city-being-developed-in-abu-dhabi-to-aid-uaes-food-security-efforts/",
-      "title": "Agricultural city being developed in Abu Dhabi to aid UAE's food security efforts",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/09/agricultural-city-being-developed-in-abu-dhabi-to-aid-uaes-food-security-efforts/",
-      "published": "2026-10-09T13:01:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-military/2026/10/09/official-poster-depicts-the-us-armys-newest-threat-the-iranian-soldier/",
       "title": "Official poster depicts the US Army\u2019s newest threat: The Iranian soldier",
       "source": "Defense News",
@@ -260,28 +370,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/09/revised-suicide-law-can-reduce-mental-health-stigma-and-improve-support/",
-      "title": "UAE's revised suicide law can 'reduce mental health stigma and improve support'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/09/revised-suicide-law-can-reduce-mental-health-stigma-and-improve-support/",
-      "published": "2026-10-09T12:32:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -729,28 +817,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=97318",
-      "title": "Lessons for CENTCOM from counter-drone experiments in the Arizona desert",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/lessons-for-centcom-from-counter-drone-experiments-in-the-arizona-desert/",
-      "published": "2026-10-08T18:08:11+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/08/israel-promotes-film-that-mimics-naza-documentary",
       "title": "Israel promotes film that mimics NAZA documentary",
       "source": "The Guardian",
@@ -829,28 +895,6 @@
         "city": null,
         "lat": 31.5017,
         "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/commentisfree/2026/oct/08/911-uk-security-crisis-threat-liberal-principles-securocracy",
-      "title": "Not since 9/11 has the UK faced such a security crisis \u2013 and threat to our liberal principles | Gaby Hinsliff",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/oct/08/911-uk-security-crisis-threat-liberal-principles-securocracy",
-      "published": "2026-10-08T16:55:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -977,28 +1021,6 @@
       "source_url": "https://www.defensenews.com/news/your-military/2026/10/08/pentagon-recruits-drone-pilots-from-across-services-for-upcoming-competition/",
       "published": "2026-10-08T14:06:55+00:00",
       "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/your-military/2026/10/08/german-pilots-prepare-for-ch47f-fleet-with-us-army-flight-simulator/",
-      "title": "German pilots prepare for CH\u201147F fleet with US Army flight simulator",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-military/2026/10/08/german-pilots-prepare-for-ch47f-fleet-with-us-army-flight-simulator/",
-      "published": "2026-10-08T13:25:20+00:00",
-      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": null,
