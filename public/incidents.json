@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-09T09:38:59.735106+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-09T10:35:16.744919+00:00",
+  "total_incidents": 54,
   "incidents": [
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/10/09/estonias-krattworks-crafting-shahed-like-dummy-drone-for-target-practice/",
+      "title": "Estonia\u2019s KrattWorks crafting Shahed-like dummy drone for target practice",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/09/estonias-krattworks-crafting-shahed-like-dummy-drone-for-target-practice/",
+      "published": "2026-10-09T10:11:46+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "41c34b87546c321e849a761a8ce35339",
+      "title": "President Masoud Pezeshkian has reaffirmed commitment to diplomacy while firmly rejecting US unilateralism, telling Russian President Vladimir Putin that Tehran will not walk away from the negotiating table despite US attacks.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2108500604607660134",
+      "published": "2026-10-09T10:11:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "855a23030e1d03c864c3e29216ba14b5",
+      "title": "President of Iran Masoud Pezeshkian has stressed the need for expansion of relations in all areas with Armenia.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2108500491219218822",
+      "published": "2026-10-09T10:11:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2d988fb7462d23e3628809c6580c3af1",
+      "title": "The war on Iran has revealed the huge decline in the US military power and the limits to that power, as reports by local US media clearly show.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2108500311518204336",
+      "published": "2026-10-09T10:10:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro#0",
+      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T10:07:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f6f205239a8ec6cd5fffe6f42d54e624",
+      "title": "Dubai\u2019s Community Development Authority (CDA) graduates 37 social professionals in its sixth cohort, bringing the total number of licensed professionals in Dubai to 1,263. The initiative strengthens workforce competencies, enhances community services and advances the social professions licensing framework, supporting the objectives of Dubai Social Agenda 33.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2108496484165423116",
+      "published": "2026-10-09T09:55:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
+      "title": "Three Saudis killed in Riyadh airport attack claimed by Houthis",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
+      "published": "2026-10-09T09:47:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/2026/oct/09/why-eu-failing-act-growing-public-criticism-israel-gaza-west-bank",
       "title": "\u2018Self-imposed irrelevance\u2019: why the EU is failing to act on growing public criticism of Israel",
@@ -157,72 +311,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791463119",
-      "title": "Why has Iraq decided to ban online map service Waze?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/9/why-has-iraq-decided-to-ban-online-map-service-waze?traffic_source=rss",
-      "published": "2026-10-09T07:48:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/10/09/oil-headed-for-weekly-gain-on-impact-of-middle-east-tension-and-hurricane-isaias/",
-      "title": "Oil headed for weekly gain on impact of Middle East tension and Hurricane Isaias",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/09/oil-headed-for-weekly-gain-on-impact-of-middle-east-tension-and-hurricane-isaias/",
-      "published": "2026-10-09T07:25:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791462742",
-      "title": "Who is Dov Lando, the Israeli rabbi criticising Zionism?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/9/who-is-dov-lando-the-israeli-rabbi-criticising-zionism?traffic_source=rss",
-      "published": "2026-10-09T06:55:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3c4df3ae31b1b8e2d3774639dc3678a0",
       "title": "KPC: #Kuwait oil price up USD 4.89 to USD 108.10 pb @kpcofficialkw  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -260,28 +348,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
-      "title": "Houthis claim attack on Riyadh airport as airlines suspend flights to Saudi capital",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
-      "published": "2026-10-09T02:28:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -751,28 +817,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/global/mideast-africa/2026/10/08/turkeys-foreign-minister-says-ankara-weighing-saudi-defense-support-rules-out-offensive-role/",
-      "title": "Turkey\u2019s foreign minister says Ankara weighing Saudi defense support, rules out offensive role",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/mideast-africa/2026/10/08/turkeys-foreign-minister-says-ankara-weighing-saudi-defense-support-rules-out-offensive-role/",
-      "published": "2026-10-08T13:07:36+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "5cc030a36650ee3cf87fdc31d431e7b0",
       "title": "For the First Time in Morocco: Israel MOD Opened a National Pavilion and Led an Israeli Delegation to Marrakech Airshow 2026 \ud83c\uddee\ud83c\uddf1\ud83c\uddf2\ud83c\udde6 Read More:",
       "source": "Israel MOD (RSS.app)",
@@ -854,28 +898,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=97649",
-      "title": "NIOA, AeroVironment team to offer and support loitering munitions Down Under",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/nioa-aerovironment-team-to-offer-and-support-loitering-munitions-down-under/",
-      "published": "2026-10-08T09:32:00+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -993,7 +1015,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o#1",
       "title": "Israelis demand accountability over 7 October failures three years after attacks",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
