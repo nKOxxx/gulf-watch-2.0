@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-10-09T19:31:48.871950+00:00",
+  "generated_at": "2026-10-09T20:33:43.371536+00:00",
   "total_incidents": 64,
   "incidents": [
+    {
+      "id": "2f8245aa7ba1738db74f9dc3c363cd0e",
+      "title": "#Kuwait reaffirms support for int'l justice, respect for int'l law.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2108653260156391522",
+      "published": "2026-10-09T20:18:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/missile-defense/2026/10/09/pentagon-raytheon-sign-63b-deal-to-replenish-us-missile-interceptor-supply/",
+      "title": "Pentagon, Raytheon sign $6.3B deal to replenish US missile interceptor supply",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/missile-defense/2026/10/09/pentagon-raytheon-sign-63b-deal-to-replenish-us-missile-interceptor-supply/",
+      "published": "2026-10-09T20:17:18+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/10/09/trump-putin-diesel-russia/",
+      "title": "Trump lifts US sanctions on Russian diesel exports amid price surge",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/09/trump-putin-diesel-russia/",
+      "published": "2026-10-09T20:17:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=98092",
+      "title": "Coast Guard places $248 million order for first MQ-9B drones",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/coast-guard-places-248-million-order-for-first-mq-9b-drones/",
+      "published": "2026-10-09T20:10:41+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c9193d1b65af4db061a38ba11dad7aa5",
+      "title": "RT by @DXBMediaOffice: Dubai is blessed with a leadership that recognises the vital role of culture and the arts in enriching lives and shaping the future. We are grateful to His Highness Sheikh Mohammed bin Rashid Al Maktoum for his continued support for culture and the arts, and his belief in their role in strengthening Dubai\u2019s identity and international standing. The establishment of the Dubai Orchestra Foundation is another step forward in this journey, nurturing local talent and strengthening Dubai\u2019s presence on the global cultural stage.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/hhshklatifa/status/2108650914076819783",
+      "published": "2026-10-09T20:08:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=97740",
+      "title": "One year in, Army\u2019s FUZE leader eyes \u2018bigger\u2019 acquisition challenges",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/one-year-in-armys-fuze-leader-eyes-bigger-acquisition-challenges/",
+      "published": "2026-10-09T20:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=98034",
+      "title": "Lockheed unveils PAC-3 Edge, its next-gen Patriot interceptor",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/lockheed-unveils-pac-3-edge-its-next-gen-patriot-interceptor/",
+      "published": "2026-10-09T19:45:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2ab6ca488fdb2b1dcb21addcbf0bbe7c",
+      "title": ". The United Arab Emirates has condemned in the strongest terms the attacks by the Houthi group on King Khalid Internati...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DeSQrDHiDdZ",
+      "published": "2026-10-09T19:28:32+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791571295",
+      "title": "Tsunami warnings across Latin America after 7.7 magnitude earthquake hits",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
+      "published": "2026-10-09T19:22:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://breakingdefense.com/?p=98044",
       "title": "Drones and autonomous warfare: \u2018One-way attack\u2019 and reshaping ISR",
@@ -40,6 +238,72 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "da522a51b6f67a6045437b85895e97c3",
+      "title": "#Kuwait Prime Minister Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah sent a cable to King Salman bin Abdulaziz Al Saud, of Saudi Arabia, expressing his sincere condolences and heartfelt sympathy over the martyrdom of three Saudi citizens and the injury of others in the two attacks that targeted King Khaled International Airport  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2108634555846447497",
+      "published": "2026-10-09T19:03:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "aaef15805f22c9f2e90cd256bde66b16",
+      "title": "His Highness the Crown Prince of #Kuwait Sheikh Sabah Khaled Al-Hamad Al-Sabah sent a cable to King Salman bin Abdulaziz Al Saud, of Saudi Arabia, expressing his sincere condolences and heartfelt sympathy over the martyrdom of three Saudi citizens and the injury of others in the two attacks that targeted King Khaled International Airport  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2108634212400030205",
+      "published": "2026-10-09T19:02:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b186580a7ca3d6edb4cb89aaebef6a1f",
+      "title": "His Highness the Amir of #Kuwait Sheikh Meshal Al-Ahmad Al-Jaber Al-Sabah sent a cable to his brother King Salman bin Abdulaziz Al Saud, of Saudi Arabia, expressing his sincere condolences and heartfelt sympathy over the martyrdom of three Saudi citizens and the injury of others in the two attacks that targeted King Khaled International Airport  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2108633860665659828",
+      "published": "2026-10-09T19:01:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -135,28 +399,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/opinion/comment/2026/10/09/flydubai-pilot-hero-smit-machchhar-courage-bravery-flight-1073/",
-      "title": "Fight, flight and the courage in between",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/opinion/comment/2026/10/09/flydubai-pilot-hero-smit-machchhar-courage-bravery-flight-1073/",
-      "published": "2026-10-09T18:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1791561706",
       "title": "Jerusalem Daily: US charity to use AI to monitor Gaza classrooms",
       "source": "Al Jazeera",
@@ -169,28 +411,6 @@
         "city": null,
         "lat": 31.7683,
         "lng": 35.2137
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791559599",
-      "title": "Drone strike kills 30 people in Sudan\u2019s Blue Nile region",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/9/drone-strike-kills-30-people-in-sudans-blue-nile-region?traffic_source=rss",
-      "published": "2026-10-09T17:19:43+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -465,28 +685,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=97692",
-      "title": "Hanwha sets sights on Army\u2019s tracked howitzer program after victory in wheeled competition",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/hanwha-sets-sights-on-armys-tracked-howitzer-program-after-victory-in-wheeled-competition/",
-      "published": "2026-10-09T14:09:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro#0",
       "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
       "source": "BBC Middle East",
@@ -502,28 +700,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0bbb1441e1c87419eff47d93201461a7",
-      "title": "Maktoum bin Mohammed meets with Bruce Richards, Chairman, Chief Executive Officer and Co-Founder of CVC Marathon, a global asset management firm specialising in public and private credit markets. The meeting explored developments in the global financial landscape and opportunities for closer cooperation in investment and asset management.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2108546209237369249",
-      "published": "2026-10-09T13:12:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -587,94 +763,6 @@
         "city": null,
         "lat": 29.3117,
         "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=97769",
-      "title": "Bringing real autonomy to battlefield drone swarms",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/bringing-real-autonomy-to-battlefield-drone-swarms/",
-      "published": "2026-10-09T12:25:00+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ec09f37a7c2cf24e33242d509090a659",
-      "title": "#Kuwait strongly condemns & denounces the blatant attacks launched by Houthi militia on King Khalid International Airport in #SaudiArabia  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108532619646259669",
-      "published": "2026-10-09T12:18:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a6476701f108906804d7ff9832c1561c",
-      "title": "Chief of the General Staff of the #Kuwaiti Army meets with #UK's Senior Defence Adviser for the Middle East & North Africa, discussing ways to strengthen & develop military cooperation.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108507739655696712",
-      "published": "2026-10-09T10:39:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3f047f9da9138d33fb4fadb4947283a8",
-      "title": "International Organization for Migration Chief: Nearly two million people in Gaza need urgent shelter assistance as winter looms  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108502137701318721",
-      "published": "2026-10-09T10:17:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
       },
       "credibility": 95,
       "is_government": true,
@@ -810,50 +898,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "adbbc7eae2d837b8e4473789ab5b342a",
-      "title": "#Saudi Airlines (Saudia) announces its pilot was killed in an incident that occurred on Thursday at King Khalid International Airport in Riyadh, which also caused damage to one of the airline's aircraft.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108478405633015976",
-      "published": "2026-10-09T08:43:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ec102e4910556c13173597f8a642b14e",
-      "title": "#Pakistan's Prime Minister condemns the repeated attacks launched by the Houthis militia against the Kingdom of #SaudiArabia.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108473454831751543",
-      "published": "2026-10-09T08:23:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1029,28 +1073,6 @@
         "lng": 35.2137
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/industry/techwatch/2026/10/08/dutch-firm-uses-ai-to-help-drone-systems-talk-on-ukraines-battlefield/",
-      "title": "Dutch firm uses AI to help drone systems \u2018talk\u2019 on Ukraine\u2019s battlefield",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/08/dutch-firm-uses-ai-to-help-drone-systems-talk-on-ukraines-battlefield/",
-      "published": "2026-10-08T14:35:46+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1379,28 +1401,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo#1",
-      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06T20:15:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 95,
       "is_government": false,
