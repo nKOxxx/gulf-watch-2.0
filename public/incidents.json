@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-10-09T16:35:16.338618+00:00",
-  "total_incidents": 62,
+  "generated_at": "2026-10-09T17:31:00.277362+00:00",
+  "total_incidents": 63,
   "incidents": [
+    {
+      "id": "https://www.defensenews.com/news/your-military/2026/10/09/us-army-activates-new-multi-domain-task-force-to-deny-disrupt-enemies-in-indo-pacific/",
+      "title": "US Army activates new multi-domain task force to \u2018deny, disrupt\u2019 enemies in Indo-Pacific",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/10/09/us-army-activates-new-multi-domain-task-force-to-deny-disrupt-enemies-in-indo-pacific/",
+      "published": "2026-10-09T17:15:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=97955",
+      "title": "Thales looks to export new C2 platform to Gulf nations, says executive",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/thales-looks-to-export-new-c2-platform-to-gulf-nations-says-executive/",
+      "published": "2026-10-09T17:13:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0deaf007d52decd3ad640a6d040441ca",
+      "title": "\u062a\u0635\u0648\u064a\u0631 \u0623\u0648 \u0646\u0634\u0631 \u0623\u0648 \u062a\u062f\u0627\u0648\u0644 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0630\u0627\u062a \u0635\u0644\u0629 \u0628\u0627\u0644\u062a\u0635\u062f\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0648\u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0645\u0648\u0627\u0642\u0639 \u0633\u0642\u0648\u0637\u0647\u0627 \u064a\u0639\u0631\u0636\u0643 \u0644\u0644\u0645\u0633\u0627\u0621\u0644\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a\u0629. #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 Filming, publishing, or sharing information related to countering missiles and drones and their impact sites exposes you to legal liability. #Ministry_of_Interior",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2108606372581372203",
+      "published": "2026-10-09T17:11:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3269ad360f897f2fdc7d31393a4f5cb8",
+      "title": "#Kuwait's Ambassador to #Cyprus Abdullah Al-Turki discuss with Cyprus's Minister of Energy, Commerce, and Industry Michael Damianos ways to boost cooperation in economy, trade, investment, and energy  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2108606375194439743",
+      "published": "2026-10-09T17:11:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/09/gaza-israel-life-war-ceasefire/",
+      "title": "The Gaza ceasefire was meant to end the war. For a mother, paramedic and child, little has changed",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/09/gaza-israel-life-war-ceasefire/",
+      "published": "2026-10-09T17:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791558777",
+      "title": "DHS defends ICE shooting in NYC, says officers believed they were in danger",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/9/dhs-defends-ice-shooting-in-nyc-says-officers-believed-they-were-in-danger?traffic_source=rss",
+      "published": "2026-10-09T16:36:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=97915",
+      "title": "GDLS exec: New loitering munitions platform to be delivered to Army by end of month",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/gdls-exec-new-loitering-munitions-platform-to-be-delivered-to-army-by-end-of-month/",
+      "published": "2026-10-09T16:35:00+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9d671897f95cc96d5bf583fc9981701b",
+      "title": "UAE Attorney-General announces updates on investigation into the Flydubai flight FZ1073 incident #WamNews",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DeR8hW6CHJ6",
+      "published": "2026-10-09T16:32:27+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/us/2026/10/09/el-sayed-rogers-debate-michigan/",
       "title": "El-Sayed and Rogers trade personal attacks in bitter Michigan Senate debate",
@@ -48,7 +224,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/uae/2026/10/09/flydubai-co-pilot-planned-suicide-attack-on-tel-aviv-airport-uae-prosecutors-say/",
-      "title": "Flydubai co-pilot planned suicide attack on Tel Aviv airport, UAE prosecutors say",
+      "title": "Flydubai co-pilot planned suicide attack on Tel Aviv Airport, prosecutors say",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/uae/2026/10/09/flydubai-co-pilot-planned-suicide-attack-on-tel-aviv-airport-uae-prosecutors-say/",
       "published": "2026-10-09T16:17:33+00:00",
@@ -213,28 +389,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/10/09/iraq-expects-to-start-transporting-crude-oil-by-lorry-to-syria-from-mid-october/",
-      "title": "Iraq expects to start transporting crude oil by lorry to Syria from mid-October",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/09/iraq-expects-to-start-transporting-crude-oil-by-lorry-to-syria-from-mid-october/",
-      "published": "2026-10-09T13:58:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
       },
       "credibility": 85,
       "is_government": false,
@@ -641,50 +795,6 @@
       }
     },
     {
-      "id": "098b829487015202d37535c1803849ab",
-      "title": "#Saudi General Authority of Civil Aviation: Three nationals were killed in two attacks on King Khalid International Airport in #Riyadh #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108472508588478513",
-      "published": "2026-10-09T08:19:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3c4df3ae31b1b8e2d3774639dc3678a0",
-      "title": "KPC: #Kuwait oil price up USD 4.89 to USD 108.10 pb @kpcofficialkw  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108444940057367036",
-      "published": "2026-10-09T06:30:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "91a40c10f2477b8c950aef531e51b697",
       "title": "\u0627\u0644\u062a\u0642\u0649 \u0627\u0644\u0644\u0648\u0627\u0621 \u0627\u0644\u0631\u0643\u0646 \u062d\u0645\u064a\u062f \u0645\u062d\u0645\u062f \u0627\u0644\u0631\u0645\u064a\u062b\u064a\u060c \u0642\u0627\u0626\u062f \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0628\u062d\u0631\u064a\u0629\u060c \u0627\u0644\u0639\u0645\u064a\u062f \u0628\u062d\u0631\u064a \u062f\u0627\u0646\u064a\u0627\u0644 \u062a\u0648\u0645\u0627\u0633\u060c \u0642\u0627\u0626\u062f \u0627\u0644\u0645\u0643\u0648\u0646 \u0627\u0644\u0628\u062d\u0631\u064a \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a \u0648\u0646\u0627\u0626\u0628 \u0642\u0627\u0626\u062f \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0628\u062d\u0631\u064a\u0629 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u0629\u060c \u0648\u0627\u0644\u0648\u0641\u062f \u0627\u0644\u0645\u0631\u0627\u0641\u0642 \u0644\u0647. \u0648\u062a\u0646\u0627\u0648\u0644 \u0627\u0644\u0644\u0642\u0627\u0621 \u0639\u062f\u062f\u0627\u064b \u0645\u0646 \u0627\u0644\u0645\u0648\u0636\u0648\u0639\u0627\u062a \u0630\u0627\u062a \u0627\u0644\u0627\u0647\u062a\u0645\u0627\u0645 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u060c \u0648\u0633\u0628\u0644 \u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u062a\u0646\u0633\u064a\u0642 \u0648\u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u060c \u0648\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u062e\u0628\u0631\u0627\u062a \u0648\u0627\u0644\u062a\u062c\u0627\u0631\u0628\u060c \u0648\u062a\u0637\u0648\u064a\u0631 \u0645\u062c\u0627\u0644\u0627\u062a \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0628\u064a\u0646 \u0627\u0644\u062c\u0627\u0646\u0628\u064a\u0646. Major General Staff Humaid Mohammed Al Rumaithi, Commander of the UAE Naval Forces, met with Commodore Daniel Thomas, Commander of the UK Maritime Component and Deputy Commander of the Combined Maritime Forces, and his accompanying delegation. The meeting addressed a range of issues of mutual interest, and explored ways to strengthen military coordination and cooperation, exc",
       "source": "UAE MOD (RSS.app)",
@@ -751,28 +861,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=97909",
-      "title": "In first, Israeli firms, delegation display at Morocco\u2019s Marrakech Airshow",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/in-first-israeli-firms-delegation-display-at-moroccos-marrakech-airshow/",
-      "published": "2026-10-08T20:23:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-army/2026/10/08/sig-sauer-develops-25-round-mag-for-armys-next-gen-rifle/",
       "title": "Sig Sauer develops 25-round mag for Army\u2019s next-gen rifle",
       "source": "Defense News",
@@ -787,28 +875,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=97702",
-      "title": "Power at the sprocket: It\u2019s the transmission that gives tracked vehicles their control",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/power-at-the-sprocket-its-the-transmission-that-gives-tracked-vehicles-their-control/",
-      "published": "2026-10-08T18:23:57+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -873,28 +939,6 @@
         "city": null,
         "lat": 31.7683,
         "lng": 35.2137
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/commentisfree/picture/2026/oct/08/ben-jennings-the-gaza-ceasefire-cartoon",
-      "title": "Ben Jennings on the Gaza \u2018ceasefire\u2019 \u2013\u00a0cartoon",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/picture/2026/oct/08/ben-jennings-the-gaza-ceasefire-cartoon",
-      "published": "2026-10-08T17:10:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
       },
       "credibility": 90,
       "is_government": false,
@@ -1008,28 +1052,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/your-military/2026/10/08/pentagon-recruits-drone-pilots-from-across-services-for-upcoming-competition/",
-      "title": "Pentagon recruits drone pilots from across services for upcoming competition",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-military/2026/10/08/pentagon-recruits-drone-pilots-from-across-services-for-upcoming-competition/",
-      "published": "2026-10-08T14:06:55+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
