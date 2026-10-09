@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-09T13:36:44.072301+00:00",
-  "total_incidents": 62,
+  "generated_at": "2026-10-09T14:38:19.242604+00:00",
+  "total_incidents": 64,
   "incidents": [
+    {
+      "id": "https://breakingdefense.com/?p=97692",
+      "title": "Hanwha sets sights on Army\u2019s tracked howitzer program after victory in wheeled competition",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/hanwha-sets-sights-on-armys-tracked-howitzer-program-after-victory-in-wheeled-competition/",
+      "published": "2026-10-09T14:09:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/10/09/iraq-expects-to-start-transporting-crude-oil-by-lorry-to-syria-from-mid-october/",
+      "title": "Iraq expects to start transporting crude oil by lorry to Syria from mid-October",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/09/iraq-expects-to-start-transporting-crude-oil-by-lorry-to-syria-from-mid-october/",
+      "published": "2026-10-09T13:58:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro#0",
+      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T13:50:25+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0bbb1441e1c87419eff47d93201461a7",
+      "title": "Maktoum bin Mohammed meets with Bruce Richards, Chairman, Chief Executive Officer and Co-Founder of CVC Marathon, a global asset management firm specialising in public and private credit markets. The meeting explored developments in the global financial landscape and opportunities for closer cooperation in investment and asset management.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2108546209237369249",
+      "published": "2026-10-09T13:12:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791543808",
       "title": "Ukraine pushes Russia back in Donetsk as military, civilian casualties soar",
@@ -91,6 +179,28 @@
       }
     },
     {
+      "id": "fc0a6c8c9ef85ce19a2cc595692b001d",
+      "title": "Secretary General of the Gulf Cooperation Council (GCC) Jasem Al-Budaiwi denounces and condemns the terrorist attack launched by the Houthi militia on King Khalid International Airport in Riyadh, which resulted in a number of deaths  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2108542090271494409",
+      "published": "2026-10-09T12:56:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "3c6f9467bbde8810ffd04ac5f6479b69",
       "title": "Maktoum bin Mohammed: Today, I met with Bruce Richards, Chairman, Chief Executive Officer and Co-Founder of CVC Marathon, a global asset management firm. We discussed opportunities for cooperation in investment and asset management. Guided by the vision of its leadership, the UAE continues to provide global investors with the enablers they need to succeed. Dubai continues to strengthen its position as a global gateway for investors and a launchpad for growth opportunities across regional and international markets, supported by an integrated financial ecosystem and a competitive investment environment that advances the objectives of the Dubai Economic Agenda D33.",
       "source": "Dubai Media Office (RSS.app)",
@@ -103,6 +213,28 @@
         "city": null,
         "lat": 25.2048,
         "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f06a1c228538b45a108bc862ec453f70",
+      "title": "#Kuwait government efforts accelerated during the third quarter of the year to develop the financial and economic infrastructure through legislative reforms and structural changes aimed at improving the business environment, diversifying revenues and attracting foreign investment (A news report)  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2108537501338005742",
+      "published": "2026-10-09T12:38:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
@@ -150,6 +282,28 @@
       },
       "credibility": 85,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ec09f37a7c2cf24e33242d509090a659",
+      "title": "#Kuwait strongly condemns & denounces the blatant attacks launched by Houthi militia on King Khalid International Airport in #SaudiArabia  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2108532619646259669",
+      "published": "2026-10-09T12:18:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -213,28 +367,6 @@
         "city": null,
         "lat": 24.4539,
         "lng": 54.3773
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/2026/10/09/among-the-worlds-megaprojects-the-gulf-is-building-big/",
-      "title": "Among the world's megaprojects, the Gulf is building big",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/2026/10/09/among-the-worlds-megaprojects-the-gulf-is-building-big/",
-      "published": "2026-10-09T10:56:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 85,
       "is_government": false,
@@ -369,28 +501,6 @@
         "lng": 39.5692
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro#0",
-      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T10:07:04+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -785,28 +895,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
-      "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
-      "published": "2026-10-08T16:43:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
       },
       "credibility": 90,
       "is_government": false,
@@ -1316,50 +1404,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0bf7f782168fcb472dc828a70625b5a6",
-      "title": "\u0645\u0627 \u064a\u0628\u062f\u0648 \u0641\u0631\u0635\u0629 .. \u0642\u062f \u064a\u0643\u0648\u0646 \u062e\u062f\u0639\u0629 It may seem like an opportunity .. but it\u2019s a scam #\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a_\u0622\u0645\u0646\u0629_\u0628\u0648\u0639\u064a\u0643_\u0627\u0644\u0631\u0642\u0645\u064a #\u0634\u0647\u0631_\u0627\u0644\u062a\u0648\u0639\u064a\u0629_\u0628\u0627\u0644\u0623\u0645\u0646_\u0627\u0644\u0633\u064a\u0628\u0631\u0627\u0646\u064a #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a #\u0641\u062e\u0648\u0631\u064a\u0646_\u0628\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \ud83c\udde6\ud83c\uddea",
-      "source": "UAE MOI (RSS.app)",
-      "source_url": "https://x.com/moiuae/status/2107471914226848194",
-      "published": "2026-10-06T14:03:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0bf7f782168fcb472dc828a70625b5a6",
-      "title": "\u0645\u0627 \u064a\u0628\u062f\u0648 \u0641\u0631\u0635\u0629 .. \u0642\u062f \u064a\u0643\u0648\u0646 \u062e\u062f\u0639\u0629 It may seem like an opportunity .. but it\u2019s a scam #\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a_\u0622\u0645\u0646\u0629_\u0628\u0648\u0639\u064a\u0643_\u0627\u0644\u0631\u0642\u0645\u064a #\u0634\u0647\u0631_\u0627\u0644\u062a\u0648\u0639\u064a\u0629_\u0628\u0627\u0644\u0623\u0645\u0646_\u0627\u0644\u0633\u064a\u0628\u0631\u0627\u0646\u064a #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a #\u0641\u062e\u0648\u0631\u064a\u0646_\u0628\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \ud83c\udde6\ud83c\uddea",
-      "source": "IDF (RSS.app)",
-      "source_url": "https://x.com/moiuae/status/2107471914226848194",
-      "published": "2026-10-06T14:03:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
