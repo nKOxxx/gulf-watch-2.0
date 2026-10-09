@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-09T04:40:26.434558+00:00",
-  "total_incidents": 59,
+  "generated_at": "2026-10-09T05:36:33.472927+00:00",
+  "total_incidents": 58,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/09/syria-israel-golan/",
+      "title": "Golan Heights dilemma: Israel's new military line blurs engagement and confrontation",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/09/syria-israel-golan/",
+      "published": "2026-10-09T05:31:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/uae/2026/10/09/we-made-our-own-supply-chain-how-uae-food-retailers-and-producers-adapted-to-absorb-impact-of-iran-war/",
       "title": "'We made our own supply chain': How UAE food retailers and producers adapted to absorb impact of Iran war",
@@ -47,28 +69,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/09/google-earth-shows-a-cold-hard-fact-for-many-gazans-there-is-no-place-to-live/",
-      "title": "Google Earth shows a cold, hard fact: for many Gazans, there is no place to live",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/09/google-earth-shows-a-cold-hard-fact-for-many-gazans-there-is-no-place-to-live/",
-      "published": "2026-10-09T03:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/uk/2026/10/09/test-show-ai-models-likely-to-give-terrorist-advice/",
       "title": "Test shows AI models likely to give advice for terrorist attacks",
       "source": "The National UAE",
@@ -103,28 +103,6 @@
         "city": null,
         "lat": 15.5527,
         "lng": 48.5164
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/2026/10/09/online-sports-gaming-takes-root-in-the-uae-after-successful-fifa-world-cup/",
-      "title": "Online sports gaming takes root in the UAE after successful Fifa World Cup",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/2026/10/09/online-sports-gaming-takes-root-in-the-uae-after-successful-fifa-world-cup/",
-      "published": "2026-10-09T02:51:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
       },
       "credibility": 85,
       "is_government": false,
