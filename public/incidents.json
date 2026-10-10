@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-10T11:30:36.475505+00:00",
-  "total_incidents": 68,
+  "generated_at": "2026-10-10T12:42:23.429910+00:00",
+  "total_incidents": 66,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/2026/10/10/supporters-of-jailed-former-pakistani-leader-imran-khan-march-towards-capital/",
+      "title": "Supporters of jailed former Pakistani leader Imran Khan march towards capital",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/2026/10/10/supporters-of-jailed-former-pakistani-leader-imran-khan-march-towards-capital/",
+      "published": "2026-10-10T12:02:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/commentisfree/2026/oct/10/israel-war-gaza-middle-east-world-violence",
+      "title": "In three years, Israel's war on Gaza hasn't just changed the Middle East, it's changed the world | Steve Bloomfield",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/commentisfree/2026/oct/10/israel-war-gaza-middle-east-world-violence",
+      "published": "2026-10-10T12:00:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791624175",
       "title": "What has Trump\u2019s Board of Peace achieved in a year since Gaza \u2018ceasefire\u2019?",
@@ -355,28 +399,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/10/israel-holding-49-syrians-after-280-armed-incursions-in-september-says-un/",
-      "title": "Israel holding 49 Syrians after 280 armed incursions in September, says UN",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/10/israel-holding-49-syrians-after-280-armed-incursions-in-september-says-un/",
-      "published": "2026-10-10T07:47:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "83ce67705ab21174107dd5ba09adf005",
       "title": "Several #Moroccan cities hosted various cultural activities, events and festivals, attended by many intellectuals and thinkers, with more events scheduled for this month. (#FANA report)  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -392,28 +414,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/football/2026/10/10/cristiano-ronaldo-hits-980th-career-goal-as-he-puts-portugal-row-behind-him-in-al-nassr-win/",
-      "title": "Cristiano Ronaldo hits 980th career goal as he puts Portugal row behind him in Al Nassr win",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/10/cristiano-ronaldo-hits-980th-career-goal-as-he-puts-portugal-row-behind-him-in-al-nassr-win/",
-      "published": "2026-10-10T04:44:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1125,28 +1125,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/08/israel-promotes-film-that-mimics-naza-documentary",
-      "title": "Israel promotes film that mimics NAZA documentary",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/08/israel-promotes-film-that-mimics-naza-documentary",
-      "published": "2026-10-08T17:52:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/2026/10/08/future-cost-use-of-marine-corps-acvs-scrutinized-in-congressional-report/",
       "title": "Future cost, use of Marine Corps ACVs scrutinized in congressional report",
       "source": "Defense News",
@@ -1470,28 +1448,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4c75b0b6a89114c0c78eaba8b075c1ad",
-      "title": "Iranian President Masoud Pezeshkian and his Russian counterpart Vladimir Putin in a telephone conversation on Wednesday have stressed the need to strengthen cooperation and interaction between Tehran and Moscow in all areas.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2107805671164936578",
-      "published": "2026-10-07T12:10:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 70,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
