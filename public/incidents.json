@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-10T14:31:53.190831+00:00",
-  "total_incidents": 60,
+  "generated_at": "2026-10-10T15:31:33.927384+00:00",
+  "total_incidents": 61,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791638659",
+      "title": "Three injured in third school attack in Poland in less than a week",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss",
+      "published": "2026-10-10T15:13:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no#0",
+      "title": "Saudi capital airport hit again, sparking evacuations, reports say",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T15:05:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791642726",
+      "title": "Jerusalem Daily: Israeli settlers attack olive farmers",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss",
+      "published": "2026-10-10T14:39:53+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "89c42153a5568b72579c6f3827242b15",
+      "title": "The Annual Meeting of Global Future Leaders 2026 kicks off next Tuesday, organised by the UAE Government and the World Economic Forum (WEF), in cooperation with Dubai Future Foundation, from 13 to 15 October. The three-day meeting will bring together more than 700 global leaders and experts from government, business, academia, sport, and culture for a programme of strategic dialogue, experiential learning, and practical collaboration. The Meeting is part of a long-standing partnership spanning more than 17 years between the UAE Government and the World Economic Forum, a partnership that has produced a series of specialised international forums focused on anticipating the future and shaping i",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2108929477661368417",
+      "published": "2026-10-10T14:35:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791628572",
       "title": "Has Yemen returned to \u2018full-scale war\u2019?",
@@ -103,50 +191,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791630716",
-      "title": "\u2018Anachronism\u2019: Rubio\u2019s civilisational rhetoric prompts pushback from Iran",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss",
-      "published": "2026-10-10T13:09:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791628055",
-      "title": "Child among seven killed by Israel in Gaza on \u2018ceasefire\u2019 anniversary",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss",
-      "published": "2026-10-10T12:40:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
       },
       "credibility": 90,
       "is_government": false,
@@ -399,13 +443,13 @@
       }
     },
     {
-      "id": "32a0e72be88730c71bded9cff70625cc",
-      "title": "Latifa bint Mohammed: Dubai is blessed with a leadership that recognises the vital role of culture and the arts in enriching lives and shaping the future. We are grateful to His Highness Sheikh Mohammed bin Rashid Al Maktoum for his continued support for culture and the arts, and his belief in their role in strengthening Dubai\u2019s identity and international standing. The establishment of the Dubai Orchestra Foundation is another step forward in this journey, nurturing local talent and strengthening Dubai\u2019s presence on the global cultural stage.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2108660941038690704",
-      "published": "2026-10-09T20:48:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
+      "id": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo#0",
+      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T04:34:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
       "location": {
         "country": "UAE",
         "city": null,
@@ -413,7 +457,7 @@
         "lng": 55.2708
       },
       "credibility": 95,
-      "is_government": true,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -656,28 +700,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "9d671897f95cc96d5bf583fc9981701b",
-      "title": "UAE Attorney-General announces updates on investigation into the Flydubai flight FZ1073 incident #WamNews",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DeR8hW6CHJ6",
-      "published": "2026-10-09T16:32:27+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1257,7 +1279,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo#1",
       "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
@@ -1279,7 +1301,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo#1",
       "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
