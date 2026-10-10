@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-10T18:37:34.515453+00:00",
-  "total_incidents": 63,
+  "generated_at": "2026-10-10T19:29:39.814395+00:00",
+  "total_incidents": 65,
   "incidents": [
+    {
+      "id": "5d918b212cd7f0c8fdace67ba40a8276",
+      "title": "#Saudi_Arabia suspends operations at attacked King Khalid International #Airport.",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109000077171626256",
+      "published": "2026-10-10T19:16:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8f4b5664e7d2b83da18c8aed7200cc6b",
+      "title": "#US President may join strikes against Houthis.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2108999131221909866",
+      "published": "2026-10-10T19:12:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791657129",
+      "title": "Palestinians still being killed in Gaza, one year into \u2018ceasefire\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss",
+      "published": "2026-10-10T18:38:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no#0",
       "title": "Several injured in attack on airport in Saudi capital Riyadh",
@@ -499,28 +565,6 @@
         "city": null,
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "83ce67705ab21174107dd5ba09adf005",
-      "title": "Several #Moroccan cities hosted various cultural activities, events and festivals, attended by many intellectuals and thinkers, with more events scheduled for this month. (#FANA report)  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108822970026099182",
-      "published": "2026-10-10T07:32:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
