@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-10T08:38:27.638611+00:00",
+  "generated_at": "2026-10-10T09:33:55.379019+00:00",
   "total_incidents": 64,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791623307",
+      "title": "Brazil police rescue 13 children taken hostage at kindergarten",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/brazil-police-rescue-13-children-taken-hostage-at-kindergarten?traffic_source=rss",
+      "published": "2026-10-10T09:14:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791614156",
+      "title": "Isaias weakens after making landfall in US Gulf Coast as hurricane",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/10/isaias-weakens-after-making-landfall-in-us-gulf-coast-as-hurricane?traffic_source=rss",
+      "published": "2026-10-10T08:33:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "376ce4dec6e9cea8ba46ddd7507c715d",
       "title": "#Egypt condemns in the strongest terms the attacks on the Kingdom of #Saudi Arabia that targeted King Khalid International Airport in Riyadh and a Saudi Arabian Airlines aircraft  #KUNA",
@@ -15,6 +59,28 @@
         "city": null,
         "lat": 24.7136,
         "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "fbca9f21f4f2eca19b925a69d974f55a",
+      "title": "RT by @DXBMediaOffice: Dubai\u2019s global reputation as a trusted financial hub has been built on ambitious visions, bold economic decisions, and financial minds that shape the present with an eye on the future. This has made Dubai a regional headquarters for some of the world\u2019s leading financial institutions. I met with Nicolas Namias, Chairman of the Management Board and CEO of Groupe BPCE, one of France\u2019s leading banking groups. We explored opportunities to strengthen cooperation across banking, investment, and financial services. In a world where the centres of economic gravity are shifting, Dubai continues to lead as a destination where opportunities are created, major financial partnership",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/MaktoumMohammed/status/2108832408216936934",
+      "published": "2026-10-10T08:10:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
       },
       "credibility": 95,
       "is_government": true,
@@ -157,28 +223,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791555730",
-      "title": "Yemen\u2019s Taiz under siege again as food and fuel prices rise",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss",
-      "published": "2026-10-10T06:20:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 38.0962,
-        "lng": 46.2738
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "c38074afadb69320e8b94622857fdb9c",
       "title": "KPC: #Kuwait oil price Went down USD 2.42 to reach USD 105.68 pb on Saturday's trading  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -279,28 +323,6 @@
         "city": null,
         "lat": 15.5527,
         "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4a4d1d1f18c89111b1aa19c726460c47",
-      "title": "Massive earthquake strikes #Panama, triggers tsunami warnings.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108702188721610875",
-      "published": "2026-10-09T23:32:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
@@ -1174,28 +1196,6 @@
       "source": "UAE MOD (RSS.app)",
       "source_url": "https://x.com/modgovae/status/2108160172514525194",
       "published": "2026-10-08T11:38:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "521169bab4eeaf988c4f0fd9374c4455",
-      "title": "Weekly security report #\u0645\u0645\u0644\u0643\u0629_\u0627\u0644\u0628\u062d\u0631\u064a\u0646 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 #\u0627\u0644\u0627\u0645\u0646 #Moi",
-      "source": "Bahrain MOI (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DeOt5OsxmL1",
-      "published": "2026-10-08T10:28:26+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
