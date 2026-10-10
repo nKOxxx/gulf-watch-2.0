@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-10T21:30:48.206801+00:00",
-  "total_incidents": 62,
+  "generated_at": "2026-10-10T22:31:55.399535+00:00",
+  "total_incidents": 64,
   "incidents": [
+    {
+      "id": "b614beaf47a10c2afb4c5d104a9d7356",
+      "title": "#Qatar vehemently condemns Houthi attacks on King Khalid #airport.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109044623024726288",
+      "published": "2026-10-10T22:13:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 25.3548,
+        "lng": 51.1839
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "acc7cd8d54357b0f11b29c16da1a45cb",
+      "title": "#GCC chief deplores Houthi attack on King Khalid #airport in #Riyadh.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109044283399422019",
+      "published": "2026-10-10T22:11:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3467bdf38ad358ffd073d7499a4f48ec",
+      "title": "Official Spokesman for the Coalition to Support Legitimacy in Yemen: Shells have fallen at the compound of International King Fahad Airport in the Saudi city of Dammam  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109034232102170702",
+      "published": "2026-10-10T21:31:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 26.3927,
+        "lng": 50.0916
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no#0",
       "title": "Several injured in attack on airport in Saudi capital Riyadh",
@@ -17,6 +83,28 @@
         "lng": 46.6753
       },
       "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791658735",
+      "title": "Hundreds of doctors demand World Medical Association suspend Israel",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss",
+      "published": "2026-10-10T21:12:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -81,28 +169,6 @@
         "city": null,
         "lat": 31.5017,
         "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791661664",
-      "title": "Azerbaijan school pupils protest over reported hijab restrictions",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/azerbaijan-school-pupils-protest-over-reported-hijab-restrictions?traffic_source=rss",
-      "published": "2026-10-10T19:49:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -290,7 +356,7 @@
     },
     {
       "id": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
-      "title": "Dozens reportedly injured in Yemeni Houthi attack at Riyadh airport",
+      "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
       "published": "2026-10-10T15:54:12+00:00",
@@ -477,28 +543,6 @@
         "city": null,
         "lat": 23.4241,
         "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "6a1e8f558c6792aee19f2a2a79a12364",
-      "title": "#Kuwait's Minister of Social Affairs and Family and Childhood Affairs touts World Mental Health Day as opportunity to raise awareness  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108862569716879602",
-      "published": "2026-10-10T10:09:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
