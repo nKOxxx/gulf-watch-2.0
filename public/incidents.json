@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-10T06:48:13.888830+00:00",
-  "total_incidents": 64,
+  "generated_at": "2026-10-10T07:37:04.094335+00:00",
+  "total_incidents": 59,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791616612",
+      "title": "Saudi-led coalition says it\u2019s carrying out operation in Yemen",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/saudi-led-coalition-says-its-carrying-out-operation-in-yemen?traffic_source=rss",
+      "published": "2026-10-10T07:19:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791555730",
       "title": "Yemen\u2019s Taiz under siege again as food and fuel prices rise",
@@ -18,6 +40,28 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c38074afadb69320e8b94622857fdb9c",
+      "title": "KPC: #Kuwait oil price Went down USD 2.42 to reach USD 105.68 pb on Saturday's trading  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2108803260035346716",
+      "published": "2026-10-10T06:14:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -47,28 +91,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791607492",
-      "title": "Supporters of jailed former Pakistani PM Khan marching to capital",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-imran-khan-supporters-kpk-release-pk?traffic_source=rss",
-      "published": "2026-10-10T04:54:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/sport/football/2026/10/10/cristiano-ronaldo-hits-980th-career-goal-as-he-puts-portugal-row-behind-him-in-al-nassr-win/",
       "title": "Cristiano Ronaldo hits 980th career goal as he puts Portugal row behind him in Al Nassr win",
       "source": "The National UAE",
@@ -83,50 +105,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791606447",
-      "title": "Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ukraine-drone-russia-oil-clip?traffic_source=rss",
-      "published": "2026-10-10T04:30:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791598064",
-      "title": "India deploys police and restricts transport ahead of mass protest in Delhi",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/10/india-deploys-police-and-restricts-transport-ahead-of-mass-protest-in-delhi?traffic_source=rss",
-      "published": "2026-10-10T04:07:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -223,28 +201,6 @@
       }
     },
     {
-      "id": "6329a66b127d09cee64a74e248d558cb",
-      "title": "Kuwaiti Diplomatic Attach\u00e9 Abdullah Bousakhar: #Kuwait underscored the importance of strengthening international cooperation in the digital field to bridge technological gaps  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108662697109717007",
-      "published": "2026-10-09T20:55:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "32a0e72be88730c71bded9cff70625cc",
       "title": "Latifa bint Mohammed: Dubai is blessed with a leadership that recognises the vital role of culture and the arts in enriching lives and shaping the future. We are grateful to His Highness Sheikh Mohammed bin Rashid Al Maktoum for his continued support for culture and the arts, and his belief in their role in strengthening Dubai\u2019s identity and international standing. The establishment of the Dubai Orchestra Foundation is another step forward in this journey, nurturing local talent and strengthening Dubai\u2019s presence on the global cultural stage.",
       "source": "Dubai Media Office (RSS.app)",
@@ -282,28 +238,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2f8245aa7ba1738db74f9dc3c363cd0e",
-      "title": "#Kuwait reaffirms support for int'l justice, respect for int'l law.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108653260156391522",
-      "published": "2026-10-09T20:18:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -458,50 +392,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "da522a51b6f67a6045437b85895e97c3",
-      "title": "#Kuwait Prime Minister Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah sent a cable to King Salman bin Abdulaziz Al Saud, of Saudi Arabia, expressing his sincere condolences and heartfelt sympathy over the martyrdom of three Saudi citizens and the injury of others in the two attacks that targeted King Khaled International Airport  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108634555846447497",
-      "published": "2026-10-09T19:03:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "aaef15805f22c9f2e90cd256bde66b16",
-      "title": "His Highness the Crown Prince of #Kuwait Sheikh Sabah Khaled Al-Hamad Al-Sabah sent a cable to King Salman bin Abdulaziz Al Saud, of Saudi Arabia, expressing his sincere condolences and heartfelt sympathy over the martyrdom of three Saudi citizens and the injury of others in the two attacks that targeted King Khaled International Airport  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108634212400030205",
-      "published": "2026-10-09T19:02:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
