@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-10T17:29:59.876033+00:00",
+  "generated_at": "2026-10-10T18:37:34.515453+00:00",
   "total_incidents": 63,
   "incidents": [
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/10/live-houthis-yemen-riyadh-airport-saudi/",
-      "title": "Middle East latest: Riyadh airport suspends operations after attack leaves several injured",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/10/live-houthis-yemen-riyadh-airport-saudi/",
-      "published": "2026-10-10T17:20:44+00:00",
+      "id": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no#0",
+      "title": "Several injured in attack on airport in Saudi capital Riyadh",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T18:37:10+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -16,7 +16,51 @@
         "lat": 24.7136,
         "lng": 46.6753
       },
-      "credibility": 85,
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791652544",
+      "title": "Photos: Thousands march across Europe to demand end to Israel\u2019s war on Gaza",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss",
+      "published": "2026-10-10T18:26:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791649082",
+      "title": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
+      "published": "2026-10-10T18:08:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -29,7 +73,7 @@
       "title": "UAE National Guard rescues 22 people after oil tanker catches fire",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/uae/2026/10/10/uae-national-guard-rescues-22-people-after-oil-tanker-catches-fire/",
-      "published": "2026-10-10T17:14:49+00:00",
+      "published": "2026-10-10T17:56:25+00:00",
       "type": "ground",
       "status": "unconfirmed",
       "location": {
@@ -47,11 +91,33 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no#0",
-      "title": "Several injured in attack on airport in Saudi capital Riyadh",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T16:56:32+00:00",
+      "id": "https://www.aljazeera.com/?t=1791650892",
+      "title": "Nine killed in shooting in US state of Pennsylvania, including two children",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss",
+      "published": "2026-10-10T17:48:45+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/10/live-houthis-yemen-riyadh-airport-saudi/",
+      "title": "Middle East latest: Riyadh airport suspends operations after attack leaves several injured",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/10/live-houthis-yemen-riyadh-airport-saudi/",
+      "published": "2026-10-10T17:42:37+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -60,7 +126,7 @@
         "lat": 24.7136,
         "lng": 46.6753
       },
-      "credibility": 95,
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -191,72 +257,6 @@
         "city": null,
         "lat": 24.7136,
         "lng": 46.6753
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791636590",
-      "title": "With or without Hamas",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss",
-      "published": "2026-10-10T15:19:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791638659",
-      "title": "Three injured in third school attack in Poland in less than a week",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss",
-      "published": "2026-10-10T15:13:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791642726",
-      "title": "Jerusalem Daily: Israeli settlers attack olive farmers",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss",
-      "published": "2026-10-10T14:39:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
       },
       "credibility": 90,
       "is_government": false,
