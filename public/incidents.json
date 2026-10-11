@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-11T14:32:42.941616+00:00",
-  "total_incidents": 57,
+  "generated_at": "2026-10-11T15:31:38.550494+00:00",
+  "total_incidents": 55,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-      "title": "Middle East crisis live: Houthi media reports strike on airport in Sana\u2019a after deadly Riyadh attack",
+      "title": "Middle East crisis live: Riyadh airport reportedly hit again, day after deadly attack that killed 12",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-      "published": "2026-10-11T14:26:24+00:00",
+      "published": "2026-10-11T15:09:05+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -26,7 +26,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/11/live-houthis-riyadh-airport-saudi-houthis/",
-      "title": "Middle East latest: \u2018Appalling act of terror\u2019: Global condemnation for Riyadh airport attack",
+      "title": "Middle East latest: Riyadh airport hit in new strike as countries condemn Houthi attacks",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/mena/2026/10/11/live-houthis-riyadh-airport-saudi-houthis/",
       "published": "2026-10-11T14:25:37+00:00",
@@ -326,28 +326,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791721365",
-      "title": "Saudi Arabia vows response over Houthi \u2018war crime\u2019 attack on Riyadh airport",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss",
-      "published": "2026-10-11T12:28:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1227,28 +1205,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno#0",
-      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T15:21:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
