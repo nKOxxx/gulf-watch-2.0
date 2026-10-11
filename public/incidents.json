@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-11T15:31:38.550494+00:00",
-  "total_incidents": 55,
+  "generated_at": "2026-10-11T16:34:27.411330+00:00",
+  "total_incidents": 53,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-      "title": "Middle East crisis live: Riyadh airport reportedly hit again, day after deadly attack that killed 12",
+      "title": "Middle East crisis live: Riyadh airport hit again as Houthis claim responsibility for attack that killed 12",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-      "published": "2026-10-11T15:09:05+00:00",
+      "published": "2026-10-11T16:18:45+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -15,6 +15,116 @@
         "city": null,
         "lat": 24.7136,
         "lng": 46.6753
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/11/trump-says-russia-and-ukraine-agree-to-energy-ceasefire/",
+      "title": "Trump says Russia and Ukraine agree to 'energy ceasefire'",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/11/trump-says-russia-and-ukraine-agree-to-energy-ceasefire/",
+      "published": "2026-10-11T16:11:22+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
+      "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi-led coalition says",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
+      "published": "2026-10-11T16:11:14+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "74e45000e1d49fcc2fc1d5fb6881e34c",
+      "title": "#GCC Secretary General says member states adopt an integrated approach that places environmental protection as a driver of green investment and quality job creation, bolsters their economic competitiveness, and supports transition towards a low-carbon economy  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109306607058239983",
+      "published": "2026-10-11T15:34:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791732318",
+      "title": "Power bank fire forces plane to emergency land in India",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss",
+      "published": "2026-10-11T15:26:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791727126",
+      "title": "Trump says Ukraine and Russia agree to \u2018energy ceasefire\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
+      "published": "2026-10-11T15:10:27+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -69,28 +179,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
-      "title": "Saudi coalition vows retaliation after deadly Houthi attack on Riyadh airport",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
-      "published": "2026-10-11T14:23:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "8ab21c2e588c00513856b473a27c010f",
       "title": "Presidents of #Indonesia and #Egypt call for immediate Middle East de-escalation, warning that expanding conflict threatens civilian lives and global economic stability  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -106,50 +194,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791723873",
-      "title": "The Mafia Football Murders | True Crime Reports",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/true-crime-reports/2026/10/11/true-crime-reports-the-mafia-football-murders?traffic_source=rss",
-      "published": "2026-10-11T14:05:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791720417",
-      "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
-      "published": "2026-10-11T14:04:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -216,50 +260,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f7a7090b1a26eb61046bdc1673717d4e",
-      "title": "The United Arab Emirates strongly condemns Houthi attacks on King Khalid International Airport in #Saudi Arabia, which killed 12 people of Saudi, Egyptian, Jordanian, Syrian, Palestinian, Sudanese, American and Bangladeshi nationalities and injured hundreds of civilians  #KUNA #UAE",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109278467942473747",
-      "published": "2026-10-11T13:42:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791706148",
-      "title": "Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss",
-      "published": "2026-10-11T13:41:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -370,50 +370,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e791b1358e889f1f7e03096cac5292b7",
-      "title": "His Highness the Prime Minister of #Kuwait condoles #Saudi King over #Riyadh airport attack  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109220852927496492",
-      "published": "2026-10-11T09:53:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "80a9af84fd889dc866eb686927ed9dcb",
-      "title": "His Highness the Crown Prince of #Kuwait condoles #Saudi King over #Riyadh airport attack  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109220316769566968",
-      "published": "2026-10-11T09:51:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
