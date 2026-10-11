@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-11T01:51:49.103619+00:00",
-  "total_incidents": 70,
+  "generated_at": "2026-10-11T02:51:23.516705+00:00",
+  "total_incidents": 72,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791681154",
+      "title": "World condemns deadly Houthi attack on Saudi Arabia\u2019s Riyadh airport",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
+      "published": "2026-10-11T02:12:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791683844",
+      "title": "Trump \u2018may\u2019 join Saudi strikes on Houthis after Riyadh airport attack",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss",
+      "published": "2026-10-11T01:59:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ca5b254c52be6dff1065c279f96b53de",
+      "title": "#Secretary_of_State_Marco_Rubio: #US decries terrorist Houthi attacks on #Saudi_Arabia  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109093346513727957",
+      "published": "2026-10-11T01:26:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "7cae48c76435adad3589ddc133219500",
+      "title": "#Coalition forces down hostile drone in #Saudi_Arabia 's Eastern Region  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109092451700859279",
+      "published": "2026-10-11T01:23:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "268b731e52ae8bc1d2108504082f7d8f",
+      "title": "#CENTCOM: Cargo ship disabled after attempting to break Iran blockade  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109091887080473050",
+      "published": "2026-10-11T01:21:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Egypt",
+        "city": null,
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791674841",
       "title": "Man dies after entering tiger enclosure at England wildlife park",
@@ -367,72 +477,6 @@
         "city": null,
         "lat": 26.3927,
         "lng": 50.0916
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791658735",
-      "title": "Hundreds of doctors demand World Medical Association suspend Israel",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss",
-      "published": "2026-10-10T21:12:04+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5d918b212cd7f0c8fdace67ba40a8276",
-      "title": "#Saudi_Arabia suspends operations at attacked King Khalid International #Airport.",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109000077171626256",
-      "published": "2026-10-10T19:16:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8f4b5664e7d2b83da18c8aed7200cc6b",
-      "title": "#US President may join strikes against Houthis.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108999131221909866",
-      "published": "2026-10-10T19:12:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
