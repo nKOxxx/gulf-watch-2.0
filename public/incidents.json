@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-11T10:32:30.226294+00:00",
-  "total_incidents": 65,
+  "generated_at": "2026-10-11T11:30:47.778177+00:00",
+  "total_incidents": 61,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+      "title": "Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+      "published": "2026-10-11T11:02:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791696896",
+      "title": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss",
+      "published": "2026-10-11T10:45:15+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791622634",
+      "title": "Fear and uncertainty for civilians as Yemen\u2019s capital comes under attack",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack?traffic_source=rss",
+      "published": "2026-10-11T10:42:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/11/live-houthis-riyadh-airport-saudi-houthis/",
+      "title": "Middle East latest: UAE among countries to strongly condemn Riyadh airport attack",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/11/live-houthis-riyadh-airport-saudi-houthis/",
+      "published": "2026-10-11T10:32:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a16e3340b49d5dcc90b6f2c824c79032",
+      "title": "Ahmed bin Saeed: Reinforcing Dubai\u2019s position as a global hub for venture capital and innovation, and a base for global companies, we are doubling the size of Oraseya Capital\u2019s fund, the investment arm of DIEZ, to AED 1 billion, to expand investment in companies with global potential. We have strong confidence in Dubai\u2019s future as a global centre for capital and innovation. Our mission is to translate this confidence into investments, companies and tangible economic opportunities that support the objectives of the Dubai Economic Agenda D33, strengthen Dubai\u2019s competitiveness, and reinforce the UAE\u2019s position as a global hub for the new economy and investment in future sectors.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2109229256836550713",
+      "published": "2026-10-11T10:26:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/business/energy/2026/10/11/fujairah-shows-why-resilience-is-the-gulfs-greatest-energy-asset/",
       "title": "Fujairah shows why resilience is the Gulf\u2019s greatest energy asset",
@@ -17,28 +127,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-      "title": "Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-      "published": "2026-10-11T10:21:59+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -201,28 +289,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/11/diplomats-or-quds-force-zarifs-blunt-question-rattles-irans-old-guard/",
-      "title": "Diplomats or Quds Force? Zarif's blunt question rattles Iran's old guard",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/11/diplomats-or-quds-force-zarifs-blunt-question-rattles-irans-old-guard/",
-      "published": "2026-10-11T08:49:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "9100db13e642d0b6c60b191ebec334f9",
       "title": ". The United Arab Emirates has condemned in the strongest terms the attacks by the Houthi group on King Khalid Internati...",
       "source": "WAM News (RSS.app)",
@@ -289,50 +355,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791706464",
-      "title": "Pakistan imposes emergency rule in \u200bprovince governed by Imran Khan\u2019s party",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss",
-      "published": "2026-10-11T08:32:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791553021",
-      "title": "What the Iran war has done to the world\u2019s energy supply, in charts",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss",
-      "published": "2026-10-11T08:22:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "d835b787e9a90de0a6d0a9f1bcc2042e",
       "title": "The Dubai-it Award for Institutions in the Field of Government is presented to Dubai\u2019s Roads and Transport Authority (RTA) @rta_dubai",
       "source": "Dubai Media Office (RSS.app)",
@@ -355,50 +377,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/11/president-sheikh-mohamed-orders-renaming-of-al-ain-airport-to-tahnoun-international-airport/",
-      "title": "Al Ain Airport renamed as Tahnoun International Airport",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/11/president-sheikh-mohamed-orders-renaming-of-al-ain-airport-to-tahnoun-international-airport/",
-      "published": "2026-10-11T07:45:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791704197",
-      "title": "US bombs cargo vessel in Gulf of Oman \u2018trying to run Iran blockade\u2019",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss",
-      "published": "2026-10-11T07:39:16+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Egypt",
-        "city": null,
-        "lat": 30.0444,
-        "lng": 31.2357
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "e2c557d183828f9dcc4c0c9faff83a77",
       "title": ". President His Highness Sheikh Mohamed bin Zayed Al Nahyan has directed the renaming of Al Ain International Airport to...",
       "source": "WAM News (RSS.app)",
@@ -414,50 +392,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/10/11/saudi-arabia-presses-on-with-global-energy-summit-after-deadly-riyadh-airport-attack/",
-      "title": "Saudi Arabia presses on with global energy summit after deadly Riyadh airport attack",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/11/saudi-arabia-presses-on-with-global-energy-summit-after-deadly-riyadh-airport-attack/",
-      "published": "2026-10-11T07:27:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/11/saudi-led-coalition-vows-to-respond-decisively-to-deadly-riyadh-airport-attack/",
-      "title": "Saudi-led coalition vows to \u2018respond decisively\u2019 to deadly Riyadh airport attack",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/11/saudi-led-coalition-vows-to-respond-decisively-to-deadly-riyadh-airport-attack/",
-      "published": "2026-10-11T06:24:04+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -590,28 +524,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0a304c50fbfebd46a2f9a31459e4028c",
-      "title": "#Coalition: Attacking King Khalid airport constitutes terrorist act.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109064430554128712",
-      "published": "2026-10-10T23:31:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
