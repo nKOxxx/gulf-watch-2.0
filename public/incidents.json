@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-11T02:51:23.516705+00:00",
-  "total_incidents": 72,
+  "generated_at": "2026-10-11T03:44:17.026227+00:00",
+  "total_incidents": 71,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791683533",
+      "title": "US forces disable ship \u2018attempting to run\u2019 Iran blockade in Gulf of Oman",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
+      "published": "2026-10-11T03:13:53+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/podcasts/inside-brief/2026/10/11/menzies-aviations-hassan-el-houry-on-navigating-war-airline-pressures-and-global-expansion/",
+      "title": "Menzies Aviation\u2019s Hassan El-Houry on navigating war, airline pressures and global expansion",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/podcasts/inside-brief/2026/10/11/menzies-aviations-hassan-el-houry-on-navigating-war-airline-pressures-and-global-expansion/",
+      "published": "2026-10-11T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791681154",
       "title": "World condemns deadly Houthi attack on Saudi Arabia\u2019s Riyadh airport",
@@ -246,7 +290,7 @@
     },
     {
       "id": "https://www.aljazeera.com/?t=1791671422",
-      "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
+      "title": "Iran war live: 12 killed in Riyadh, Trump to speak with Saudi Arabia\u2019s MBS",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
       "published": "2026-10-11T00:00:13+00:00",
@@ -414,28 +458,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791662423",
-      "title": "Yemeni government\u2019s military says its forces advancing against Houthis",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
-      "published": "2026-10-10T22:12:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -655,28 +677,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/2026/10/10/supporters-of-jailed-former-pakistani-leader-imran-khan-march-towards-capital/",
-      "title": "Supporters of jailed former Pakistani leader Imran Khan march towards Islamabad",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/2026/10/10/supporters-of-jailed-former-pakistani-leader-imran-khan-march-towards-capital/",
-      "published": "2026-10-10T12:02:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1555,28 +1555,6 @@
         "city": null,
         "lat": 33.8547,
         "lng": 35.8623
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo#1",
-      "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T03:32:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
       },
       "credibility": 95,
       "is_government": false,
