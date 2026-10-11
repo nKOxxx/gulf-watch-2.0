@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-11T18:38:23.875489+00:00",
-  "total_incidents": 58,
+  "generated_at": "2026-10-11T19:30:19.087537+00:00",
+  "total_incidents": 59,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/11/iran-says-us-response-to-proposal-to-reopen-strait-of-hormuz-is-insufficient/",
+      "title": "Iran says US response to proposal to reopen Strait of Hormuz is insufficient",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/11/iran-says-us-response-to-proposal-to-reopen-strait-of-hormuz-is-insufficient/",
+      "published": "2026-10-11T19:09:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791742963",
       "title": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
@@ -18,6 +40,28 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "667effb0abfecd1e4b3d6ee4ceeaff5b",
+      "title": "RT by @CivilDefenceAD: #AbuDhabiPolice and Abu Dhabi Civil Defence Authority teams have controlled a fire that broke out this evening, Sunday 11 October 2026, at a warehouse in Al Dhafra Region. No injuries were reported, and cooling and smoke extraction operations are underway. Abu Dhabi Police advises the public to obtain information from official sources only.",
+      "source": "Abu Dhabi Civil Defence (RSS.app)",
+      "source_url": "https://x.com/ADPoliceHQ/status/2109349421972619515",
+      "published": "2026-10-11T18:24:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 100,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1247,28 +1291,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/your-army/2026/10/08/sig-sauer-develops-25-round-mag-for-armys-next-gen-rifle/",
-      "title": "Sig Sauer develops 25-round mag for Army\u2019s next-gen rifle",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-army/2026/10/08/sig-sauer-develops-25-round-mag-for-armys-next-gen-rifle/",
-      "published": "2026-10-08T19:23:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
