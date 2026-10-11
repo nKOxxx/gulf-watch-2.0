@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T04:39:02.339682+00:00",
-  "total_incidents": 71,
+  "generated_at": "2026-10-11T05:33:44.689348+00:00",
+  "total_incidents": 66,
   "incidents": [
     {
       "id": "https://www.thenationalnews.com/sport/football/2026/10/11/manchester-united-ratings-vs-tottenham-mbeumo-strikes-but-late-solanke-goal-frustrates-carrick/",
@@ -105,28 +105,6 @@
         "lng": 53.688
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/podcasts/inside-brief/2026/10/11/menzies-aviations-hassan-el-houry-on-navigating-war-airline-pressures-and-global-expansion/",
-      "title": "Menzies Aviation\u2019s Hassan El-Houry on navigating war, airline pressures and global expansion",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/inside-brief/2026/10/11/menzies-aviations-hassan-el-houry-on-navigating-war-airline-pressures-and-global-expansion/",
-      "published": "2026-10-11T03:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -308,50 +286,6 @@
         "total": 300,
         "military": 0,
         "civilian": 300
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791552342",
-      "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
-      "published": "2026-10-11T00:23:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791671422",
-      "title": "Iran war live: 12 killed in Riyadh, Trump to speak with Saudi Arabia\u2019s MBS",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
-      "published": "2026-10-11T00:00:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 12,
-        "military": 0,
-        "civilian": 12
       }
     },
     {
@@ -1514,50 +1448,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o#0",
-      "title": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T05:06:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo#0",
-      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T05:00:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 95,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
