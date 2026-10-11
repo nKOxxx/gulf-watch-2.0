@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-11T17:30:45.254974+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-11T18:38:23.875489+00:00",
+  "total_incidents": 58,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791742963",
+      "title": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss",
+      "published": "2026-10-11T18:25:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c287eb485c8e9d358eebebcac46e8d0c",
+      "title": "#US President Donald Trump announces that #Russia & #Ukraine have agreed to stop mutual strikes targeting energy infrastructure and facilities  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109344794287669682",
+      "published": "2026-10-11T18:06:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+      "title": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 \u2013 as it happened",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+      "published": "2026-10-11T18:03:22+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9434c80e14bc465a7b4540e3c37f411d",
+      "title": "#Bahrain's Oil and Environment Minister and Special Envoy for Climate Affairs, Dr. Mohammad bin Daina, stresses the importance of strengthening Gulf environmental cooperation, protecting natural resources and biodiversity, and advancing sustainable development policies  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109344197530530295",
+      "published": "2026-10-11T18:03:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 26.0667,
+        "lng": 50.5577
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791741474",
+      "title": "Lebanon\u2019s first electric train hopes to revive railway system",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system?traffic_source=rss",
+      "published": "2026-10-11T18:00:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791739460",
+      "title": "Is the Yemen war entering a new phase?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss",
+      "published": "2026-10-11T17:30:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "8f84a3e2597c24104ebba702b9986467",
       "title": "#Bahrain Information Minister Dr. Ramzan Al-Noaimi praises #Kuwait's leading media and cultural role and its contributions to enriching the Gulf media and cultural landscape  #KUNA",
@@ -18,6 +150,28 @@
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791738769",
+      "title": "Israel pushes its \u2018Yellow Line\u2019 deeper into Gaza",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/israel-pushes-its-yellow-line-deeper-into-gaza?traffic_source=rss",
+      "published": "2026-10-11T17:14:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -48,7 +202,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/gulf/2026/10/11/riyadh-airport-attacked-again-after-houthi-missile-strike-that-killed-12-and-injured-hundreds/",
-      "title": "Riyadh airport attacked again after Houthi missile strike that killed 12 and injured hundreds",
+      "title": "Riyadh airport attacked again after Houthi missile strike that killed 13 and injured hundreds",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/11/riyadh-airport-attacked-again-after-houthi-missile-strike-that-killed-12-and-injured-hundreds/",
       "published": "2026-10-11T17:08:26+00:00",
@@ -61,28 +215,6 @@
         "lng": 46.6753
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-      "title": "Middle East crisis live: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-      "published": "2026-10-11T17:02:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -135,6 +267,28 @@
       }
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o#0",
+      "title": "Saudi capital airport hit by second Houthi strike in two days",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T16:41:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.thenationalnews.com/news/us/2026/10/11/trump-says-russia-and-ukraine-agree-to-energy-ceasefire/",
       "title": "Trump says Russia and Ukraine agree to 'energy ceasefire'",
       "source": "The National UAE",
@@ -179,11 +333,11 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791732318",
-      "title": "Power bank fire forces plane to emergency land in India",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss",
-      "published": "2026-10-11T15:26:29+00:00",
+      "id": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o#0",
+      "title": "Airport attacks another dangerous moment in already tense conflict",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T15:32:32+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -192,29 +346,7 @@
         "lat": 29.0,
         "lng": 48.0
       },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791727126",
-      "title": "Trump says Ukraine and Russia agree to \u2018energy ceasefire\u2019",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
-      "published": "2026-10-11T15:10:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
+      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -224,7 +356,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/11/live-houthis-riyadh-airport-saudi-houthis/",
-      "title": "Middle East latest: Riyadh airport hit in new strike as countries condemn Houthi attacks",
+      "title": "Middle East latest: Countries condemn Riyadh airport attacks as death toll rises to 13",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/mena/2026/10/11/live-houthis-riyadh-airport-saudi-houthis/",
       "published": "2026-10-11T14:25:37+00:00",
@@ -238,28 +370,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8ab21c2e588c00513856b473a27c010f",
-      "title": "Presidents of #Indonesia and #Egypt call for immediate Middle East de-escalation, warning that expanding conflict threatens civilian lives and global economic stability  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109288266910330935",
-      "published": "2026-10-11T14:21:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.8206,
-        "lng": 30.8025
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
