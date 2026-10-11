@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-10T23:30:54.123506+00:00",
-  "total_incidents": 66,
+  "generated_at": "2026-10-11T01:17:03.133121+00:00",
+  "total_incidents": 67,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791552342",
+      "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
+      "published": "2026-10-11T00:23:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no#0",
+      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T00:21:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791671422",
+      "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
+      "published": "2026-10-11T00:00:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 12,
+        "military": 0,
+        "civilian": 12
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
+      "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
+      "published": "2026-10-10T23:37:27+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0a304c50fbfebd46a2f9a31459e4028c",
+      "title": "#Coalition: Attacking King Khalid airport constitutes terrorist act.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109064430554128712",
+      "published": "2026-10-10T23:31:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "0c6be50598a763ed73c8096fc3bc299d",
       "title": "#Coalition: Ballistic missile intercepted, destroyed in #Saudi_Arabia's Al-Kharj.  #KUNA #KUWAIT",
@@ -39,28 +149,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no#0",
-      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-10T22:40:56+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -245,28 +333,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791664919",
-      "title": "Damage seen inside Saudi airport after third attack this week",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss",
-      "published": "2026-10-10T20:43:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "5d918b212cd7f0c8fdace67ba40a8276",
       "title": "#Saudi_Arabia suspends operations at attacked King Khalid International #Airport.",
       "source": "KUNA Kuwait (RSS.app)",
@@ -399,28 +465,6 @@
       }
     },
     {
-      "id": "1c06d5a4a48124d60a182163630aa499",
-      "title": "#Kuwait Airways cancels flights to, from Riyadh amid security situation  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2108956713042771983",
-      "published": "2026-10-10T16:23:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "32c0398827d378486da63932578f5b10",
       "title": "\u0635\u062d\u062a\u0643 \u0627\u0644\u0646\u0641\u0633\u064a\u0629..\u062e\u0637 \u062f\u0641\u0627\u0639\u0643 \u0627\u0644\u0623\u0648\u0644 Your Mental Health...Your First Line of Defense #\u0627\u0644\u064a\u0648\u0645_\u0627\u0644\u0639\u0627\u0644\u0645\u064a_\u0644\u0644\u0635\u062d\u0629_\u0627\u0644\u0646\u0641\u0633\u064a\u0629 #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a_\u0623\u0628\u0648\u0638\u0628\u064a",
       "source": "Abu Dhabi Civil Defence (RSS.app)",
@@ -436,28 +480,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
-      "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
-      "published": "2026-10-10T15:54:12+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
