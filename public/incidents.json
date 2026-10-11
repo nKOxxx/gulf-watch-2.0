@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-11T12:43:51.281049+00:00",
-  "total_incidents": 58,
+  "generated_at": "2026-10-11T13:31:37.183894+00:00",
+  "total_incidents": 55,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1791721365",
-      "title": "Saudi Arabia vows response over Houthi \u2018war crime\u2019 attack on Riyadh airport",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss",
-      "published": "2026-10-11T12:28:11+00:00",
+      "id": "https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy",
+      "title": "Houthi attack on Riyadh airport will force rethink of Donald Trump\u2019s strategy",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy",
+      "published": "2026-10-11T13:23:02+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -26,10 +26,32 @@
     },
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-      "title": "Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh",
+      "title": "Middle East crisis live: Houthi foreign ministry says \u2018worse yet to come\u2019 if Saudi strikes continue",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-      "published": "2026-10-11T12:25:58+00:00",
+      "published": "2026-10-11T13:23:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791721365",
+      "title": "Saudi Arabia vows response over Houthi \u2018war crime\u2019 attack on Riyadh airport",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss",
+      "published": "2026-10-11T12:28:11+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -91,28 +113,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791569065",
-      "title": "The scramble to rewrite Biden\u2019s record on Gaza",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/the-listening-post/2026/10/11/the-scramble-to-rewrite-bidens-record-on-gaza?traffic_source=rss",
-      "published": "2026-10-11T11:29:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "f78757fa0c292c364db7cb40f677a8e1",
       "title": "Dubai Integrated Economic Zones Authority (DIEZ) announces the doubling of the venture capital fund managed by its investment arm, Oraseya Capital, from AED500 million to AED1 billion. The expansion aims to strengthen Oraseya Capital\u2019s capacity to support companies with global growth potential. DIEZ has also increased Oraseya Capital\u2019s maximum investment per company from USD3 million to USD6 million, strengthening its ability to participate in larger funding rounds and support companies at more advanced stages of growth. The fund\u2019s increased size builds on the results achieved by Oraseya Capital since its launch in November 2023. Its portfolio now comprises 66 active companies.",
       "source": "Dubai Media Office (RSS.app)",
@@ -128,28 +128,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791696896",
-      "title": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss",
-      "published": "2026-10-11T10:45:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -213,28 +191,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/football/2026/10/11/al-nassr-asian-champions-league-clash-in-doubt-over-riyadh-security-situation/",
-      "title": "Al Nassr Asian Champions League clash in doubt over Riyadh security situation",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/11/al-nassr-asian-champions-league-clash-in-doubt-over-riyadh-security-situation/",
-      "published": "2026-10-11T10:18:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
       },
       "credibility": 85,
       "is_government": false,
@@ -897,28 +853,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/politics/2026/oct/09/zionism-racism-and-the-green-party-in-turmoil",
-      "title": "Zionism, racism and the Green party in turmoil | Letters",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/politics/2026/oct/09/zionism-racism-and-the-green-party-in-turmoil",
-      "published": "2026-10-09T16:22:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
