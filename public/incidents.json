@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-11T19:30:19.087537+00:00",
-  "total_incidents": 59,
+  "generated_at": "2026-10-11T20:33:22.771501+00:00",
+  "total_incidents": 61,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791747886",
+      "title": "Saudi health minister visits survivors of deadly Riyadh airport attack",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss",
+      "published": "2026-10-11T19:59:15+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "eab3c2e962c5ba11a1171904264be178",
+      "title": "#Kuwait's Ministry of Interior (MoI) represented by Farwaniya Governorate Security Directorate, conducted an extensive security campaign in Khaitan, arresting dozens of people and registering hundreds of violations  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109371360598237618",
+      "published": "2026-10-11T19:51:00+00:00",
+      "type": "raid",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791735197",
+      "title": "Mexican president urges residents to shelter as Hurricane Simon approaches",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss",
+      "published": "2026-10-11T19:31:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.5631,
+        "lng": 35.3689
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/11/iran-says-us-response-to-proposal-to-reopen-strait-of-hormuz-is-insufficient/",
       "title": "Iran says US response to proposal to reopen Strait of Hormuz is insufficient",
@@ -348,28 +414,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "74e45000e1d49fcc2fc1d5fb6881e34c",
-      "title": "#GCC Secretary General says member states adopt an integrated approach that places environmental protection as a driver of green investment and quality job creation, bolsters their economic competitiveness, and supports transition towards a low-carbon economy  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109306607058239983",
-      "published": "2026-10-11T15:34:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
