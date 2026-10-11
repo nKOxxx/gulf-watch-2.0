@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-11T01:17:03.133121+00:00",
-  "total_incidents": 67,
+  "generated_at": "2026-10-11T01:51:49.103619+00:00",
+  "total_incidents": 70,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791674841",
+      "title": "Man dies after entering tiger enclosure at England wildlife park",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss",
+      "published": "2026-10-11T01:16:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/11/saudi-airport-attack-houthis/",
+      "title": "12 killed and 309 injured in attack on Riyadh airport",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/11/saudi-airport-attack-houthis/",
+      "published": "2026-10-11T01:15:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 321,
+        "military": 0,
+        "civilian": 321
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791680896",
+      "title": "Global pro-Palestinian protests one year after Gaza \u2018ceasefire\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
+      "published": "2026-10-11T01:11:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791680351",
+      "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
+      "published": "2026-10-11T01:02:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 300,
+        "military": 0,
+        "civilian": 300
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791552342",
       "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
@@ -311,28 +399,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791665317",
-      "title": "Yemen\u2019s Houthis release video of drone attacks on gov\u2019t forces",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
-      "published": "2026-10-10T21:02:49+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "5d918b212cd7f0c8fdace67ba40a8276",
       "title": "#Saudi_Arabia suspends operations at attacked King Khalid International #Airport.",
       "source": "KUNA Kuwait (RSS.app)",
@@ -400,7 +466,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/10/live-houthis-yemen-riyadh-airport-saudi/",
-      "title": "Middle East latest: Riyadh airport suspends operations after attack leaves several injured",
+      "title": "Middle East latest: 12 killed and 309 injured in attack on Riyadh airport",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/mena/2026/10/10/live-houthis-yemen-riyadh-airport-saudi/",
       "published": "2026-10-10T17:42:37+00:00",
@@ -415,9 +481,9 @@
       "credibility": 85,
       "is_government": false,
       "casualties": {
-        "total": 0,
+        "total": 321,
         "military": 0,
-        "civilian": 0
+        "civilian": 321
       }
     },
     {
