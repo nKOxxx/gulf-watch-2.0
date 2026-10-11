@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-11T08:39:40.592718+00:00",
-  "total_incidents": 66,
+  "generated_at": "2026-10-11T09:33:40.955885+00:00",
+  "total_incidents": 65,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
       "title": "Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-      "published": "2026-10-11T08:38:18+00:00",
+      "published": "2026-10-11T09:30:40+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -22,6 +22,94 @@
         "total": 0,
         "military": 0,
         "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/11/us-warplane-knocks-out-ship-breaching-iran-blockade-as-tankers-burn-in-hormuz/",
+      "title": "US warplane knocks out ship breaching Iran blockade as tankers burn in Hormuz",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/11/us-warplane-knocks-out-ship-breaching-iran-blockade-as-tankers-burn-in-hormuz/",
+      "published": "2026-10-11T08:52:41+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/11/diplomats-or-quds-force-zarifs-blunt-question-rattles-irans-old-guard/",
+      "title": "Diplomats or Quds Force? Zarif's blunt question rattles Iran's old guard",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/11/diplomats-or-quds-force-zarifs-blunt-question-rattles-irans-old-guard/",
+      "published": "2026-10-11T08:49:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9100db13e642d0b6c60b191ebec334f9",
+      "title": ". The United Arab Emirates has condemned in the strongest terms the attacks by the Houthi group on King Khalid Internati...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DeWQpyNCO7_",
+      "published": "2026-10-11T08:45:20+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no#0",
+      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T08:41:30+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 300,
+        "military": 0,
+        "civilian": 300
       }
     },
     {
@@ -47,11 +135,33 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/11/diplomats-or-quds-force-zarifs-blunt-question-rattles-irans-old-guard/",
-      "title": "Diplomats or Quds Force? Zarif's blunt question rattles Iran's old guard",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/11/diplomats-or-quds-force-zarifs-blunt-question-rattles-irans-old-guard/",
-      "published": "2026-10-11T08:25:16+00:00",
+      "id": "https://www.aljazeera.com/?t=1791706464",
+      "title": "Pakistan imposes emergency rule in \u200bprovince governed by Imran Khan\u2019s party",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss",
+      "published": "2026-10-11T08:32:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791553021",
+      "title": "What the Iran war has done to the world\u2019s energy supply, in charts",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss",
+      "published": "2026-10-11T08:22:02+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -60,7 +170,7 @@
         "lat": 32.4279,
         "lng": 53.688
       },
-      "credibility": 85,
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -92,7 +202,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/uae/2026/10/11/president-sheikh-mohamed-orders-renaming-of-al-ain-airport-to-tahnoun-international-airport/",
-      "title": "President Sheikh Mohamed orders renaming of Al Ain Airport to Tahnoun International Airport",
+      "title": "Al Ain Airport renamed as Tahnoun International Airport",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/uae/2026/10/11/president-sheikh-mohamed-orders-renaming-of-al-ain-airport-to-tahnoun-international-airport/",
       "published": "2026-10-11T07:45:55+00:00",
@@ -176,28 +286,6 @@
         "total": 0,
         "military": 0,
         "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no#0",
-      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T06:49:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 300,
-        "military": 0,
-        "civilian": 300
       }
     },
     {
@@ -325,50 +413,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791684601",
-      "title": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
-      "published": "2026-10-11T03:41:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 38.0962,
-        "lng": 46.2738
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791683533",
-      "title": "US forces disable ship \u2018attempting to run\u2019 Iran blockade in Gulf of Oman",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
-      "published": "2026-10-11T03:13:53+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -633,50 +677,6 @@
         "lng": 48.0
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "89c42153a5568b72579c6f3827242b15",
-      "title": "The Annual Meeting of Global Future Leaders 2026 kicks off next Tuesday, organised by the UAE Government and the World Economic Forum (WEF), in cooperation with Dubai Future Foundation, from 13 to 15 October. The three-day meeting will bring together more than 700 global leaders and experts from government, business, academia, sport, and culture for a programme of strategic dialogue, experiential learning, and practical collaboration. The Meeting is part of a long-standing partnership spanning more than 17 years between the UAE Government and the World Economic Forum, a partnership that has produced a series of specialised international forums focused on anticipating the future and shaping i",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2108929477661368417",
-      "published": "2026-10-10T14:35:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f3c84a6ba484ebf63ef7d4b950ade282",
-      "title": "The Mohammed Bin Rashid Space Centre (MBRSC) and the French space agency, CNES, have signed a Memorandum of Understanding (MoU) to extend their partnership and support future missions under the Emirates Lunar Mission, strengthening a longstanding collaboration between the two organisations in lunar exploration.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2108910264464892006",
-      "published": "2026-10-10T13:19:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -1249,28 +1249,6 @@
         "lng": 39.5692
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
-      "title": "Three Saudis killed in Riyadh airport attack claimed by Houthis",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
-      "published": "2026-10-09T09:47:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
