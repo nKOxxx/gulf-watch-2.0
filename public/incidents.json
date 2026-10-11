@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-11T06:49:23.047038+00:00",
-  "total_incidents": 67,
+  "generated_at": "2026-10-11T07:38:28.056857+00:00",
+  "total_incidents": 66,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/10/11/saudi-arabia-presses-on-with-global-energy-summit-after-deadly-riyadh-airport-attack/",
+      "title": "Saudi Arabia presses on with global energy summit after deadly Riyadh airport attack",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/11/saudi-arabia-presses-on-with-global-energy-summit-after-deadly-riyadh-airport-attack/",
+      "published": "2026-10-11T07:27:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no#0",
+      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T06:49:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 300,
+        "military": 0,
+        "civilian": 300
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/gulf/2026/10/11/saudi-led-coalition-vows-to-respond-decisively-to-deadly-riyadh-airport-attack/",
       "title": "Saudi-led coalition vows to \u2018respond decisively\u2019 to deadly Riyadh airport attack",
@@ -40,6 +84,28 @@
       },
       "credibility": 85,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "76a56dda5770ef35c03acf91ae2934a8",
+      "title": "#Kuwait strongly condemned the brutal attack by Houthi militia against #King_Khalid International Airport in the #Saudi capital city of #Riyadh. The despicable attack, which killed and injured innocent civilians, represents a flagrant violation of international law, international humanitarian law & falls in framework of systematic hostilities targeting civilian property & vital facilities, the Foreign ministry said in a statement.  #Kuna",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109157633324187919",
+      "published": "2026-10-11T05:42:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -132,28 +198,6 @@
         "total": 0,
         "military": 0,
         "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no#0",
-      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T03:57:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 300,
-        "military": 0,
-        "civilian": 300
       }
     },
     {
@@ -311,28 +355,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791674841",
-      "title": "Man dies after entering tiger enclosure at England wildlife park",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss",
-      "published": "2026-10-11T01:16:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
       "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
       "source": "The Guardian",
@@ -477,50 +499,6 @@
         "city": null,
         "lat": 25.3548,
         "lng": 51.1839
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "acc7cd8d54357b0f11b29c16da1a45cb",
-      "title": "#GCC chief deplores Houthi attack on King Khalid #airport in #Riyadh.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109044283399422019",
-      "published": "2026-10-10T22:11:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3467bdf38ad358ffd073d7499a4f48ec",
-      "title": "Official Spokesman for the Coalition to Support Legitimacy in Yemen: Shells have fallen at the compound of International King Fahad Airport in the Saudi city of Dammam  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109034232102170702",
-      "published": "2026-10-10T21:31:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 26.3927,
-        "lng": 50.0916
       },
       "credibility": 95,
       "is_government": true,
