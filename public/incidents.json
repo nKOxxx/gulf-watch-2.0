@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-11T03:44:17.026227+00:00",
+  "generated_at": "2026-10-11T04:39:02.339682+00:00",
   "total_incidents": 71,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/sport/football/2026/10/11/manchester-united-ratings-vs-tottenham-mbeumo-strikes-but-late-solanke-goal-frustrates-carrick/",
+      "title": "Manchester United ratings vs Tottenham: Mbeumo strikes but late Solanke goal frustrates Carrick",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/11/manchester-united-ratings-vs-tottenham-mbeumo-strikes-but-late-solanke-goal-frustrates-carrick/",
+      "published": "2026-10-11T04:15:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/aviation/2026/10/11/the-inside-brief-menzies-chief-on-aviations-recovery-and-a-lifetime-of-navigating-crises/",
+      "title": "The Inside Brief: Menzies chief on aviation\u2019s recovery and a lifetime of navigating crises",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/aviation/2026/10/11/the-inside-brief-menzies-chief-on-aviations-recovery-and-a-lifetime-of-navigating-crises/",
+      "published": "2026-10-11T04:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no#0",
+      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-11T03:57:22+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 300,
+        "military": 0,
+        "civilian": 300
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791684601",
+      "title": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
+      "published": "2026-10-11T03:41:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 38.0962,
+        "lng": 46.2738
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791683533",
       "title": "US forces disable ship \u2018attempting to run\u2019 Iran blockade in Gulf of Oman",
@@ -179,28 +267,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/11/saudi-airport-attack-houthis/",
-      "title": "12 killed and 309 injured in attack on Riyadh airport",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/11/saudi-airport-attack-houthis/",
-      "published": "2026-10-11T01:15:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 321,
-        "military": 0,
-        "civilian": 321
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1791680896",
       "title": "Global pro-Palestinian protests one year after Gaza \u2018ceasefire\u2019",
       "source": "Al Jazeera",
@@ -259,28 +325,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no#0",
-      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T00:21:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -506,50 +550,6 @@
         "total": 0,
         "military": 0,
         "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/10/uae-national-guard-rescues-22-people-after-oil-tanker-catches-fire/",
-      "title": "UAE National Guard rescues 22 people after oil tanker catches fire",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/10/uae-national-guard-rescues-22-people-after-oil-tanker-catches-fire/",
-      "published": "2026-10-10T17:56:25+00:00",
-      "type": "ground",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/10/live-houthis-yemen-riyadh-airport-saudi/",
-      "title": "Middle East latest: 12 killed and 309 injured in attack on Riyadh airport",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/10/live-houthis-yemen-riyadh-airport-saudi/",
-      "published": "2026-10-10T17:42:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 321,
-        "military": 0,
-        "civilian": 321
       }
     },
     {
