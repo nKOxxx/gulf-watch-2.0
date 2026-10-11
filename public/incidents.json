@@ -1,13 +1,35 @@
 {
-  "generated_at": "2026-10-11T09:33:40.955885+00:00",
+  "generated_at": "2026-10-11T10:32:30.226294+00:00",
   "total_incidents": 65,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/10/11/fujairah-shows-why-resilience-is-the-gulfs-greatest-energy-asset/",
+      "title": "Fujairah shows why resilience is the Gulf\u2019s greatest energy asset",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/11/fujairah-shows-why-resilience-is-the-gulfs-greatest-energy-asset/",
+      "published": "2026-10-11T10:22:05+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
       "title": "Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-      "published": "2026-10-11T09:30:40+00:00",
+      "published": "2026-10-11T10:21:59+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -15,6 +37,138 @@
         "city": null,
         "lat": 24.7136,
         "lng": 46.6753
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/football/2026/10/11/al-nassr-asian-champions-league-clash-in-doubt-over-riyadh-security-situation/",
+      "title": "Al Nassr Asian Champions League clash in doubt over Riyadh security situation",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/11/al-nassr-asian-champions-league-clash-in-doubt-over-riyadh-security-situation/",
+      "published": "2026-10-11T10:18:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "7986e47d17c6efba4f1b91902122e7b4",
+      "title": "RT by @DXBMediaOffice: Reinforcing Dubai\u2019s position as a global hub for venture capital and innovation, and a base for global companies, we are doubling the size of Oraseya Capital\u2019s fund, the investment arm of DIEZ, to AED 1 billion, to expand investment in companies with global potential. We have strong confidence in Dubai\u2019s future as a global centre for capital and innovation. Our mission is to translate this confidence into investments, companies and tangible economic opportunities that support the objectives of the Dubai Economic Agenda D33, strengthen Dubai\u2019s competitiveness, and reinforce the UAE\u2019s position as a global hub for the new economy and investment in future sectors.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/HHAhmedBinSaeed/status/2109225027828592868",
+      "published": "2026-10-11T10:10:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e791b1358e889f1f7e03096cac5292b7",
+      "title": "His Highness the Prime Minister of #Kuwait condoles #Saudi King over #Riyadh airport attack  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109220852927496492",
+      "published": "2026-10-11T09:53:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "80a9af84fd889dc866eb686927ed9dcb",
+      "title": "His Highness the Crown Prince of #Kuwait condoles #Saudi King over #Riyadh airport attack  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109220316769566968",
+      "published": "2026-10-11T09:51:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "630d001d03b2c6abe63ae8d83de94de6",
+      "title": "His Highness the Amir of #Kuwait condoles #Saudi King over #Riyadh airport attack  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109219924681875685",
+      "published": "2026-10-11T09:49:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791706768",
+      "title": "Russia\u2019s Yandex says data centre in Vladimir shut down after drone attack",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/11/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack?traffic_source=rss",
+      "published": "2026-10-11T09:33:03+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -311,28 +465,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/travel/2026/10/11/riyadh-airport-closure-emirates-etihad-cancel-flights-sunday-monday/",
-      "title": "Riyadh airport closure: Emirates, Etihad and other UAE airlines cancel flights",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/travel/2026/10/11/riyadh-airport-closure-emirates-etihad-cancel-flights-sunday-monday/",
-      "published": "2026-10-11T05:56:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "76a56dda5770ef35c03acf91ae2934a8",
       "title": "#Kuwait strongly condemned the brutal attack by Houthi militia against #King_Khalid International Airport in the #Saudi capital city of #Riyadh. The despicable attack, which killed and injured innocent civilians, represents a flagrant violation of international law, international humanitarian law & falls in framework of systematic hostilities targeting civilian property & vital facilities, the Foreign ministry said in a statement.  #Kuna",
       "source": "KUNA Kuwait (RSS.app)",
@@ -355,28 +487,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791309345",
-      "title": "How genocidal war on Gaza is shaping Israel\u2019s election",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss",
-      "published": "2026-10-11T05:35:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "9304b11ed2682b25c2f4f4e2161c2b78",
       "title": "Lashing out at the performance of the International Atomic Energy Agency (IAEA), the head of the Atomic Energy Organization of Iran (AEOI) said that the UN nuclear watchdog has failed to fulfill its duty to support the peaceful use of nuclear energy.",
       "source": "Mehr News (RSS.app)",
@@ -391,28 +501,6 @@
         "lng": 53.688
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/football/2026/10/11/manchester-united-ratings-vs-tottenham-mbeumo-strikes-but-late-solanke-goal-frustrates-carrick/",
-      "title": "Manchester United ratings vs Tottenham: Mbeumo strikes but late Solanke goal frustrates Carrick",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/11/manchester-united-ratings-vs-tottenham-mbeumo-strikes-but-late-solanke-goal-frustrates-carrick/",
-      "published": "2026-10-11T04:15:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -531,28 +619,6 @@
       }
     },
     {
-      "id": "0c6be50598a763ed73c8096fc3bc299d",
-      "title": "#Coalition: Ballistic missile intercepted, destroyed in #Saudi_Arabia's Al-Kharj.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109055330835390635",
-      "published": "2026-10-10T22:55:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/industry/techwatch/2026/10/10/us-army-kaizen-laboratories-to-establish-common-software-platform-for-classified-material/",
       "title": "US Army, Kaizen Laboratories to establish common software platform for classified material",
       "source": "Defense News",
@@ -568,50 +634,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0758d46f291203368f5179a0d696e6da",
-      "title": "Secretary General of the Organization of Islamic Cooperation (OIC) Ismail Ould Cheikh Ahmad has condemned, in the strongest terms, the attack by the terrorist Houthi militia against King Khalid International Airport.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109051576438407292",
-      "published": "2026-10-10T22:40:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2ce091480741c4b0e97df64e8e35d754",
-      "title": "#Saudi aviation: 12 people die, 309 others wounded in King Khalid #airport attack.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109047257991442758",
-      "published": "2026-10-10T22:23:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -854,28 +876,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2ab6ca488fdb2b1dcb21addcbf0bbe7c",
-      "title": ". The United Arab Emirates has condemned in the strongest terms the attacks by the Houthi group on King Khalid Internati...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DeSQrDHiDdZ",
-      "published": "2026-10-09T19:28:32+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
