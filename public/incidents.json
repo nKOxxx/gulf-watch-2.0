@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-12T08:00:35.323200+00:00",
-  "total_incidents": 69,
+  "generated_at": "2026-10-12T08:59:02.348094+00:00",
+  "total_incidents": 62,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/10/12/saudi-arabia-says-oil-supply-to-continue-to-flow-despite-riyadh-attacks/",
+      "title": "Saudi Arabia says oil supply to continue to flow despite Riyadh attacks",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/12/saudi-arabia-says-oil-supply-to-continue-to-flow-despite-riyadh-attacks/",
+      "published": "2026-10-12T08:45:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "472bc0912901a80381419b9d8b1383e0",
+      "title": ". UAE strongly condemns continued Houthi Group attacks on King Khalid International Airport #WamNews",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DeYzgSKiKL9",
+      "published": "2026-10-12T08:28:21+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/travel/2026/10/12/riyadh-airport-closure-emirates-etihad-flights/",
+      "title": "Saudi Arabia extends suspension of operations at Riyadh airport",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/travel/2026/10/12/riyadh-airport-closure-emirates-etihad-flights/",
+      "published": "2026-10-12T08:27:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/12/at-least-72-sudanese-gold-miners-killed-in-strike-blamed-on-egypt/",
+      "title": "At least 72 Sudanese gold miners killed in strike blamed on Egypt",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/12/at-least-72-sudanese-gold-miners-killed-in-strike-blamed-on-egypt/",
+      "published": "2026-10-12T08:15:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.8206,
+        "lng": 30.8025
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "dd58b26ff762246eefe360c383ba10d2",
       "title": "dnata commits AED 175 million to new ground support equipment (GSE) in the UAE since the start of the year. The investment covers more than 340 new assets, spanning fleet renewal and additional capacity. dnata currently operates approximately 2,800 motorised GSE assets across Dubai International (DXB) and Dubai World Central \u2013 Al Maktoum International (DWC).",
@@ -157,50 +245,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/sport/combat-sports/2026/10/12/canelo-alvarez-fears-nothing-and-will-fight-in-riyadh-despite-security-concerns/",
-      "title": "Canelo Alvarez 'fears nothing' and will fight in Riyadh despite security concerns",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/combat-sports/2026/10/12/canelo-alvarez-fears-nothing-and-will-fight-in-riyadh-despite-security-concerns/",
-      "published": "2026-10-12T06:21:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/12/riyadh-airport-attacked-again-and-trump-announces-ukraine-russia-energy-ceasefire/",
-      "title": "Riyadh airport attacked again and Trump announces Ukraine-Russia 'energy ceasefire'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/12/riyadh-airport-attacked-again-and-trump-announces-ukraine-russia-energy-ceasefire/",
-      "published": "2026-10-12T06:14:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/commentisfree/2026/oct/12/gulf-new-era-instability-alliances-houthi-rebels-saudi-arabia",
       "title": "The Gulf has entered a new era of instability. If its leaders think they can rely on old alliances, they are wrong | Nesrine Malik",
       "source": "The Guardian",
@@ -223,28 +267,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/travel/2026/10/12/riyadh-airport-closure-emirates-etihad-cancel-flights-sunday-monday/",
-      "title": "Riyadh airport closure: UAE flight cancellations extend into Tuesday",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/travel/2026/10/12/riyadh-airport-closure-emirates-etihad-cancel-flights-sunday-monday/",
-      "published": "2026-10-12T05:56:36+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1791771991",
       "title": "Countries warn against travel to Saudi Arabia following Houthi attacks",
       "source": "Al Jazeera",
@@ -259,50 +281,6 @@
         "lng": 45.0792
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/12/gargash-calls-for-stronger-gulf-security-and-collective-defence/",
-      "title": "Gargash calls for stronger Gulf security and collective defence",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/12/gargash-calls-for-stronger-gulf-security-and-collective-defence/",
-      "published": "2026-10-12T05:42:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/cricket/2026/10/12/uaes-odi-status-under-threat-after-dismal-series-in-united-states/",
-      "title": "UAE\u2019s ODI status under threat after dismal series in United States",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/cricket/2026/10/12/uaes-odi-status-under-threat-after-dismal-series-in-united-states/",
-      "published": "2026-10-12T05:28:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -396,50 +374,6 @@
         "total": 0,
         "military": 0,
         "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791769924",
-      "title": "North Korea fires multiple ballistic missiles towards the sea",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
-      "published": "2026-10-12T03:37:12+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791774158",
-      "title": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss",
-      "published": "2026-10-12T03:09:11+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 139,
-        "military": 0,
-        "civilian": 139
       }
     },
     {
@@ -839,28 +773,6 @@
       }
     },
     {
-      "id": "304a8f52d5b86bb38e8fd31730649d77",
-      "title": "Mohammed Bin Rashid Space Centre (MBRSC) concludes its participation in the 77th International Astronautical Congress (IAC 2026), held in Antalya, T\u00fcrkiye, from 5 to 9 October. During the Congress, MBRSC announced the opening of applications for PHI-3, the third opportunity under the Payload Hosting Initiative, developed in partnership with the United Nations Office for Outer Space Affairs (UNOOSA) through its \u2018Access to Space for All\u2019 initiative. The Centre also extended its cooperation with France\u2019s space agency, CNES, in support of future missions under the Emirates Lunar Mission.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2109251183512846678",
-      "published": "2026-10-11T11:54:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "9100db13e642d0b6c60b191ebec334f9",
       "title": ". The United Arab Emirates has condemned in the strongest terms the attacks by the Houthi group on King Khalid Internati...",
       "source": "WAM News (RSS.app)",
@@ -902,28 +814,6 @@
         "total": 300,
         "military": 0,
         "civilian": 300
-      }
-    },
-    {
-      "id": "e2c557d183828f9dcc4c0c9faff83a77",
-      "title": ". President His Highness Sheikh Mohamed bin Zayed Al Nahyan has directed the renaming of Al Ain International Airport to...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DeWITmtCNRd",
-      "published": "2026-10-11T07:32:23+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
       }
     },
     {
@@ -1049,28 +939,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/commentisfree/2026/oct/10/israel-war-gaza-middle-east-world-violence",
-      "title": "In three years, Israel's war on Gaza hasn't just changed the Middle East, it's changed the world | Steve Bloomfield",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/oct/10/israel-war-gaza-middle-east-world-violence",
-      "published": "2026-10-10T12:00:56+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
       },
       "credibility": 90,
       "is_government": false,
@@ -1337,28 +1205,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=97715",
-      "title": "A leap in drone range and payloads come from a battery with different chemistry",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/a-leap-in-drone-range-and-payloads-come-from-a-battery-with-different-chemistry/",
-      "published": "2026-10-09T15:03:05+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
