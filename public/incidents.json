@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-12T01:19:39.251563+00:00",
+  "generated_at": "2026-10-12T01:58:54.986896+00:00",
   "total_incidents": 64,
   "incidents": [
+    {
+      "id": "cd8066e8b6161542142b773db66fa028",
+      "title": "#Coalition forces down missile near #Saudi_Arabia 's Khamis Mushait  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109456385599578491",
+      "published": "2026-10-12T01:29:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791754307",
       "title": "Iran\u2019s FM urges diplomacy in call with Saudi counterpart",
@@ -458,28 +480,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "9434c80e14bc465a7b4540e3c37f411d",
-      "title": "#Bahrain's Oil and Environment Minister and Special Envoy for Climate Affairs, Dr. Mohammad bin Daina, stresses the importance of strengthening Gulf environmental cooperation, protecting natural resources and biodiversity, and advancing sustainable development policies  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109344197530530295",
-      "published": "2026-10-11T18:03:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 26.0667,
-        "lng": 50.5577
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
