@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-12T03:52:00.806459+00:00",
-  "total_incidents": 62,
+  "generated_at": "2026-10-12T04:49:00.705142+00:00",
+  "total_incidents": 60,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791770912",
+      "title": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
+      "published": "2026-10-12T04:24:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=98116",
+      "title": "Anduril unveils Steelfin interceptor as cheaper option to PAC-3 missiles",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/anduril-unveils-steelfin-interceptor-as-cheaper-option-to-pac-3-missiles/",
+      "published": "2026-10-12T04:01:00+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791777469",
+      "title": "Ethiopian troops enter Adigrat in Tigray, near the Eritrean border",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-reported-ethiopia-hamza-mohammad-report-abiy-ahmed-ep?traffic_source=rss",
+      "published": "2026-10-12T04:00:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/uae/2026/10/12/dubai-resident-leaves-iraq-after-being-detained-for-five-years/",
       "title": "Dubai resident leaves Iraq after being detained for five years",
@@ -157,28 +223,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791760034",
-      "title": "Iran war live: Riyadh airport hit again; Tehran says US reply \u2018inadequate\u2019",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
-      "published": "2026-10-12T00:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "a86245ad6c76544a924e64fad50d7875",
       "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u062f\u064a\u0646\u0629 \u0623\u0628\u0647\u0627\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (998). Alert: The danger has passed in Abha City. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
       "source": "Saudi Civil Defense (RSS.app)",
@@ -216,28 +260,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791760732",
-      "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
-      "published": "2026-10-11T23:20:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -465,28 +487,6 @@
       }
     },
     {
-      "id": "c287eb485c8e9d358eebebcac46e8d0c",
-      "title": "#US President Donald Trump announces that #Russia & #Ukraine have agreed to stop mutual strikes targeting energy infrastructure and facilities  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109344794287669682",
-      "published": "2026-10-11T18:06:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
       "title": "Middle East crisis: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12 \u2013 as it happened",
       "source": "The Guardian",
@@ -501,28 +501,6 @@
         "lng": 46.6753
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/11/riyadh-airport-attacked-again-after-houthi-missile-strike-that-killed-12-and-injured-hundreds/",
-      "title": "Riyadh airport attacked again after Houthi missile strike that killed 13 and injured hundreds",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/11/riyadh-airport-attacked-again-after-houthi-missile-strike-that-killed-12-and-injured-hundreds/",
-      "published": "2026-10-11T17:08:26+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1153,28 +1131,6 @@
       "source_url": "https://breakingdefense.com/2026/10/a-leap-in-drone-range-and-payloads-come-from-a-battery-with-different-chemistry/",
       "published": "2026-10-09T15:03:05+00:00",
       "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=97816",
-      "title": "Swedish government launches first Patriot mission to Poland",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/swedish-government-launches-first-patriot-mission-to-poland/",
-      "published": "2026-10-09T14:45:00+00:00",
-      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": null,
