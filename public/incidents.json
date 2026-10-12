@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-12T10:40:34.018550+00:00",
-  "total_incidents": 57,
+  "generated_at": "2026-10-12T11:35:12.704019+00:00",
+  "total_incidents": 61,
   "incidents": [
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/10/12/us-army-helicopter-pilots-test-new-in-flight-relief-system/",
+      "title": "US Army helicopter pilots test new in-flight \u2018relief\u2019 system",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/12/us-army-helicopter-pilots-test-new-in-flight-relief-system/",
+      "published": "2026-10-12T11:28:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/12/pilot-flight-attendant-and-widowed-mother-among-victims-of-houthi-claimed-attacks-in-saudi-arabia/",
+      "title": "Pilot, flight attendant and widowed mother among victims of Houthi-claimed attacks in Saudi Arabia",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/12/pilot-flight-attendant-and-widowed-mother-among-victims-of-houthi-claimed-attacks-in-saudi-arabia/",
+      "published": "2026-10-12T11:27:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/12/veteran-politician-calls-for-kurdish-rights-to-be-enshrined-in-syrias-constitution-to-prevent-tension/",
+      "title": "Veteran politician calls for Kurdish rights to be enshrined in Syria\u2019s constitution to prevent tension",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/12/veteran-politician-calls-for-kurdish-rights-to-be-enshrined-in-syrias-constitution-to-prevent-tension/",
+      "published": "2026-10-12T11:24:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/europe/2026/10/12/zelenskyy-urges-us-to-act-to-ensure-russia-abides-by-energy-ceasefire/",
+      "title": "Zelenskyy urges US to act to ensure Russia abides by 'energy ceasefire'",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/12/zelenskyy-urges-us-to-act-to-ensure-russia-abides-by-energy-ceasefire/",
+      "published": "2026-10-12T11:08:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "d082c5d408b1823a44c15dde1db73be4",
+      "title": "#Kuwait's Minister of Defense congratulates to #Spain's Defense Minister on the occasion of her country's National Day  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109601333519020057",
+      "published": "2026-10-12T11:05:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "1ab1a1f2a074f6a5d439b6b3861f0a5e",
+      "title": "Minister of Health opens World Sight Day activities at Jaber Al-Ahmad Hospital to raise public awareness of the importance of prevention through early screening  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109600364336980329",
+      "published": "2026-10-12T11:01:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/10/12/us-says-hormuz-oil-flows-recover-to-14-million-bpd-despite-saudi-attacks/",
+      "title": "US says Hormuz oil flows recover to 14 million bpd despite Saudi attacks",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/12/us-says-hormuz-oil-flows-recover-to-14-million-bpd-despite-saudi-attacks/",
+      "published": "2026-10-12T10:53:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/uae/2026/10/12/being-allowed-to-leave-does-not-erase-injustice-former-dubai-resident-leaves-iraq-after-years-of-detention/",
       "title": "'Being allowed to leave does not erase injustice': Former Dubai resident leaves Iraq after years of detention",
@@ -18,6 +172,50 @@
       },
       "credibility": 85,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791799046",
+      "title": "Ukraine\u2019s Zelenskyy accuses Russia of violating Trump\u2019s \u2018energy ceasefire\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/12/ukraines-zelenskyy-accuses-russia-of-violating-trumps-energy-ceasefire?traffic_source=rss",
+      "published": "2026-10-12T10:35:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9747ae9b8498e78b4eea52faf0393098",
+      "title": "The Endowment and Minors\u2019 Trust Foundation in Dubai (Awqaf Dubai) marks the inauguration of the \u201cBunyan Al Khair\u201d endowment initiative, launched in collaboration with Mohammed bin Rashid Housing Establishment and Emarat Al Youm newspaper. The initiative comprises 22 completed endowment villas valued at AED 70 million, reflecting successful cooperation between government entities, the private sector, media organisations and community members to develop sustainable endowment assets that benefit citizens and support eligible beneficiaries. The inauguration also includes Sobha Realty\u2019s endowment of 11 villas, constructed at a cost of AED 25 million.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2109593561759126000",
+      "published": "2026-10-12T10:34:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -91,28 +289,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/land/2026/10/12/us-army-gets-first-mobile-cannon-to-replace-m777-howitzer-officials-say/",
-      "title": "US Army gets first mobile cannon to replace M777 howitzer, officials say",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/land/2026/10/12/us-army-gets-first-mobile-cannon-to-replace-m777-howitzer-officials-say/",
-      "published": "2026-10-12T10:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=98046",
       "title": "Army again tweaks acquisition structure to remove unwanted layer of bureaucracy",
       "source": "Breaking Defense",
@@ -127,6 +303,28 @@
         "lng": 48.0
       },
       "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/land/2026/10/12/us-army-gets-first-mobile-cannon-to-replace-m777-howitzer-officials-say/",
+      "title": "US Army gets first mobile cannon to replace M777 howitzer, officials say",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/land/2026/10/12/us-army-gets-first-mobile-cannon-to-replace-m777-howitzer-officials-say/",
+      "published": "2026-10-12T10:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -216,28 +414,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "aac6c4556e4ee6ae5ab4f8e4e526e62e",
-      "title": "Kuwait strongly condemns Houthi attacks on Saudi Arabia  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109574558902604048",
-      "published": "2026-10-12T09:19:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -355,28 +531,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/business/energy/2026/10/12/saudi-arabia-says-oil-supply-to-continue-to-flow-despite-riyadh-attacks/",
-      "title": "Saudi Arabia says oil supply to continue to flow despite Riyadh attacks",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/12/saudi-arabia-says-oil-supply-to-continue-to-flow-despite-riyadh-attacks/",
-      "published": "2026-10-12T08:45:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "472bc0912901a80381419b9d8b1383e0",
       "title": ". UAE strongly condemns continued Houthi Group attacks on King Khalid International Airport #WamNews",
       "source": "WAM News (RSS.app)",
@@ -389,72 +543,6 @@
         "city": null,
         "lat": 23.4241,
         "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/travel/2026/10/12/riyadh-airport-closure-emirates-etihad-flights/",
-      "title": "Saudi Arabia extends suspension of operations at Riyadh airport",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/travel/2026/10/12/riyadh-airport-closure-emirates-etihad-flights/",
-      "published": "2026-10-12T08:27:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/12/at-least-72-sudanese-gold-miners-killed-in-strike-blamed-on-egypt/",
-      "title": "Dozens of gold miners killed in Sudan 'strike', rights and political groups say",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/12/at-least-72-sudanese-gold-miners-killed-in-strike-blamed-on-egypt/",
-      "published": "2026-10-12T08:15:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "dd58b26ff762246eefe360c383ba10d2",
-      "title": "dnata commits AED 175 million to new ground support equipment (GSE) in the UAE since the start of the year. The investment covers more than 340 new assets, spanning fleet renewal and additional capacity. dnata currently operates approximately 2,800 motorised GSE assets across Dubai International (DXB) and Dubai World Central \u2013 Al Maktoum International (DWC).",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2109550540455842016",
-      "published": "2026-10-12T07:43:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 95,
       "is_government": true,
