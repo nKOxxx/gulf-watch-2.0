@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-12T09:52:09.736963+00:00",
-  "total_incidents": 63,
+  "generated_at": "2026-10-12T10:40:34.018550+00:00",
+  "total_incidents": 57,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/12/being-allowed-to-leave-does-not-erase-injustice-former-dubai-resident-leaves-iraq-after-years-of-detention/",
+      "title": "'Being allowed to leave does not erase injustice': Former Dubai resident leaves Iraq after years of detention",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/12/being-allowed-to-leave-does-not-erase-injustice-former-dubai-resident-leaves-iraq-after-years-of-detention/",
+      "published": "2026-10-12T10:36:47+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o#0",
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T10:28:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/10/12/why-trumps-russia-ukraine-energy-ceasefire-may-offer-oil-markets-little-relief/",
+      "title": "Why Trump\u2019s Russia-Ukraine energy ceasefire may offer oil markets little relief",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/12/why-trumps-russia-ukraine-energy-ceasefire-may-offer-oil-markets-little-relief/",
+      "published": "2026-10-12T10:22:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791792243",
+      "title": "Melbourne man linked to flydubai attack suspect rejects \u2018false accusations\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/12/melbourne-man-linked-to-flydubai-attack-suspect-rejects-false-accusations?traffic_source=rss",
+      "published": "2026-10-12T10:05:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/land/2026/10/12/us-army-gets-first-mobile-cannon-to-replace-m777-howitzer-officials-say/",
+      "title": "US Army gets first mobile cannon to replace M777 howitzer, officials say",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/land/2026/10/12/us-army-gets-first-mobile-cannon-to-replace-m777-howitzer-officials-say/",
+      "published": "2026-10-12T10:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=98046",
+      "title": "Army again tweaks acquisition structure to remove unwanted layer of bureaucracy",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/army-again-tweaks-acquisition-structure-to-remove-unwanted-layer-of-bureaucracy/",
+      "published": "2026-10-12T10:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4bb9d7211129a6cbe2f532a8ef22920f",
+      "title": "In the presence of Mohammed bin Rashid bin Mohammed, a total of 11 Dubai-based companies representing diverse sectors pledge to integrate Agentic AI technologies into their operations, with the support of Dubai Chambers. The 11 companies that signed the pledge launched by Dubai Chambers are Emirates, DP World, AW Rostamani Group, Al Ansari Exchange, Dubai Islamic Bank, Kitopi, Dutco Group, Aster DM Healthcare, Innovo, Independent Food Company and HSA Group.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2109583768290029787",
+      "published": "2026-10-12T09:55:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "da2664d22b38f343ff3f985e0a45c427",
       "title": ". The UAE, represented by the Gymnastics Committee of the UAE Sports for All Federation, has officially joined World Gym...",
@@ -268,7 +422,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/12/at-least-72-sudanese-gold-miners-killed-in-strike-blamed-on-egypt/",
-      "title": "At least 72 Sudanese gold miners killed in strike",
+      "title": "Dozens of gold miners killed in Sudan 'strike', rights and political groups say",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/mena/2026/10/12/at-least-72-sudanese-gold-miners-killed-in-strike-blamed-on-egypt/",
       "published": "2026-10-12T08:15:46+00:00",
@@ -304,72 +458,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791781578",
-      "title": "Alvarez vs M\u2019billi boxing bout to go ahead in Saudi Arabia despite attacks",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/10/12/alvarez-vs-mbilli-boxing-bout-to-go-ahead-in-saudi-arabia-despite-attacks?traffic_source=rss",
-      "published": "2026-10-12T07:40:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/economy/2026/10/12/ai-investment-boom-offsets-energy-shock-to-keep-global-growth-at-3-imf-chief-says/",
-      "title": "AI investment boom offsets energy shock to keep global growth at 3%, IMF chief says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/12/ai-investment-boom-offsets-energy-shock-to-keep-global-growth-at-3-imf-chief-says/",
-      "published": "2026-10-12T07:35:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/opinion/comment/2026/10/12/middle-east-gulf-strait-of-hormuz-us-iran-israel-war-deal/",
-      "title": "Military superiority cannot guarantee peace in the Middle East",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/opinion/comment/2026/10/12/middle-east-gulf-strait-of-hormuz-us-iran-israel-war-deal/",
-      "published": "2026-10-12T07:30:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -465,28 +553,6 @@
       }
     },
     {
-      "id": "cd8066e8b6161542142b773db66fa028",
-      "title": "#Coalition forces down missile near #Saudi_Arabia 's Khamis Mushait  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109456385599578491",
-      "published": "2026-10-12T01:29:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "a86245ad6c76544a924e64fad50d7875",
       "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u062f\u064a\u0646\u0629 \u0623\u0628\u0647\u0627\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (998). Alert: The danger has passed in Abha City. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
       "source": "Saudi Civil Defense (RSS.app)",
@@ -553,28 +619,6 @@
       }
     },
     {
-      "id": "b96dabd3b82fe07d45cecda172722f0b",
-      "title": "Saudi General Authority of Civil Aviation: A Pakistani resident died and 11 others were injured in the brutal attack that targeted King Khalid International Airport earlier  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109414260535128163",
-      "published": "2026-10-11T22:42:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
       "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
       "source": "The Guardian",
@@ -590,50 +634,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b2ba9b45c5b8dde2025c69dce6c9e96f",
-      "title": "Arab League chief backs Saudi Arabia against Houthi attacks  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109400587900993940",
-      "published": "2026-10-11T21:47:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "65d20273394a20ce86ef8bc9206532c3",
-      "title": "The 17th International Energy Forum (IEF17) ministerial meeting kicked off in Riyadh, with the participation of #Kuwait's Oil Minister Tareq Al-Roumi and CEO of the Kuwait Petroleum Corporation (KPC) Sheikh Nawaf Al-Sabah  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109393459840741837",
-      "published": "2026-10-11T21:19:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -770,28 +770,6 @@
         "total": 139,
         "military": 0,
         "civilian": 139
-      }
-    },
-    {
-      "id": "c14d30eb55ac4ef954435d4b17b0842f",
-      "title": "Dubai Holding Entertainment launches \"Truly Amazing\", its annual season celebrating the iconic destinations and diverse experiences across its portfolio, alongside a year packed with activities, entertainment and memorable moments. Dubai Holding Entertainment\u2019s portfolio brings together 20 parks, attractions and destinations that welcome millions of visitors from the UAE and around the world. @dubaiholding",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2109281689445052548",
-      "published": "2026-10-11T13:55:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
       }
     },
     {
@@ -1191,28 +1169,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=97853",
-      "title": "New leaders, new drone command: What we expect from AUSA 2026",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/new-leaders-new-drone-command-what-we-expect-from-ausa-2026/",
-      "published": "2026-10-09T16:07:00+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-army/2026/10/09/us-army-corps-of-engineers-failed-to-explain-drop-in-environmental-mitigation-work-watchdog/",
       "title": "US Army Corps of Engineers failed to explain drop in environmental mitigation work: Watchdog",
       "source": "Defense News",
@@ -1257,7 +1213,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro#0",
+      "id": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro#1",
       "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
@@ -1293,94 +1249,6 @@
         "lng": 53.688
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/europe/2026/10/09/estonias-krattworks-crafting-shahed-like-dummy-drone-for-target-practice/",
-      "title": "Estonia\u2019s KrattWorks crafting Shahed-like dummy drone for target practice",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/10/09/estonias-krattworks-crafting-shahed-like-dummy-drone-for-target-practice/",
-      "published": "2026-10-09T10:11:46+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "41c34b87546c321e849a761a8ce35339",
-      "title": "President Masoud Pezeshkian has reaffirmed commitment to diplomacy while firmly rejecting US unilateralism, telling Russian President Vladimir Putin that Tehran will not walk away from the negotiating table despite US attacks.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2108500604607660134",
-      "published": "2026-10-09T10:11:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "855a23030e1d03c864c3e29216ba14b5",
-      "title": "President of Iran Masoud Pezeshkian has stressed the need for expansion of relations in all areas with Armenia.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2108500491219218822",
-      "published": "2026-10-09T10:11:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2d988fb7462d23e3628809c6580c3af1",
-      "title": "The war on Iran has revealed the huge decline in the US military power and the limits to that power, as reports by local US media clearly show.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2108500311518204336",
-      "published": "2026-10-09T10:10:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
-      },
-      "credibility": 70,
       "is_government": false,
       "casualties": {
         "total": 0,
