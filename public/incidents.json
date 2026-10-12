@@ -1,7 +1,227 @@
 {
-  "generated_at": "2026-10-12T13:04:22.148367+00:00",
+  "generated_at": "2026-10-12T13:54:08.699790+00:00",
   "total_incidents": 56,
   "incidents": [
+    {
+      "id": "c5634dfc5c1a8c5a929184f100bd2956",
+      "title": "#Oman Electricity & Energy Conference 2026 kicks off in Muscat to discuss energy transition pathways, security of supplies, grid resilience & the development of electricity markets.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109641120623858171",
+      "published": "2026-10-12T13:43:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 23.5859,
+        "lng": 58.4059
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/12/why-are-the-houthis-attacking-saudi-airports-riyadh-yemen",
+      "title": "Why are the Houthis attacking Saudi airports and how are the missiles getting through?",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/12/why-are-the-houthis-attacking-saudi-airports-riyadh-yemen",
+      "published": "2026-10-12T13:41:17+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/travel/2026/10/12/riyadh-airport-closure-emirates-etihad-flights/",
+      "title": "Riyadh airport closure: Etihad cancels flights until October 19",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/travel/2026/10/12/riyadh-airport-closure-emirates-etihad-flights/",
+      "published": "2026-10-12T13:33:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791810441",
+      "title": "At least 20 injured in northern Israel explosion",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/12/explosion-in-northern-israel-students-and-teachers-injured?traffic_source=rss",
+      "published": "2026-10-12T13:15:43+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 20,
+        "military": 0,
+        "civilian": 20
+      }
+    },
+    {
+      "id": "5a79c9b88896c41a9cfe5cdd3443e873",
+      "title": "\u0643\u0646 \u0634\u0631\u064a\u0643\u0627\u064b \u0641\u064a \u062a\u0637\u0628\u064a\u0642 \u0645\u064a\u062b\u0627\u0642 \u0633\u064a\u0627\u0633\u0629 \u0627\u0644\u0623\u0645\u0646 \u0627\u0644\u0645\u062c\u062a\u0645\u0639\u064a\u060c \u0648\u0633\u0627\u0647\u0645 \u0641\u064a \u0628\u0646\u0627\u0621 \u0645\u062c\u062a\u0645\u0639 \u0622\u0645\u0646 \u0648\u0645\u0633\u062a\u0642\u0631 Be a partner in implementing the Community Security Policy Charter and contribute to building a safe and stable society #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a #\u0641\u062e\u0648\u0631\u064a\u0646_\u0628\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \ud83c\udde6\ud83c\uddea #\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a_\u0623\u0645\u0646_\u0648\u0623\u0645\u0627\u0646 #MOIUAE",
+      "source": "UAE MOI (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2109633538689757311",
+      "published": "2026-10-12T13:13:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5a79c9b88896c41a9cfe5cdd3443e873",
+      "title": "\u0643\u0646 \u0634\u0631\u064a\u0643\u0627\u064b \u0641\u064a \u062a\u0637\u0628\u064a\u0642 \u0645\u064a\u062b\u0627\u0642 \u0633\u064a\u0627\u0633\u0629 \u0627\u0644\u0623\u0645\u0646 \u0627\u0644\u0645\u062c\u062a\u0645\u0639\u064a\u060c \u0648\u0633\u0627\u0647\u0645 \u0641\u064a \u0628\u0646\u0627\u0621 \u0645\u062c\u062a\u0645\u0639 \u0622\u0645\u0646 \u0648\u0645\u0633\u062a\u0642\u0631 Be a partner in implementing the Community Security Policy Charter and contribute to building a safe and stable society #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a #\u0641\u062e\u0648\u0631\u064a\u0646_\u0628\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \ud83c\udde6\ud83c\uddea #\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a_\u0623\u0645\u0646_\u0648\u0623\u0645\u0627\u0646 #MOIUAE",
+      "source": "IDF (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2109633538689757311",
+      "published": "2026-10-12T13:13:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "221bfa06753572efd6d6124525244236",
+      "title": "Mansoor bin Mohammed opens the 25th edition of The Airport Show 2026, bringing together more than 150 exhibitors from over 30 countries.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2109633412579705062",
+      "published": "2026-10-12T13:12:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/12/lebanons-dark-history-of-assassinations-raised-after-half-tonne-of-explosives-seized/",
+      "title": "Lebanon's dark history of assassinations raised after half tonne of explosives seized",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/12/lebanons-dark-history-of-assassinations-raised-after-half-tonne-of-explosives-seized/",
+      "published": "2026-10-12T13:09:42+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/12/lebanon-last-church-bell-maker-family-tradition",
+      "title": "Lebanon\u2019s only church-bell maker on keeping a 300-year family tradition alive",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/12/lebanon-last-church-bell-maker-family-tradition",
+      "published": "2026-10-12T13:06:45+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791802709",
+      "title": "Confronting the \u2018largest energy security threat\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/12/confronting-the-largest-energy-security?traffic_source=rss",
+      "published": "2026-10-12T13:01:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "b9ac2d9a389302e87ac2148aaaaca464",
       "title": "Mansoor bin Mohammed: Today, I opened the Airport Show 2026 at the Dubai World Trade Centre, bringing together more than 150 companies from over 30 countries to showcase innovations that enhance operational efficiency and the passenger experience. Dubai\u2019s aviation sector is poised for a major transformation, with the first phase of Al Maktoum International Airport set to begin operations in 2032, offering an annual capacity of 150 million passengers. This will reinforce Dubai\u2019s position as a global aviation hub shaping the industry\u2019s future.",
@@ -74,28 +294,6 @@
       "source": "Dubai Media Office (RSS.app)",
       "source_url": "https://x.com/sheikhmansoor/status/2109622346298606004",
       "published": "2026-10-12T12:28:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f112a782a2d34955b7dfd9e1075a50bd",
-      "title": "Mohammed bin Rashid issues Decision forming the Board of Directors of the Economic Security Center of Dubai. The Board is chaired by Talal Humaid Belhoul, while Awad Hader Al Muhairi serves as Vice Chairman. Members of the Board include Tamim Mohammed Al Muhairi, Dr. Riyadh Mohammed Belhoul, Saif Obaid Al Mansouri and Faisal Mohammed Al Awadhi, in addition to the CEO of the Center.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2109617767926378674",
-      "published": "2026-10-12T12:10:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
@@ -201,28 +399,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791782767",
-      "title": "Giants Brigades lead southern Yemen fightback against the Houthis",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/12/giants-brigades-leads-southern-yemen-fightback-against-the-houthis?traffic_source=rss",
-      "published": "2026-10-12T11:30:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/industry/techwatch/2026/10/12/us-army-helicopter-pilots-test-new-in-flight-relief-system/",
       "title": "US Army helicopter pilots test new in-flight \u2018relief\u2019 system",
       "source": "Defense News",
@@ -289,50 +465,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791803225",
-      "title": "Saudi Arabia vows resilience as Houthi strikes hit Riyadh airport",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss",
-      "published": "2026-10-12T11:17:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/europe/2026/10/12/zelenskyy-urges-us-to-act-to-ensure-russia-abides-by-energy-ceasefire/",
-      "title": "Zelenskyy urges US to act to ensure Russia abides by 'energy ceasefire'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/12/zelenskyy-urges-us-to-act-to-ensure-russia-abides-by-energy-ceasefire/",
-      "published": "2026-10-12T11:08:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "d082c5d408b1823a44c15dde1db73be4",
       "title": "#Kuwait's Minister of Defense congratulates to #Spain's Defense Minister on the occasion of her country's National Day  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -370,28 +502,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791799046",
-      "title": "Ukraine\u2019s Zelenskyy accuses Russia of violating Trump\u2019s \u2018energy ceasefire\u2019",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/12/ukraines-zelenskyy-accuses-russia-of-violating-trumps-energy-ceasefire?traffic_source=rss",
-      "published": "2026-10-12T10:35:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -641,28 +751,6 @@
       }
     },
     {
-      "id": "a86245ad6c76544a924e64fad50d7875",
-      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u062f\u064a\u0646\u0629 \u0623\u0628\u0647\u0627\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (998). Alert: The danger has passed in Abha City. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2109429463666561183",
-      "published": "2026-10-11T23:42:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o#0",
       "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
       "source": "BBC Middle East",
@@ -836,50 +924,6 @@
         "total": 139,
         "military": 0,
         "civilian": 139
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy",
-      "title": "Houthi attack on Riyadh airport forces swift rethink of Trump\u2019s new strategy",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy",
-      "published": "2026-10-11T13:23:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3dbc754f31eb9b394009e267a88a225b",
-      "title": ". Two UAE humanitarian aid convoys, comprising 20 trucks carrying 259 tonnes of food supplies, entered the Gaza Strip th...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DeWvM3hNdMH",
-      "published": "2026-10-11T13:13:09+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
       }
     },
     {
@@ -1169,28 +1213,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/news/your-army/2026/10/09/us-army-corps-of-engineers-failed-to-explain-drop-in-environmental-mitigation-work-watchdog/",
-      "title": "US Army Corps of Engineers failed to explain drop in environmental mitigation work: Watchdog",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-army/2026/10/09/us-army-corps-of-engineers-failed-to-explain-drop-in-environmental-mitigation-work-watchdog/",
-      "published": "2026-10-09T15:59:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2d242638679914ec3c662a4123c7fdbd",
       "title": "\u0627\u0644\u062a\u0642\u0649 \u0627\u0644\u0644\u0648\u0627\u0621 \u0627\u0644\u0631\u0643\u0646 \u062d\u0645\u064a\u062f \u0645\u062d\u0645\u062f \u0627\u0644\u0631\u0645\u064a\u062b\u064a\u060c \u0642\u0627\u0626\u062f \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0628\u062d\u0631\u064a\u0629\u060c \u0628\u0627\u0644\u0645\u0644\u062d\u0642 \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a\u060c \u0627\u0644\u0639\u0642\u064a\u062f \u0627\u0644\u062c\u0648\u064a \u0633\u0627\u0646\u062f\u064a \u0633\u0627\u0646\u062f\u064a\u0644\u0627\u0646\u062f\u0632\u060c \u0648\u0627\u0644\u0648\u0641\u062f \u0627\u0644\u0645\u0631\u0627\u0641\u0642 \u0644\u0647. \u0648\u062c\u0631\u0649 \u062e\u0644\u0627\u0644 \u0627\u0644\u0644\u0642\u0627\u0621 \u0628\u062d\u062b \u0633\u0628\u0644 \u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u062a\u0646\u0633\u064a\u0642 \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u060c \u0648\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u062e\u0628\u0631\u0627\u062a\u060c \u0648\u062a\u0637\u0648\u064a\u0631 \u0645\u062c\u0627\u0644\u0627\u062a \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0645\u0634\u062a\u0631\u0643 \u0628\u064a\u0646 \u0627\u0644\u062c\u0627\u0646\u0628\u064a\u0646. Major General Staff Humaid Mohammed Al Rumaithi, Commander of the UAE Naval Forces, met with Attache Group Captain Sandy Sandilands, and his accompanying delegation. The meeting discussed ways to enhance military coordination, exchange expertise, and further develop bilateral cooperation across areas of mutual interest. #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 #MOD #UAEMinistryOfDefence",
       "source": "UAE MOD (RSS.app)",
@@ -1206,28 +1228,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro#1",
-      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-09T13:50:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
