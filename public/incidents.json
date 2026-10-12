@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-12T21:31:07.516440+00:00",
+  "generated_at": "2026-10-12T22:33:22.742680+00:00",
   "total_incidents": 65,
   "incidents": [
+    {
+      "id": "040915e9b4ffca2e5b3cac95b6bab433",
+      "title": "UK and 28 countries condemn Iranian threats & illicit activities  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109757688829608011",
+      "published": "2026-10-12T21:26:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "923459afa4979c2b443a1e3e1dccafd4",
       "title": "Kuwait underlines the importance of implementing the Seville Commitment and meeting official development assistance commitments.  #KUNA #KUWAIT",
@@ -18,6 +40,28 @@
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791828740",
+      "title": "Why do Iran\u2019s oil \u2018intermediaries\u2019 owe the government billions?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/12/why-do-irans-oil-intermediaries-owe-the-government-billions?traffic_source=rss",
+      "published": "2026-10-12T21:16:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -281,50 +325,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791821639",
-      "title": "NATO says will do \u2018anything and everything\u2019 if alliance is attacked",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/12/nato-says-will-do-anything-and-everything-if-alliance-is-attacked?traffic_source=rss",
-      "published": "2026-10-12T19:27:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791819180",
-      "title": "Cuba forges ahead with renewable energy plans amid US oil blockade",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/10/12/cuba-forges-ahead-with-renewable-energy-plans-amid-us-oil-blockade?traffic_source=rss",
-      "published": "2026-10-12T18:52:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -751,6 +751,28 @@
       }
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c5m2dn7zz4nyo#0",
+      "title": "On Yemen's desert battlefield, a war with global consequences is being waged",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c5m2dn7zz4nyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T16:28:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "0af65a38ef897eb32ba9e6d4c05d8bce",
       "title": "Oil Minister Tariq Al-Roumi says security & stability of Kuwait & Saudi Arabia are deeply intertwined.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -785,28 +807,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ffee01a6df91f92d85e35edfa7116ada",
-      "title": "Minister of Electricity, Water & Renewable Energy Dr. Sabeeh Al-Mukhaizeem says Kuwait attaches great importance to strengthening Arab cooperation in the electricity sector.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109676700552372237",
-      "published": "2026-10-12T16:04:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
@@ -1411,7 +1411,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo#1",
       "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
