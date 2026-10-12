@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-12T22:33:22.742680+00:00",
-  "total_incidents": 65,
+  "generated_at": "2026-10-12T23:32:38.410422+00:00",
+  "total_incidents": 66,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791836393",
+      "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico\u2019s coast",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss",
+      "published": "2026-10-12T23:09:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791842212",
+      "title": "US archbishop says Catholics in army should not participate in firing squad",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/12/us-archbishop-says-catholics-in-army-should-not-participate-in-firing-squad?traffic_source=rss",
+      "published": "2026-10-12T23:05:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/your-military/2026/10/12/the-us-army-is-back-in-the-jungle-panamanians-are-showing-soldiers-the-way/",
+      "title": "The US Army is back in the jungle. Panamanians are showing soldiers the way.",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/10/12/the-us-army-is-back-in-the-jungle-panamanians-are-showing-soldiers-the-way/",
+      "published": "2026-10-12T22:32:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "040915e9b4ffca2e5b3cac95b6bab433",
       "title": "UK and 28 countries condemn Iranian threats & illicit activities  #KUNA #KUWAIT",
@@ -245,28 +311,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791835493",
-      "title": "Israeli strike on tent in Gaza\u2019s Khan Younis kills three",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israeli-strike-on-tent-in-gazas-khan-younis-kills-three?traffic_source=rss",
-      "published": "2026-10-12T20:06:04+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/land/2026/10/12/twenty-six-defense-unveils-new-soldier-worn-tech/",
       "title": "Twenty-Six Defense unveils new soldier-worn tech",
       "source": "Defense News",
@@ -443,28 +487,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=98145",
-      "title": "CHAOS Industries joins low-cost interceptor parade with VESPID design",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/chaos-industries-joins-low-cost-interceptor-parade-with-vespid-design/",
-      "published": "2026-10-12T18:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/industry/techwatch/2026/10/12/sikorsky-packs-4-nomad-drones-into-a-single-shipping-container/",
       "title": "Sikorsky packs 4 Nomad drones into a single shipping container",
       "source": "Defense News",
@@ -479,6 +501,28 @@
         "lng": 48.0
       },
       "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=98145",
+      "title": "CHAOS Industries joins low-cost interceptor parade with VESPID design",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/chaos-industries-joins-low-cost-interceptor-parade-with-vespid-design/",
+      "published": "2026-10-12T18:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -721,28 +765,6 @@
         "lng": 53.688
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/your-military/2026/10/12/mangroves-and-mud-inside-the-army-jungle-schools-notorious-green-mile/",
-      "title": "Mangroves and mud: Inside the Army jungle school\u2019s notorious \u2018Green Mile\u2019",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-military/2026/10/12/mangroves-and-mud-inside-the-army-jungle-schools-notorious-green-mile/",
-      "published": "2026-10-12T16:33:16+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
