@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-12T01:58:54.986896+00:00",
+  "generated_at": "2026-10-12T02:58:20.679936+00:00",
   "total_incidents": 64,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791761104",
+      "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+      "published": "2026-10-12T02:11:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 12,
+        "military": 0,
+        "civilian": 12
+      }
+    },
     {
       "id": "cd8066e8b6161542142b773db66fa028",
       "title": "#Coalition forces down missile near #Saudi_Arabia 's Khamis Mushait  #KUNA #KUWAIT",
@@ -251,28 +273,6 @@
       "source_url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
       "published": "2026-10-11T22:28:50+00:00",
       "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791757327",
-      "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
-      "published": "2026-10-11T22:24:07+00:00",
-      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Saudi Arabia",
