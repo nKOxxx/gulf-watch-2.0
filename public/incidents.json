@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-12T18:41:20.491283+00:00",
-  "total_incidents": 59,
+  "generated_at": "2026-10-12T19:32:00.908163+00:00",
+  "total_incidents": 60,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791819180",
+      "title": "Cuba forges ahead with renewable energy plans amid US oil blockade",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/10/12/cuba-forges-ahead-with-renewable-energy-plans-amid-us-oil-blockade?traffic_source=rss",
+      "published": "2026-10-12T18:52:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791825419",
+      "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss",
+      "published": "2026-10-12T18:51:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/10/12/italy-eyes-mbda-armaments-for-new-italo-turkish-drone/",
+      "title": "Italy eyes MBDA armaments for new Italo-Turkish drone",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/12/italy-eyes-mbda-armaments-for-new-italo-turkish-drone/",
+      "published": "2026-10-12T18:48:45+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.defensenews.com/news/your-military/2026/10/12/us-army-creates-robotics-technician-job-to-focus-on-drone-warfare/",
       "title": "US Army creates robotics technician job to focus on drone warfare",
@@ -15,6 +81,28 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791829359",
+      "title": "UK PM says RAF base incidents \u2018likely coordinated\u2019 by Iran",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/uk-pm-says-raf-base-incidents-likely-coordinated-by-iran?traffic_source=rss",
+      "published": "2026-10-12T18:24:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
@@ -377,28 +465,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791822712",
-      "title": "Blast kills teenager, injures dozens in northern Israel",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/blast-kills-teenager-injures-dozens-in-northern-israel?traffic_source=rss",
-      "published": "2026-10-12T16:44:07+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-military/2026/10/12/mangroves-and-mud-inside-the-army-jungle-schools-notorious-green-mile/",
       "title": "Mangroves and mud: Inside the Army jungle school\u2019s notorious \u2018Green Mile\u2019",
       "source": "Defense News",
@@ -575,28 +641,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/news/your-army/2026/10/12/us-army-gm-defense-agree-to-add-12000-infantry-squad-vehicles-to-fleet/",
-      "title": "US Army, GM Defense agree to add 12,000 Infantry Squad Vehicles to fleet",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-army/2026/10/12/us-army-gm-defense-agree-to-add-12000-infantry-squad-vehicles-to-fleet/",
-      "published": "2026-10-12T15:30:46+00:00",
-      "type": "ground",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "9970e418dc2c0ad203b0d80989dc7cda",
       "title": "First Deputy Prime Minister & Minister of Interior Sheikh Fahad Yousef Saud Al-Sabah chairs a coordination meeting attended by Minister of State for Communications & Information Technology & Acting Minister of Information & Culture Omar Al-Omar, chief executives of telecommunications companies & several security officials.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -722,28 +766,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "69bfdf39a1ed9800b19e88ed29d6550b",
-      "title": "Chief of the General Staff of the Kuwaiti Army discusses with #UAE Signal Corps Commander a number of issues of mutual concern  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109645573489844648",
-      "published": "2026-10-12T14:01:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
