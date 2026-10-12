@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-10-12T19:32:00.908163+00:00",
-  "total_incidents": 60,
+  "generated_at": "2026-10-12T20:35:42.793401+00:00",
+  "total_incidents": 64,
   "incidents": [
+    {
+      "id": "83ec2eb54fb92a5d7222b6aca182cffa",
+      "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0645\u062d\u0627\u0641\u0638\u0629 \u062e\u0645\u064a\u0633 \u0645\u0634\u064a\u0637 \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in the Khamis Mushait Governorate to alert of a potential danger. Please follow the instructions below:",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2109740780734554149",
+      "published": "2026-10-12T20:19:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "58f91d4498f9d0258ed97cbb56969164",
+      "title": "Kuwaiti racer Rashid Al-Dawas, Marine Sports Club athlete, secured third place in the second round of the International Jet Sports Boating Association (IJSBA) World Championship, competing in the Pro Runabout category in Arizona, the United States  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109740638342099207",
+      "published": "2026-10-12T20:18:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "7de33edec2205fa0af1ca4c06f043665",
+      "title": "Spain\u2019s Ambassador to Kuwait Manuel Hernandez Gamallo: #Spain is looking forward to enhancing security, economic and political cooperation with #Kuwait  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109740101517386064",
+      "published": "2026-10-12T20:16:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791835493",
+      "title": "Israeli strike on tent in Gaza\u2019s Khan Younis kills three",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israeli-strike-on-tent-in-gazas-khan-younis-kills-three?traffic_source=rss",
+      "published": "2026-10-12T20:06:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/land/2026/10/12/twenty-six-defense-unveils-new-soldier-worn-tech/",
+      "title": "Twenty-Six Defense unveils new soldier-worn tech",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/land/2026/10/12/twenty-six-defense-unveils-new-soldier-worn-tech/",
+      "published": "2026-10-12T19:59:27+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=98200",
+      "title": "From drones to ground vehicles: Check out day 1 of AUSA",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/from-drones-to-ground-vehicles-check-out-day-1-of-ausa/",
+      "published": "2026-10-12T19:58:31+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=98206",
+      "title": "Army sent balloon swarms to Middle East to support CENTCOM operations",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/army-sent-balloon-swarms-to-middle-east-to-support-centcom-operations/",
+      "published": "2026-10-12T19:30:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791821639",
+      "title": "NATO says will do \u2018anything and everything\u2019 if alliance is attacked",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/12/nato-says-will-do-anything-and-everything-if-alliance-is-attacked?traffic_source=rss",
+      "published": "2026-10-12T19:27:41+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791819180",
       "title": "Cuba forges ahead with renewable energy plans amid US oil blockade",
@@ -619,50 +795,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/pentagon/2026/10/12/weve-drowned-ourselves-in-buzzwords-acting-us-army-secretary-gives-sermon-like-first-speech/",
-      "title": "\u2018We\u2019ve drowned ourselves in buzzwords\u2019: Acting US Army secretary gives sermon-like first speech",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/pentagon/2026/10/12/weve-drowned-ourselves-in-buzzwords-acting-us-army-secretary-gives-sermon-like-first-speech/",
-      "published": "2026-10-12T15:35:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "9970e418dc2c0ad203b0d80989dc7cda",
-      "title": "First Deputy Prime Minister & Minister of Interior Sheikh Fahad Yousef Saud Al-Sabah chairs a coordination meeting attended by Minister of State for Communications & Information Technology & Acting Minister of Information & Culture Omar Al-Omar, chief executives of telecommunications companies & several security officials.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109666633547485573",
-      "published": "2026-10-12T15:24:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/uk/2026/10/12/britain-faces-sharp-energy-squeeze-as-european-gas-prices-jump-150-this-year/",
       "title": "Britain faces looming energy crisis",
       "source": "The National UAE",
@@ -719,28 +851,6 @@
         "city": null,
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8f59016195594b06df1b6cd85fdc1a30",
-      "title": "Arab League Secretary-General affirms that the security of #Kuwait and the #GCC states is an integral part of the Arab national security system  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109653269022744614",
-      "published": "2026-10-12T14:31:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
@@ -1029,28 +1139,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=98116",
-      "title": "Anduril unveils Steelfin interceptor as cheaper option to PAC-3 missiles",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/anduril-unveils-steelfin-interceptor-as-cheaper-option-to-pac-3-missiles/",
-      "published": "2026-10-12T04:01:00+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
