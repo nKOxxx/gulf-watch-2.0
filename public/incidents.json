@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-10-12T15:36:11.833426+00:00",
+  "generated_at": "2026-10-12T16:35:38.821040+00:00",
   "total_incidents": 59,
   "incidents": [
+    {
+      "id": "https://www.defensenews.com/news/your-military/2026/10/12/mangroves-and-mud-inside-the-army-jungle-schools-notorious-green-mile/",
+      "title": "Mangroves and mud: Inside the Army jungle school\u2019s notorious \u2018Green Mile\u2019",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/10/12/mangroves-and-mud-inside-the-army-jungle-schools-notorious-green-mile/",
+      "published": "2026-10-12T16:33:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0af65a38ef897eb32ba9e6d4c05d8bce",
+      "title": "Oil Minister Tariq Al-Roumi says security & stability of Kuwait & Saudi Arabia are deeply intertwined.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109677697324437794",
+      "published": "2026-10-12T16:08:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "851805ffc25e24e61406b719eaadd55a",
+      "title": "World Petroleum Council President Pedro Miras stresses that energy security is essential for economic growth & social stability, saying a successful energy transition requires steady and sustainable investment.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109677107395670181",
+      "published": "2026-10-12T16:06:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ffee01a6df91f92d85e35edfa7116ada",
+      "title": "Minister of Electricity, Water & Renewable Energy Dr. Sabeeh Al-Mukhaizeem says Kuwait attaches great importance to strengthening Arab cooperation in the electricity sector.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109676700552372237",
+      "published": "2026-10-12T16:04:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "fc57ea21c2463de2f49917106648f6e7",
+      "title": "Kuwait Petroleum Corporation Chief Executive Officer, Sheikh Nawaf Saud Al-Sabah affirms that the corporation remains committed to fulfilling its obligations to customers & partners worldwide despite exceptional circumstances & ongoing challenges.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109675899373150562",
+      "published": "2026-10-12T16:01:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791811939",
+      "title": "France school shooting: Police detain pupil after two injured",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/12/france-school-shooting-police-detain-pupil-after-two-injured?traffic_source=rss",
+      "published": "2026-10-12T15:47:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/12/pkk-withdraws-from-turkish-border-area-in-iraqi-kurdistan/",
+      "title": "PKK withdraws from Turkish border area in Iraqi Kurdistan",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/12/pkk-withdraws-from-turkish-border-area-in-iraqi-kurdistan/",
+      "published": "2026-10-12T15:46:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
+      "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
+      "published": "2026-10-12T15:42:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/pentagon/2026/10/12/weve-drowned-ourselves-in-buzzwords-acting-us-army-secretary-gives-sermon-like-first-speech/",
+      "title": "\u2018We\u2019ve drowned ourselves in buzzwords\u2019: Acting US Army secretary gives sermon-like first speech",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/pentagon/2026/10/12/weve-drowned-ourselves-in-buzzwords-acting-us-army-secretary-gives-sermon-like-first-speech/",
+      "published": "2026-10-12T15:35:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.defensenews.com/news/your-army/2026/10/12/us-army-gm-defense-agree-to-add-12000-infantry-squad-vehicles-to-fleet/",
       "title": "US Army, GM Defense agree to add 12,000 Infantry Squad Vehicles to fleet",
@@ -15,6 +213,28 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791800963",
+      "title": "Deadly gold mine air strikes highlight Egypt-Sudan border insecurity",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/12/deadly-gold-mine-air-strikes-highlight-egypt-sudan-border-insecurity?traffic_source=rss",
+      "published": "2026-10-12T15:30:08+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.8206,
+        "lng": 30.8025
       },
       "credibility": 90,
       "is_government": false,
@@ -70,7 +290,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/uk/2026/10/12/britain-faces-sharp-energy-squeeze-as-european-gas-prices-jump-150-this-year/",
-      "title": "Britain faces energy crisis as European gas prices jump 150% this year",
+      "title": "Britain faces looming energy crisis",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/uk/2026/10/12/britain-faces-sharp-energy-squeeze-as-european-gas-prices-jump-150-this-year/",
       "published": "2026-10-12T15:17:46+00:00",
@@ -443,50 +663,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791800471",
-      "title": "Israeli academic and Al Jazeera contributor Ori Goldberg dies at 50",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/12/israeli-academic-and-al-jazeera-contributor-ori-goldberg-dies-at-50?traffic_source=rss",
-      "published": "2026-10-12T13:44:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "c5634dfc5c1a8c5a929184f100bd2956",
-      "title": "#Oman Electricity & Energy Conference 2026 kicks off in Muscat to discuss energy transition pathways, security of supplies, grid resilience & the development of electricity markets.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109641120623858171",
-      "published": "2026-10-12T13:43:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 23.5859,
-        "lng": 58.4059
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/12/why-are-the-houthis-attacking-saudi-airports-riyadh-yemen",
       "title": "Why are the Houthis attacking Saudi airports and how are the missiles getting through?",
       "source": "The Guardian",
@@ -499,50 +675,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/travel/2026/10/12/riyadh-airport-closure-emirates-etihad-flights/",
-      "title": "Riyadh airport closure: Etihad cancels flights until October 19",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/travel/2026/10/12/riyadh-airport-closure-emirates-etihad-flights/",
-      "published": "2026-10-12T13:33:59+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791811749",
-      "title": "Israeli settlers abuse and reportedly poison goats in Palestinian village",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israeli-settlers-abuse-and-reportedly-poison-goats-in-palestinian-village?traffic_source=rss",
-      "published": "2026-10-12T13:31:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -597,50 +729,6 @@
       }
     },
     {
-      "id": "221bfa06753572efd6d6124525244236",
-      "title": "Mansoor bin Mohammed opens the 25th edition of The Airport Show 2026, bringing together more than 150 exhibitors from over 30 countries.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2109633412579705062",
-      "published": "2026-10-12T13:12:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/12/lebanons-dark-history-of-assassinations-raised-after-half-tonne-of-explosives-seized/",
-      "title": "Lebanon's dark history of assassinations raised after half tonne of explosives seized",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/12/lebanons-dark-history-of-assassinations-raised-after-half-tonne-of-explosives-seized/",
-      "published": "2026-10-12T13:09:42+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/12/lebanon-last-church-bell-maker-family-tradition",
       "title": "Lebanon\u2019s only church-bell maker on keeping a 300-year family tradition alive",
       "source": "The Guardian",
@@ -675,28 +763,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
-      "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
-      "published": "2026-10-12T11:49:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
       },
       "credibility": 90,
       "is_government": false,
@@ -751,28 +817,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/land/2026/10/12/us-army-gets-first-mobile-cannon-to-replace-m777-howitzer-officials-say/",
-      "title": "US Army gets first mobile cannon to replace M777 howitzer, officials say",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/land/2026/10/12/us-army-gets-first-mobile-cannon-to-replace-m777-howitzer-officials-say/",
-      "published": "2026-10-12T10:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "da2664d22b38f343ff3f985e0a45c427",
       "title": ". The UAE, represented by the Gymnastics Committee of the UAE Sports for All Federation, has officially joined World Gym...",
       "source": "WAM News (RSS.app)",
@@ -810,50 +854,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/industry/techwatch/2026/10/12/vector-nammo-expand-push-to-mass-produce-armed-drones/",
-      "title": "Vector, Nammo expand push to mass-produce armed drones",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/12/vector-nammo-expand-push-to-mass-produce-armed-drones/",
-      "published": "2026-10-12T09:00:00+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "472bc0912901a80381419b9d8b1383e0",
-      "title": ". UAE strongly condemns continued Houthi Group attacks on King Khalid International Airport #WamNews",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DeYzgSKiKL9",
-      "published": "2026-10-12T08:28:21+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
