@@ -1,7 +1,227 @@
 {
-  "generated_at": "2026-10-12T11:35:12.704019+00:00",
-  "total_incidents": 61,
+  "generated_at": "2026-10-12T13:04:22.148367+00:00",
+  "total_incidents": 56,
   "incidents": [
+    {
+      "id": "b9ac2d9a389302e87ac2148aaaaca464",
+      "title": "Mansoor bin Mohammed: Today, I opened the Airport Show 2026 at the Dubai World Trade Centre, bringing together more than 150 companies from over 30 countries to showcase innovations that enhance operational efficiency and the passenger experience. Dubai\u2019s aviation sector is poised for a major transformation, with the first phase of Al Maktoum International Airport set to begin operations in 2032, offering an annual capacity of 150 million passengers. This will reinforce Dubai\u2019s position as a global aviation hub shaping the industry\u2019s future.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2109627080799629536",
+      "published": "2026-10-12T12:47:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/10/12/patriot-interceptor-deliveries-to-poland-will-be-delayed-top-general-says/",
+      "title": "Patriot interceptor deliveries to Poland will be delayed, top general says",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/12/patriot-interceptor-deliveries-to-poland-will-be-delayed-top-general-says/",
+      "published": "2026-10-12T12:36:53+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b81ece06f285804a8775b64af8686e75",
+      "title": "President of the Public Authority of Civil Aviation, Sheikh Humoud Mubarak Al-Humoud Al-Sabah discusses with French Ambassador to Kuwait Olivier Gauvin ways to enhance bilateral cooperation in civil aviation.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109623880612467007",
+      "published": "2026-10-12T12:35:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "058d1d4055530f0216f301c570ef8f56",
+      "title": "RT by @DXBMediaOffice: Today, I opened the Airport Show 2026 at the Dubai World Trade Centre, bringing together more than 150 companies from over 30 countries to showcase innovations that enhance operational efficiency and the passenger experience. Dubai\u2019s aviation sector is poised for a major transformation, with the first phase of Al Maktoum International Airport set to begin operations in 2032, offering an annual capacity of 150 million passengers. This will reinforce Dubai\u2019s position as a global aviation hub shaping the industry\u2019s future.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/sheikhmansoor/status/2109622346298606004",
+      "published": "2026-10-12T12:28:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f112a782a2d34955b7dfd9e1075a50bd",
+      "title": "Mohammed bin Rashid issues Decision forming the Board of Directors of the Economic Security Center of Dubai. The Board is chaired by Talal Humaid Belhoul, while Awad Hader Al Muhairi serves as Vice Chairman. Members of the Board include Tamim Mohammed Al Muhairi, Dr. Riyadh Mohammed Belhoul, Saif Obaid Al Mansouri and Faisal Mohammed Al Awadhi, in addition to the CEO of the Center.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2109617767926378674",
+      "published": "2026-10-12T12:10:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791800237",
+      "title": "Far right surges as crises threaten Sanchez: Could Vox lead Spain?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/12/far-right-surges-as-crises-threaten-sanchez-could-vox-lead-spain?traffic_source=rss",
+      "published": "2026-10-12T12:08:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791715670",
+      "title": "Gaza: Still Reporting",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/witness/2026/10/12/gaza-still-reporting?traffic_source=rss",
+      "published": "2026-10-12T12:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
+      "title": "Saudi Arabia further suspends flights after latest deadly Houthi attack on airport",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
+      "published": "2026-10-12T11:49:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791786341",
+      "title": "\u2018Energy ceasefire\u2019: What\u2019s behind Trump\u2019s love-hate ties to Russian oil?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/12/energy-ceasefire-whats-behind-trumps-love-hate-ties-to-russian-oil?traffic_source=rss",
+      "published": "2026-10-12T11:30:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791782767",
+      "title": "Giants Brigades lead southern Yemen fightback against the Houthis",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/12/giants-brigades-leads-southern-yemen-fightback-against-the-houthis?traffic_source=rss",
+      "published": "2026-10-12T11:30:30+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.defensenews.com/industry/techwatch/2026/10/12/us-army-helicopter-pilots-test-new-in-flight-relief-system/",
       "title": "US Army helicopter pilots test new in-flight \u2018relief\u2019 system",
@@ -25,10 +245,10 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/12/pilot-flight-attendant-and-widowed-mother-among-victims-of-houthi-claimed-attacks-in-saudi-arabia/",
-      "title": "Pilot, flight attendant and widowed mother among victims of Houthi-claimed attacks in Saudi Arabia",
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/12/riyadh-airport-victims-houthi-missile-attacks/",
+      "title": "Pilot, flight attendant and widowed mother among victims of Houthi attacks in Saudi Arabia",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/12/pilot-flight-attendant-and-widowed-mother-among-victims-of-houthi-claimed-attacks-in-saudi-arabia/",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/12/riyadh-airport-victims-houthi-missile-attacks/",
       "published": "2026-10-12T11:27:57+00:00",
       "type": "incident",
       "status": "unconfirmed",
@@ -61,6 +281,28 @@
         "lng": 38.9968
       },
       "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791803225",
+      "title": "Saudi Arabia vows resilience as Houthi strikes hit Riyadh airport",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss",
+      "published": "2026-10-12T11:17:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -135,50 +377,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/business/energy/2026/10/12/us-says-hormuz-oil-flows-recover-to-14-million-bpd-despite-saudi-attacks/",
-      "title": "US says Hormuz oil flows recover to 14 million bpd despite Saudi attacks",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/12/us-says-hormuz-oil-flows-recover-to-14-million-bpd-despite-saudi-attacks/",
-      "published": "2026-10-12T10:53:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/12/being-allowed-to-leave-does-not-erase-injustice-former-dubai-resident-leaves-iraq-after-years-of-detention/",
-      "title": "'Being allowed to leave does not erase injustice': Former Dubai resident leaves Iraq after years of detention",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/12/being-allowed-to-leave-does-not-erase-injustice-former-dubai-resident-leaves-iraq-after-years-of-detention/",
-      "published": "2026-10-12T10:36:47+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1791799046",
       "title": "Ukraine\u2019s Zelenskyy accuses Russia of violating Trump\u2019s \u2018energy ceasefire\u2019",
       "source": "Al Jazeera",
@@ -201,28 +399,6 @@
       }
     },
     {
-      "id": "9747ae9b8498e78b4eea52faf0393098",
-      "title": "The Endowment and Minors\u2019 Trust Foundation in Dubai (Awqaf Dubai) marks the inauguration of the \u201cBunyan Al Khair\u201d endowment initiative, launched in collaboration with Mohammed bin Rashid Housing Establishment and Emarat Al Youm newspaper. The initiative comprises 22 completed endowment villas valued at AED 70 million, reflecting successful cooperation between government entities, the private sector, media organisations and community members to develop sustainable endowment assets that benefit citizens and support eligible beneficiaries. The inauguration also includes Sobha Realty\u2019s endowment of 11 villas, constructed at a cost of AED 25 million.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2109593561759126000",
-      "published": "2026-10-12T10:34:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o#0",
       "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
       "source": "BBC Middle East",
@@ -237,50 +413,6 @@
         "lng": 48.0
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/10/12/why-trumps-russia-ukraine-energy-ceasefire-may-offer-oil-markets-little-relief/",
-      "title": "Why Trump\u2019s Russia-Ukraine energy ceasefire may offer oil markets little relief",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/12/why-trumps-russia-ukraine-energy-ceasefire-may-offer-oil-markets-little-relief/",
-      "published": "2026-10-12T10:22:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791792243",
-      "title": "Melbourne man linked to flydubai attack suspect rejects \u2018false accusations\u2019",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/12/melbourne-man-linked-to-flydubai-attack-suspect-rejects-false-accusations?traffic_source=rss",
-      "published": "2026-10-12T10:05:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -333,28 +465,6 @@
       }
     },
     {
-      "id": "4bb9d7211129a6cbe2f532a8ef22920f",
-      "title": "In the presence of Mohammed bin Rashid bin Mohammed, a total of 11 Dubai-based companies representing diverse sectors pledge to integrate Agentic AI technologies into their operations, with the support of Dubai Chambers. The 11 companies that signed the pledge launched by Dubai Chambers are Emirates, DP World, AW Rostamani Group, Al Ansari Exchange, Dubai Islamic Bank, Kitopi, Dutco Group, Aster DM Healthcare, Innovo, Independent Food Company and HSA Group.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2109583768290029787",
-      "published": "2026-10-12T09:55:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "da2664d22b38f343ff3f985e0a45c427",
       "title": ". The UAE, represented by the Gymnastics Committee of the UAE Sports for All Federation, has officially joined World Gym...",
       "source": "WAM News (RSS.app)",
@@ -370,50 +480,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0b9ccb737c6257366b6fb5f6adae6b57",
-      "title": "dnata commits AED 175 million to expand and modernise its ground support equipment fleet in Dubai.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2109580323789107455",
-      "published": "2026-10-12T09:41:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791790873",
-      "title": "Maps show how Israel\u2019s \u2018Yellow Line\u2019 keeps squeezing Palestinians in Gaza",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/12/maps-show-how-israels-yellow-line-keeps-squeezing-palestinians-in-gaza?traffic_source=rss",
-      "published": "2026-10-12T09:27:12+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -455,72 +521,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791789781",
-      "title": "What do emergency and governor rule in Pakistan\u2019s Khyber Pakhtunkhwa mean?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/12/what-do-emergency-and-governor-rule-in-pakistans-khyber-pakhtunkhwa-mean?traffic_source=rss",
-      "published": "2026-10-12T08:54:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791794661",
-      "title": "Russia introduces drone classes in public schools",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/russia-introduces-drone-classes-in-public-schools?traffic_source=rss",
-      "published": "2026-10-12T08:47:43+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791786224",
-      "title": "Photos: Gaza mothers endure endless lines as famine fears persist",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/gallery/2026/10/12/photos-gaza-mothers-endure-endless-lines-as-famine-fears-persist?traffic_source=rss",
-      "published": "2026-10-12T08:46:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
       },
       "credibility": 90,
       "is_government": false,
@@ -646,28 +646,6 @@
       "source": "Saudi Civil Defense (RSS.app)",
       "source_url": "https://x.com/SaudiDCD/status/2109429463666561183",
       "published": "2026-10-11T23:42:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5ad40cbae6399938d9bf7a7839ead065",
-      "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0645\u062f\u064a\u0646\u0629 \u0623\u0628\u0647\u0627 \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in Abha City to alert of a potential danger. Please follow the instructions below:",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2109429153636434206",
-      "published": "2026-10-11T23:41:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
@@ -949,28 +927,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
-      "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
-      "published": "2026-10-10T23:37:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/industry/techwatch/2026/10/10/us-army-kaizen-laboratories-to-establish-common-software-platform-for-classified-material/",
       "title": "US Army, Kaizen Laboratories to establish common software platform for classified material",
       "source": "Defense News",
@@ -1213,50 +1169,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=97955",
-      "title": "Thales looks to export new C2 platform to Gulf nations, says executive",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/thales-looks-to-export-new-c2-platform-to-gulf-nations-says-executive/",
-      "published": "2026-10-09T17:13:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=97915",
-      "title": "GDLS exec: New loitering munitions platform to be delivered to Army by end of month",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/gdls-exec-new-loitering-munitions-platform-to-be-delivered-to-army-by-end-of-month/",
-      "published": "2026-10-09T16:35:00+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-army/2026/10/09/us-army-corps-of-engineers-failed-to-explain-drop-in-environmental-mitigation-work-watchdog/",
       "title": "US Army Corps of Engineers failed to explain drop in environmental mitigation work: Watchdog",
       "source": "Defense News",
@@ -1315,28 +1227,6 @@
         "lng": 46.6753
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/your-military/2026/10/09/official-poster-depicts-the-us-armys-newest-threat-the-iranian-soldier/",
-      "title": "Official poster depicts the US Army\u2019s newest threat: The Iranian soldier",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-military/2026/10/09/official-poster-depicts-the-us-armys-newest-threat-the-iranian-soldier/",
-      "published": "2026-10-09T13:00:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
