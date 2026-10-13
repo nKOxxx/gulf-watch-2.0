@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-13T09:40:40.719275+00:00",
-  "total_incidents": 68,
+  "generated_at": "2026-10-13T10:36:59.833172+00:00",
+  "total_incidents": 66,
   "incidents": [
+    {
+      "id": "d46d52de164cc15c0dc163725e902aef",
+      "title": "The International Monetary Fund warns of three major risks threatening global financial stability, including a potential decline in Artificial Intelligence investments, a sharp rise in government bond yields and major cyberattacks  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109947331483140238",
+      "published": "2026-10-13T10:00:00+00:00",
+      "type": "cyber",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791875838",
+      "title": "One killed, several injured in Georgia rollercoaster \u2018incident\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/13/one-dead-after-roller-coaster-incident-in-george-us?traffic_source=rss",
+      "published": "2026-10-13T09:56:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791883309",
+      "title": "Israeli forces raid Palestinian NGOs in occupied West Bank",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/13/israeli-forces-raid-palestinian-ngos-and-hospital-in-occupied-west-bank?traffic_source=rss",
+      "published": "2026-10-13T09:47:05+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791871770",
       "title": "Air France says it will follow Israeli rule barring crew from some nations",
@@ -37,28 +103,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/economy/2026/10/13/dubai-inflation-climbs-in-september-as-iran-war-pushes-up-fuel-cost/",
-      "title": "Dubai inflation climbs in September as Iran war pushes up fuel cost",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/13/dubai-inflation-climbs-in-september-as-iran-war-pushes-up-fuel-cost/",
-      "published": "2026-10-13T08:58:36+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 85,
       "is_government": false,
@@ -113,28 +157,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791870269",
-      "title": "Ronaldo scores, waves Saudi scarf in Al-Nassr\u2019s win after security delay",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/10/13/ronaldo-scores-waves-saudi-scarf-in-al-nassrs-win-after-security-delay?traffic_source=rss",
-      "published": "2026-10-13T08:27:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/uk/2026/10/13/iran-accused-of-waging-systematic-campaign-against-uk/",
       "title": "Iran accused of waging 'systematic campaign' against UK",
       "source": "The National UAE",
@@ -179,28 +201,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791866079",
-      "title": "Mapping Africa\u2019s energy wealth and 560 million who remain without power",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/13/mapping-africas-energy-wealth-and-560-million-who-remain-without-power?traffic_source=rss",
-      "published": "2026-10-13T08:25:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/uae/2026/10/13/dubai-plans-new-underground-transport-network/",
       "title": "Dubai plans new underground transport network",
       "source": "The National UAE",
@@ -215,28 +215,6 @@
         "lng": 55.2708
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791837724",
-      "title": "Palestine weekly: Gaza marks year of \u2018ceasefire\u2019 with more Israeli killing",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing?traffic_source=rss",
-      "published": "2026-10-13T07:45:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -655,28 +633,6 @@
         "lng": 48.0
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "58f91d4498f9d0258ed97cbb56969164",
-      "title": "Kuwaiti racer Rashid Al-Dawas, Marine Sports Club athlete, secured third place in the second round of the International Jet Sports Boating Association (IJSBA) World Championship, competing in the Pro Runabout category in Arizona, the United States  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109740638342099207",
-      "published": "2026-10-12T20:18:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
