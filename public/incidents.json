@@ -1,10 +1,186 @@
 {
-  "generated_at": "2026-10-13T11:34:06.050385+00:00",
-  "total_incidents": 69,
+  "generated_at": "2026-10-13T12:49:40.924780+00:00",
+  "total_incidents": 62,
   "incidents": [
     {
+      "id": "2519e858f650f9e386bac45de9954e09",
+      "title": "Arab Coalition spokesman Major General Turki Al-Maliki says the coalition's Joint Forces Command had called on civilians to evacuate the Yemen Oil Company's Al-Sabaha Central Station in the Yemeni capital, Sanaa, for their safety.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109986445175713820",
+      "published": "2026-10-13T12:35:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Yemen",
+        "city": null,
+        "lat": 15.3694,
+        "lng": 44.191
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "bc180c5fd2584b1816efe5628f6859bd",
+      "title": "#OPEC+ stresses the importance of protecting international maritime routes to ensure uninterrupted energy supplies  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109984911687847949",
+      "published": "2026-10-13T12:29:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/13/live-riyadh-drone-attack-saudi-houthis/",
+      "title": "Middle East latest: Houthis threaten 'painful' response to any attack on Sanaa after coalition warning",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/13/live-riyadh-drone-attack-saudi-houthis/",
+      "published": "2026-10-13T12:27:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Yemen",
+        "city": null,
+        "lat": 15.3694,
+        "lng": 44.191
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=98175",
+      "title": "From requirement-driven to market-ready: Rethinking how defense technology reaches the warfighter",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/from-requirement-driven-to-market-ready-rethinking-how-defense-technology-reaches-the-warfighter/",
+      "published": "2026-10-13T12:24:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/13/riyadh-keeps-moving-after-deadly-strikes-but-schools-go-online-and-travellers-reroute/",
+      "title": "Riyadh keeps moving after deadly strikes, but schools go online and travellers reroute",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/13/riyadh-keeps-moving-after-deadly-strikes-but-schools-go-online-and-travellers-reroute/",
+      "published": "2026-10-13T12:07:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/10/13/drone-carrying-m250-machine-gun-completes-firing-test/",
+      "title": "Drone carrying M250 machine gun completes firing test",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/13/drone-carrying-m250-machine-gun-completes-firing-test/",
+      "published": "2026-10-13T11:53:22+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ed49df02e6eb853819b675947a33a590",
+      "title": "#Kuwait Fund for Arab Economic Development (KFAED) signs MoU with the Green Climate Fund (GCF) to strengthen cooperation in supporting developing countries address climate change challenges  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109971733553815560",
+      "published": "2026-10-13T11:37:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "82ff4dd18d89406d6f01bc82f10f931c",
+      "title": "#Kuwait's Minister of Social Affairs, Family and Childhood Affairs affirms Kuwait's commitment to supporting joint Arab social action, strengthening social protection, empowering women and persons with disabilities, and caring for the elderly  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2109970936363450802",
+      "published": "2026-10-13T11:34:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.aljazeera.com/?t=1791807177",
-      "title": "\u2018My son was killed\u2019 France faces backlash over proposed police firearms law",
+      "title": "\u2018My son was killed\u2019: France faces backlash over police firearms bill",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss",
       "published": "2026-10-13T11:17:54+00:00",
@@ -179,50 +355,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791871770",
-      "title": "Air France says it will follow Israeli rule barring crew from some nations",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/10/13/air-france-risks-breaking-the-law-by-adopting-israels-nationality-policy?traffic_source=rss",
-      "published": "2026-10-13T09:21:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/economy/2026/10/13/qatars-government-revenue-fell-42-in-first-half-due-to-iran-war-emir-says/",
-      "title": "Qatar's government revenue fell 42% in first half due to Iran war, Emir says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/13/qatars-government-revenue-fell-42-in-first-half-due-to-iran-war-emir-says/",
-      "published": "2026-10-13T09:19:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "732df8301c5e1d8f1e2adcf59f2e4624",
       "title": "Secretary of Iran\u2019s Supreme National Security Council (SNSC) Major general Mohsen Rezaei and India\u2019s National Security Advisor Ajit Doval discussed the latest regional and international developments in call.",
       "source": "Mehr News (RSS.app)",
@@ -237,72 +369,6 @@
         "lng": 53.688
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uk/2026/10/13/iran-accused-of-waging-systematic-campaign-against-uk/",
-      "title": "Iran accused of waging 'systematic campaign' against UK",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/13/iran-accused-of-waging-systematic-campaign-against-uk/",
-      "published": "2026-10-13T08:27:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/markets/2026/10/13/manus-on-markets-imf-warns-of-global-economic-risks-as-gulf-recovery-hinges-on-hormuz/",
-      "title": "Manus on Markets: IMF warns of global economic risks as Gulf recovery hinges on Hormuz",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/markets/2026/10/13/manus-on-markets-imf-warns-of-global-economic-risks-as-gulf-recovery-hinges-on-hormuz/",
-      "published": "2026-10-13T08:26:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/13/dubai-plans-new-underground-transport-network/",
-      "title": "Dubai plans new underground transport network",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/13/dubai-plans-new-underground-transport-network/",
-      "published": "2026-10-13T07:52:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -399,28 +465,6 @@
       }
     },
     {
-      "id": "e6e95c551d398b58177a9bc6a4cefdf1",
-      "title": "Dubai Data and Statistics Establishment (DDSE) at Digital Dubai launches the Labour Force Survey 2026 for the Emirate of Dubai. The survey aims to monitor and measure the key characteristics of the labour force and labour market in the emirate, provide comprehensive and up-to-date indicators on labour market conditions, and support the development of data-driven economic and social policies.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2109896138748985357",
-      "published": "2026-10-13T06:36:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "e5e3b62c8f9caaf25f866c59631bad1c",
       "title": "#Kuwait oil up USD 1.27 to reach USD 106.95 pb",
       "source": "KUNA Kuwait (RSS.app)",
@@ -433,28 +477,6 @@
         "city": null,
         "lat": 29.3117,
         "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8229257e414f893709e0c0593ad1e07c",
-      "title": "RT by @DXBMediaOffice: This year's Airport Show has officially opened in Dubai, marking 25 years of bringing the global aviation industry together. The show has become an important platform for airport leaders, experts, and innovators. Attendees exchange expertise, build partnerships, and showcase solutions and technologies shaping the future of airports and aviation. Its journey reflects the growth of Dubai\u2019s aviation sector and its leading role in enhancing global connectivity, in addition driving innovation and excellence across the industry.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/HHAhmedBinSaeed/status/2109887105857962147",
-      "published": "2026-10-13T06:01:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 95,
       "is_government": true,
@@ -509,50 +531,6 @@
       }
     },
     {
-      "id": "f5acf3ab1243d7968d58db7c59b32c5c",
-      "title": "#Kuwait blames Mideast insecurity on occupation policies  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109859014288810461",
-      "published": "2026-10-13T04:09:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "740ed724cd9a9b597fb8827cd82580c0",
-      "title": "Coalition to Support Legitimacy in Yemen: Two ballistic missiles launched by the terrorist Houthi militia toward Khamis Mushait were shot down and destroyed  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109786413554172180",
-      "published": "2026-10-12T23:20:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-military/2026/10/12/the-us-army-is-back-in-the-jungle-panamanians-are-showing-soldiers-the-way/",
       "title": "The US Army is back in the jungle. Panamanians are showing soldiers the way.",
       "source": "Defense News",
@@ -568,50 +546,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "040915e9b4ffca2e5b3cac95b6bab433",
-      "title": "UK and 28 countries condemn Iranian threats & illicit activities  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109757688829608011",
-      "published": "2026-10-12T21:26:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "923459afa4979c2b443a1e3e1dccafd4",
-      "title": "Kuwait underlines the importance of implementing the Seville Commitment and meeting official development assistance commitments.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109755505509908912",
-      "published": "2026-10-12T21:18:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -861,28 +795,6 @@
       }
     },
     {
-      "id": "94879d41d51482c41cece5b770d4f843",
-      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (911). Alert: The danger has passed in Riyadh City. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2109708523210981776",
-      "published": "2026-10-12T18:11:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=98145",
       "title": "CHAOS Industries joins low-cost interceptor parade with VESPID design",
       "source": "Breaking Defense",
@@ -920,28 +832,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "aaf79e47d475a18582867ed01a70895e",
-      "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0631\u064a\u0627\u0636 \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in Riyadh City to alert of a potential danger. Please follow the instructions below:",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2109705730278277547",
-      "published": "2026-10-12T18:00:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1037,28 +927,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/global/asia-pacific/2026/10/12/india-sells-air-defense-missiles-to-tajikistan-turkmenistan-in-central-asia-push/",
-      "title": "India sells air defense missiles to Tajikistan, Turkmenistan in Central Asia push",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/asia-pacific/2026/10/12/india-sells-air-defense-missiles-to-tajikistan-turkmenistan-in-central-asia-push/",
-      "published": "2026-10-12T16:49:35+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c5m2dn7zz4nyo#0",
       "title": "On Yemen's desert battlefield, a war with global consequences is being waged",
       "source": "BBC Middle East",
@@ -1095,28 +963,6 @@
         "lng": 45.0792
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=98098",
-      "title": "Mine hunting goes remote as the Navy replaces minesweepers with robots",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/mine-hunting-goes-remote-as-the-navy-replaces-minesweepers-with-robots/",
-      "published": "2026-10-12T14:12:00+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
