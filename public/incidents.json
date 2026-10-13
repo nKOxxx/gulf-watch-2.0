@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-13T02:54:35.069215+00:00",
+  "generated_at": "2026-10-13T03:47:03.731092+00:00",
   "total_incidents": 65,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791848943",
+      "title": "Trump insists energy ceasefire holds as Ukraine reports new Russian strikes",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes?traffic_source=rss",
+      "published": "2026-10-13T03:30:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791860940",
+      "title": "Russia and Ukraine trade strikes amid doubt over \u2018energy ceasefire\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss",
+      "published": "2026-10-13T03:11:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791860348",
+      "title": "Cyberattack on French supermarkets causes fires, millions in losses",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss",
+      "published": "2026-10-13T03:01:53+00:00",
+      "type": "cyber",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/opinion/editorial/2026/10/13/gulf-iran-houthis-gcc-security-economy-society-environment/",
+      "title": "How the Gulf can turn threats into shared purpose",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/opinion/editorial/2026/10/13/gulf-iran-houthis-gcc-security-economy-society-environment/",
+      "published": "2026-10-13T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791851245",
       "title": "\u2018Unprecedented\u2019 cyberattack hits French supermarkets, causing food losses",
@@ -641,72 +729,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/12/fighting-intensifies-in-yemen-as-houthis-fire-on-saudi-arabia/",
-      "title": "Fighting intensifies in Yemen as Houthis fire on Saudi Arabia",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/12/fighting-intensifies-in-yemen-as-houthis-fire-on-saudi-arabia/",
-      "published": "2026-10-12T17:53:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/12/uae-teacher-injured-in-riyadh-airport-attack-assured-she-can-complete-umrah/",
-      "title": "UAE teacher injured in Riyadh airport attack assured she can complete Umrah",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/12/uae-teacher-injured-in-riyadh-airport-attack-assured-she-can-complete-umrah/",
-      "published": "2026-10-12T17:42:16+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/12/iraq-should-not-pose-threat-to-gulf-states-president-of-kurdistan-region-says/",
-      "title": "Iraq should not pose threat to Gulf states, President of Kurdistan region says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/12/iraq-should-not-pose-threat-to-gulf-states-president-of-kurdistan-region-says/",
-      "published": "2026-10-12T17:36:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-military/2026/10/12/3-us-soldiers-awarded-purple-hearts-after-missile-attack-on-saudi-arabia-base/",
       "title": "3 US soldiers awarded Purple Hearts after March missile attack on Saudi Arabia base",
       "source": "Defense News",
@@ -831,28 +853,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uk/2026/10/12/iran-smells-weakness-burnham-challenged-over-irgc-after-airbase-plot/",
-      "title": "\u2018Iran smells weakness\u2019: Burnham challenged over IRGC after airbase plot",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/12/iran-smells-weakness-burnham-challenged-over-irgc-after-airbase-plot/",
-      "published": "2026-10-12T16:45:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
