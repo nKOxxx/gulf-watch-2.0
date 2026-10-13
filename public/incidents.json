@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-13T06:56:23.878542+00:00",
-  "total_incidents": 64,
+  "generated_at": "2026-10-13T07:48:44.283751+00:00",
+  "total_incidents": 67,
   "incidents": [
+    {
+      "id": "042952fa1a8265a338f04eec4c10d8d9",
+      "title": "Statment by H.E. the Chairman of the National Emergency Crisis and Disaster Management Authority #NCEMA on the Occasion of the International Day for Disaster Risk Reduction #IDDRR.",
+      "source": "UAE NCEMA (RSS.app)",
+      "source_url": "https://x.com/NCEMAUAE/status/2109911122358985008",
+      "published": "2026-10-13T07:36:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c3b128bf738db253d84d5877245c2acf",
+      "title": "Amid Record Defense Exports, Israel Brings Combat-Proven Technology to AUSA 2026 \ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 IMOD is leading a delegation of 19 Israeli companies under its National Pavilion this week in Washington, D.C. Read More:",
+      "source": "Israel MOD (RSS.app)",
+      "source_url": "https://x.com/Israel_MOD/status/2109910404281323734",
+      "published": "2026-10-13T07:33:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b8f1ba3ad45e5bb02f39d0e49a63c95a",
+      "title": "Ahmed bin Saeed: This year's Airport Show has officially opened in Dubai, marking 25 years of bringing the global aviation industry together. The show has become an important platform for airport leaders, experts, and innovators. Attendees exchange expertise, build partnerships, and showcase solutions and technologies shaping the future of airports and aviation. Its journey reflects the growth of Dubai\u2019s aviation sector and its leading role in enhancing global connectivity, in addition driving innovation and excellence across the industry.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2109901058680197469",
+      "published": "2026-10-13T06:56:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "2ac9694e8b9320b59e4f079e42c5c2e8",
       "title": ". Gulf Cooperation Council (GCC) countries have achieved 100 percent coverage of basic health services for adolescents a...",
