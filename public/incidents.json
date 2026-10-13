@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-13T04:43:49.310365+00:00",
-  "total_incidents": 64,
+  "generated_at": "2026-10-13T05:37:57.099625+00:00",
+  "total_incidents": 61,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/sport/2026/10/13/sports-events-in-saudi-arabia-to-go-ahead-despite-houthi-attacks/",
+      "title": "Sports events in Saudi Arabia to go ahead despite Houthi attacks",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/sport/2026/10/13/sports-events-in-saudi-arabia-to-go-ahead-despite-houthi-attacks/",
+      "published": "2026-10-13T05:28:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/13/live-riyadh-airport-saudi-houthis/",
       "title": "Middle East latest: Saudi-led coalition says two ballistic missiles targeting southern city intercepted",
@@ -180,7 +202,7 @@
     },
     {
       "id": "https://www.aljazeera.com/?t=1791851245",
-      "title": "\u2018Unprecedented\u2019 cyberattack hits French supermarkets, causing food losses",
+      "title": "Hundreds of supermarkets in France hit by \u2018unprecedented\u2019 cyberattack",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss",
       "published": "2026-10-13T02:37:10+00:00",
@@ -245,28 +267,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791842004",
-      "title": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss",
-      "published": "2026-10-12T23:54:05+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "740ed724cd9a9b597fb8827cd82580c0",
       "title": "Coalition to Support Legitimacy in Yemen: Two ballistic missiles launched by the terrorist Houthi militia toward Khamis Mushait were shot down and destroyed  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -282,50 +282,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791836393",
-      "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico\u2019s coast",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss",
-      "published": "2026-10-12T23:09:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791842212",
-      "title": "US archbishop says Catholics in army should not participate in firing squad",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/12/us-archbishop-says-catholics-in-army-should-not-participate-in-firing-squad?traffic_source=rss",
-      "published": "2026-10-12T23:05:16+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -854,28 +810,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "d203f960d34f573a3bc3cd312dab3e50",
-      "title": "#Kuwait Petroleum Corporation showcases key projects in the country's oil & gas sector, alongside modern technologies & innovations aimed at enhancing operational efficiency & improving performance, at its pavilion in the exhibition accompanying the 25th World Petroleum Congress in Riyadh. (Photo Feature)  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109690730922868823",
-      "published": "2026-10-12T17:00:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
