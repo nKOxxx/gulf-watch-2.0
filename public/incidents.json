@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-13T07:48:44.283751+00:00",
+  "generated_at": "2026-10-13T08:48:06.022342+00:00",
   "total_incidents": 67,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791870269",
+      "title": "Ronaldo scores, waves Saudi scarf in Al-Nassr\u2019s win after security delay",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/10/13/ronaldo-scores-waves-saudi-scarf-in-al-nassrs-win-after-security-delay?traffic_source=rss",
+      "published": "2026-10-13T08:27:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uk/2026/10/13/iran-accused-of-waging-systematic-campaign-against-uk/",
+      "title": "Iran accused of waging 'systematic campaign' against UK",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/13/iran-accused-of-waging-systematic-campaign-against-uk/",
+      "published": "2026-10-13T08:27:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/markets/2026/10/13/manus-on-markets-imf-warns-of-global-economic-risks-as-gulf-recovery-hinges-on-hormuz/",
+      "title": "Manus on Markets: IMF warns of global economic risks as Gulf recovery hinges on Hormuz",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/markets/2026/10/13/manus-on-markets-imf-warns-of-global-economic-risks-as-gulf-recovery-hinges-on-hormuz/",
+      "published": "2026-10-13T08:26:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791866079",
+      "title": "Mapping Africa\u2019s energy wealth and 560 million who remain without power",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/13/mapping-africas-energy-wealth-and-560-million-who-remain-without-power?traffic_source=rss",
+      "published": "2026-10-13T08:25:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/13/dubai-plans-new-underground-transport-network/",
+      "title": "Dubai plans new underground transport network",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/13/dubai-plans-new-underground-transport-network/",
+      "published": "2026-10-13T07:52:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791837724",
+      "title": "Palestine weekly: Gaza marks year of \u2018ceasefire\u2019 with more Israeli killing",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing?traffic_source=rss",
+      "published": "2026-10-13T07:45:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791873912",
+      "title": "Drone attack sinks ship off Bulgaria\u2019s Black Sea coast, PM says",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says?traffic_source=rss",
+      "published": "2026-10-13T07:36:38+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "042952fa1a8265a338f04eec4c10d8d9",
       "title": "Statment by H.E. the Chairman of the National Emergency Crisis and Disaster Management Authority #NCEMA on the Occasion of the International Day for Disaster Risk Reduction #IDDRR.",
@@ -157,10 +311,10 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/13/saudi-arabia-vows-to-remain-strong-after-deadly-houthi-attacks/",
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/13/saudi-arabia-vows-to-remain-strong-after-deadly-houthi-attacks/",
       "title": "Saudi Arabia vows to remain strong after deadly Houthi attacks",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/13/saudi-arabia-vows-to-remain-strong-after-deadly-houthi-attacks/",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/13/saudi-arabia-vows-to-remain-strong-after-deadly-houthi-attacks/",
       "published": "2026-10-13T06:28:58+00:00",
       "type": "incident",
       "status": "unconfirmed",
@@ -169,72 +323,6 @@
         "city": null,
         "lat": 23.8859,
         "lng": 45.0792
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/13/strait-of-hormuz-attacks-surge-as-iran-steps-up-campaign-against-us-backed-oil-shipping/",
-      "title": "Strait of Hormuz attacks surge as Iran steps up campaign against US-backed oil shipping",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/13/strait-of-hormuz-attacks-surge-as-iran-steps-up-campaign-against-us-backed-oil-shipping/",
-      "published": "2026-10-13T06:28:23+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/13/riyadh-extends-airport-closure-uk-imposes-sanctions-on-iranians-and-imf-cuts-gulf-growth-forecasts/",
-      "title": "Riyadh extends airport closure, UK imposes sanctions on Iranians and IMF cuts Gulf growth forecasts",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/13/riyadh-extends-airport-closure-uk-imposes-sanctions-on-iranians-and-imf-cuts-gulf-growth-forecasts/",
-      "published": "2026-10-13T06:23:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/football/2026/10/13/al-ahli-coach-marino-pusic-calls-for-action-after-dangerous-bottle-throwing-at-al-wasl/",
-      "title": "Al Ahli coach Marino Pusic calls for action after 'dangerous' bottle throwing at Al Wasl",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/13/al-ahli-coach-marino-pusic-calls-for-action-after-dangerous-bottle-throwing-at-al-wasl/",
-      "published": "2026-10-13T06:02:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 85,
       "is_government": false,
@@ -260,50 +348,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791474182",
-      "title": "Despite long history with Netanyahu, Trump hedges as Israel vote nears",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/13/despite-long-history-with-netanyahu-trump-hedges-as-israel-vote-nears?traffic_source=rss",
-      "published": "2026-10-13T05:40:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/2026/10/13/sports-events-in-saudi-arabia-to-go-ahead-despite-houthi-attacks/",
-      "title": "Sports events in Saudi Arabia to go ahead despite Houthi attacks",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/2026/10/13/sports-events-in-saudi-arabia-to-go-ahead-despite-houthi-attacks/",
-      "published": "2026-10-13T05:28:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -355,28 +399,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/13/live-riyadh-airport-saudi-houthis/",
-      "title": "Middle East latest: Saudi-led coalition says two ballistic missiles targeting southern city intercepted",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/13/live-riyadh-airport-saudi-houthis/",
-      "published": "2026-10-13T04:38:44+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o#0",
       "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
       "source": "BBC Middle East",
@@ -391,28 +413,6 @@
         "lng": 48.0
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791864456",
-      "title": "Ronaldo waves Saudi-flag scarf after match interrupted by missile alert",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-clip-ronaldowears-saudi-shawl-ksa?traffic_source=rss",
-      "published": "2026-10-13T04:09:52+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
