@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-13T13:43:10.715644+00:00",
-  "total_incidents": 60,
+  "generated_at": "2026-10-13T14:39:05.150379+00:00",
+  "total_incidents": 57,
   "incidents": [
+    {
+      "id": "844093cf458a6b4ccd30f7954b328857",
+      "title": "During its weekly meeting, Kuwait Cabinet strongly condemns the continued Houthi attacks on Saudi Arabia, which targeted King Khalid International Airport in Riyadh, King Fahad Airport in Dammam & Abha Airport, causing deaths & injuries among innocent civilians & material damages.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110010895413694865",
+      "published": "2026-10-13T14:12:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a1f453f601ece749238f382991e4a524",
+      "title": "Minister of Electricity, Water & Renewable Energy Dr. Sabeeh Al-Mukhaizeem discusses with French Ambassador to Kuwait Olivier Gauvin ways to strengthen bilateral cooperation & exchange expertise in electricity, water & renewable energy.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110008545936613618",
+      "published": "2026-10-13T14:03:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791892043",
+      "title": "Palestinians dream of returning home after Israel raids West Bank camps",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/10/13/palestinians-dream-of-returning-home-after-israel-raids-west-bank-camps?traffic_source=rss",
+      "published": "2026-10-13T14:02:25+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3b328d435976c9f448b8aac34fdd0675",
+      "title": "#Pakistan's Army successfully test-fired the extended-range version of its Fatah-2 hypersonic ballistic missile.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110008176787566791",
+      "published": "2026-10-13T14:02:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uk/2026/10/13/uk-intelligence-chief-warns-of-major-shift-after-iran-attacks-military-bases/",
+      "title": "UK intelligence chief warns of 'major shift' after Iran attacks military bases",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/13/uk-intelligence-chief-warns-of-major-shift-after-iran-attacks-military-bases/",
+      "published": "2026-10-13T13:59:53+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/asia-pacific/2026/10/13/us-army-aspires-to-create-indo-pacific-manufacturing-hub-in-korea/",
+      "title": "US Army aspires to create Indo-Pacific manufacturing hub in Korea",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/asia-pacific/2026/10/13/us-army-aspires-to-create-indo-pacific-manufacturing-hub-in-korea/",
+      "published": "2026-10-13T13:47:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791882308",
+      "title": "Yemeni government launches air strikes on Houthi positions",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/13/yemeni-government-launches-air-strikes-on-houthi-positions?traffic_source=rss",
+      "published": "2026-10-13T13:47:14+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "d0be50793533af1c1ae2aac022636ce0",
       "title": "Maktoum bin Mohammed meets with Bernard Mensah, President of International at Bank of America. The meeting reviewed the UAE\u2019s growing standing as a global financial hub and the opportunities Dubai offers international institutions to expand their businesses and access regional and global markets.",
@@ -135,28 +289,6 @@
       }
     },
     {
-      "id": "8ca35c5d3eb0edada48d5f8b66cfb4c2",
-      "title": "RT by @DXBMediaOffice: In Dubai, our partnerships with leading global financial institutions reflect confidence in the UAE\u2019s economy and its ability to create exceptional opportunities for investment and growth. Today, I met with Bernard Mensah, President of International, Bank of America, to discuss ways to expand cooperation across the banking, investment and financial sectors, as well as leveraging emerging technologies to advance financial services. Our vision is for Dubai to always be a city where capital meets ambition, and opportunities are transformed into achievements that transcend borders.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/MaktoumMohammed/status/2109989675507286257",
-      "published": "2026-10-13T12:48:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2519e858f650f9e386bac45de9954e09",
       "title": "Arab Coalition spokesman Major General Turki Al-Maliki says the coalition's Joint Forces Command had called on civilians to evacuate the Yemen Oil Company's Al-Sabaha Central Station in the Yemeni capital, Sanaa, for their safety.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -169,28 +301,6 @@
         "city": null,
         "lat": 15.3694,
         "lng": 44.191
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "bc180c5fd2584b1816efe5628f6859bd",
-      "title": "#OPEC+ stresses the importance of protecting international maritime routes to ensure uninterrupted energy supplies  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109984911687847949",
-      "published": "2026-10-13T12:29:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
@@ -215,28 +325,6 @@
         "lng": 44.191
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791880393",
-      "title": "Yemeni families\u2019 search for missing loved ones hindered by new fighting",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/13/yemens-families-search-for-missing-loved-ones-hindered-by-new-fighting?traffic_source=rss",
-      "published": "2026-10-13T12:25:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -303,72 +391,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ed49df02e6eb853819b675947a33a590",
-      "title": "#Kuwait Fund for Arab Economic Development (KFAED) signs MoU with the Green Climate Fund (GCF) to strengthen cooperation in supporting developing countries address climate change challenges  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109971733553815560",
-      "published": "2026-10-13T11:37:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "82ff4dd18d89406d6f01bc82f10f931c",
-      "title": "#Kuwait's Minister of Social Affairs, Family and Childhood Affairs affirms Kuwait's commitment to supporting joint Arab social action, strengthening social protection, empowering women and persons with disabilities, and caring for the elderly  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2109970936363450802",
-      "published": "2026-10-13T11:34:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/13/uae-food-aid-reaches-gaza-through-ahmed-bin-rashid-humanitarian-bridge/",
-      "title": "UAE food aid reaches Gaza through Ahmed bin Rashid Humanitarian Bridge",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/13/uae-food-aid-reaches-gaza-through-ahmed-bin-rashid-humanitarian-bridge/",
-      "published": "2026-10-13T11:16:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -795,28 +817,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=98145",
-      "title": "CHAOS Industries joins low-cost interceptor parade with VESPID design",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/chaos-industries-joins-low-cost-interceptor-parade-with-vespid-design/",
-      "published": "2026-10-12T18:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/industry/techwatch/2026/10/12/sikorsky-packs-4-nomad-drones-into-a-single-shipping-container/",
       "title": "Sikorsky packs 4 Nomad drones into a single shipping container",
       "source": "Defense News",
@@ -839,6 +839,28 @@
       }
     },
     {
+      "id": "https://breakingdefense.com/?p=98145",
+      "title": "CHAOS Industries joins low-cost interceptor parade with VESPID design",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/chaos-industries-joins-low-cost-interceptor-parade-with-vespid-design/",
+      "published": "2026-10-12T18:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.defensenews.com/news/your-military/2026/10/12/3-us-soldiers-awarded-purple-hearts-after-missile-attack-on-saudi-arabia-base/",
       "title": "3 US soldiers awarded Purple Hearts after March missile attack on Saudi Arabia base",
       "source": "Defense News",
@@ -851,28 +873,6 @@
         "city": null,
         "lat": 23.8859,
         "lng": 45.0792
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/europe/2026/10/12/ukraine-is-building-a-patchwork-antiballistic-defense-one-stopgap-at-a-time/",
-      "title": "Ukraine is building a patchwork antiballistic defense, one stopgap at a time",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/10/12/ukraine-is-building-a-patchwork-antiballistic-defense-one-stopgap-at-a-time/",
-      "published": "2026-10-12T17:30:00+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -920,28 +920,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "cf0180d686434b039e68deb6de6a7e65",
-      "title": ". H.H. Sheikh Mansoor bin Mohammed bin Rashid Al Maktoum, Chairman of the Dubai Ports and Borders Security Council, open...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DeZY137iHKC",
-      "published": "2026-10-12T13:54:36+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1052,50 +1030,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a4cf8fa2082dd5bf19befb890732016d",
-      "title": "\u0646\u0638\u0645 \u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0628\u0627\u062f\u0644 \u062a\u0646\u0633 \u0641\u064a \u0646\u0627\u062f\u064a \u0636\u0628\u0627\u0637 \u0627\u0644\u0634\u0631\u0637\u0629 \u0628\u062f\u0628\u064a\u060c \u0628\u0645\u0634\u0627\u0631\u0643\u0629 23 \u0641\u0631\u064a\u0642\u0627\u064b \u0645\u0646 \u0642\u0637\u0627\u0639\u0627\u062a \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0648\u0627\u0644\u0642\u064a\u0627\u062f\u0627\u062a \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0644\u0634\u0631\u0637\u0629 \u0628\u0627\u0644\u062f\u0648\u0644\u0629\u060c \u0648\u0630\u0644\u0643 \u0639\u0644\u0649 \u0645\u062f\u0627\u0631 \u062b\u0644\u0627\u062b\u0629 \u0623\u064a\u0627\u0645\u060c \u0648\u0633\u0637 \u0623\u062c\u0648\u0627\u0621 \u0631\u064a\u0627\u0636\u064a\u0629 \u062a\u0646\u0627\u0641\u0633\u064a\u0629 \u0628\u064a\u0646 \u0627\u0644\u0641\u0631\u0642 \u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629\u060c \u0648\u0623\u0633\u0641\u0631\u062a \u0646\u062a\u0627\u0626\u062c \u0627\u0644\u0628\u0637\u0648\u0644\u0629 \u0639\u0646 \u0641\u0648\u0632 \u0641\u0631\u064a\u0642 \u062c\u0647\u0627\u0632 \u0627\u0644\u0623\u0645\u0646 \u062f\u0628\u064a (B) \u0628\u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0623\u0648\u0644\u060c \u0641\u064a\u0645\u0627 \u062d\u0644 \u0641\u0631\u064a\u0642 \u062c\u0647\u0627\u0632 \u0627\u0644\u0623\u0645\u0646 \u062f\u0628\u064a (A) \u0641\u064a \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u062b\u0627\u0646\u064a\u060c \u0648\u062c\u0627\u0621 \u0641\u0631\u064a\u0642 \u0627\u0644\u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u0641\u062c\u064a\u0631\u0629 \u0641\u064a \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u062b\u0627\u0644\u062b\u060c \u0648\u0642\u0627\u0645 \u0627\u0644\u0639\u0645\u064a\u062f \u062c\u0627\u0633\u0645 \u0645\u062d\u0645\u062f \u062d\u0633\u0646\u060c \u0646\u0627\u0626\u0628 \u0645\u062f\u064a\u0631 \u0627\u0644\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0644\u062a\u062f\u0631\u064a\u0628 \u0641\u064a \u0634\u0631\u0637\u0629 \u062f\u0628\u064a \u0648\u0627\u0644\u0639\u0642\u064a\u062f \u062c\u0627\u0633\u0645 \u0645\u062d\u0645\u062f \u0639\u0644\u064a\u060c \u0646\u0627\u0626\u0628 \u0645\u062f\u064a\u0631 \u0625\u062f\u0627\u0631\u0629 \u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u060c \u0628\u062a\u0643\u0631\u064a\u0645 \u0627\u0644\u0641\u0631\u0642 \u0627\u0644\u0641\u0627\u0626\u0632\u0629. The Police Sports Association organized a padel tennis championship at the Dubai Police Officers Club, featuring 23 teams representing various sectors of th",
-      "source": "UAE MOI (RSS.app)",
-      "source_url": "https://x.com/moiuae/status/2109545352999362745",
-      "published": "2026-10-12T07:23:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a4cf8fa2082dd5bf19befb890732016d",
-      "title": "\u0646\u0638\u0645 \u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0628\u0627\u062f\u0644 \u062a\u0646\u0633 \u0641\u064a \u0646\u0627\u062f\u064a \u0636\u0628\u0627\u0637 \u0627\u0644\u0634\u0631\u0637\u0629 \u0628\u062f\u0628\u064a\u060c \u0628\u0645\u0634\u0627\u0631\u0643\u0629 23 \u0641\u0631\u064a\u0642\u0627\u064b \u0645\u0646 \u0642\u0637\u0627\u0639\u0627\u062a \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0648\u0627\u0644\u0642\u064a\u0627\u062f\u0627\u062a \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0644\u0634\u0631\u0637\u0629 \u0628\u0627\u0644\u062f\u0648\u0644\u0629\u060c \u0648\u0630\u0644\u0643 \u0639\u0644\u0649 \u0645\u062f\u0627\u0631 \u062b\u0644\u0627\u062b\u0629 \u0623\u064a\u0627\u0645\u060c \u0648\u0633\u0637 \u0623\u062c\u0648\u0627\u0621 \u0631\u064a\u0627\u0636\u064a\u0629 \u062a\u0646\u0627\u0641\u0633\u064a\u0629 \u0628\u064a\u0646 \u0627\u0644\u0641\u0631\u0642 \u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629\u060c \u0648\u0623\u0633\u0641\u0631\u062a \u0646\u062a\u0627\u0626\u062c \u0627\u0644\u0628\u0637\u0648\u0644\u0629 \u0639\u0646 \u0641\u0648\u0632 \u0641\u0631\u064a\u0642 \u062c\u0647\u0627\u0632 \u0627\u0644\u0623\u0645\u0646 \u062f\u0628\u064a (B) \u0628\u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0623\u0648\u0644\u060c \u0641\u064a\u0645\u0627 \u062d\u0644 \u0641\u0631\u064a\u0642 \u062c\u0647\u0627\u0632 \u0627\u0644\u0623\u0645\u0646 \u062f\u0628\u064a (A) \u0641\u064a \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u062b\u0627\u0646\u064a\u060c \u0648\u062c\u0627\u0621 \u0641\u0631\u064a\u0642 \u0627\u0644\u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u0641\u062c\u064a\u0631\u0629 \u0641\u064a \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u062b\u0627\u0644\u062b\u060c \u0648\u0642\u0627\u0645 \u0627\u0644\u0639\u0645\u064a\u062f \u062c\u0627\u0633\u0645 \u0645\u062d\u0645\u062f \u062d\u0633\u0646\u060c \u0646\u0627\u0626\u0628 \u0645\u062f\u064a\u0631 \u0627\u0644\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0644\u062a\u062f\u0631\u064a\u0628 \u0641\u064a \u0634\u0631\u0637\u0629 \u062f\u0628\u064a \u0648\u0627\u0644\u0639\u0642\u064a\u062f \u062c\u0627\u0633\u0645 \u0645\u062d\u0645\u062f \u0639\u0644\u064a\u060c \u0646\u0627\u0626\u0628 \u0645\u062f\u064a\u0631 \u0625\u062f\u0627\u0631\u0629 \u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u060c \u0628\u062a\u0643\u0631\u064a\u0645 \u0627\u0644\u0641\u0631\u0642 \u0627\u0644\u0641\u0627\u0626\u0632\u0629. The Police Sports Association organized a padel tennis championship at the Dubai Police Officers Club, featuring 23 teams representing various sectors of th",
-      "source": "IDF (RSS.app)",
-      "source_url": "https://x.com/moiuae/status/2109545352999362745",
-      "published": "2026-10-12T07:23:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
