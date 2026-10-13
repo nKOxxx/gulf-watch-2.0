@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-10-13T16:37:49.067390+00:00",
+  "generated_at": "2026-10-13T17:32:58.103506+00:00",
   "total_incidents": 55,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
+      "title": "Saudi Arabia strikes strategic oil depots near Yemen capital",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
+      "published": "2026-10-13T17:26:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/10/13/anduril-reveals-family-of-surface-to-air-interceptor-missiles/",
+      "title": "Anduril reveals family of surface-to-air interceptor missiles",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/13/anduril-reveals-family-of-surface-to-air-interceptor-missiles/",
+      "published": "2026-10-13T17:15:00+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c40286caf56514bf961a552ff38ecfd1",
+      "title": "Foreign Minister Sheikh Jarrah Jaber Al-Ahmad Al-Sabah held a phone call with Saudi Foreign Minister Prince Faisal bin Farhan Al-Saud, during which he strongly condemned Houthi attacks on civilians & civilian and economic facilities in the Kingdom.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110055109056966822",
+      "published": "2026-10-13T17:08:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/2026/10/13/lockheed-eyes-fresh-pac-3-interceptor-production-options-for-ukraine-europe/",
+      "title": "Lockheed eyes fresh PAC-3 interceptor production options for Ukraine, Europe",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/2026/10/13/lockheed-eyes-fresh-pac-3-interceptor-production-options-for-ukraine-europe/",
+      "published": "2026-10-13T17:02:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=98340",
+      "title": "Missiles and radar need more than demand \u2013 they need manufacturing capacity",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/missiles-and-radar-need-more-than-demand-they-need-manufacturing-capacity/",
+      "published": "2026-10-13T16:54:43+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/10/13/general-dynamics-showcases-wolf-xm30-new-counter-drone-systems-at-ausa/",
+      "title": "General Dynamics showcases Wolf XM30, new counter-drone systems at AUSA",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/13/general-dynamics-showcases-wolf-xm30-new-counter-drone-systems-at-ausa/",
+      "published": "2026-10-13T16:45:00+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5863c1d48d2e629355c59c5f4d152b40",
+      "title": "The International Monetary Fund projects that global economic growth would reach 3.1 percent in 2026, while warning that inflation would rise to 4.7 percent and calling for urgent measures to address the challenges.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110048096696603114",
+      "published": "2026-10-13T16:40:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791909141",
+      "title": "Jerusalem Daily: Israeli forces raid NGOs in Ramallah",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/jerusalem-daily-israeli-forces-raid-ngos-in-ramallah?traffic_source=rss",
+      "published": "2026-10-13T16:38:45+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/13/home-health-tests-aims-to-tackle-disease-before-it-strikes/",
+      "title": "Home health tests aims to tackle disease before it strikes",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/13/home-health-tests-aims-to-tackle-disease-before-it-strikes/",
+      "published": "2026-10-13T16:35:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://breakingdefense.com/?p=98320",
       "title": "Continuing resolution could \u2018complicate\u2019 Army\u2019s HADES spy plane production: Official",
@@ -179,50 +377,6 @@
       }
     },
     {
-      "id": "d83bcadf3c8aff7ba2841dda3ee84aa2",
-      "title": "Real estate leaders mapped out the next phase in strengthening Dubai\u2019s position as a global investment destination during the Mohammed bin Rashid Leadership Forum. Led by Omar Hamad Bushahab, Director General of the Dubai Land Department, the session addressed the sector\u2019s challenges, explored new opportunities for growth and innovation, and considered ways to develop a shared vision that supports the real estate market\u2019s competitiveness.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2110028134770975196",
-      "published": "2026-10-13T15:21:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "bfe689b3a0272d1c8a110f090f0c4ce0",
-      "title": "At a keynote session during the Mohammed bin Rashid Leaders Forum, Issam Kazim, CEO of the Dubai Corporation for Tourism and Commerce Marketing (DCTCM), described how Dubai has turned every challenge into an opportunity for success through the wisdom of its leadership. Dubai\u2019s story is a living example of an ambitious vision translated into a strategy for action and development, making global leadership a reality we experience every day. Dubai continues to build on its leading position by embracing advanced technologies and AI-powered solutions. When the world thinks of the future, Dubai is the first place that comes to mind.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2110025202994405522",
-      "published": "2026-10-13T15:09:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "5c9e1fc271163f62b916980ae80105d7",
       "title": "\u0641\u064a #\u0627\u0644\u064a\u0648\u0645_\u0627\u0644\u0639\u0627\u0644\u0645\u064a_\u0644\u0644\u062d\u062f_\u0645\u0646_\u0645\u062e\u0627\u0637\u0631_\u0627\u0644\u0643\u0648\u0627\u0631\u062b\u060c \u0646\u0624\u0643\u062f \u0623\u0646 \u0627\u0644\u0642\u062f\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u0635\u0645\u0648\u062f \u062a\u0628\u062f\u0623 \u0645\u0646 \u0627\u0644\u0645\u0646\u0632\u0644. \u0648\u0627\u0633\u062a\u0639\u062f\u0627\u062f\u0643 \u0627\u0644\u064a\u0648\u0645 \u064a\u0635\u0646\u0639 \u0641\u0631\u0642\u0627 \u063a\u062f\u0627\u064b. On the International Day for Disaster Risk Reduction #IDDRR, we affirm that resilience starts at home. Your preparedness today makes a difference tomorrow.",
       "source": "UAE NCEMA (RSS.app)",
@@ -246,7 +400,7 @@
     },
     {
       "id": "https://www.aljazeera.com/?t=1791899419",
-      "title": "Houthis threaten Saudi Arabia\u2019s Aramco facilities and airports",
+      "title": "Houthis threaten Saudi Aramco facilities, airports amid escalating conflict",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss",
       "published": "2026-10-13T15:01:36+00:00",
@@ -255,8 +409,8 @@
       "location": {
         "country": "Saudi Arabia",
         "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -301,50 +455,6 @@
         "city": null,
         "lat": 24.7136,
         "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a1f453f601ece749238f382991e4a524",
-      "title": "Minister of Electricity, Water & Renewable Energy Dr. Sabeeh Al-Mukhaizeem discusses with French Ambassador to Kuwait Olivier Gauvin ways to strengthen bilateral cooperation & exchange expertise in electricity, water & renewable energy.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110008545936613618",
-      "published": "2026-10-13T14:03:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3b328d435976c9f448b8aac34fdd0675",
-      "title": "#Pakistan's Army successfully test-fired the extended-range version of its Fatah-2 hypersonic ballistic missile.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110008176787566791",
-      "published": "2026-10-13T14:02:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 95,
       "is_government": true,
@@ -455,28 +565,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/13/riyadh-keeps-moving-after-deadly-strikes-but-schools-go-online-and-travellers-reroute/",
-      "title": "Riyadh keeps moving after deadly strikes, but schools go online and travellers reroute",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/13/riyadh-keeps-moving-after-deadly-strikes-but-schools-go-online-and-travellers-reroute/",
-      "published": "2026-10-13T12:07:43+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
       },
       "credibility": 85,
       "is_government": false,
@@ -641,28 +729,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/news/your-military/2026/10/12/the-us-army-is-back-in-the-jungle-panamanians-are-showing-soldiers-the-way/",
-      "title": "The US Army is back in the jungle. Panamanians are showing soldiers the way.",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-military/2026/10/12/the-us-army-is-back-in-the-jungle-panamanians-are-showing-soldiers-the-way/",
-      "published": "2026-10-12T22:32:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=98251",
       "title": "At Warsaw Security Forum, Poland\u2019s Tusk raises alarm over \u2018real threat\u2019 from Russia",
       "source": "Breaking Defense",
@@ -751,28 +817,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/land/2026/10/12/twenty-six-defense-unveils-new-soldier-worn-tech/",
-      "title": "Twenty-Six Defense unveils new soldier-worn tech",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/land/2026/10/12/twenty-six-defense-unveils-new-soldier-worn-tech/",
-      "published": "2026-10-12T19:59:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=98200",
       "title": "From drones to ground vehicles: Check out day 1 of AUSA",
       "source": "Breaking Defense",
@@ -809,28 +853,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/europe/2026/10/12/italy-eyes-mbda-armaments-for-new-italo-turkish-drone/",
-      "title": "Italy eyes MBDA armaments for new Italo-Turkish drone",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/10/12/italy-eyes-mbda-armaments-for-new-italo-turkish-drone/",
-      "published": "2026-10-12T18:48:45+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1056,28 +1078,6 @@
         "total": 11,
         "military": 0,
         "civilian": 11
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
-      "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
-      "published": "2026-10-11T22:28:50+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
       }
     },
     {
