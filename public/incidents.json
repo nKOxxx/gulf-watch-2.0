@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-13T15:35:28.455290+00:00",
-  "total_incidents": 56,
+  "generated_at": "2026-10-13T16:37:49.067390+00:00",
+  "total_incidents": 55,
   "incidents": [
+    {
+      "id": "https://breakingdefense.com/?p=98320",
+      "title": "Continuing resolution could \u2018complicate\u2019 Army\u2019s HADES spy plane production: Official",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/continuing-resolution-could-complicate-armys-hades-spy-plane-production-official/",
+      "published": "2026-10-13T16:27:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/your-military/2026/10/13/us-army-to-stand-up-command-for-unmanned-and-autonomous-warfare/",
+      "title": "US Army to stand up command for unmanned and autonomous warfare",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/10/13/us-army-to-stand-up-command-for-unmanned-and-autonomous-warfare/",
+      "published": "2026-10-13T16:15:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791899495",
+      "title": "UK spy chief says Iran is stepping up targeting of military bases",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/13/uk-spy-chief-says-iran-is-stepping-up-targeting-of-military-bases?traffic_source=rss",
+      "published": "2026-10-13T16:06:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=98304",
+      "title": "Polish defense minister calls for US industry to establish European facilities",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/polish-defense-minister-calls-for-us-industry-to-establish-european-facilities/",
+      "published": "2026-10-13T16:02:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "27c89dec50ae3cc1e7bc43724ab2506e",
+      "title": "Kuwait Fire Force announces the administrative closure of 25 establishments for violating applicable regulations.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110034803605025256",
+      "published": "2026-10-13T15:47:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/10/13/the-lynx-xm30-is-making-its-case-to-be-the-us-armys-bradley-replacement/",
+      "title": "The Lynx XM30 is making its case to be the US Army\u2019s Bradley replacement",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/13/the-lynx-xm30-is-making-its-case-to-be-the-us-armys-bradley-replacement/",
+      "published": "2026-10-13T15:45:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ce81231760b510c494df8800ea1903e9",
+      "title": "Kuwait expresses its solidarity with Saudi Arabia at a time when Yemen's Iran-backed Houthi group has stepped up attacks on the Gulf Arab kingdom's civilian infrastructure, simultaneously condemning Iranian attacks targeting regional countries & commercial shipping traffic.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110034271083626572",
+      "published": "2026-10-13T15:45:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "8ffd35e15a1507829c73ef7020d30941",
       "title": "At the Mohammed bin Rashid Leadership Forum, Abdulrahman Saleh Al Saleh, Director General of the Government of Dubai's Department of Finance (DOF), highlighted Dubai\u2019s competitiveness as a leading global financial centre. The session, attended by prominent financial sector leaders and experts, also discussed the rapid transformations shaping the global financial sector and their impact on the region, Dubai\u2019s readiness for these changes, and the importance of supporting innovation in finance.",
@@ -113,28 +267,6 @@
       }
     },
     {
-      "id": "1d9d95a147adf7d337ecd271b4ca789f",
-      "title": "During a session at the Mohammed bin Rashid Leaders Forum, Essa Kazim, Group Chairman of DP World, highlighted the Group\u2019s global network of more than 60 ports and terminals across six continents, which handles nearly 10% of global container traffic.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2110023229746377157",
-      "published": "2026-10-13T15:01:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-military/2026/10/13/with-the-cold-breed-for-soldiers-of-the-11th-airborne-division-winter-is-always-coming/",
       "title": "With the cold breed: For soldiers of the 11th Airborne Division, \u2018winter is always coming\u2019",
       "source": "Defense News",
@@ -201,28 +333,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791892043",
-      "title": "Palestinians dream of returning home after Israel raids West Bank camps",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/10/13/palestinians-dream-of-returning-home-after-israel-raids-west-bank-camps?traffic_source=rss",
-      "published": "2026-10-13T14:02:25+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3b328d435976c9f448b8aac34fdd0675",
       "title": "#Pakistan's Army successfully test-fired the extended-range version of its Fatah-2 hypersonic ballistic missile.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -279,28 +389,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791882308",
-      "title": "Yemeni government launches air strikes on Houthi positions",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/13/yemeni-government-launches-air-strikes-on-houthi-positions?traffic_source=rss",
-      "published": "2026-10-13T13:47:14+00:00",
-      "type": "airstrike",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
       },
       "credibility": 90,
       "is_government": false,
@@ -499,28 +587,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2ac9694e8b9320b59e4f079e42c5c2e8",
-      "title": ". Gulf Cooperation Council (GCC) countries have achieved 100 percent coverage of basic health services for adolescents a...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DebNPy8CNq3",
-      "published": "2026-10-13T06:51:46+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 95,
       "is_government": true,
@@ -773,50 +839,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/news/your-military/2026/10/12/us-army-creates-robotics-technician-job-to-focus-on-drone-warfare/",
-      "title": "US Army creates robotics technician job to focus on drone warfare",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-military/2026/10/12/us-army-creates-robotics-technician-job-to-focus-on-drone-warfare/",
-      "published": "2026-10-12T18:30:00+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/industry/techwatch/2026/10/12/lockheeds-new-pac-3-edge-interceptor-aims-for-agility/",
-      "title": "Lockheed\u2019s New PAC-3 Edge interceptor aims for agility",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/12/lockheeds-new-pac-3-edge-interceptor-aims-for-agility/",
-      "published": "2026-10-12T18:11:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "e21f3ab9793c16e9a216aa96a12e091e",
       "title": "\u062a\u0635\u0648\u064a\u0631 \u0623\u0648 \u0646\u0634\u0631 \u0623\u0648 \u062a\u062f\u0627\u0648\u0644 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0630\u0627\u062a \u0635\u0644\u0629 \u0628\u0627\u0644\u062a\u0635\u062f\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0648\u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0645\u0648\u0627\u0642\u0639 \u0633\u0642\u0648\u0637\u0647\u0627 \u064a\u0639\u0631\u0636\u0643 \u0644\u0644\u0645\u0633\u0627\u0621\u0644\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a\u0629. #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 Filming, publishing, or sharing information related to countering missiles and drones and their impact sites exposes you to legal liability. #Ministry_of_Interior",
       "source": "Saudi Civil Defense (RSS.app)",
@@ -832,28 +854,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=98145",
-      "title": "CHAOS Industries joins low-cost interceptor parade with VESPID design",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/chaos-industries-joins-low-cost-interceptor-parade-with-vespid-design/",
-      "published": "2026-10-12T18:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1206,28 +1206,6 @@
       },
       "credibility": 70,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "32c0398827d378486da63932578f5b10",
-      "title": "\u0635\u062d\u062a\u0643 \u0627\u0644\u0646\u0641\u0633\u064a\u0629..\u062e\u0637 \u062f\u0641\u0627\u0639\u0643 \u0627\u0644\u0623\u0648\u0644 Your Mental Health...Your First Line of Defense #\u0627\u0644\u064a\u0648\u0645_\u0627\u0644\u0639\u0627\u0644\u0645\u064a_\u0644\u0644\u0635\u062d\u0629_\u0627\u0644\u0646\u0641\u0633\u064a\u0629 #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a_\u0623\u0628\u0648\u0638\u0628\u064a",
-      "source": "Abu Dhabi Civil Defence (RSS.app)",
-      "source_url": "https://x.com/CivilDefenceAD/status/2108951702594555985",
-      "published": "2026-10-10T16:04:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
