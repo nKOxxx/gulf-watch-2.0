@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-13T10:36:59.833172+00:00",
-  "total_incidents": 66,
+  "generated_at": "2026-10-13T11:34:06.050385+00:00",
+  "total_incidents": 69,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791807177",
+      "title": "\u2018My son was killed\u2019 France faces backlash over proposed police firearms law",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss",
+      "published": "2026-10-13T11:17:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/13/uae-food-aid-reaches-gaza-through-ahmed-bin-rashid-humanitarian-bridge/",
+      "title": "UAE food aid reaches Gaza through Ahmed bin Rashid Humanitarian Bridge",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/13/uae-food-aid-reaches-gaza-through-ahmed-bin-rashid-humanitarian-bridge/",
+      "published": "2026-10-13T11:16:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=98261",
+      "title": "Army to take a (cautious) step toward employing AI agents to defend networks: Official",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/army-to-take-a-cautious-step-toward-employing-ai-agents-to-defend-networks-official/",
+      "published": "2026-10-13T11:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791888674",
+      "title": "Israel\u2019s military raids NGO offices in Ramallah",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss",
+      "published": "2026-10-13T10:53:16+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "258b2ba77e3f09bbbb08b3c5f54910c3",
+      "title": "Dubai Data and Statistics Establishment (DDSE) at Digital Dubai launches the Labour Force Survey 2026 for the Emirate of Dubai. The survey aims to monitor and measure the key characteristics of the labour force and labour market in the emirate, provide comprehensive and up-to-date indicators on labour market conditions, and support the development of data-driven economic and social policies.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2109958347336347851",
+      "published": "2026-10-13T10:44:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "d46d52de164cc15c0dc163725e902aef",
       "title": "The International Monetary Fund warns of three major risks threatening global financial stability, including a potential decline in Artificial Intelligence investments, a sharp rise in government bond yields and major cyberattacks  #KUNA",
@@ -127,28 +237,6 @@
         "lng": 53.688
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791822856",
-      "title": "The escalation in Yemen is a turning point",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/opinions/2026/10/13/the-escalation-in-yemen-is-a-turning-point?traffic_source=rss",
-      "published": "2026-10-13T08:42:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -361,28 +449,6 @@
       "source_url": "https://x.com/HHAhmedBinSaeed/status/2109887105857962147",
       "published": "2026-10-13T06:01:00+00:00",
       "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "070afa2fc9af86d55f11ce214cc7762b",
-      "title": "Dubai hosts The Airport Show 2026 featuring +150 exhibitors from over 30 countries.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2109878892945453336",
-      "published": "2026-10-13T05:28:00+00:00",
-      "type": "incident",
       "status": "confirmed",
       "location": {
         "country": "UAE",
