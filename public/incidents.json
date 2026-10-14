@@ -1,7 +1,293 @@
 {
-  "generated_at": "2026-10-14T11:31:57.731181+00:00",
-  "total_incidents": 69,
+  "generated_at": "2026-10-14T12:42:38.275507+00:00",
+  "total_incidents": 66,
   "incidents": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o#0",
+      "title": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T12:26:13+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=98475",
+      "title": "What dismounted soldiers need to survive a battlefield with drones and sensors",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/what-dismounted-soldiers-need-to-survive-a-battlefield-with-drones-and-sensors/",
+      "published": "2026-10-14T12:24:00+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "dd8fbf83f816027852c66b6adc49a1b2",
+      "title": "#Kuwait University's College of Science opens petroleum services lab in cooperation with SLB to enhance practical education  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110345796423942533",
+      "published": "2026-10-14T12:23:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/14/under-siege-taiz-isolated-and-afraid-as-houthis-and-yemeni-forces-fight-over-city/",
+      "title": "Under siege: Taiz isolated and afraid as Houthis and Yemeni forces fight over city",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/14/under-siege-taiz-isolated-and-afraid-as-houthis-and-yemeni-forces-fight-over-city/",
+      "published": "2026-10-14T12:19:48+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 38.0962,
+        "lng": 46.2738
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/14/wake-up-and-smell-the-diesel-multibillion-dollar-generators-industry-fuelling-lebanons-corruption/",
+      "title": "Lebanon's power failure: Diesel generators, $300-a-month bills - and a corrupt system milking the profits",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/14/wake-up-and-smell-the-diesel-multibillion-dollar-generators-industry-fuelling-lebanons-corruption/",
+      "published": "2026-10-14T12:11:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/economy/2026/10/14/sharjah-turns-to-ai-to-boost-growth-and-speed-up-business-processes/",
+      "title": "Sharjah turns to AI to identify foreign investment opportunities in seconds",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/14/sharjah-turns-to-ai-to-boost-growth-and-speed-up-business-processes/",
+      "published": "2026-10-14T12:07:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.3463,
+        "lng": 55.4209
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a5641f8b5dd6a8aa2e970dd85bb80905",
+      "title": "#GCC Chief affirms member states' capabilities of confronting economic shocks & geopolitical challenges, supported by strong economic fundamentals, substantial financial reserves, robust banking systems & prudent economic policies  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110340969140744664",
+      "published": "2026-10-14T12:04:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=98387",
+      "title": "Didn\u2019t get picked for IFPC interceptor competition? Army says come demo anyway",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/didnt-get-picked-for-ifpc-interceptor-competition-army-says-come-demo-anyway/",
+      "published": "2026-10-14T12:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "dabed4a0eedd0bf42cf50090541a6b7f",
+      "title": "Dubai Police adds the Lamborghini Temerario to its luxury patrol fleet, reflecting its ongoing commitment to enhancing its policing capabilities and deploying advanced vehicles to support its security presence and tourist policing, while strengthening engagement with residents and visitors across the emirate.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2110339364299682185",
+      "published": "2026-10-14T11:58:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791977927",
+      "title": "Do any of these Israeli candidates support a Palestinian state?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/do-any-of-these-israeli-candidates-support-a-palestinian-state?traffic_source=rss",
+      "published": "2026-10-14T11:43:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791970326",
+      "title": "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss",
+      "published": "2026-10-14T11:39:06+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e17df0fcc8795aa73f0b4aced0962f63",
+      "title": "Maktoum bin Mohammed: I met with Lord Philip Hammond, Chairman of Innovo Group, and discussed the opportunities Dubai\u2019s economy offers international companies to leverage its position as a regional and global hub for integrated financial and professional services. Dubai\u2019s advanced economic ecosystem continues to evolve, adapt to change, and anticipate the future, providing global investors and businesses with the confidence to plan and grow. We remain committed to engaging with international investors and institutions, fostering an optimal business environment, and strengthening partnerships that further consolidate Dubai\u2019s position as a leading global economic hub.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2110332279113539903",
+      "published": "2026-10-14T11:29:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791958933",
+      "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss",
+      "published": "2026-10-14T11:16:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "5f273cefc8d92499bc82ce729487001d",
       "title": "#Kuwait National Library holds an event titled \"Visual Impairment: Social Rights and Development Perspectives\" to raise public awareness of the rights of visually impaired people, with the participation of several organizations supporting people with various disabilities  #KUNA",
@@ -179,50 +465,6 @@
       }
     },
     {
-      "id": "868257af22dd3f4addb9eb4febf8dd64",
-      "title": "Dubai\u2019s Roads and Transport Authority completes converting Al Satwa Roundabout into a signalised intersection, alongside associated road and infrastructure enhancements. The project improves traffic flow through one of the area\u2019s key intersections, cutting journey time by 50% and reducing waiting times and traffic queues by up to 60% during peak hours.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2110315862557331707",
-      "published": "2026-10-14T10:24:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a8f248fb17ba9fde63eb9e2b922b8962",
-      "title": "#Kuwait News Agency (KUNA) Acting Director General Mohammad Al-Mannai discusses with #Canadian Ambassador to Kuwait Tara Scheurwater ways to strengthen media cooperation & exchange expertise in journalism & training to support bilateral relations  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110312681148125201",
-      "published": "2026-10-14T10:12:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1791965102",
       "title": "Israeli air strike kills Palestinian woman in Gaza City",
       "source": "Al Jazeera",
@@ -245,28 +487,6 @@
       }
     },
     {
-      "id": "4bf9c4b09ff6c0ad05ca0c10ad63eec7",
-      "title": "Set to open in mid-November, President Rene Moawad International Airport in #Qlayaat, #Akkar, serves as #Lebanon's second air gateway - a move expected to drive transport, investment & economic growth across the north  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110311585008730357",
-      "published": "2026-10-14T10:07:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/14/gaza-committee-signs-recovery-assistance-deal-with-germanys-giz-in-cairo/",
       "title": "Gaza committee signs recovery assistance deal with Germany\u2019s GIZ in Cairo",
       "source": "The National UAE",
@@ -281,116 +501,6 @@
         "lng": 34.4668
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a5d0fb2d39fb3ac6f616bd0c698c6360",
-      "title": "#Saudi-led Coalition to Support Legitimacy in #Yemen announces it has intercepted & destroyed a ballistic missile launched by the terrorist Houthi militia toward the Saudi capital, Riyadh  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110310180374102154",
-      "published": "2026-10-14T10:02:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791958431",
-      "title": "How a radio glitch triggered a false hijack alert in Germany",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/14/how-a-radio-glitch-triggered-a-false-hijack-alert-in-germany?traffic_source=rss",
-      "published": "2026-10-14T09:53:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2f1ccc6a99b50c18aec9229df8ee0692",
-      "title": "Dubai Business Forum \u2013 China concludes in Shenzhen, with the participation of 854 high-profile Chinese investors and business leaders, along with the largest overseas business delegation ever led by Dubai Chambers. The delegation comprised 112 senior representatives from Dubai\u2019s public and private sectors. The forum was organised by Dubai Chambers, with the Shenzhen Chamber of International Commerce and China Chamber of International Commerce Guangzhou Chamber of Commerce serving as supporting partners. The event brought together 22 expert speakers across 15 sessions.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2110307012869345522",
-      "published": "2026-10-14T09:49:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/14/us-decries-embarrassing-case-against-lebanese-envoy-over-contact-with-israel/",
-      "title": "US decries 'embarrassing' case against Lebanese envoy over contact with Israel",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/14/us-decries-embarrassing-case-against-lebanese-envoy-over-contact-with-israel/",
-      "published": "2026-10-14T09:45:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791970544",
-      "title": "Girl rescued from flaming apartment after Israeli attack on Gaza",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/girl-rescued-from-flaming-apartment-after-israeli-attack-on-gaza?traffic_source=rss",
-      "published": "2026-10-14T09:40:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -443,72 +553,6 @@
       }
     },
     {
-      "id": "f98cb69cb1206f2d17f8bf8ac8a7ce76",
-      "title": "Dubai Municipality honours Dubai Airports for waste reduction and recycling efforts, with success in diverting 100% of its waste from landfill since May 2026 to date, in addition to reducing overall waste generation by 5% and achieving a 37% recycling rate, in line with the objectives of the Dubai Integrated Waste Management Strategy 2021-2041.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2110298844831617361",
-      "published": "2026-10-14T09:17:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791950873",
-      "title": "China\u2019s exports surge amid AI-driven demand",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/10/14/chinas-exports-sugrge?traffic_source=rss",
-      "published": "2026-10-14T09:05:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/2026/10/14/diplomacys-changing-footprint-as-told-by-mission-openings-and-closures/",
-      "title": "Diplomacy's changing footprint as told by mission openings and closures",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/2026/10/14/diplomacys-changing-footprint-as-told-by-mission-openings-and-closures/",
-      "published": "2026-10-14T08:46:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "321a3c24342e1c2f8b72122e2c9ee8f3",
       "title": "\u062a\u0635\u0648\u064a\u0631 \u0623\u0648 \u0646\u0634\u0631 \u0623\u0648 \u062a\u062f\u0627\u0648\u0644 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0630\u0627\u062a \u0635\u0644\u0629 \u0628\u0627\u0644\u062a\u0635\u062f\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0648\u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0645\u0648\u0627\u0642\u0639 \u0633\u0642\u0648\u0637\u0647\u0627 \u064a\u0639\u0631\u0636\u0643 \u0644\u0644\u0645\u0633\u0627\u0621\u0644\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a\u0629. #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 Filming, publishing, or sharing information related to countering missiles and drones and their impact sites exposes you to legal liability. #Ministry_of_Interior",
       "source": "Saudi Civil Defense (RSS.app)",
@@ -536,50 +580,6 @@
       "source": "Saudi Civil Defense (RSS.app)",
       "source_url": "https://x.com/SaudiDCD/status/2110264338262958542",
       "published": "2026-10-14T06:59:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e2fe726eb3ff518d736b29b39e3a012f",
-      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (911). Alert: The danger has passed in Riyadh City. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2110264153008922790",
-      "published": "2026-10-14T06:59:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f8ce683448b92a79431fb1ce06213c77",
-      "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062e\u0631\u062c \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in Al-Kharj Governorate to warn of a danger, follow the instructions below :",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2110262460997640197",
-      "published": "2026-10-14T06:52:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
@@ -633,28 +633,6 @@
         "lng": 53.688
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o#0",
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T04:20:17+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1073,50 +1051,6 @@
         "lng": 48.5164
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=98340",
-      "title": "Missiles and radar need more than demand \u2013 they need manufacturing capacity",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/missiles-and-radar-need-more-than-demand-they-need-manufacturing-capacity/",
-      "published": "2026-10-13T16:54:43+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=98320",
-      "title": "Continuing resolution could \u2018complicate\u2019 Army\u2019s HADES spy plane production: Official",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/continuing-resolution-could-complicate-armys-hades-spy-plane-production-official/",
-      "published": "2026-10-13T16:27:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
