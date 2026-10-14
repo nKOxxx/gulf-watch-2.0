@@ -1,20 +1,86 @@
 {
-  "generated_at": "2026-10-14T05:32:48.946153+00:00",
-  "total_incidents": 68,
+  "generated_at": "2026-10-14T06:47:47.225226+00:00",
+  "total_incidents": 65,
   "incidents": [
     {
-      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/14/aramco-building-struck-missing-sailors-families-grieve-and-dubai-unveils-underground-transport-plans/",
-      "title": "Aramco building struck, missing sailors' families grieve and Dubai unveils underground transport plans",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/14/aramco-building-struck-missing-sailors-families-grieve-and-dubai-unveils-underground-transport-plans/",
-      "published": "2026-10-14T05:04:31+00:00",
+      "id": "10e818a5d358436c0f3ae9494f7e0485",
+      "title": "Iran and Oman's foreign ministers held a phone call early Wednesday to discuss Yemen and other regional developments.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2110258011050549557",
+      "published": "2026-10-14T06:34:00+00:00",
       "type": "incident",
       "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "1629ee5c1f725b077d244bb31f69ae5a",
+      "title": "The head of the Atomic Energy Organization of Iran (AEOI) says that the country\u2019s capabilities in nuclear science and technology are rival to those of the developed countries, showing Iran\u2019s eye-catching progress in this field.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2110257928943087704",
+      "published": "2026-10-14T06:34:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0243390d7cf9e249eba8ffb8cbd040a5",
+      "title": "Dubai CommerCity (DCC) signs a partnership agreement with Tencent Cloud to provide advanced cloud and digital solutions and support the digital transformation of businesses operating in Dubai CommerCity. Under the agreement, companies registered in DCC will gain access to Tencent Cloud\u2019s portfolio of cloud computing, AI and digital solutions.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2110249438182813840",
+      "published": "2026-10-14T06:00:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
       "location": {
         "country": "UAE",
         "city": null,
         "lat": 25.2048,
         "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/14/four-syrian-troops-killed-in-ambush-on-hama-motorway/",
+      "title": "Four Syrian troops killed in ambush on Hama motorway",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/14/four-syrian-troops-killed-in-ambush-on-hama-motorway/",
+      "published": "2026-10-14T05:55:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
       },
       "credibility": 85,
       "is_government": false,
@@ -25,20 +91,20 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/europe/2026/10/14/to-the-ramparts-new-missile-shield-protects-warships-from-drone-swarms/",
-      "title": "To the Ramparts: New missile shield 'protects warships from drone swarms'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/14/to-the-ramparts-new-missile-shield-protects-warships-from-drone-swarms/",
-      "published": "2026-10-14T05:00:01+00:00",
-      "type": "missile",
+      "id": "https://www.aljazeera.com/?t=1791953911",
+      "title": "Ukrainian drones strike more than 100km into Russian territory",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/ukrainian-drones-strike-more-than-100km-into-russian-territory?traffic_source=rss",
+      "published": "2026-10-14T05:07:55+00:00",
+      "type": "drone",
       "status": "unconfirmed",
       "location": {
-        "country": null,
+        "country": "Iran",
         "city": null,
-        "lat": 29.0,
-        "lng": 48.0
+        "lat": 35.6892,
+        "lng": 51.389
       },
-      "credibility": 85,
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -157,50 +223,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/14/aramco-building-on-fire-after-saudi-led-coalition-hits-houthi-site/",
-      "title": "Aramco building attacked after Saudi-led coalition hits Houthi site",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/14/aramco-building-on-fire-after-saudi-led-coalition-hits-houthi-site/",
-      "published": "2026-10-14T03:53:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/future/technology/2026/10/14/chinese-companies-seek-gulf-partnerships-as-physical-ai-takes-shape/",
-      "title": "Chinese companies seek Gulf partnerships as physical AI takes shape",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/14/chinese-companies-seek-gulf-partnerships-as-physical-ai-takes-shape/",
-      "published": "2026-10-14T03:44:57+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1791941062",
       "title": "Israel returns 22 stolen ancient artefacts to Greece",
       "source": "Al Jazeera",
@@ -235,50 +257,6 @@
         "city": null,
         "lat": 23.8859,
         "lng": 45.0792
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791945694",
-      "title": "Kyiv hit by Russian ballistic missiles for second day with no warning",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/kyiv-russian-ballistic-missile-strikes-no-advance-warning?traffic_source=rss",
-      "published": "2026-10-14T02:45:40+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791942794",
-      "title": "Violence in Pakistan over emergency rule in Imran Khan stronghold",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/pakistan-khyber-pakhtunkhwa-protests-emergency-rule?traffic_source=rss",
-      "published": "2026-10-14T01:56:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -949,28 +927,6 @@
       }
     },
     {
-      "id": "86103234e62807f9700c79a380442d71",
-      "title": "Hamdan bin Mohammed witnesses the signing of an agreement to launch the Mohammed bin Rashid Master in Police and Security Leadership programme. The agreement is signed by the Dubai Police Academy and the Royal Military Academy of Sandhurst, Georgetown University, the New York Police Department (NYPD) and the United Nations Institute for Training and Research (UNITAR) during the Mohammed bin Rashid Leadership Forum.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2110066233131626813",
-      "published": "2026-10-13T17:52:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=98346",
       "title": "Race cars and robots on drones: Sights from AUSA day 2",
       "source": "Breaking Defense",
@@ -1389,7 +1345,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o#1",
       "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
@@ -1433,7 +1389,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o#1",
       "title": "Airport attacks another dangerous moment in already tense conflict",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
@@ -1474,28 +1430,6 @@
         "total": 139,
         "military": 0,
         "civilian": 139
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no#1",
-      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T08:41:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 300,
-        "military": 0,
-        "civilian": 300
       }
     }
   ]
