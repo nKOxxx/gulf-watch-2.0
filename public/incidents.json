@@ -1,7 +1,249 @@
 {
-  "generated_at": "2026-10-14T14:33:12.983966+00:00",
-  "total_incidents": 64,
+  "generated_at": "2026-10-14T15:34:26.375184+00:00",
+  "total_incidents": 60,
   "incidents": [
+    {
+      "id": "https://breakingdefense.com/?p=98409",
+      "title": "How Poland\u2019s air force is responding to Russian drones in the skies",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/how-polands-air-force-is-responding-to-russian-drones-in-the-skies/",
+      "published": "2026-10-14T15:24:25+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "48396aeb2942e138054f3038de62dcb2",
+      "title": "#Kuwait condemns #Colombia's opening of embassy in occupied Jerusalem  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110391140088221808",
+      "published": "2026-10-14T15:23:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e40adc4e1e878d8fade0e8a9351c5a79",
+      "title": "International Monetary Fund (#IMF)'s Managing Director warns Middle East conflict threatens global economic stability  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110390634334884090",
+      "published": "2026-10-14T15:21:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=98465",
+      "title": "Continuing Resolution is \u2018biggest challenge\u2019 for Army Pacific Command",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/continuing-resolution-is-biggest-challenge-for-army-pacific-command/",
+      "published": "2026-10-14T15:06:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791983633",
+      "title": "Renewed fighting risks \u2018humanitarian catastrophe\u2019 in Yemen, aid groups warn",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/14/renewed-fighting-risks-humanitarian-catastrophe-in-yemen-aid-groups-warn?traffic_source=rss",
+      "published": "2026-10-14T15:06:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/your-military/2026/10/14/how-to-earn-the-us-armys-jungle-tab-in-panama-and-lose-10lbs/",
+      "title": "How to earn the US Army\u2019s Jungle tab in Panama \u2014 and lose 10lbs",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/10/14/how-to-earn-the-us-armys-jungle-tab-in-panama-and-lose-10lbs/",
+      "published": "2026-10-14T15:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 26.2285,
+        "lng": 50.586
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e5e059191e05a2099f4631f70cea7d86",
+      "title": "Israel MOD and the U.S. Pentagon Sign Agreement for the Procurement of 12 Advanced Boeing-Manufactured Apache Helicopters for the IDF \ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 Read More:",
+      "source": "Israel MOD (RSS.app)",
+      "source_url": "https://x.com/Israel_MOD/status/2110384028305990130",
+      "published": "2026-10-14T14:55:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/10/14/estonia-weighs-buying-light-jet-aircraft-to-shoot-down-russian-jet-powered-drones/",
+      "title": "Estonia weighs buying light jet aircraft to shoot down Russian jet-powered drones",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/14/estonia-weighs-buying-light-jet-aircraft-to-shoot-down-russian-jet-powered-drones/",
+      "published": "2026-10-14T14:44:06+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-expands-drone-marketplace-to-33-nations/",
+      "title": "US Army expands drone marketplace to 33 nations",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-expands-drone-marketplace-to-33-nations/",
+      "published": "2026-10-14T14:38:26+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791973848",
+      "title": "Law of the Sea comes to life in the hunt for sanctioned Russian oil",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/14/law-of-the-sea-comes-to-life-in-the-hunt-for-sanctioned-russian-oil?traffic_source=rss",
+      "published": "2026-10-14T14:38:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791917601",
+      "title": "What is potash, and why is the US importing it from Belarus?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/14/what-is-potash-and-why-is-the-us-importing-it-from-belarus?traffic_source=rss",
+      "published": "2026-10-14T14:36:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/business/energy/2026/10/14/diesel-shortage-to-persist-into-2027-as-iran-war-disrupts-supply-iea-warns/",
       "title": "Diesel shortage to persist into 2027 as Iran war disrupts supply, IEA warns",
@@ -114,7 +356,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/opinion/comment/2026/10/14/nobel-prize-gulf-economics-robert-hall-michael-woodford/",
-      "title": "How this year\u2019s Economics Nobel helps us understand the Gulf economies",
+      "title": "How this year\u2019s Nobel Prize in economics helps us understand the Gulf economies",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/opinion/comment/2026/10/14/nobel-prize-gulf-economics-robert-hall-michael-woodford/",
       "published": "2026-10-14T14:00:00+00:00",
@@ -289,50 +531,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791978058",
-      "title": "Iran targets Starlink as \u2018tool of war\u2019 with hints of more internet curbs",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions?traffic_source=rss",
-      "published": "2026-10-14T13:17:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/14/saudi-crown-prince-meets-iraqs-prime-minister-in-riyadh/",
-      "title": "Saudi Crown Prince meets Iraq's Prime Minister in Riyadh",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/14/saudi-crown-prince-meets-iraqs-prime-minister-in-riyadh/",
-      "published": "2026-10-14T13:12:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3cd1019bff2d37a156ed843ad7e5a667",
       "title": "#Kuwait & #UAE discuss strengthening military & defense cooperation  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -377,50 +575,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791980275",
-      "title": "Iraq\u2019s PM tells Saudi crown prince Iraqi territory will not be used for attacks",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/14/iraq-pm-tells-saudi-crown-prince-iraqi-territory-wont-be-used-for-attacks?traffic_source=rss",
-      "published": "2026-10-14T12:50:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791980703",
-      "title": "Colombia opens embassy in Jerusalem and restores free trade with Israel",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/colombia-opens-embassy-in-jerusalem-and-restores-free-trade-with-israel?traffic_source=rss",
-      "published": "2026-10-14T12:28:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o#0",
       "title": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot",
       "source": "BBC Middle East",
@@ -455,72 +609,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/14/under-siege-taiz-isolated-and-afraid-as-houthis-and-yemeni-forces-fight-over-city/",
-      "title": "Under siege: Taiz isolated and afraid as Houthis and Yemeni forces fight over city",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/14/under-siege-taiz-isolated-and-afraid-as-houthis-and-yemeni-forces-fight-over-city/",
-      "published": "2026-10-14T12:19:48+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 38.0962,
-        "lng": 46.2738
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/14/wake-up-and-smell-the-diesel-multibillion-dollar-generators-industry-fuelling-lebanons-corruption/",
-      "title": "Lebanon's power failure: Diesel generators, $300-a-month bills - and a corrupt system milking the profits",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/14/wake-up-and-smell-the-diesel-multibillion-dollar-generators-industry-fuelling-lebanons-corruption/",
-      "published": "2026-10-14T12:11:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/economy/2026/10/14/sharjah-turns-to-ai-to-boost-growth-and-speed-up-business-processes/",
-      "title": "Sharjah turns to AI to identify foreign investment opportunities in seconds",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/14/sharjah-turns-to-ai-to-boost-growth-and-speed-up-business-processes/",
-      "published": "2026-10-14T12:07:56+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.3463,
-        "lng": 55.4209
       },
       "credibility": 85,
       "is_government": false,
@@ -587,28 +675,6 @@
         "city": null,
         "lat": 24.4539,
         "lng": 54.3773
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "321a3c24342e1c2f8b72122e2c9ee8f3",
-      "title": "\u062a\u0635\u0648\u064a\u0631 \u0623\u0648 \u0646\u0634\u0631 \u0623\u0648 \u062a\u062f\u0627\u0648\u0644 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0630\u0627\u062a \u0635\u0644\u0629 \u0628\u0627\u0644\u062a\u0635\u062f\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0648\u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0645\u0648\u0627\u0642\u0639 \u0633\u0642\u0648\u0637\u0647\u0627 \u064a\u0639\u0631\u0636\u0643 \u0644\u0644\u0645\u0633\u0627\u0621\u0644\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a\u0629. #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 Filming, publishing, or sharing information related to countering missiles and drones and their impact sites exposes you to legal liability. #Ministry_of_Interior",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2110265045036757441",
-      "published": "2026-10-14T07:02:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 100,
       "is_government": true,
@@ -773,72 +839,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/news/your-military/2026/10/13/us-army-suspends-longtime-hometown-recruiter-assistance-program-faces-cancellation/",
-      "title": "US Army suspends longtime hometown recruiter assistance program, faces cancellation",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-military/2026/10/13/us-army-suspends-longtime-hometown-recruiter-assistance-program-faces-cancellation/",
-      "published": "2026-10-13T23:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/industry/techwatch/2026/10/13/andurils-palmer-luckey-envisions-missiles-made-in-car-factories-underground-battles/",
-      "title": "Anduril\u2019s Palmer Luckey envisions missiles made in car factories, underground battles",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/13/andurils-palmer-luckey-envisions-missiles-made-in-car-factories-underground-battles/",
-      "published": "2026-10-13T22:30:00+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/industry/techwatch/2026/10/13/anduril-awarded-contract-to-expand-us-armys-next-gen-battlefield-command-system/",
-      "title": "Anduril awarded contract to expand US Army\u2019s next-gen battlefield command system",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/13/anduril-awarded-contract-to-expand-us-armys-next-gen-battlefield-command-system/",
-      "published": "2026-10-13T21:15:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=98416",
       "title": "Avio, Lockheed sign agreement for solid rocket motor production",
       "source": "Breaking Defense",
@@ -888,50 +888,6 @@
       "source": "Breaking Defense",
       "source_url": "https://breakingdefense.com/2026/10/precision-at-scale-apkws-counters-the-threat/",
       "published": "2026-10-13T19:23:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=98357",
-      "title": "Democratic midterm gains could speed US military aid to Ukraine, lawmaker says",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/democratic-midterm-gains-could-speed-us-military-aid-to-ukraine-lawmaker-says/",
-      "published": "2026-10-13T18:58:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=98373",
-      "title": "LaNeve \u2018redesignates\u2019 Army\u2019s Futures and Concepts Command as new FASCOM autonomy command",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/laneve-redesignates-armys-futures-and-concepts-command-as-new-fascom-autonomy-command/",
-      "published": "2026-10-13T18:51:30+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -1364,50 +1320,6 @@
         "total": 0,
         "military": 0,
         "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o#1",
-      "title": "Airport attacks another dangerous moment in already tense conflict",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T15:32:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o#1",
-      "title": "Children among 139 dead after Yemen-bound boat capsizes off Djibouti, UN says",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T15:32:23+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 139,
-        "military": 0,
-        "civilian": 139
       }
     }
   ]
