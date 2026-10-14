@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-14T03:36:38.761820+00:00",
+  "generated_at": "2026-10-14T04:37:06.456704+00:00",
   "total_incidents": 68,
   "incidents": [
+    {
+      "id": "08297b1fc82547daef5a6e0a8594d4f0",
+      "title": "Permanent Representative to UN affirms Kuwait's re-election to the Human Rights Council for the 2027-2029 term represents a diplomatic achievement, a renewal of international confidence in the country, and recognition of its foreign policy approach based on moderation, balance, dialogue, respect for international law and adherence to the principles of the UN Charter.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110227758311682301",
+      "published": "2026-10-14T04:34:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o#0",
+      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T04:20:17+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/global-development/2026/oct/14/najmeh-amini-blasphemy-death-sentence-insulting-prophet",
+      "title": "Iranian woman handed death sentence for \u2018blasphemy\u2019 in social media post",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/global-development/2026/oct/14/najmeh-amini-blasphemy-death-sentence-insulting-prophet",
+      "published": "2026-10-14T04:00:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791948895",
+      "title": "UN official says \u2018window of opportunity\u2019 for peace in DR Congo",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss",
+      "published": "2026-10-14T03:57:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/14/aramco-building-on-fire-after-saudi-led-coalition-hits-houthi-site/",
+      "title": "Aramco building attacked after Saudi-led coalition hits Houthi site",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/14/aramco-building-on-fire-after-saudi-led-coalition-hits-houthi-site/",
+      "published": "2026-10-14T03:53:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/future/technology/2026/10/14/chinese-companies-seek-gulf-partnerships-as-physical-ai-takes-shape/",
+      "title": "Chinese companies seek Gulf partnerships as physical AI takes shape",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/14/chinese-companies-seek-gulf-partnerships-as-physical-ai-takes-shape/",
+      "published": "2026-10-14T03:44:57+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791941062",
       "title": "Israel returns 22 stolen ancient artefacts to Greece",
@@ -91,28 +223,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/14/there-are-no-dreams-left-families-of-two-sailors-missing-after-drone-attack-off-oman-speak-of-their-grief/",
-      "title": "'There are no dreams left': Families of two sailors missing after drone attack off Oman speak of their grief",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/14/there-are-no-dreams-left-families-of-two-sailors-missing-after-drone-attack-off-oman-speak-of-their-grief/",
-      "published": "2026-10-14T02:00:01+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 21.4735,
-        "lng": 55.9754
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1791942794",
       "title": "Violence in Pakistan over emergency rule in Imran Khan stronghold",
       "source": "Al Jazeera",
@@ -162,28 +272,6 @@
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/14/us-army-hackathon-sets-backdrop-for-an-ausa-focused-on-autonomy/",
       "published": "2026-10-14T01:30:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791634427",
-      "title": "Namibia battles cattle disease outbreak as EU suspends several meat imports",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/14/namibia-battles-cattle-disease-outbreak-as-eu-suspends-several-meat-imports?traffic_source=rss",
-      "published": "2026-10-14T01:07:46+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -325,50 +413,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o#0",
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T22:29:55+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/future/technology/2026/10/13/power-grid-emergency-energy-data-center/",
-      "title": "Emergency order by US to 'prevent blackouts' could affect data centres",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/13/power-grid-emergency-energy-data-center/",
-      "published": "2026-10-13T22:09:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -993,28 +1037,6 @@
       }
     },
     {
-      "id": "5863c1d48d2e629355c59c5f4d152b40",
-      "title": "The International Monetary Fund projects that global economic growth would reach 3.1 percent in 2026, while warning that inflation would rise to 4.7 percent and calling for urgent measures to address the challenges.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110048096696603114",
-      "published": "2026-10-13T16:40:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=98320",
       "title": "Continuing resolution could \u2018complicate\u2019 Army\u2019s HADES spy plane production: Official",
       "source": "Breaking Defense",
@@ -1313,28 +1335,6 @@
         "city": null,
         "lat": 24.7136,
         "lng": 46.6753
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/commentisfree/2026/oct/12/gulf-new-era-instability-alliances-houthi-rebels-saudi-arabia",
-      "title": "The Gulf has entered a new era of instability. If its leaders think they can rely on old alliances, they are wrong | Nesrine Malik",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/oct/12/gulf-new-era-instability-alliances-houthi-rebels-saudi-arabia",
-      "published": "2026-10-12T06:00:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
