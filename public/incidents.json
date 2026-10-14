@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-10-14T10:32:55.592521+00:00",
-  "total_incidents": 70,
+  "generated_at": "2026-10-14T11:31:57.731181+00:00",
+  "total_incidents": 69,
   "incidents": [
+    {
+      "id": "5f273cefc8d92499bc82ce729487001d",
+      "title": "#Kuwait National Library holds an event titled \"Visual Impairment: Social Rights and Development Perspectives\" to raise public awareness of the rights of visually impaired people, with the participation of several organizations supporting people with various disabilities  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110326899813544118",
+      "published": "2026-10-14T11:08:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791968880",
+      "title": "Settlers set fire to mosque in West Bank as Israeli forces raid villages",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages?traffic_source=rss",
+      "published": "2026-10-14T10:57:35+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "dee5ef52b08bb4878ae27228a797a3cd",
+      "title": "RT by @DXBMediaOffice: I met with Lord Philip Hammond, Chairman of Innovo Group, and discussed the opportunities Dubai\u2019s economy offers international companies to leverage its position as a regional and global hub for integrated financial and professional services. Dubai\u2019s advanced economic ecosystem continues to evolve, adapt to change, and anticipate the future, providing global investors and businesses with the confidence to plan and grow. We remain committed to engaging with international investors and institutions, fostering an optimal business environment, and strengthening partnerships that further consolidate Dubai\u2019s position as a leading global economic hub.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/MaktoumMohammed/status/2110323905860895105",
+      "published": "2026-10-14T10:56:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "eeff704f98d23bd10adba6a9aa6454cb",
+      "title": "#Kuwait Chamber of Commerce and Industry (KCCI) Deputy Director General Emad Al-Zaid says that integration between New Kuwait Vision 2035 and #Oman Vision 2040 offers a strategic opportunity to strengthen bilateral cooperation in logistics, industry, energy, modern technologies and the digital economy  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110323151150231986",
+      "published": "2026-10-14T10:53:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791893379",
+      "title": "Israeli plan to reopen settler \u2018Route 463\u2019 threatens to isolate Ramallah",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/14/israeli-plan-to-reopen-settler-route-463-threatens-to-isolate-ramallah?traffic_source=rss",
+      "published": "2026-10-14T10:49:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "24a4080842202f15102ea30d23e80c0a",
+      "title": "#GCC Secretary-General Jassem Al-Budaiwi says that growing economic relations between Gulf Cooperation Council (GCC) countries and #China reflect deep mutual interests and promising opportunities, with financial and banking cooperation serving as a key pillar of this partnership  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110319477443187075",
+      "published": "2026-10-14T10:39:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a9b630266b6e83c128ec5c189fb89e73",
+      "title": "His Highness the Prime Minister Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah chairs a meeting to discuss measures aimed at strengthening supply chains and exports  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110318938869338313",
+      "published": "2026-10-14T10:36:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "40ed613f0f08078a6f168d067d441ef0",
+      "title": "Minister of State for Development and Sustainability Dr. Reem Al-Fulaij discusses with #British Ambassador to #Kuwait Qudsi Rasheed ways to strengthen bilateral cooperation and exchange expertise in food security, veterinary medicine and sustainability  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110318534567792827",
+      "published": "2026-10-14T10:35:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "868257af22dd3f4addb9eb4febf8dd64",
+      "title": "Dubai\u2019s Roads and Transport Authority completes converting Al Satwa Roundabout into a signalised intersection, alongside associated road and infrastructure enhancements. The project improves traffic flow through one of the area\u2019s key intersections, cutting journey time by 50% and reducing waiting times and traffic queues by up to 60% during peak hours.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2110315862557331707",
+      "published": "2026-10-14T10:24:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "a8f248fb17ba9fde63eb9e2b922b8962",
       "title": "#Kuwait News Agency (KUNA) Acting Director General Mohammad Al-Mannai discusses with #Canadian Ambassador to Kuwait Tara Scheurwater ways to strengthen media cooperation & exchange expertise in journalism & training to support bilateral relations  #KUNA",
@@ -135,28 +333,6 @@
       }
     },
     {
-      "id": "0b5f3b715bf685dc9ac3ae72545ee752",
-      "title": "Gulf Cooperation Council (GCC) Secretary General Jassem Al-Budaiwi says the economic partnership between GCC countries & Asian nations represents a strategic pillar for strengthening economic and investment cooperation, expanding financial & banking integration & developing digital infrastructure  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110308078839050289",
-      "published": "2026-10-14T09:53:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2f1ccc6a99b50c18aec9229df8ee0692",
       "title": "Dubai Business Forum \u2013 China concludes in Shenzhen, with the participation of 854 high-profile Chinese investors and business leaders, along with the largest overseas business delegation ever led by Dubai Chambers. The delegation comprised 112 senior representatives from Dubai\u2019s public and private sectors. The forum was organised by Dubai Chambers, with the Shenzhen Chamber of International Commerce and China Chamber of International Commerce Guangzhou Chamber of Commerce serving as supporting partners. The event brought together 22 expert speakers across 15 sessions.",
       "source": "Dubai Media Office (RSS.app)",
@@ -216,28 +392,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "efbf76e3b8bf4c496e9f7a1a205a1284",
-      "title": "Muslim World League (MWL) strongly condemns the continued attacks by the terrorist Houthi militia against #Saudi Arabia, deliberately targeting civilians & civilian facilities, injuring four civilians & damaging residential buildings  @MWLOrg_en #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110304598569234672",
-      "published": "2026-10-14T09:39:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -311,28 +465,6 @@
       }
     },
     {
-      "id": "c2875e19209f726834271faeaf907e16",
-      "title": "Kuwait Petroleum Corporation (KPC): Kuwait oil slightly drops 88 cents during Tuesday's trading to reach USD 106.07 per barrel, compared with USD 106.95 the day before  @kpcofficialkw #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110298246065049967",
-      "published": "2026-10-14T09:14:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1791950873",
       "title": "China\u2019s exports surge amid AI-driven demand",
       "source": "Al Jazeera",
@@ -345,28 +477,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791967739",
-      "title": "Jerry Seinfeld dances as pro-Palestine protesters interrupt show",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/jerry-seinfeld-dances-as-pro-palestine-protesters-interrupt-show?traffic_source=rss",
-      "published": "2026-10-14T08:51:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9522,
-        "lng": 35.2332
       },
       "credibility": 90,
       "is_government": false,
@@ -391,50 +501,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791903086",
-      "title": "How do Iranians move money abroad to avoid US sanctions?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/14/how-do-iranians-move-money-abroad-to-avoid-us-sanctions?traffic_source=rss",
-      "published": "2026-10-14T08:24:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791957703",
-      "title": "Trump says oil, gas and mineral exploration to begin in Greenland",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/14/trump-says-oil-gas-and-mineral-exploration-to-begin-in-greenland?traffic_source=rss",
-      "published": "2026-10-14T08:08:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -575,50 +641,6 @@
       }
     },
     {
-      "id": "0243390d7cf9e249eba8ffb8cbd040a5",
-      "title": "Dubai CommerCity (DCC) signs a partnership agreement with Tencent Cloud to provide advanced cloud and digital solutions and support the digital transformation of businesses operating in Dubai CommerCity. Under the agreement, companies registered in DCC will gain access to Tencent Cloud\u2019s portfolio of cloud computing, AI and digital solutions.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2110249438182813840",
-      "published": "2026-10-14T06:00:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "08297b1fc82547daef5a6e0a8594d4f0",
-      "title": "Permanent Representative to UN affirms Kuwait's re-election to the Human Rights Council for the 2027-2029 term represents a diplomatic achievement, a renewal of international confidence in the country, and recognition of its foreign policy approach based on moderation, balance, dialogue, respect for international law and adherence to the principles of the UN Charter.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110227758311682301",
-      "published": "2026-10-14T04:34:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o#0",
       "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
       "source": "BBC Middle East",
@@ -751,28 +773,6 @@
       }
     },
     {
-      "id": "34c5cf3a26fc1da2a7c7fdf36fe4c9d7",
-      "title": "Saudi Civil Defense says four people were injured & 15 homes were damaged by missile shrapnel in Saudi capital  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110163930148454663",
-      "published": "2026-10-14T00:21:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.7308,
-        "lng": 36.7094
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-military/2026/10/13/us-army-suspends-longtime-hometown-recruiter-assistance-program-faces-cancellation/",
       "title": "US Army suspends longtime hometown recruiter assistance program, faces cancellation",
       "source": "Defense News",
@@ -810,28 +810,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "c30d78c36da96da9f3447c8cdcaf86ae",
-      "title": "#Kuwait urges #UN Security Council reform to to achieve equitable geographical representation, rectify historical imbalances, and enhance the Council's effectiveness in maintaining international peace and security  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110120094994944228",
-      "published": "2026-10-13T21:26:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
