@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-14T18:39:11.073488+00:00",
+  "generated_at": "2026-10-14T19:30:48.393528+00:00",
   "total_incidents": 61,
   "incidents": [
+    {
+      "id": "8fe16f0606fb854c1228e1fae1153877",
+      "title": "Michael Du, CFO & Vice President of ARIDGE, shares in this interview on the sidelines of the Dubai Business forum \u2013 China, organised by Dubai Chambers in Shenzhen, China, on what makes Dubai an attractive market for flying cars technology, as well as opportunities between Dubai and China in the mobility market. @DubaiChambers",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2110440981678186613",
+      "published": "2026-10-14T18:41:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791997503",
+      "title": "Israel\u2019s former security chief sues Netanyahu for October 7 defamation",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/14/israels-former-security-chief-sues-netanyahu-for-october-7-defamation?traffic_source=rss",
+      "published": "2026-10-14T18:39:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "783fe856ce0c6e0dc426817735388259",
       "title": "Mohammed bin Rashid meets with Mansour bin Zayed, at Al Marmoom in Dubai. The meeting discussed a range of issues of national importance and ways to advance the UAE\u2019s comprehensive development, reinforce its global standing and competitiveness, and promote the nation\u2019s progress and the wellbeing of its people. The meeting was attended by Maktoum bin Mohammed.",
@@ -128,28 +172,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e687b15a175d915cda114e892916553f",
-      "title": "During the Mohammed bin Rashid Leadership Forum, Mansoor bin Mohammed witnesses the signing of a memorandum of understanding (MoU) between the Mohammed Bin Rashid Center for Leadership Development (MBRCLD) and the Emirates Group to establish a long-term framework for cooperation in developing future leaders in the aviation sector.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2110425586321744016",
-      "published": "2026-10-14T17:40:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -345,28 +367,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791979486",
-      "title": "Suspected Israeli online operations cause alarm in Iran and Lebanon",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/14/suspected-israeli-online-operations-cause-alarm-in-iran-and-lebanon?traffic_source=rss",
-      "published": "2026-10-14T16:51:12+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
