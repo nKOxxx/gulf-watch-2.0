@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-14T21:30:27.686685+00:00",
-  "total_incidents": 57,
+  "generated_at": "2026-10-14T22:29:56.526588+00:00",
+  "total_incidents": 55,
   "incidents": [
+    {
+      "id": "https://www.defensenews.com/news/pentagon-congress/2026/10/14/pentagon-needs-50b-for-mass-drone-production-hegseth-says/",
+      "title": "Pentagon needs $50B for mass drone production, Hegseth says",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/10/14/pentagon-needs-50b-for-mass-drone-production-hegseth-says/",
+      "published": "2026-10-14T22:06:56+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792010439",
       "title": "Israeli quadcopter drone drops bomb in Lebanon",
@@ -69,28 +91,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792009239",
-      "title": "Houthi attacks disrupt travel plans for Mecca pilgrims",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-attacks-disrupt-travel-plans-for-mecca-pilgrims?traffic_source=rss",
-      "published": "2026-10-14T20:25:04+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 21.3891,
-        "lng": 39.8579
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "88ca5e83a517ed72a6addbc5ba01994a",
       "title": "The State of Kuwait has reaffirmed its strong condemnation of Iran\u2019s closure of the Strait of Hormuz and its ongoing threats to freedom of navigation in these vital international waters. Speaking before the Second Committee (Economic & Financial) of the UN General Assembly, Diplomatic Attach\u00e9 Dalal Sharar stressed the urgent need to protect global supply lines.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -106,28 +106,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792008651",
-      "title": "Russia attack hits Kyiv after reported intelligence lapse",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-attack-hits-kyiv-after-reported-intelligence-lapse?traffic_source=rss",
-      "published": "2026-10-14T20:14:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -597,28 +575,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/industry/techwatch/2026/10/14/nobodys-losing-pay-army-cyber-command-head-says-new-tech-mastery-program-wont-affect-troop-wages/",
-      "title": "\u2018Nobody\u2019s losing pay\u2019: Army Cyber Command head says new tech mastery program won\u2019t affect troop wages",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/14/nobodys-losing-pay-army-cyber-command-head-says-new-tech-mastery-program-wont-affect-troop-wages/",
-      "published": "2026-10-14T15:30:00+00:00",
-      "type": "cyber",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3f379453a8edc4929076845cc2cc7577",
       "title": "#Arab League condemns #Colombia's opening of embassy in Jerusalem  #KUNA #Kuwait",
       "source": "KUNA Kuwait (RSS.app)",
@@ -664,7 +620,7 @@
     },
     {
       "id": "https://breakingdefense.com/?p=98465",
-      "title": "Continuing Resolution is \u2018biggest challenge\u2019 for Army Pacific Command",
+      "title": "Continuing resolution is \u2018biggest challenge\u2019 for Army Pacific Command",
       "source": "Breaking Defense",
       "source_url": "https://breakingdefense.com/2026/10/continuing-resolution-is-biggest-challenge-for-army-pacific-command/",
       "published": "2026-10-14T15:06:49+00:00",
