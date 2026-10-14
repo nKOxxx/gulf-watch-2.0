@@ -1,7 +1,249 @@
 {
-  "generated_at": "2026-10-14T15:34:26.375184+00:00",
-  "total_incidents": 60,
+  "generated_at": "2026-10-14T16:35:10.599972+00:00",
+  "total_incidents": 64,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
+      "title": "Container ship sinks near strait of Hormuz amid surge in Iranian attacks",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
+      "published": "2026-10-14T16:33:45+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9551be6f3d4dd1e3146e2ff8b0a0cd32",
+      "title": "Heavy rain floods roads, metro stations & underpasses across Istanbul, disrupting traffic in wide areas of the Turkish city, while residents rescued a woman swept away by floodwaters in the Esenyurt district on the European side.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110403849466830873",
+      "published": "2026-10-14T16:14:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 21.4735,
+        "lng": 55.9754
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f7b4c962a6cdb84d12575dc0ddd2956b",
+      "title": "Mansoor bin Mohammed: Today, I chaired a meeting of the Higher Committee for the Protection of the Rights of People of Determination to review government efforts to empower them, enhance inclusive services and improve their quality of life, in line with the Dubai Social Agenda 33. This year, more than 3,500 People of Determination have benefited from over AED 100 million in financial support, while residential plots have been allocated to 121 Emirati People of Determination. Dubai remains committed to supporting People of Determination and their families, ensuring they have the opportunities and support to realise their potential and participate fully in society.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2110402696427790548",
+      "published": "2026-10-14T16:09:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "1c379f2510279d6d9fbeb9ad77e2a788",
+      "title": "Mohammed bin Rashid meets with Mansour bin Zayed at Al Marmoom in Dubai. The meeting discussed issues of national importance and ways to advance the UAE\u2019s comprehensive development, strengthen its global standing and reinforce its leadership across sectors, supporting the prosperity and wellbeing of its people.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2110400758604849504",
+      "published": "2026-10-14T16:02:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/10/14/us-army-taps-9-companies-to-build-next-gen-command-and-control-software/",
+      "title": "US Army taps 9 companies to build next-gen command and control software",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/14/us-army-taps-9-companies-to-build-next-gen-command-and-control-software/",
+      "published": "2026-10-14T16:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a810ce1977e34c0a5a18dc3e2d23572f",
+      "title": "RT by @DXBMediaOffice: Today, I chaired a meeting of the Higher Committee for the Protection of the Rights of People of Determination to review government efforts to empower them, enhance inclusive services and improve their quality of life, in line with the Dubai Social Agenda 33. This year, more than 3,500 People of Determination have benefited from over AED 100 million in financial support, while residential plots have been allocated to 121 Emirati People of Determination. Dubai remains committed to supporting People of Determination and their families, ensuring they have the opportunities and support to realise their potential and participate fully in society.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/sheikhmansoor/status/2110399730941583484",
+      "published": "2026-10-14T15:57:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791992758",
+      "title": "Jerusalem Daily: UN demands Israel do more to stop settler violence",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/jerusalem-daily-un-demands-israel-do-more-to-stop-settler-violence?traffic_source=rss",
+      "published": "2026-10-14T15:49:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791989737",
+      "title": "Ronaldo\u2019s among three Saudi Arabia games postponed due to Houthi attacks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/10/14/ronaldos-among-three-saudi-arabia-games-postponed-due-to-houthi-attacks?traffic_source=rss",
+      "published": "2026-10-14T15:49:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crkg7q97z078o#0",
+      "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14T15:34:19+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.5,
+        "lng": 56.5
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/10/14/nobodys-losing-pay-army-cyber-command-head-says-new-tech-mastery-program-wont-affect-troop-wages/",
+      "title": "\u2018Nobody\u2019s losing pay\u2019: Army Cyber Command head says new tech mastery program won\u2019t affect troop wages",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/14/nobodys-losing-pay-army-cyber-command-head-says-new-tech-mastery-program-wont-affect-troop-wages/",
+      "published": "2026-10-14T15:30:00+00:00",
+      "type": "cyber",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3f379453a8edc4929076845cc2cc7577",
+      "title": "#Arab League condemns #Colombia's opening of embassy in Jerusalem  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110392390707986459",
+      "published": "2026-10-14T15:28:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://breakingdefense.com/?p=98409",
       "title": "How Poland\u2019s air force is responding to Russian drones in the skies",
@@ -223,28 +465,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791917601",
-      "title": "What is potash, and why is the US importing it from Belarus?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/14/what-is-potash-and-why-is-the-us-importing-it-from-belarus?traffic_source=rss",
-      "published": "2026-10-14T14:36:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/business/energy/2026/10/14/diesel-shortage-to-persist-into-2027-as-iran-war-disrupts-supply-iea-warns/",
       "title": "Diesel shortage to persist into 2027 as Iran war disrupts supply, IEA warns",
       "source": "The National UAE",
@@ -303,28 +523,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791981311",
-      "title": "Colombia inaugurates embassy to Israel in Jerusalem",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem?traffic_source=rss",
-      "published": "2026-10-14T14:08:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -421,28 +619,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791982139",
-      "title": "Two scenarios for the Yemen war",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/opinions/2026/10/14/two-scenarios-for-the-yemen-war?traffic_source=rss",
-      "published": "2026-10-14T13:50:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3e19a1f77c9f0ec566c30e4a49751a03",
       "title": "Organization of #Arab Petroleum Exporting Countries (#OAPEC) holds 3rd seminar on cutting carbon emissions in downstream oil industries  #KUNA #Kuwait",
       "source": "KUNA Kuwait (RSS.app)",
@@ -458,28 +634,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791981972",
-      "title": "UK restaurateur claims losses after video calling for Gaza destruction",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss",
-      "published": "2026-10-14T13:28:21+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -543,28 +697,6 @@
         "city": null,
         "lat": 23.4241,
         "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "65b4949b40925521bc0e163e53437b0c",
-      "title": "Minister Al-Jalahma: #Kuwait's hosting of #Saudi Super Cup reflects sporting status  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110354135891509587",
-      "published": "2026-10-14T12:56:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
@@ -756,50 +888,6 @@
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/14/us-army-hackathon-sets-backdrop-for-an-ausa-focused-on-autonomy/",
       "published": "2026-10-14T01:30:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-navy-research-labs-team-up-to-combat-arctic-cold/",
-      "title": "US Army, Navy research labs team up to combat Arctic cold",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-navy-research-labs-team-up-to-combat-arctic-cold/",
-      "published": "2026-10-14T01:00:00+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/your-military/2026/10/14/97-of-us-soldiers-complete-brain-health-assessment/",
-      "title": "97% of US soldiers complete brain health assessment",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-military/2026/10/14/97-of-us-soldiers-complete-brain-health-assessment/",
-      "published": "2026-10-14T00:30:00+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -1257,7 +1345,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o#1",
       "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
