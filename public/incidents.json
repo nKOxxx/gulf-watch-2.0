@@ -1,7 +1,315 @@
 {
-  "generated_at": "2026-10-14T13:31:29.757548+00:00",
-  "total_incidents": 61,
+  "generated_at": "2026-10-14T14:33:12.983966+00:00",
+  "total_incidents": 64,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/10/14/diesel-shortage-to-persist-into-2027-as-iran-war-disrupts-supply-iea-warns/",
+      "title": "Diesel shortage to persist into 2027 as Iran war disrupts supply, IEA warns",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/14/diesel-shortage-to-persist-into-2027-as-iran-war-disrupts-supply-iea-warns/",
+      "published": "2026-10-14T14:26:45+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/14/minimise-catastrophes-uaes-ai-minister-highlights-dangers-of-autonomous-arms/",
+      "title": "'Minimise catastrophes': UAE's AI minister highlights dangers of autonomous arms",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/14/minimise-catastrophes-uaes-ai-minister-highlights-dangers-of-autonomous-arms/",
+      "published": "2026-10-14T14:26:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=98494",
+      "title": "In Warsaw, EU continues push for unity in defense",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/in-warsaw-eu-continues-push-for-unity-in-defense/",
+      "published": "2026-10-14T14:11:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791981311",
+      "title": "Colombia inaugurates embassy to Israel in Jerusalem",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem?traffic_source=rss",
+      "published": "2026-10-14T14:08:45+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e94696b707a6a144cf67f73e3646eba6",
+      "title": "Director of Public Authority of Civil Aviation (#PACA) & #UK Ambassador to #Kuwait discuss enhancing cooperation in civil aviation  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110372229250785610",
+      "published": "2026-10-14T14:08:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/opinion/comment/2026/10/14/nobel-prize-gulf-economics-robert-hall-michael-woodford/",
+      "title": "How this year\u2019s Economics Nobel helps us understand the Gulf economies",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/opinion/comment/2026/10/14/nobel-prize-gulf-economics-robert-hall-michael-woodford/",
+      "published": "2026-10-14T14:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=96387",
+      "title": "We need to make industry crash 100,000 drones next year",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/we-need-to-make-industry-crash-100000-drones-next-year/",
+      "published": "2026-10-14T14:00:00+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/2026/10/14/ukraine-races-to-field-faster-interceptors-as-russia-hammers-its-energy-grid/",
+      "title": "Ukraine races to field faster interceptors as Russia hammers its energy grid",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/2026/10/14/ukraine-races-to-field-faster-interceptors-as-russia-hammers-its-energy-grid/",
+      "published": "2026-10-14T13:51:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791982139",
+      "title": "Two scenarios for the Yemen war",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/opinions/2026/10/14/two-scenarios-for-the-yemen-war?traffic_source=rss",
+      "published": "2026-10-14T13:50:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3e19a1f77c9f0ec566c30e4a49751a03",
+      "title": "Organization of #Arab Petroleum Exporting Countries (#OAPEC) holds 3rd seminar on cutting carbon emissions in downstream oil industries  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110367231238377792",
+      "published": "2026-10-14T13:48:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791981972",
+      "title": "UK restaurateur claims losses after video calling for Gaza destruction",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss",
+      "published": "2026-10-14T13:28:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "791e50443f9b4f7f8ef0b987bac58681",
+      "title": "#Kuwait Fund for Arab Economic Development Acting Director General Rashed Al-Bader says the fund ready to resume development cooperation with #Syria & contribute to reconstruction efforts in solidarity with the Syrian people.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110361361058349348",
+      "published": "2026-10-14T13:25:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "63b10eef679d659a154a5b6acfbf5e2f",
+      "title": "Saudi Civil Defense says a resident of Arab nationality was injured after debris from a ballistic missile fell in Riyadh following its interception & destruction, causing limited material damage to a residential house & a vehicle.  #KUNBA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110360955838173584",
+      "published": "2026-10-14T13:23:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791978058",
+      "title": "Iran targets Starlink as \u2018tool of war\u2019 with hints of more internet curbs",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions?traffic_source=rss",
+      "published": "2026-10-14T13:17:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/gulf/2026/10/14/saudi-crown-prince-meets-iraqs-prime-minister-in-riyadh/",
       "title": "Saudi Crown Prince meets Iraq's Prime Minister in Riyadh",
@@ -91,28 +399,6 @@
       }
     },
     {
-      "id": "f035d41b85cdcf22dc3ab16a8465bf37",
-      "title": "\u0645\u0643\u062a\u0648\u0645 \u0628\u0646 \u0645\u062d\u0645\u062f \u064a\u0644\u062a\u0642\u064a \u0627\u0644\u0644\u0648\u0631\u062f \u0641\u064a\u0644\u064a\u0628 \u0647\u0627\u0645\u0648\u0646\u062f\u060c \u0631\u0626\u064a\u0633 \u0645\u062c\u0644\u0633 \u0625\u062f\u0627\u0631\u0629 \u0634\u0631\u0643\u0629 \u201c\u0625\u0646\u0648\u0641\u0648 - Innovo\u201d \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629. \u0648\u0646\u0627\u0642\u0634 \u0627\u0644\u0644\u0642\u0627\u0621 \u0627\u0644\u0641\u0631\u0635 \u0627\u0644\u062a\u064a \u064a\u062a\u064a\u062d\u0647\u0627 \u0627\u0642\u062a\u0635\u0627\u062f \u062f\u0628\u064a \u0644\u0644\u0645\u0624\u0633\u0633\u0627\u062a \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0644\u0644\u0627\u0633\u062a\u0641\u0627\u062f\u0629 \u0645\u0646 \u0645\u0648\u0642\u0639\u0647\u0627 \u0643\u0645\u0631\u0643\u0632\u064d \u0625\u0642\u0644\u064a\u0645\u064a \u0648\u0639\u0627\u0644\u0645\u064a \u0644\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0645\u0627\u0644\u064a\u0629 \u0648\u0627\u0644\u0645\u0647\u0646\u064a\u0629 \u0627\u0644\u0645\u062a\u0643\u0627\u0645\u0644\u0629. Maktoum bin Mohammed meets with Lord Philip Hammond, Chairman of Innovo Group, and discusses the opportunities Dubai\u2019s economy offers international companies to leverage its position as a regional and global hub for integrated financial and professional services.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2110348516744905125",
-      "published": "2026-10-14T12:34:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1791980703",
       "title": "Colombia opens embassy in Jerusalem and restores free trade with Israel",
       "source": "Al Jazeera",
@@ -172,28 +458,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "dd8fbf83f816027852c66b6adc49a1b2",
-      "title": "#Kuwait University's College of Science opens petroleum services lab in cooperation with SLB to enhance practical education  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110345796423942533",
-      "published": "2026-10-14T12:23:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -281,138 +545,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "dabed4a0eedd0bf42cf50090541a6b7f",
-      "title": "Dubai Police adds the Lamborghini Temerario to its luxury patrol fleet, reflecting its ongoing commitment to enhancing its policing capabilities and deploying advanced vehicles to support its security presence and tourist policing, while strengthening engagement with residents and visitors across the emirate.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2110339364299682185",
-      "published": "2026-10-14T11:58:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791977927",
-      "title": "Do any of these Israeli candidates support a Palestinian state?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/do-any-of-these-israeli-candidates-support-a-palestinian-state?traffic_source=rss",
-      "published": "2026-10-14T11:43:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791970326",
-      "title": "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss",
-      "published": "2026-10-14T11:39:06+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791958933",
-      "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss",
-      "published": "2026-10-14T11:16:21+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791968880",
-      "title": "Settlers set fire to mosque in West Bank as Israeli forces raid villages",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages?traffic_source=rss",
-      "published": "2026-10-14T10:57:35+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791893379",
-      "title": "Israeli plan to reopen settler \u2018Route 463\u2019 threatens to isolate Ramallah",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/14/israeli-plan-to-reopen-settler-route-463-threatens-to-isolate-ramallah?traffic_source=rss",
-      "published": "2026-10-14T10:49:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -751,28 +883,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/industry/techwatch/2026/10/13/bae-systems-unveils-new-layered-air-defense-system/",
-      "title": "BAE Systems unveils new layered air-defense system",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/13/bae-systems-unveils-new-layered-air-defense-system/",
-      "published": "2026-10-13T20:15:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=98248",
       "title": "Precision at scale: APKWS counters the threat",
       "source": "Breaking Defense",
@@ -876,50 +986,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=98312",
-      "title": "Israel\u2019s IAI unveils 3 new air defense systems at AUSA",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/israels-iai-unveils-3-new-air-defense-systems-at-ausa/",
-      "published": "2026-10-13T17:52:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=98346",
-      "title": "Race cars and robots on drones: Sights from AUSA day 2",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/race-cars-and-robots-on-drones-sights-from-ausa-day-2/",
-      "published": "2026-10-13T17:33:08+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
