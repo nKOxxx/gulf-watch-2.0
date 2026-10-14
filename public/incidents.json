@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-14T22:29:56.526588+00:00",
+  "generated_at": "2026-10-14T23:28:25.314687+00:00",
   "total_incidents": 55,
   "incidents": [
+    {
+      "id": "42f5841c853fe33d2935e0b81b61d5ee",
+      "title": "The National Committee for Combating Money Laundering and Terrorist Financing, chaired by FIU Head Dr. Hamad Al-Makrad, convened to review national efforts aimed at strengthening Kuwait's #AML / #CFT framework. The meeting focused on enhancing inter-agency coordination, streamlining information exchange, and ensuring strict compliance with international standards to protect national financial security.  #Kuwait #KUNA #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110507210623066237",
+      "published": "2026-10-14T23:05:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792011272",
+      "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss",
+      "published": "2026-10-14T23:03:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792011853",
+      "title": "ICE pushes back on report suggesting body cameras that automatically record",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/14/ice-pushes-back-on-report-suggesting-body-cameras-that-automatically-record?traffic_source=rss",
+      "published": "2026-10-14T22:57:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.defensenews.com/news/pentagon-congress/2026/10/14/pentagon-needs-50b-for-mass-drone-production-hegseth-says/",
       "title": "Pentagon needs $50B for mass drone production, Hegseth says",
@@ -69,28 +135,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792008893",
-      "title": "Woman rescued after being swept away by Istanbul flash flood",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/woman-rescued-after-being-swept-away-by-istanbul-flash-flood?traffic_source=rss",
-      "published": "2026-10-14T20:29:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 21.4735,
-        "lng": 55.9754
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "88ca5e83a517ed72a6addbc5ba01994a",
       "title": "The State of Kuwait has reaffirmed its strong condemnation of Iran\u2019s closure of the Strait of Hormuz and its ongoing threats to freedom of navigation in these vital international waters. Speaking before the Second Committee (Economic & Financial) of the UN General Assembly, Diplomatic Attach\u00e9 Dalal Sharar stressed the urgent need to protect global supply lines.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -114,7 +158,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/future/technology/2026/10/14/nvidia-uae-saudi-ai-data-centre/",
-      "title": "Despite Iran conflict, AI plans 'have not changed' in Middle East, Nvidia says",
+      "title": "AI plans 'have not changed' in Middle East despite Iran conflict, Nvidia says",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/future/technology/2026/10/14/nvidia-uae-saudi-ai-data-centre/",
       "published": "2026-10-14T20:13:47+00:00",
@@ -193,6 +237,28 @@
         "lng": 53.8478
       },
       "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/oct/14/israel-trump-peace-board-gaza-base",
+      "title": "Israel blocks construction of key Gaza base created by Trump peace board",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/oct/14/israel-trump-peace-board-gaza-base",
+      "published": "2026-10-14T19:19:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -531,28 +597,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/industry/techwatch/2026/10/14/us-army-taps-9-companies-to-build-next-gen-command-and-control-software/",
-      "title": "US Army taps 9 companies to build next-gen command and control software",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/14/us-army-taps-9-companies-to-build-next-gen-command-and-control-software/",
-      "published": "2026-10-14T16:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/crkg7q97z078o#0",
       "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
       "source": "BBC Middle East",
@@ -568,28 +612,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3f379453a8edc4929076845cc2cc7577",
-      "title": "#Arab League condemns #Colombia's opening of embassy in Jerusalem  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110392390707986459",
-      "published": "2026-10-14T15:28:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1188,28 +1210,6 @@
         "total": 0,
         "military": 0,
         "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o#1",
-      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-11T22:45:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 11,
-        "military": 0,
-        "civilian": 11
       }
     }
   ]
