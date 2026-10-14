@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-10-14T19:30:48.393528+00:00",
-  "total_incidents": 61,
+  "generated_at": "2026-10-14T20:31:01.136099+00:00",
+  "total_incidents": 60,
   "incidents": [
+    {
+      "id": "88ca5e83a517ed72a6addbc5ba01994a",
+      "title": "The State of Kuwait has reaffirmed its strong condemnation of Iran\u2019s closure of the Strait of Hormuz and its ongoing threats to freedom of navigation in these vital international waters. Speaking before the Second Committee (Economic & Financial) of the UN General Assembly, Diplomatic Attach\u00e9 Dalal Sharar stressed the urgent need to protect global supply lines.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110466911276273763",
+      "published": "2026-10-14T20:24:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792008651",
+      "title": "Russia attack hits Kyiv after reported intelligence lapse",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-attack-hits-kyiv-after-reported-intelligence-lapse?traffic_source=rss",
+      "published": "2026-10-14T20:14:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/future/technology/2026/10/14/nvidia-uae-saudi-ai-data-centre/",
+      "title": "Despite Iran conflict, AI plans 'have not changed' in Middle East, Nvidia says",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/14/nvidia-uae-saudi-ai-data-centre/",
+      "published": "2026-10-14T20:13:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792000072",
+      "title": "Spanish NGO halts Mediterranean rescue operations, citing fuel prices",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/14/spanish-ngo-halts-mediterranean-rescue-operations-citing-fuel-prices?traffic_source=rss",
+      "published": "2026-10-14T20:10:15+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uk/2026/10/14/sally-rooney-can-no-longer-sell-books-in-the-uk-due-to-palestine-action-support/",
+      "title": "Sally Rooney can no longer sell books in the UK due to Palestine Action support",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/14/sally-rooney-can-no-longer-sell-books-in-the-uk-due-to-palestine-action-support/",
+      "published": "2026-10-14T20:08:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 31.9522,
+        "lng": 35.2332
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/your-military/2026/10/14/disrupt-strike-assault-and-endure-the-4-pillars-of-the-us-armys-new-warfare-guidance/",
+      "title": "Disrupt, Strike, Assault and Endure: The 4 pillars of the US Army\u2019s new warfare guidance",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/10/14/disrupt-strike-assault-and-endure-the-4-pillars-of-the-us-armys-new-warfare-guidance/",
+      "published": "2026-10-14T20:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/14/macron-to-visit-uae-on-gulf-tour-next-week/",
+      "title": "Macron to visit UAE on Gulf tour next week",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/14/macron-to-visit-uae-on-gulf-tour-next-week/",
+      "published": "2026-10-14T19:53:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792002036",
+      "title": "Sally Rooney\u2019s books pulled from UK over Palestine Action support",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/sally-rooneys-books-pulled-from-uk-over-palestine-action-support?traffic_source=rss",
+      "published": "2026-10-14T19:23:27+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 31.9522,
+        "lng": 35.2332
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "8fe16f0606fb854c1228e1fae1153877",
       "title": "Michael Du, CFO & Vice President of ARIDGE, shares in this interview on the sidelines of the Dubai Business forum \u2013 China, organised by Dubai Chambers in Shenzhen, China, on what makes Dubai an attractive market for flying cars technology, as well as opportunities between Dubai and China in the mobility market. @DubaiChambers",
@@ -83,28 +259,6 @@
         "lng": 46.6753
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792000347",
-      "title": "How six Ukrainian divers could have blown up Russia\u2019s $20bn pipelines",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/2026/10/14/aje-onl-pp-nord-stream-141125?traffic_source=rss",
-      "published": "2026-10-14T18:00:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -201,72 +355,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791991358",
-      "title": "Ex-UK army chef jailed for \u2018terror\u2019-related offence",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss",
-      "published": "2026-10-14T17:32:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791994517",
-      "title": "Saudi tennis \u2018slam\u2019 with Alcaraz, Djokovic postponed amid Houthi attacks",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/10/14/saudi-tennis-slam-with-alcaraz-djokovic-postponed-amid-houthi-attacks?traffic_source=rss",
-      "published": "2026-10-14T17:11:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791996897",
-      "title": "Palestinian collective uses art to connect Gaza and the West Bank",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinian-collective-uses-art-to-connect-gaza-and-the-west-bank?traffic_source=rss",
-      "published": "2026-10-14T17:11:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
       "title": "Two container ships sink near strait of Hormuz amid surge in Iranian attacks",
       "source": "The Guardian",
@@ -279,28 +367,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791997425",
-      "title": "Settlers attack Palestinian mosque near occupied East Jerusalem",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/settlers-attack-palestinian-mosque-near-occupied-east-jerusalem?traffic_source=rss",
-      "published": "2026-10-14T17:05:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
       },
       "credibility": 90,
       "is_government": false,
@@ -575,50 +641,6 @@
       }
     },
     {
-      "id": "48396aeb2942e138054f3038de62dcb2",
-      "title": "#Kuwait condemns #Colombia's opening of embassy in occupied Jerusalem  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110391140088221808",
-      "published": "2026-10-14T15:23:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e40adc4e1e878d8fade0e8a9351c5a79",
-      "title": "International Monetary Fund (#IMF)'s Managing Director warns Middle East conflict threatens global economic stability  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110390634334884090",
-      "published": "2026-10-14T15:21:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=98465",
       "title": "Continuing Resolution is \u2018biggest challenge\u2019 for Army Pacific Command",
       "source": "Breaking Defense",
@@ -690,28 +712,6 @@
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/global/europe/2026/10/14/estonia-weighs-buying-light-jet-aircraft-to-shoot-down-russian-jet-powered-drones/",
       "published": "2026-10-14T14:44:06+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-expands-drone-marketplace-to-33-nations/",
-      "title": "US Army expands drone marketplace to 33 nations",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-expands-drone-marketplace-to-33-nations/",
-      "published": "2026-10-14T14:38:26+00:00",
       "type": "drone",
       "status": "unconfirmed",
       "location": {
@@ -933,28 +933,6 @@
       "source_url": "https://breakingdefense.com/2026/10/army-doubles-down-on-autonomy-stakes-out-indo-pacific-role-ausa-day-2/",
       "published": "2026-10-14T00:27:00+00:00",
       "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=98416",
-      "title": "Avio, Lockheed sign agreement for solid rocket motor production",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/avio-lockheed-sign-agreement-for-solid-rocket-motor-production/",
-      "published": "2026-10-13T20:48:43+00:00",
-      "type": "missile",
       "status": "unconfirmed",
       "location": {
         "country": null,
