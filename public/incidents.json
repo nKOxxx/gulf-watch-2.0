@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-13T23:28:57.841460+00:00",
-  "total_incidents": 62,
+  "generated_at": "2026-10-14T01:01:07.688967+00:00",
+  "total_incidents": 64,
   "incidents": [
+    {
+      "id": "https://www.defensenews.com/news/your-military/2026/10/14/97-of-us-soldiers-complete-brain-health-assessment/",
+      "title": "97% of US soldiers complete brain health assessment",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/10/14/97-of-us-soldiers-complete-brain-health-assessment/",
+      "published": "2026-10-14T00:30:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=98430",
+      "title": "Army doubles down on autonomy, stakes out Indo-Pacific role: AUSA Day 2",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/army-doubles-down-on-autonomy-stakes-out-indo-pacific-role-ausa-day-2/",
+      "published": "2026-10-14T00:27:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "34c5cf3a26fc1da2a7c7fdf36fe4c9d7",
+      "title": "Saudi Civil Defense says four people were injured & 15 homes were damaged by missile shrapnel in Saudi capital  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110163930148454663",
+      "published": "2026-10-14T00:21:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.7308,
+        "lng": 36.7094
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791928001",
+      "title": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss",
+      "published": "2026-10-14T00:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.defensenews.com/news/your-military/2026/10/13/us-army-suspends-longtime-hometown-recruiter-assistance-program-faces-cancellation/",
       "title": "US Army suspends longtime hometown recruiter assistance program, faces cancellation",
@@ -91,10 +179,10 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/future/technology/2026/10/13/us-electricity-emergency-order-data-center/",
+      "id": "https://www.thenationalnews.com/future/technology/2026/10/13/power-grid-emergency-energy-data-center/",
       "title": "Emergency order by US to 'prevent blackouts' could affect data centres",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/13/us-electricity-emergency-order-data-center/",
+      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/13/power-grid-emergency-energy-data-center/",
       "published": "2026-10-13T22:09:52+00:00",
       "type": "incident",
       "status": "unconfirmed",
@@ -707,28 +795,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/industry/techwatch/2026/10/13/us-army-targets-2028-for-first-high-energy-laser-counter-drone-weapons/",
-      "title": "US Army targets 2028 for first high-energy laser counter-drone weapons",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/13/us-army-targets-2028-for-first-high-energy-laser-counter-drone-weapons/",
-      "published": "2026-10-13T17:45:00+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=98346",
       "title": "Race cars and robots on drones: Sights from AUSA day 2",
       "source": "Breaking Defense",
@@ -866,28 +932,6 @@
       "source": "Breaking Defense",
       "source_url": "https://breakingdefense.com/2026/10/continuing-resolution-could-complicate-armys-hades-spy-plane-production-official/",
       "published": "2026-10-13T16:27:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=98304",
-      "title": "Polish defense minister calls for US industry to establish European facilities",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/polish-defense-minister-calls-for-us-industry-to-establish-european-facilities/",
-      "published": "2026-10-13T16:02:11+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
