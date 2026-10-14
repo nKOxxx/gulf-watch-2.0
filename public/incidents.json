@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-14T04:37:06.456704+00:00",
+  "generated_at": "2026-10-14T05:32:48.946153+00:00",
   "total_incidents": 68,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/14/aramco-building-struck-missing-sailors-families-grieve-and-dubai-unveils-underground-transport-plans/",
+      "title": "Aramco building struck, missing sailors' families grieve and Dubai unveils underground transport plans",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/14/aramco-building-struck-missing-sailors-families-grieve-and-dubai-unveils-underground-transport-plans/",
+      "published": "2026-10-14T05:04:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/europe/2026/10/14/to-the-ramparts-new-missile-shield-protects-warships-from-drone-swarms/",
+      "title": "To the Ramparts: New missile shield 'protects warships from drone swarms'",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/14/to-the-ramparts-new-missile-shield-protects-warships-from-drone-swarms/",
+      "published": "2026-10-14T05:00:01+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "08297b1fc82547daef5a6e0a8594d4f0",
       "title": "Permanent Representative to UN affirms Kuwait's re-election to the Human Rights Council for the 2027-2029 term represents a diplomatic achievement, a renewal of international confidence in the country, and recognition of its foreign policy approach based on moderation, balance, dialogue, respect for international law and adherence to the principles of the UN Charter.  #KUNA #KUWAIT",
@@ -18,6 +62,28 @@
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791945116",
+      "title": "China and North Korea to open New Yalu River Bridge, state media reports",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss",
+      "published": "2026-10-14T04:27:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 90,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -157,28 +223,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/14/live-aramco-fire-houthis-saudi-arabia/",
-      "title": "Saudi Arabia reports fire at Aramco building after missile attack",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/14/live-aramco-fire-houthis-saudi-arabia/",
-      "published": "2026-10-14T03:17:49+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1791947194",
       "title": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
       "source": "Al Jazeera",
@@ -228,28 +272,6 @@
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/pakistan-khyber-pakhtunkhwa-protests-emergency-rule?traffic_source=rss",
       "published": "2026-10-14T01:56:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791936617",
-      "title": "Jamaica accepts first flight of third-country deportations from US",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/14/jamaica-accepts-first-flight-of-third-country-deportations-from-us?traffic_source=rss",
-      "published": "2026-10-14T01:44:09+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -1474,28 +1496,6 @@
         "total": 300,
         "military": 0,
         "civilian": 300
-      }
-    },
-    {
-      "id": "9304b11ed2682b25c2f4f4e2161c2b78",
-      "title": "Lashing out at the performance of the International Atomic Energy Agency (IAEA), the head of the Atomic Energy Organization of Iran (AEOI) said that the UN nuclear watchdog has failed to fulfill its duty to support the peaceful use of nuclear energy.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2109155121183465580",
-      "published": "2026-10-11T05:32:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
       }
     }
   ]
