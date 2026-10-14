@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-14T12:42:38.275507+00:00",
-  "total_incidents": 66,
+  "generated_at": "2026-10-14T13:31:29.757548+00:00",
+  "total_incidents": 61,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/14/saudi-crown-prince-meets-iraqs-prime-minister-in-riyadh/",
+      "title": "Saudi Crown Prince meets Iraq's Prime Minister in Riyadh",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/14/saudi-crown-prince-meets-iraqs-prime-minister-in-riyadh/",
+      "published": "2026-10-14T13:12:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3cd1019bff2d37a156ed843ad7e5a667",
+      "title": "#Kuwait & #UAE discuss strengthening military & defense cooperation  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110355791613940123",
+      "published": "2026-10-14T13:03:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "65b4949b40925521bc0e163e53437b0c",
+      "title": "Minister Al-Jalahma: #Kuwait's hosting of #Saudi Super Cup reflects sporting status  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110354135891509587",
+      "published": "2026-10-14T12:56:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791980275",
+      "title": "Iraq\u2019s PM tells Saudi crown prince Iraqi territory will not be used for attacks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/14/iraq-pm-tells-saudi-crown-prince-iraqi-territory-wont-be-used-for-attacks?traffic_source=rss",
+      "published": "2026-10-14T12:50:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f035d41b85cdcf22dc3ab16a8465bf37",
+      "title": "\u0645\u0643\u062a\u0648\u0645 \u0628\u0646 \u0645\u062d\u0645\u062f \u064a\u0644\u062a\u0642\u064a \u0627\u0644\u0644\u0648\u0631\u062f \u0641\u064a\u0644\u064a\u0628 \u0647\u0627\u0645\u0648\u0646\u062f\u060c \u0631\u0626\u064a\u0633 \u0645\u062c\u0644\u0633 \u0625\u062f\u0627\u0631\u0629 \u0634\u0631\u0643\u0629 \u201c\u0625\u0646\u0648\u0641\u0648 - Innovo\u201d \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629. \u0648\u0646\u0627\u0642\u0634 \u0627\u0644\u0644\u0642\u0627\u0621 \u0627\u0644\u0641\u0631\u0635 \u0627\u0644\u062a\u064a \u064a\u062a\u064a\u062d\u0647\u0627 \u0627\u0642\u062a\u0635\u0627\u062f \u062f\u0628\u064a \u0644\u0644\u0645\u0624\u0633\u0633\u0627\u062a \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0644\u0644\u0627\u0633\u062a\u0641\u0627\u062f\u0629 \u0645\u0646 \u0645\u0648\u0642\u0639\u0647\u0627 \u0643\u0645\u0631\u0643\u0632\u064d \u0625\u0642\u0644\u064a\u0645\u064a \u0648\u0639\u0627\u0644\u0645\u064a \u0644\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0645\u0627\u0644\u064a\u0629 \u0648\u0627\u0644\u0645\u0647\u0646\u064a\u0629 \u0627\u0644\u0645\u062a\u0643\u0627\u0645\u0644\u0629. Maktoum bin Mohammed meets with Lord Philip Hammond, Chairman of Innovo Group, and discusses the opportunities Dubai\u2019s economy offers international companies to leverage its position as a regional and global hub for integrated financial and professional services.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2110348516744905125",
+      "published": "2026-10-14T12:34:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791980703",
+      "title": "Colombia opens embassy in Jerusalem and restores free trade with Israel",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/colombia-opens-embassy-in-jerusalem-and-restores-free-trade-with-israel?traffic_source=rss",
+      "published": "2026-10-14T12:28:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o#0",
       "title": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot",
@@ -135,28 +267,6 @@
       }
     },
     {
-      "id": "a5641f8b5dd6a8aa2e970dd85bb80905",
-      "title": "#GCC Chief affirms member states' capabilities of confronting economic shocks & geopolitical challenges, supported by strong economic fundamentals, substantial financial reserves, robust banking systems & prudent economic policies  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110340969140744664",
-      "published": "2026-10-14T12:04:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=98387",
       "title": "Didn\u2019t get picked for IFPC interceptor competition? Army says come demo anyway",
       "source": "Breaking Defense",
@@ -245,28 +355,6 @@
       }
     },
     {
-      "id": "e17df0fcc8795aa73f0b4aced0962f63",
-      "title": "Maktoum bin Mohammed: I met with Lord Philip Hammond, Chairman of Innovo Group, and discussed the opportunities Dubai\u2019s economy offers international companies to leverage its position as a regional and global hub for integrated financial and professional services. Dubai\u2019s advanced economic ecosystem continues to evolve, adapt to change, and anticipate the future, providing global investors and businesses with the confidence to plan and grow. We remain committed to engaging with international investors and institutions, fostering an optimal business environment, and strengthening partnerships that further consolidate Dubai\u2019s position as a leading global economic hub.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2110332279113539903",
-      "published": "2026-10-14T11:29:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1791958933",
       "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
       "source": "Al Jazeera",
@@ -282,28 +370,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5f273cefc8d92499bc82ce729487001d",
-      "title": "#Kuwait National Library holds an event titled \"Visual Impairment: Social Rights and Development Perspectives\" to raise public awareness of the rights of visually impaired people, with the participation of several organizations supporting people with various disabilities  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110326899813544118",
-      "published": "2026-10-14T11:08:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -333,50 +399,6 @@
       }
     },
     {
-      "id": "dee5ef52b08bb4878ae27228a797a3cd",
-      "title": "RT by @DXBMediaOffice: I met with Lord Philip Hammond, Chairman of Innovo Group, and discussed the opportunities Dubai\u2019s economy offers international companies to leverage its position as a regional and global hub for integrated financial and professional services. Dubai\u2019s advanced economic ecosystem continues to evolve, adapt to change, and anticipate the future, providing global investors and businesses with the confidence to plan and grow. We remain committed to engaging with international investors and institutions, fostering an optimal business environment, and strengthening partnerships that further consolidate Dubai\u2019s position as a leading global economic hub.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/MaktoumMohammed/status/2110323905860895105",
-      "published": "2026-10-14T10:56:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "eeff704f98d23bd10adba6a9aa6454cb",
-      "title": "#Kuwait Chamber of Commerce and Industry (KCCI) Deputy Director General Emad Al-Zaid says that integration between New Kuwait Vision 2035 and #Oman Vision 2040 offers a strategic opportunity to strengthen bilateral cooperation in logistics, industry, energy, modern technologies and the digital economy  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110323151150231986",
-      "published": "2026-10-14T10:53:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1791893379",
       "title": "Israeli plan to reopen settler \u2018Route 463\u2019 threatens to isolate Ramallah",
       "source": "Al Jazeera",
@@ -391,116 +413,6 @@
         "lng": 34.8516
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "24a4080842202f15102ea30d23e80c0a",
-      "title": "#GCC Secretary-General Jassem Al-Budaiwi says that growing economic relations between Gulf Cooperation Council (GCC) countries and #China reflect deep mutual interests and promising opportunities, with financial and banking cooperation serving as a key pillar of this partnership  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110319477443187075",
-      "published": "2026-10-14T10:39:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a9b630266b6e83c128ec5c189fb89e73",
-      "title": "His Highness the Prime Minister Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah chairs a meeting to discuss measures aimed at strengthening supply chains and exports  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110318938869338313",
-      "published": "2026-10-14T10:36:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "40ed613f0f08078a6f168d067d441ef0",
-      "title": "Minister of State for Development and Sustainability Dr. Reem Al-Fulaij discusses with #British Ambassador to #Kuwait Qudsi Rasheed ways to strengthen bilateral cooperation and exchange expertise in food security, veterinary medicine and sustainability  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110318534567792827",
-      "published": "2026-10-14T10:35:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791965102",
-      "title": "Israeli air strike kills Palestinian woman in Gaza City",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/14/israeli-air-strike-kills-palestinian-woman-in-gaza-city?traffic_source=rss",
-      "published": "2026-10-14T10:08:49+00:00",
-      "type": "airstrike",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/14/gaza-committee-signs-recovery-assistance-deal-with-germanys-giz-in-cairo/",
-      "title": "Gaza committee signs recovery assistance deal with Germany\u2019s GIZ in Cairo",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/14/gaza-committee-signs-recovery-assistance-deal-with-germanys-giz-in-cairo/",
-      "published": "2026-10-14T10:02:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -559,28 +471,6 @@
       "source_url": "https://x.com/SaudiDCD/status/2110265045036757441",
       "published": "2026-10-14T07:02:00+00:00",
       "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "19f695134ecc3ab9e7b315fb4dcc767f",
-      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062e\u0631\u062c\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (911). Alert: The danger has passed in Al-Kharj Governorate. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2110264338262958542",
-      "published": "2026-10-14T06:59:00+00:00",
-      "type": "incident",
       "status": "confirmed",
       "location": {
         "country": null,
