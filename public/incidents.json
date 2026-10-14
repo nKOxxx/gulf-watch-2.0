@@ -1,10 +1,142 @@
 {
-  "generated_at": "2026-10-14T07:37:18.367957+00:00",
-  "total_incidents": 67,
+  "generated_at": "2026-10-14T08:39:41.453144+00:00",
+  "total_incidents": 68,
   "incidents": [
     {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/14/trump-threatens-renewed-military-action-against-iran/",
+      "title": "Trump threatens renewed military action against Iran",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/14/trump-threatens-renewed-military-action-against-iran/",
+      "published": "2026-10-14T08:21:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791957703",
+      "title": "Trump says oil, gas and mineral exploration to begin in Greenland",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/14/trump-says-oil-gas-and-mineral-exploration-to-begin-in-greenland?traffic_source=rss",
+      "published": "2026-10-14T08:08:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/europe/2026/10/14/ukrainian-ex-officer-stands-trial-in-germany-over-nord-stream-bombing/",
+      "title": "Ukrainian ex-officer stands trial in Germany over Nord Stream bombing",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/14/ukrainian-ex-officer-stands-trial-in-germany-over-nord-stream-bombing/",
+      "published": "2026-10-14T08:00:03+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791963509",
+      "title": "Palestinians say Israel\u2019s democracy \u2018is a joke\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinians-say-israels-democracy-is-a?traffic_source=rss",
+      "published": "2026-10-14T07:41:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/10/14/houthi-attack-hits-aramcos-historic-nerve-centre-in-saudi-arabia/",
+      "title": "Houthi attack hits Aramco's historic nerve centre in Saudi Arabia",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/14/houthi-attack-hits-aramcos-historic-nerve-centre-in-saudi-arabia/",
+      "published": "2026-10-14T07:38:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791919514",
+      "title": "How Israel\u2019s \u2018Yellow Line\u2019 is reshaping southern Lebanon",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/14/how-israels-yellow-line-is-reshaping-southern-lebanon?traffic_source=rss",
+      "published": "2026-10-14T07:38:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.aljazeera.com/?t=1791958355",
-      "title": "\u2018Massive\u2019 Russian attack on Ukraine kills at least six, cuts power in Kyiv",
+      "title": "\u2018Massive\u2019 Russian attack on Ukraine kills at least six, damages power sites",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss",
       "published": "2026-10-14T07:08:32+00:00",
@@ -223,94 +355,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/14/four-syrian-troops-killed-in-ambush-on-hama-motorway/",
-      "title": "Four Syrian troops killed in ambush on Hama motorway",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/14/four-syrian-troops-killed-in-ambush-on-hama-motorway/",
-      "published": "2026-10-14T05:55:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791953911",
-      "title": "Ukrainian drones strike more than 100km into Russian territory",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/ukrainian-drones-strike-more-than-100km-into-russian-territory?traffic_source=rss",
-      "published": "2026-10-14T05:07:55+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/14/aramco-building-struck-missing-sailors-families-grieve-and-dubai-unveils-underground-transport-plans/",
-      "title": "Aramco building struck, missing sailors' families grieve and Dubai unveils underground transport plans",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/14/aramco-building-struck-missing-sailors-families-grieve-and-dubai-unveils-underground-transport-plans/",
-      "published": "2026-10-14T05:04:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/europe/2026/10/14/to-the-ramparts-new-missile-shield-protects-warships-from-drone-swarms/",
-      "title": "To the Ramparts: New missile shield 'protects warships from drone swarms'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/14/to-the-ramparts-new-missile-shield-protects-warships-from-drone-swarms/",
-      "published": "2026-10-14T05:00:01+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "08297b1fc82547daef5a6e0a8594d4f0",
       "title": "Permanent Representative to UN affirms Kuwait's re-election to the Human Rights Council for the 2027-2029 term represents a diplomatic achievement, a renewal of international confidence in the country, and recognition of its foreign policy approach based on moderation, balance, dialogue, respect for international law and adherence to the principles of the UN Charter.  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -326,28 +370,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791945116",
-      "title": "China and North Korea to open New Yalu River Bridge, state media reports",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss",
-      "published": "2026-10-14T04:27:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
