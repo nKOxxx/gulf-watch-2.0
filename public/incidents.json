@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T01:38:31.674588+00:00",
-  "total_incidents": 55,
+  "generated_at": "2026-10-15T02:39:10.433671+00:00",
+  "total_incidents": 54,
   "incidents": [
     {
       "id": "https://www.aljazeera.com/?t=1792013061",
@@ -326,28 +326,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/14/live-aramco-fire-houthis-saudi-arabia/",
-      "title": "Middle East latest: Houthis claim attacks on Saudi Aramco sites and Riyadh airport",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/14/live-aramco-fire-houthis-saudi-arabia/",
-      "published": "2026-10-14T18:04:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
