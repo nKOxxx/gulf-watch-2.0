@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-15T18:38:01.431869+00:00",
-  "total_incidents": 77,
+  "generated_at": "2026-10-15T19:29:20.274205+00:00",
+  "total_incidents": 76,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/15/us-imposes-iran-related-sanctions-on-iraq-development-bank/",
+      "title": "US imposes Iran-related sanctions on Iraq Development Bank",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/15/us-imposes-iran-related-sanctions-on-iraq-development-bank/",
+      "published": "2026-10-15T19:20:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "1e376522f5409964eac24b378a5e5011",
+      "title": "Houthi attacks on #Saudi_Arabia claimed 19 lives since Oct. 1 -- #Coalition  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110812063794597970",
+      "published": "2026-10-15T19:16:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "eea4a5bdfb9f92c9ad8a307c226891ff",
+      "title": "#Iraq ambassador presents credentials to #Kuwait FM  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110811324863152286",
+      "published": "2026-10-15T19:13:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "384675d1d98a793daa5e05ab3040a4ef",
+      "title": "#Kuwait sympathizes with #Pakistan for disaster of #Peshawar_school  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110810908721062176",
+      "published": "2026-10-15T19:11:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/15/live-saudi-arabia-drone-houthis-yemen-aden/",
       "title": "Middle East latest: Saudi coalition releases footage of Houthi attacks on Riyadh airport",
@@ -245,28 +333,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792068183",
-      "title": "Israeli ad-tech firm helped place spyware on Al Jazeera devices",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/15/israeli-ad-tech-firm-helped-spy-on-al-jazeera-devices?traffic_source=rss",
-      "published": "2026-10-15T16:32:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "ab8f8e95888ade85dd8ffb4a4a0a5012",
       "title": "Minister of Education: the political leadership's support for the educational journey serves as a fundamental pillar for fostering excellence & advancing the educational system  #KUNA #Kuwait",
       "source": "KUNA Kuwait (RSS.app)",
@@ -487,6 +553,28 @@
       }
     },
     {
+      "id": "8bd46b31453bad11c8f5a07bc7a39497",
+      "title": "Mansoor bin Mohammed: I honoured the winners of the 14th Dubai Award for Sustainable Transport, organised annually by Dubai\u2019s Roads and Transport Authority (RTA) to advance sustainable mobility, drive innovation, enhance safety and protect the environment. This year\u2019s edition attracted more than 750 applications, marking an increase of over 400% from the previous year and reflecting the award\u2019s growing reach locally, regionally and internationally. I congratulate Greater Amman Municipality in Jordan on winning the Elite Award for its Bus Rapid Transit (BRT) project. I also congratulate all the winners from government entities, companies and educational institutions across the award\u2019s various",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2110746815930998825",
+      "published": "2026-10-15T14:57:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "81019352a03cc283d174d5b961f565fc",
       "title": "\u062a\u0635\u0648\u064a\u0631 \u0623\u0648 \u0646\u0634\u0631 \u0623\u0648 \u062a\u062f\u0627\u0648\u0644 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0630\u0627\u062a \u0635\u0644\u0629 \u0628\u0627\u0644\u062a\u0635\u062f\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0648\u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0645\u0648\u0627\u0642\u0639 \u0633\u0642\u0648\u0637\u0647\u0627 \u064a\u0639\u0631\u0636\u0643 \u0644\u0644\u0645\u0633\u0627\u0621\u0644\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a\u0629. #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 Filming, publishing, or sharing information related to countering missiles and drones and their impact sites exposes you to legal liability. #Ministry_of_Interior",
       "source": "Saudi Civil Defense (RSS.app)",
@@ -524,50 +612,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8bd46b31453bad11c8f5a07bc7a39497",
-      "title": "Mansoor bin Mohammed: I honoured the winners of the 14th Dubai Award for Sustainable Transport, organised annually by Dubai\u2019s Roads and Transport Authority (RTA) to advance sustainable mobility, drive innovation, enhance safety and protect the environment. This year\u2019s edition attracted more than 750 applications, marking an increase of over 400% from the previous year and reflecting the award\u2019s growing reach locally, regionally and internationally. I congratulate Greater Amman Municipality in Jordan on winning the Elite Award for its Bus Rapid Transit (BRT) project. I also congratulate all the winners from government entities, companies and educational institutions across the award\u2019s various",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2110746815930998825",
-      "published": "2026-10-15T14:57:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uk/2026/10/15/irans-hate-tv-channels-uk-arm-reported-to-police-under-national-security-law/",
-      "title": "UK arm of Iran's 'hate' TV channel reported to police under national security law",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/15/irans-hate-tv-channels-uk-arm-reported-to-police-under-national-security-law/",
-      "published": "2026-10-15T14:56:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -751,28 +795,6 @@
       }
     },
     {
-      "id": "17a20a7ea9fb856a5d1d015d949976b2",
-      "title": "The Secretary General of the Gulf Cooperation Council announces that the second GCC-European Union Summit, originally scheduled to take place in Riyadh on October 24, 2026, has been postponed  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110697624131059755",
-      "published": "2026-10-15T11:41:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-army/2026/10/14/who-doesnt-want-to-be-first-best-squad-nco-and-soldier-named-at-ausa/",
       "title": "\u2018Who doesn\u2019t want to be first?\u2019 Best Squad, NCO and Soldier named at AUSA",
       "source": "Defense News",
@@ -861,28 +883,6 @@
       }
     },
     {
-      "id": "cd2f0747becf751bd216f17926216042",
-      "title": "#Saudi-led Coalition to Support Legitimacy in #Yemen announces it has intercepted & destroyed a cruise missile in Madinah region  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110675299587227807",
-      "published": "2026-10-15T10:13:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-to-address-parents-blocked-access-to-teen-medical-records/",
       "title": "US Army to address parents\u2019 blocked access to teen medical records",
       "source": "Defense News",
@@ -942,28 +942,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/industry/techwatch/2026/10/15/honeywell-aerospaces-counter-drone-software-unites-data-from-multiple-sensors-into-one/",
-      "title": "Honeywell Aerospace\u2019s counter-drone software unites data from multiple sensors into one",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/15/honeywell-aerospaces-counter-drone-software-unites-data-from-multiple-sensors-into-one/",
-      "published": "2026-10-15T09:00:00+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
