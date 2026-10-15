@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-15T21:31:22.398993+00:00",
+  "generated_at": "2026-10-15T22:30:51.682923+00:00",
   "total_incidents": 79,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792090235",
+      "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
+      "published": "2026-10-15T21:57:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/your-military/2026/10/15/expanded-dining-options-popular-among-soldiers-us-army-officials-say/",
+      "title": "Expanded dining options popular among soldiers, US Army officials say",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/10/15/expanded-dining-options-popular-among-soldiers-us-army-officials-say/",
+      "published": "2026-10-15T21:30:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "6e4ca253bdd65f1a88b53814ed29ec4e",
       "title": "#Yemen_army neutralize 700 Houthi militants  #KUNA #KUWAIT",
@@ -259,28 +303,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792091363",
-      "title": "Will Israeli voters punish Benjamin Netanyahu?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss",
-      "published": "2026-10-15T19:44:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -998,28 +1020,6 @@
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/news/your-military/2026/10/14/us-economic-supremacy-key-in-the-western-hemisphere-top-us-army-general-says/",
       "published": "2026-10-15T13:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/your-army/2026/10/14/who-doesnt-want-to-be-first-best-squad-nco-and-soldier-named-at-ausa/",
-      "title": "\u2018Who doesn\u2019t want to be first?\u2019 Best Squad, NCO and Soldier named at AUSA",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-army/2026/10/14/who-doesnt-want-to-be-first-best-squad-nco-and-soldier-named-at-ausa/",
-      "published": "2026-10-15T11:00:00+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
