@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-10-15T13:33:38.589991+00:00",
-  "total_incidents": 70,
+  "generated_at": "2026-10-15T14:33:18.848247+00:00",
+  "total_incidents": 68,
   "incidents": [
+    {
+      "id": "5e19de9a18efae3c417776397696943d",
+      "title": "\u0641\u062a\u062d \u0627\u0644\u0628\u0644\u0627\u063a\u0627\u062a \u0627\u0644\u062c\u0646\u0627\u0626\u064a\u0629 File Criminal Reports #\u062e\u062f\u0645\u0627\u062a\u064a_\u0631\u0642\u0645\u064a\u0629 #MOI_go_digital #\u062e\u062f\u0645\u0627\u062a_\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 #MOI_Services @uaedgov #\u0641\u062e\u0648\u0631\u064a\u0646_\u0628\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \ud83c\udde6\ud83c\uddea \u0644\u0644\u062f\u062e\u0648\u0644 \u0625\u0644\u0649 \u0627\u0644\u062e\u062f\u0645\u0629 \u0628\u0634\u0643\u0644 \u0645\u0628\u0627\u0634\u0631 \u060c \u064a\u0631\u062c\u0649 \u0627\u0644\u0636\u063a\u0637 \u0639\u0644\u0649 \u0627\u0644\u0631\u0627\u0628\u0637 \u0627\u0644\u062a\u0627\u0644\u064a To access the service directly, please click on the following link",
+      "source": "UAE MOI (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2110737959582679521",
+      "published": "2026-10-15T14:21:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5e19de9a18efae3c417776397696943d",
+      "title": "\u0641\u062a\u062d \u0627\u0644\u0628\u0644\u0627\u063a\u0627\u062a \u0627\u0644\u062c\u0646\u0627\u0626\u064a\u0629 File Criminal Reports #\u062e\u062f\u0645\u0627\u062a\u064a_\u0631\u0642\u0645\u064a\u0629 #MOI_go_digital #\u062e\u062f\u0645\u0627\u062a_\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 #MOI_Services @uaedgov #\u0641\u062e\u0648\u0631\u064a\u0646_\u0628\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \ud83c\udde6\ud83c\uddea \u0644\u0644\u062f\u062e\u0648\u0644 \u0625\u0644\u0649 \u0627\u0644\u062e\u062f\u0645\u0629 \u0628\u0634\u0643\u0644 \u0645\u0628\u0627\u0634\u0631 \u060c \u064a\u0631\u062c\u0649 \u0627\u0644\u0636\u063a\u0637 \u0639\u0644\u0649 \u0627\u0644\u0631\u0627\u0628\u0637 \u0627\u0644\u062a\u0627\u0644\u064a To access the service directly, please click on the following link",
+      "source": "IDF (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2110737959582679521",
+      "published": "2026-10-15T14:21:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/15/syria-sentences-two-to-death-over-coastal-sectarian-violence/",
+      "title": "Syria sentences two to death over coastal sectarian violence",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/15/syria-sentences-two-to-death-over-coastal-sectarian-violence/",
+      "published": "2026-10-15T14:15:53+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "1b35b8bcea497941cb2e37973bcaa6eb",
+      "title": "Latifa bint Mohammed meets with Alois Zwinggi, President and CEO of the World Economic Forum, in the presence of Mohammed bin Rashid bin Mohammed, on the sidelines of the Annual Meeting of Global Future Leaders 2026 in Dubai. The meeting discussed how the UAE Government and the World Economic Forum can strengthen collaboration between current and future leaders to create inclusive opportunities for generations to come and translate innovative ideas into tangible initiatives that benefit people and communities around the world.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2110735487690510378",
+      "published": "2026-10-15T14:12:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/15/uae-better-prepared-for-war-than-when-us-conflict-with-iran-began-says-official/",
+      "title": "UAE 'better prepared' for war than when US conflict with Iran began, says official",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/15/uae-better-prepared-for-war-than-when-us-conflict-with-iran-began-says-official/",
+      "published": "2026-10-15T14:08:45+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=98592",
+      "title": "As critical mineral deadline looms, Army expects to feel \u2018some impact\u2019",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/as-critical-mineral-deadline-looms-army-expects-to-feel-some-impact/",
+      "published": "2026-10-15T14:07:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/15/what-are-saudi-arabias-options-to-deter-the-yemeni-rebels/",
+      "title": "What are Saudi Arabia's options to deter the Yemeni rebels?",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/15/what-are-saudi-arabias-options-to-deter-the-yemeni-rebels/",
+      "published": "2026-10-15T14:00:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792055357",
+      "title": "Al Jazeera probe exposes fake viewing numbers for Israeli counter-film",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/15/al-jazeera-probe-exposes-fake-viewing-numbers-for-israeli-counter-film?traffic_source=rss",
+      "published": "2026-10-15T13:35:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "dc65c31ffbd6a56a5a41713a304c1c1e",
       "title": "A violating oil tanker that had switched off its tracking systems caught fire in a prohibited zone in the Sea of Oman, east of the Strait of Hormuz, Iran's Army Navy said.",
@@ -48,7 +224,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/uae/2026/10/15/never-give-up-ex-dubai-resident-gives-first-interview-after-five-year-detention-in-iraq/",
-      "title": "'You have to keep fighting': Ex-Dubai resident gives first interview after five-year detention in Iraq",
+      "title": "'You have to keep fighting': Former Dubai resident gives first interview after five-year detention in Iraq",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/uae/2026/10/15/never-give-up-ex-dubai-resident-gives-first-interview-after-five-year-detention-in-iraq/",
       "published": "2026-10-15T13:07:23+00:00",
@@ -179,50 +355,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/15/hezbollah-claims-ownership-of-explosive-laden-vehicle-seized-by-lebanese-army/",
-      "title": "Hezbollah claims ownership of explosive-laden vehicle seized by Lebanese army",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/15/hezbollah-claims-ownership-of-explosive-laden-vehicle-seized-by-lebanese-army/",
-      "published": "2026-10-15T11:42:14+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Yemen",
-        "city": null,
-        "lat": 12.7855,
-        "lng": 45.0187
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792055436",
-      "title": "US-Iran stalemate: What are Trump\u2019s next military options?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/15/us-iran-stalemate-what-are-trumps-next-military-options?traffic_source=rss",
-      "published": "2026-10-15T11:41:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "17a20a7ea9fb856a5d1d015d949976b2",
       "title": "The Secretary General of the Gulf Cooperation Council announces that the second GCC-European Union Summit, originally scheduled to take place in Riyadh on October 24, 2026, has been postponed  #KUNA #Kuwait",
       "source": "KUNA Kuwait (RSS.app)",
@@ -260,50 +392,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/10/15/adnoc-says-decade-old-contingency-plan-kept-oil-flowing-throughout-iran-war/",
-      "title": "Adnoc says decade-old contingency plan kept oil flowing throughout Iran war",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/15/adnoc-says-decade-old-contingency-plan-kept-oil-flowing-throughout-iran-war/",
-      "published": "2026-10-15T11:17:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792057722",
-      "title": "Syrian authorities arrest main suspect in 2013 Baniyas mass killings",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss",
-      "published": "2026-10-15T11:12:00+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -355,72 +443,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792053131",
-      "title": "Fighting in Yemen intensifies: What\u2019s the latest on the battlefield?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss",
-      "published": "2026-10-15T10:52:12+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792043699",
-      "title": "FIFA set for rule change after Balogun red card row at the World Cup: reports",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/10/15/fifa-set-for-rule-change-after-balogun-red-card-row-at-the-world-cup-reports?traffic_source=rss",
-      "published": "2026-10-15T10:46:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792055050",
-      "title": "Asian Cup in Saudi Arabia could be postponed by a year amid Houthi attacks",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/10/15/asian-cup-in-saudi-arabia-could-be-postponed-by-a-year-amid-houthi-attacks?traffic_source=rss",
-      "published": "2026-10-15T10:44:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "74efd52bd8391d36f33e65ad61a61e51",
       "title": "Weekly security report #\u0645\u0645\u0644\u0643\u0629_\u0627\u0644\u0628\u062d\u0631\u064a\u0646 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 #\u0627\u0644\u0627\u0645\u0646 #Moi",
       "source": "Bahrain MOI (RSS.app)",
@@ -436,28 +458,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792059154",
-      "title": "Dozens of children killed after roof collapses in Pakistani school",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv?traffic_source=rss",
-      "published": "2026-10-15T10:21:43+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1183,50 +1183,6 @@
         "lng": 48.5164
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=98475",
-      "title": "What dismounted soldiers need to survive a battlefield with drones and sensors",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/what-dismounted-soldiers-need-to-survive-a-battlefield-with-drones-and-sensors/",
-      "published": "2026-10-14T12:24:00+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=98387",
-      "title": "Didn\u2019t get picked for IFPC interceptor competition? Army says come demo anyway",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/didnt-get-picked-for-ifpc-interceptor-competition-army-says-come-demo-anyway/",
-      "published": "2026-10-14T12:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
