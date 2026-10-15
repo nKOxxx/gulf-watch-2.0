@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-15T11:31:05.641063+00:00",
-  "total_incidents": 66,
+  "generated_at": "2026-10-15T12:43:39.626074+00:00",
+  "total_incidents": 68,
   "incidents": [
+    {
+      "id": "06384f2949fcef731e65b055bbed815a",
+      "title": "Dubai Health Authority report highlights rapid growth in Dubai\u2019s health sector in the first half of 2026.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2110702178763763913",
+      "published": "2026-10-15T11:59:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/15/sheikha-latifa-hosts-women-leaders-majlis-in-dubai-to-discuss-innovation-and-opportunities/",
+      "title": "Sheikha Latifa hosts women leaders' majlis in Dubai to discuss innovation and opportunities",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/15/sheikha-latifa-hosts-women-leaders-majlis-in-dubai-to-discuss-innovation-and-opportunities/",
+      "published": "2026-10-15T11:56:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792057549",
+      "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/15/ukrainians-fear-us-intelligence-cuts-as-russian-strikes-intensify?traffic_source=rss",
+      "published": "2026-10-15T11:45:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/15/hezbollah-claims-ownership-of-explosive-laden-vehicle-seized-by-lebanese-army/",
+      "title": "Hezbollah claims ownership of explosive-laden vehicle seized by Lebanese army",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/15/hezbollah-claims-ownership-of-explosive-laden-vehicle-seized-by-lebanese-army/",
+      "published": "2026-10-15T11:42:14+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Yemen",
+        "city": null,
+        "lat": 12.7855,
+        "lng": 45.0187
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792055436",
+      "title": "US-Iran stalemate: What are Trump\u2019s next military options?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/15/us-iran-stalemate-what-are-trumps-next-military-options?traffic_source=rss",
+      "published": "2026-10-15T11:41:05+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "17a20a7ea9fb856a5d1d015d949976b2",
+      "title": "The Secretary General of the Gulf Cooperation Council announces that the second GCC-European Union Summit, originally scheduled to take place in Riyadh on October 24, 2026, has been postponed  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110697624131059755",
+      "published": "2026-10-15T11:41:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "91b5546932281a52dceaa838280ffc46",
+      "title": "Hamdan bin Mohammed witnesses the launch of the Centre for Global Future Opportunities in Dubai during the Annual Meeting of Global Future Leaders. The centre has been launched through a partnership between Dubai Future Foundation and the World Economic Forum (WEF).",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2110693664355987671",
+      "published": "2026-10-15T11:25:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/business/energy/2026/10/15/adnoc-says-decade-old-contingency-plan-kept-oil-flowing-throughout-iran-war/",
       "title": "Adnoc says decade-old contingency plan kept oil flowing throughout Iran war",
@@ -17,6 +171,28 @@
         "lng": 53.688
       },
       "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792057722",
+      "title": "Syrian authorities arrest main suspect in 2013 Baniyas mass killings",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss",
+      "published": "2026-10-15T11:12:00+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -377,28 +553,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/lifestyle/motoring/2026/10/15/nissan-patrol-75th-anniversary-edition-model-sale-uae-gulf/",
-      "title": "Nissan Patrol marks 75 years with limited-edition model exclusively for Gulf",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/lifestyle/motoring/2026/10/15/nissan-patrol-75th-anniversary-edition-model-sale-uae-gulf/",
-      "published": "2026-10-15T09:09:16+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/industry/techwatch/2026/10/15/honeywell-aerospaces-counter-drone-software-unites-data-from-multiple-sensors-into-one/",
       "title": "Honeywell Aerospace\u2019s counter-drone software unites data from multiple sensors into one",
       "source": "Defense News",
@@ -443,28 +597,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791998494",
-      "title": "Iraq devalues dinar to ease cash crunch, leaving traders in limbo",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/10/15/iraq-devalues-dinar-to-ease-cash-crunch-leaving-traders-in-limbo?traffic_source=rss",
-      "published": "2026-10-15T08:44:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "746a0751d5e3d3054fca91be6ac20a40",
       "title": "RT by @CivilDefenceAD: #AbuDhabiPolice and Abu Dhabi Civil Defence Authority teams have controlled a fire that broke out this morning, Thursday, 15 October 2026, on a floating platform at Al Hudayriyat Beach. No injuries were reported, and cooling and smoke extraction operations are underway. Abu Dhab",
       "source": "Abu Dhabi Civil Defence (RSS.app)",
@@ -479,50 +611,6 @@
         "lng": 54.3773
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3447c9d57c907236e730d4b52adc5595",
-      "title": "#Kuwait's & #Egypt's Foreign Ministers discuss bilateral ties & regional developments, stressing the need for de-escalation & diplomatic solutions to regional tensions  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110640710420480162",
-      "published": "2026-10-15T07:55:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "57a350ca72423126bbc8b36957c13937",
-      "title": "The International Monetary Fund (IMF) expects contraction in oil-exporting economies hit by energy & trade disruptions  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110638548663603302",
-      "published": "2026-10-15T07:46:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -663,28 +751,6 @@
       }
     },
     {
-      "id": "959a5655774a0b757aa3451b6d11fee6",
-      "title": "#Kuwaiti oil price up 16 cents to USD 106.23 pb -KPC  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110607342958002224",
-      "published": "2026-10-15T05:42:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/15/israel-gadi-eisenkot-profile-netanyahu-election",
       "title": "Unpolished, anti-Bibi, but evasive on peace: who is the Israeli opposition candidate Gadi Eisenkot?",
       "source": "The Guardian",
@@ -779,28 +845,6 @@
       "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/10/14/pentagon-needs-50b-for-mass-drone-production-hegseth-says/",
       "published": "2026-10-14T22:06:56+00:00",
       "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/your-military/2026/10/14/disrupt-strike-assault-and-endure-the-4-pillars-of-the-us-armys-new-warfare-guidance/",
-      "title": "Disrupt, Strike, Assault and Endure: The 4 pillars of the US Army\u2019s new warfare guidance",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-military/2026/10/14/disrupt-strike-assault-and-endure-the-4-pillars-of-the-us-armys-new-warfare-guidance/",
-      "published": "2026-10-14T20:00:00+00:00",
-      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": null,
