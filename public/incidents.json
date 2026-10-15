@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-15T08:40:10.819479+00:00",
+  "generated_at": "2026-10-15T09:35:05.819225+00:00",
   "total_incidents": 61,
   "incidents": [
+    {
+      "id": "e671265ff95d16831eae91ed71241b68",
+      "title": "RT by @DXBMediaOffice: I had the pleasure to host the \u2018Women Leading the Future\u2019 Majlis on the sidelines of the Annual Meeting of Global Future Leaders 2026, bringing together women leaders from around the world, united by a shared passion for making an impact and driving change. We exchanged perspectives on the future of leadership, the role of women in advancing institutions and sectors, and how technology and innovation can contribute to building more sustainable communities. When women are active partners in shaping the future, new possibilities for change emerge and opportunities for societal progress grow.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/hhshklatifa/status/2110659626081583334",
+      "published": "2026-10-15T09:10:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/lifestyle/motoring/2026/10/15/nissan-patrol-75th-anniversary-edition-model-sale-uae-gulf/",
+      "title": "Nissan Patrol marks 75 years with limited-edition model exclusively for Gulf",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/lifestyle/motoring/2026/10/15/nissan-patrol-75th-anniversary-edition-model-sale-uae-gulf/",
+      "published": "2026-10-15T09:09:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/opinion/comment/2026/10/15/iran-houthis-saudi-arabia/",
+      "title": "Iran may not order every Houthi attack, but backing Yemen's rebels carries consequences",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/opinion/comment/2026/10/15/iran-houthis-saudi-arabia/",
+      "published": "2026-10-15T09:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/10/15/honeywell-aerospaces-counter-drone-software-unites-data-from-multiple-sensors-into-one/",
+      "title": "Honeywell Aerospace\u2019s counter-drone software unites data from multiple sensors into one",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/15/honeywell-aerospaces-counter-drone-software-unites-data-from-multiple-sensors-into-one/",
+      "published": "2026-10-15T09:00:00+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "cef8a17323b1f522984c1b06cf92242d",
+      "title": "Chief of the General Staff of the Kuwaiti Army & Deputy Director of #Russia's Federal Service for Military-Technical Cooperation discuss issues of mutual interest  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2110653660241834257",
+      "published": "2026-10-15T08:47:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791998494",
+      "title": "Iraq devalues dinar to ease cash crunch, leaving traders in limbo",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/10/15/iraq-devalues-dinar-to-ease-cash-crunch-leaving-traders-in-limbo?traffic_source=rss",
+      "published": "2026-10-15T08:44:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/asia/2026/10/15/at-least-27-children-killed-in-pakistan-school-roof-collapse-with-death-toll-feared-to-rise/",
       "title": "At least 27 children killed in Pakistan school roof collapse, with death toll feared to rise",
@@ -17,6 +149,28 @@
         "lng": 48.0
       },
       "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791925816",
+      "title": "\u2018Our works are next to each other\u2019: Art bridges Gaza and West Bank",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/10/15/our-works-are-next-to-each-other-art-bridges-gaza-and-west-bank?traffic_source=rss",
+      "published": "2026-10-15T08:37:41+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -267,28 +421,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/15/iran-should-reach-deal-with-us-to-end-war-reformist-says/",
-      "title": "Iran should reach deal with US to end war, reformist says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/15/iran-should-reach-deal-with-us-to-end-war-reformist-says/",
-      "published": "2026-10-15T07:16:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "4106f40dee3eaa67a40af93fa6e360ed",
       "title": ". Dubai will host the second edition of \"UAE Loves Iraq\" on Saturday at the Dubai Exhibition Centre in Expo City Dubai, ...",
       "source": "WAM News (RSS.app)",
@@ -311,72 +443,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791719708",
-      "title": "From Morocco to South Africa, Israel election watched closely across Africa",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/15/from-morocco-to-south-africa-israel-election-watched-closely-across-africa?traffic_source=rss",
-      "published": "2026-10-15T06:46:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792030059",
-      "title": "G20 finance ministers, central bankers gather amid fallout from Iran war",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/10/15/g20-finance-ministers-central-bankers-gather-amid-fallout-from-iran-war?traffic_source=rss",
-      "published": "2026-10-15T06:16:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/10/15/oil-transfers-off-indias-west-coast-surge-as-gulf-shipping-congestion-worsens/",
-      "title": "Oil transfers off India's west coast surge as Gulf shipping congestion worsens",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/15/oil-transfers-off-indias-west-coast-surge-as-gulf-shipping-congestion-worsens/",
-      "published": "2026-10-15T06:11:09+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "959a5655774a0b757aa3451b6d11fee6",
       "title": "#Kuwaiti oil price up 16 cents to USD 106.23 pb -KPC  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -392,28 +458,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792029518",
-      "title": "Israel has detained more than 2,000 Palestinian children since 2023: report",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/15/israel-has-detained-more-than-2000-palestinian-children-since-2023-report?traffic_source=rss",
-      "published": "2026-10-15T04:43:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -619,28 +663,6 @@
       }
     },
     {
-      "id": "8fe16f0606fb854c1228e1fae1153877",
-      "title": "Michael Du, CFO & Vice President of ARIDGE, shares in this interview on the sidelines of the Dubai Business forum \u2013 China, organised by Dubai Chambers in Shenzhen, China, on what makes Dubai an attractive market for flying cars technology, as well as opportunities between Dubai and China in the mobility market. @DubaiChambers",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2110440981678186613",
-      "published": "2026-10-14T18:41:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/global/europe/2026/10/14/european-officials-weigh-mix-of-high-tech-drones-and-heavy-armor/",
       "title": "European officials weigh mix of high-tech drones and heavy armor",
       "source": "Defense News",
@@ -719,28 +741,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-generals-propose-larger-footprint-more-frequent-military-exercises-in-korea/",
-      "title": "US Army generals propose larger-footprint, more frequent military exercises in Korea",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-generals-propose-larger-footprint-more-frequent-military-exercises-in-korea/",
-      "published": "2026-10-14T17:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
