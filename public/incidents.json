@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-15T12:43:39.626074+00:00",
-  "total_incidents": 68,
+  "generated_at": "2026-10-15T13:33:38.589991+00:00",
+  "total_incidents": 70,
   "incidents": [
+    {
+      "id": "dc65c31ffbd6a56a5a41713a304c1c1e",
+      "title": "A violating oil tanker that had switched off its tracking systems caught fire in a prohibited zone in the Sea of Oman, east of the Strait of Hormuz, Iran's Army Navy said.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2110719766948175985",
+      "published": "2026-10-15T13:09:00+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/15/president-sheikh-mohamed-offers-condolences-to-saudi-king-after-airport-strikes/",
+      "title": "President Sheikh Mohamed offers condolences to Saudi King after airport strikes",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/15/president-sheikh-mohamed-offers-condolences-to-saudi-king-after-airport-strikes/",
+      "published": "2026-10-15T13:08:41+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/15/never-give-up-ex-dubai-resident-gives-first-interview-after-five-year-detention-in-iraq/",
+      "title": "'You have to keep fighting': Ex-Dubai resident gives first interview after five-year detention in Iraq",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/15/never-give-up-ex-dubai-resident-gives-first-interview-after-five-year-detention-in-iraq/",
+      "published": "2026-10-15T13:07:23+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/your-military/2026/10/14/us-economic-supremacy-key-in-the-western-hemisphere-top-us-army-general-says/",
+      "title": "US \u2018economic supremacy\u2019 key in the Western Hemisphere, top US Army general says",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/10/14/us-economic-supremacy-key-in-the-western-hemisphere-top-us-army-general-says/",
+      "published": "2026-10-15T13:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792043721",
+      "title": "Sally Rooney books withdrawn from sale in UK over Palestine Action support",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/15/sally-rooney-withdraws-books-from-uk-over-palestine-action-support?traffic_source=rss",
+      "published": "2026-10-15T12:53:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 31.9522,
+        "lng": 35.2332
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "06384f2949fcef731e65b055bbed815a",
       "title": "Dubai Health Authority report highlights rapid growth in Dubai\u2019s health sector in the first half of 2026.",
@@ -267,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/15/gulf-eu-summit-in-riyadh-postponed-amid-houthi-attacks-on-saudi-arabia/",
-      "title": "Gulf-EU summit in Riyadh postponed amid Houthi attacks on Saudi Arabia",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/15/gulf-eu-summit-in-riyadh-postponed-amid-houthi-attacks-on-saudi-arabia/",
-      "published": "2026-10-15T10:51:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1792043699",
       "title": "FIFA set for rule change after Balogun red card row at the World Cup: reports",
       "source": "Al Jazeera",
@@ -443,28 +531,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792043966",
-      "title": "Russia says Ukraine resumes attacks on oil refineries",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss",
-      "published": "2026-10-15T10:02:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-to-address-parents-blocked-access-to-teen-medical-records/",
       "title": "US Army to address parents\u2019 blocked access to teen medical records",
       "source": "Defense News",
@@ -502,28 +568,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791899910",
-      "title": "\u2018Each country goes its own way\u2019: How Balkan politics shape ties with Israel",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/15/each-country-goes-its-own-way-how-balkan-politics-shape-ties-with-israel?traffic_source=rss",
-      "published": "2026-10-15T09:35:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
