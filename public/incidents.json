@@ -1,13 +1,123 @@
 {
-  "generated_at": "2026-10-15T15:33:50.686782+00:00",
+  "generated_at": "2026-10-15T16:34:25.666297+00:00",
   "total_incidents": 78,
   "incidents": [
+    {
+      "id": "9ac57984c6794a78d437e88fb1a9f13c",
+      "title": "\"\u0646\u0647\u0627\u064a\u0629 \u0627\u0644\u0645\u0639\u0631\u0643\u0629\".. \u0639\u0645\u0644\u064a\u0629 \u0627\u0633\u062a\u0628\u0627\u0642\u064a\u0629 \u062a\u064f\u0633\u0642\u0637 4 \u0634\u0628\u0643\u0627\u062a \u0625\u062c\u0631\u0627\u0645\u064a\u0629 \u062f\u0648\u0644\u064a\u0629 \u0641\u064a \u0625\u0646\u062c\u0627\u0632 \u0623\u0645\u0646\u064a \u0646\u0648\u0639\u064a \u064a\u0639\u0643\u0633 \u0643\u0641\u0627\u0621\u0629 \u0627\u0644\u0645\u0646\u0638\u0648\u0645\u0629 \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0641\u064a \u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u060c \u0646\u062c\u062d\u062a \u0634\u0631\u0637\u0629 \u0627\u0644\u0634\u0627\u0631\u0642\u0629\u060c \u0628\u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0645\u0639 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629\u060c \u0641\u064a \u062a\u0641\u0643\u064a\u0643 \u0634\u0628\u0643\u0627\u062a \u0625\u062c\u0631\u0627\u0645\u064a\u0629 \u062f\u0648\u0644\u064a\u0629 \u0645\u0646\u0638\u0645\u0629\u060c \u0648\u0627\u0644\u0642\u0628\u0636 \u0639\u0644\u0649 33 \u0645\u062a\u0647\u0645\u0627\u064b \u0645\u0646 12 \u062c\u0646\u0633\u064a\u0629 \u0645\u062e\u062a\u0644\u0641\u0629\u060c \u0648\u0630\u0644\u0643 \u0636\u0645\u0646 \u0627\u0644\u0639\u0645\u0644\u064a\u0629 \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0627\u0644\u0646\u0648\u0639\u064a\u0629 \"\u0646\u0647\u0627\u064a\u0629 \u0645\u0639\u0631\u0643\u0629\"\u060c \u0627\u0644\u062a\u064a \u0623\u0633\u0641\u0631\u062a \u0639\u0646 \u062a\u0623\u0645\u064a\u0646 \u0623\u0635\u0648\u0644 \u0634\u0631\u0643\u0627\u062a \u062a\u064f\u0642\u062f\u064e\u0651\u0631 \u0642\u064a\u0645\u062a\u0647\u0627 \u0628\u0623\u0643\u062b\u0631 \u0645\u0646 65 \u0645\u0644\u064a\u0627\u0631 \u062f\u0631\u0647\u0645\u060c \u0648\u062c\u0627\u0621\u062a \u0647\u0630\u0647 \u0627\u0644\u0646\u062a\u0627\u0626\u062c \u062b\u0645\u0631\u0629 \u0639\u0645\u0644 \u0645\u0624\u0633\u0633\u064a \u0645\u062a\u0643\u0627\u0645\u0644\u060c \u0648\u062c\u0647\u0648\u062f \u0623\u0645\u0646\u064a\u0629 \u0645\u062a\u0648\u0627\u0635\u0644\u0629\u060c \u0648\u062a\u0646\u0633\u064a\u0642 \u0648\u062b\u064a\u0642 \u0639\u0644\u0649 \u0627\u0644\u0645\u0633\u062a\u0648\u064a\u0627\u062a \u0627\u0644\u0627\u062a\u062d\u0627\u062f\u064a\u0629 \u0648\u0627\u0644\u0645\u062d\u0644\u064a\u0629 \u0648\u0627\u0644\u062f\u0648\u0644\u064a\u0629. \u201cEnd of Battle\u201d A Preemptive Operation Dismantles Four International Criminal Networks In a major security achievement reflecting the efficiency of the UAE\u2019s national security system, Sharjah Police, in coop",
+      "source": "UAE MOI (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2110768010839634034",
+      "published": "2026-10-15T16:21:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.3463,
+        "lng": 55.4209
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9ac57984c6794a78d437e88fb1a9f13c",
+      "title": "\"\u0646\u0647\u0627\u064a\u0629 \u0627\u0644\u0645\u0639\u0631\u0643\u0629\".. \u0639\u0645\u0644\u064a\u0629 \u0627\u0633\u062a\u0628\u0627\u0642\u064a\u0629 \u062a\u064f\u0633\u0642\u0637 4 \u0634\u0628\u0643\u0627\u062a \u0625\u062c\u0631\u0627\u0645\u064a\u0629 \u062f\u0648\u0644\u064a\u0629 \u0641\u064a \u0625\u0646\u062c\u0627\u0632 \u0623\u0645\u0646\u064a \u0646\u0648\u0639\u064a \u064a\u0639\u0643\u0633 \u0643\u0641\u0627\u0621\u0629 \u0627\u0644\u0645\u0646\u0638\u0648\u0645\u0629 \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0641\u064a \u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u060c \u0646\u062c\u062d\u062a \u0634\u0631\u0637\u0629 \u0627\u0644\u0634\u0627\u0631\u0642\u0629\u060c \u0628\u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0645\u0639 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629\u060c \u0641\u064a \u062a\u0641\u0643\u064a\u0643 \u0634\u0628\u0643\u0627\u062a \u0625\u062c\u0631\u0627\u0645\u064a\u0629 \u062f\u0648\u0644\u064a\u0629 \u0645\u0646\u0638\u0645\u0629\u060c \u0648\u0627\u0644\u0642\u0628\u0636 \u0639\u0644\u0649 33 \u0645\u062a\u0647\u0645\u0627\u064b \u0645\u0646 12 \u062c\u0646\u0633\u064a\u0629 \u0645\u062e\u062a\u0644\u0641\u0629\u060c \u0648\u0630\u0644\u0643 \u0636\u0645\u0646 \u0627\u0644\u0639\u0645\u0644\u064a\u0629 \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0627\u0644\u0646\u0648\u0639\u064a\u0629 \"\u0646\u0647\u0627\u064a\u0629 \u0645\u0639\u0631\u0643\u0629\"\u060c \u0627\u0644\u062a\u064a \u0623\u0633\u0641\u0631\u062a \u0639\u0646 \u062a\u0623\u0645\u064a\u0646 \u0623\u0635\u0648\u0644 \u0634\u0631\u0643\u0627\u062a \u062a\u064f\u0642\u062f\u064e\u0651\u0631 \u0642\u064a\u0645\u062a\u0647\u0627 \u0628\u0623\u0643\u062b\u0631 \u0645\u0646 65 \u0645\u0644\u064a\u0627\u0631 \u062f\u0631\u0647\u0645\u060c \u0648\u062c\u0627\u0621\u062a \u0647\u0630\u0647 \u0627\u0644\u0646\u062a\u0627\u0626\u062c \u062b\u0645\u0631\u0629 \u0639\u0645\u0644 \u0645\u0624\u0633\u0633\u064a \u0645\u062a\u0643\u0627\u0645\u0644\u060c \u0648\u062c\u0647\u0648\u062f \u0623\u0645\u0646\u064a\u0629 \u0645\u062a\u0648\u0627\u0635\u0644\u0629\u060c \u0648\u062a\u0646\u0633\u064a\u0642 \u0648\u062b\u064a\u0642 \u0639\u0644\u0649 \u0627\u0644\u0645\u0633\u062a\u0648\u064a\u0627\u062a \u0627\u0644\u0627\u062a\u062d\u0627\u062f\u064a\u0629 \u0648\u0627\u0644\u0645\u062d\u0644\u064a\u0629 \u0648\u0627\u0644\u062f\u0648\u0644\u064a\u0629. \u201cEnd of Battle\u201d A Preemptive Operation Dismantles Four International Criminal Networks In a major security achievement reflecting the efficiency of the UAE\u2019s national security system, Sharjah Police, in coop",
+      "source": "IDF (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2110768010839634034",
+      "published": "2026-10-15T16:21:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.3463,
+        "lng": 55.4209
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/your-military/2026/10/15/routine-testosterone-screening-of-us-troops-may-require-extensive-follow-on-care-study-finds/",
+      "title": "Routine testosterone screening of US troops may require extensive follow-on care, study finds",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/10/15/routine-testosterone-screening-of-us-troops-may-require-extensive-follow-on-care-study-finds/",
+      "published": "2026-10-15T16:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/15/yemens-houthi-rebels-hit-presidential-palace-in-aden/",
+      "title": "Yemen's Houthi rebels hit Presidential Palace in Aden",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/15/yemens-houthi-rebels-hit-presidential-palace-in-aden/",
+      "published": "2026-10-15T15:59:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Yemen",
+        "city": null,
+        "lat": 12.7855,
+        "lng": 45.0187
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792053703",
+      "title": "What is the \u2018Mother of All Bombs\u2019 US could use in Iran?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/15/what-is-the-mother-of-all-bombs-us-could-use-in-iran?traffic_source=rss",
+      "published": "2026-10-15T15:46:41+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo#0",
       "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15T15:31:26+00:00",
+      "published": "2026-10-15T15:44:08+00:00",
       "type": "missile",
       "status": "unconfirmed",
       "location": {
@@ -17,6 +127,50 @@
         "lng": 48.5164
       },
       "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uk/2026/10/15/uk-charity-trustee-belonged-to-sanctioned-iranian-morality-council/",
+      "title": "UK charity trustee belonged to sanctioned Iranian morality council",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/15/uk-charity-trustee-belonged-to-sanctioned-iranian-morality-council/",
+      "published": "2026-10-15T15:33:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/10/15/france-to-go-it-alone-on-next-gen-combat-aircraft-after-fcas-collapse/",
+      "title": "France to go it alone on next-gen combat aircraft after FCAS collapse",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/15/france-to-go-it-alone-on-next-gen-combat-aircraft-after-fcas-collapse/",
+      "published": "2026-10-15T15:30:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -202,7 +356,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/uk/2026/10/15/irans-hate-tv-channels-uk-arm-reported-to-police-under-national-security-law/",
-      "title": "Iran's 'hate' TV channel's UK arm reported to police under national security law",
+      "title": "UK arm of Iran's 'hate' TV channel reported to police under national security law",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/uk/2026/10/15/irans-hate-tv-channels-uk-arm-reported-to-police-under-national-security-law/",
       "published": "2026-10-15T14:56:11+00:00",
@@ -509,28 +663,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792055357",
-      "title": "Al Jazeera probe exposes fake viewing numbers for Israeli counter-film",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/15/al-jazeera-probe-exposes-fake-viewing-numbers-for-israeli-counter-film?traffic_source=rss",
-      "published": "2026-10-15T13:35:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "dc65c31ffbd6a56a5a41713a304c1c1e",
       "title": "A violating oil tanker that had switched off its tracking systems caught fire in a prohibited zone in the Sea of Oman, east of the Strait of Hormuz, Iran's Army Navy said.",
       "source": "Mehr News (RSS.app)",
@@ -545,50 +677,6 @@
         "lng": 53.688
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/15/president-sheikh-mohamed-offers-condolences-to-saudi-king-after-airport-strikes/",
-      "title": "President Sheikh Mohamed offers condolences to Saudi King after airport strikes",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/15/president-sheikh-mohamed-offers-condolences-to-saudi-king-after-airport-strikes/",
-      "published": "2026-10-15T13:08:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/15/never-give-up-ex-dubai-resident-gives-first-interview-after-five-year-detention-in-iraq/",
-      "title": "'You have to keep fighting': Former Dubai resident gives first interview after five-year detention in Iraq",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/15/never-give-up-ex-dubai-resident-gives-first-interview-after-five-year-detention-in-iraq/",
-      "published": "2026-10-15T13:07:23+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1103,28 +1191,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/news/pentagon-congress/2026/10/14/pentagon-needs-50b-for-mass-drone-production-hegseth-says/",
-      "title": "Pentagon needs $50B for mass drone production, Hegseth says",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/10/14/pentagon-needs-50b-for-mass-drone-production-hegseth-says/",
-      "published": "2026-10-14T22:06:56+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/us-news/2026/oct/14/israel-trump-peace-board-gaza-base",
       "title": "Israel blocks construction of key Gaza base created by Trump peace board",
       "source": "The Guardian",
@@ -1499,50 +1565,6 @@
       }
     },
     {
-      "id": "3bff6d3595938db375ee4da695e8d5fd",
-      "title": "\u0635\u062f\u0631 \u0627\u0644\u0639\u062f\u062f \u0627\u0644\u062c\u062f\u064a\u062f \u0645\u0646 \u0645\u062c\u0644\u0629 999 \u0627\u0644\u0645\u062c\u0644\u0629 \u0627\u0644\u062b\u0642\u0627\u0641\u064a\u0629 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629 \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0627\u0644\u062a\u064a \u062a\u0635\u062f\u0631 \u0639\u0646 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u060c \u0644\u0644\u0627\u0637\u0644\u0627\u0639 \u0639\u0644\u0649 \u0645\u0648\u0627\u0636\u064a\u0639 \u0627\u0644\u0645\u062c\u0644\u0629 \u064a\u0631\u062c\u0649 \u0632\u064a\u0627\u0631\u0629 \u0627\u0644\u0631\u0627\u0628\u0637  The new issue of 999 magazine has been released, the cultural, social and security magazine by the Ministry of Interior. To view the magazine's topics, please visit the link  #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a #\u0641\u062e\u0648\u0631\u064a\u0646_\u0628\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \ud83c\udde6\ud83c\uddea #\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a_\u0623\u0645\u0646_\u0648\u0623\u0645\u0627\u0646 #MOIUAE",
-      "source": "UAE MOI (RSS.app)",
-      "source_url": "https://x.com/moiuae/status/2110077482674397511",
-      "published": "2026-10-13T18:37:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3bff6d3595938db375ee4da695e8d5fd",
-      "title": "\u0635\u062f\u0631 \u0627\u0644\u0639\u062f\u062f \u0627\u0644\u062c\u062f\u064a\u062f \u0645\u0646 \u0645\u062c\u0644\u0629 999 \u0627\u0644\u0645\u062c\u0644\u0629 \u0627\u0644\u062b\u0642\u0627\u0641\u064a\u0629 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629 \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0627\u0644\u062a\u064a \u062a\u0635\u062f\u0631 \u0639\u0646 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u060c \u0644\u0644\u0627\u0637\u0644\u0627\u0639 \u0639\u0644\u0649 \u0645\u0648\u0627\u0636\u064a\u0639 \u0627\u0644\u0645\u062c\u0644\u0629 \u064a\u0631\u062c\u0649 \u0632\u064a\u0627\u0631\u0629 \u0627\u0644\u0631\u0627\u0628\u0637  The new issue of 999 magazine has been released, the cultural, social and security magazine by the Ministry of Interior. To view the magazine's topics, please visit the link  #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a #\u0641\u062e\u0648\u0631\u064a\u0646_\u0628\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \ud83c\udde6\ud83c\uddea #\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a_\u0623\u0645\u0646_\u0648\u0623\u0645\u0627\u0646 #MOIUAE",
-      "source": "IDF (RSS.app)",
-      "source_url": "https://x.com/moiuae/status/2110077482674397511",
-      "published": "2026-10-13T18:37:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
       "title": "Saudi Arabia strikes oil depots in Yemen and says missiles launched toward location of Saudi Aramco HQ",
       "source": "The Guardian",
@@ -1687,28 +1709,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5m2dn7zz4nyo#1",
-      "title": "On Yemen's desert battlefield, a war with global consequences is being waged",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c5m2dn7zz4nyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12T16:28:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
       },
       "credibility": 95,
       "is_government": false,
