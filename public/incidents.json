@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-14T23:28:25.314687+00:00",
-  "total_incidents": 55,
+  "generated_at": "2026-10-15T00:59:49.953166+00:00",
+  "total_incidents": 53,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792015226",
+      "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss",
+      "published": "2026-10-15T00:00:00+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792022070",
+      "title": "US destroys dhow suspected of Iranian command and control",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss",
+      "published": "2026-10-14T23:58:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "42f5841c853fe33d2935e0b81b61d5ee",
       "title": "The National Committee for Combating Money Laundering and Terrorist Financing, chaired by FIU Head Dr. Hamad Al-Makrad, convened to review national efforts aimed at strengthening Kuwait's #AML / #CFT framework. The meeting focused on enhancing inter-agency coordination, streamlining information exchange, and ensuring strict compliance with international standards to protect national financial security.  #Kuwait #KUNA #KUNA",
@@ -47,78 +91,12 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792011853",
-      "title": "ICE pushes back on report suggesting body cameras that automatically record",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/14/ice-pushes-back-on-report-suggesting-body-cameras-that-automatically-record?traffic_source=rss",
-      "published": "2026-10-14T22:57:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/pentagon-congress/2026/10/14/pentagon-needs-50b-for-mass-drone-production-hegseth-says/",
       "title": "Pentagon needs $50B for mass drone production, Hegseth says",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/10/14/pentagon-needs-50b-for-mass-drone-production-hegseth-says/",
       "published": "2026-10-14T22:06:56+00:00",
       "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792010439",
-      "title": "Israeli quadcopter drone drops bomb in Lebanon",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss",
-      "published": "2026-10-14T20:47:46+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792002487",
-      "title": "Families of Trinidadian men killed in US boat strike demand accountability",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/14/families-of-trinidadian-men-killed-in-us-boat-strike-demand-accountability?traffic_source=rss",
-      "published": "2026-10-14T20:42:59+00:00",
-      "type": "naval",
       "status": "unconfirmed",
       "location": {
         "country": null,
@@ -347,28 +325,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/tennis/2026/10/14/six-kings-slam-tournament-in-saudi-arabia-featuring-alcaraz-and-djokovic-postponed-due-to-attacks-on-riyadh/",
-      "title": "Six Kings Slam tournament in Saudi Arabia featuring Alcaraz and Djokovic postponed due to attacks on Riyadh",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/tennis/2026/10/14/six-kings-slam-tournament-in-saudi-arabia-featuring-alcaraz-and-djokovic-postponed-due-to-attacks-on-riyadh/",
-      "published": "2026-10-14T17:44:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
