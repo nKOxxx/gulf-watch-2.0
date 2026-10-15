@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-15T00:59:49.953166+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-15T01:38:31.674588+00:00",
+  "total_incidents": 55,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792013061",
+      "title": "Ship catches fire in Romania\u2019s waters amid rising attacks in the Black Sea",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/15/ship-catches-fire-in-romanias-waters-amid-rising-attacks-in-the-black-sea?traffic_source=rss",
+      "published": "2026-10-15T01:20:26+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 21.4735,
+        "lng": 55.9754
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-soldiers-must-train-on-new-basics-of-unmanned-systems-officials-say/",
+      "title": "US soldiers must train on \u2018new basics\u2019 of unmanned systems, officials say",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-soldiers-must-train-on-new-basics-of-unmanned-systems-officials-say/",
+      "published": "2026-10-15T01:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 23.5859,
+        "lng": 58.4059
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792015226",
       "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
