@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-16T07:34:51.109293+00:00",
-  "total_incidents": 71,
+  "generated_at": "2026-10-16T08:38:51.619001+00:00",
+  "total_incidents": 72,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/16/abu-dhabis-imi-rejects-uk-ofcom-report-into-telegraph-bid/",
+      "title": "Abu Dhabi's IMI rejects UK Ofcom report into Telegraph bid",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/16/abu-dhabis-imi-rejects-uk-ofcom-report-into-telegraph-bid/",
+      "published": "2026-10-16T08:25:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "58ddefe6adedb01c08b759513cd1043b",
+      "title": "The Gulf Cup U-17 Football Championship (Qatar 2026) kicks off in Doha, Grand Hamad Stadium and will continue until November 4, with the participation of the Kuwaiti national team  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2111007076218544487",
+      "published": "2026-10-16T08:11:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 25.2854,
+        "lng": 51.531
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792134099",
       "title": "How Israel\u2019s elections will affect Palestinians",
@@ -18,6 +62,28 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c78c0ef458b4209293f94f6c88017327",
+      "title": ". Abu Dhabi Marine Sports Club (ADMSC) will host the first round of the UAE Motosurf Championship 2026 on 24th-25th Octo...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/Dei7yRuotik",
+      "published": "2026-10-16T06:53:31+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -289,6 +355,28 @@
       }
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no#0",
+      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T05:00:17+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm",
       "title": "Future of western security is at stake in Yemen civil war, says country\u2019s former PM",
       "source": "The Guardian",
@@ -436,28 +524,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "6e4ca253bdd65f1a88b53814ed29ec4e",
-      "title": "#Yemen_army neutralize 700 Houthi militants  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110845274461475145",
-      "published": "2026-10-15T21:28:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -631,28 +697,6 @@
         "city": null,
         "lat": 24.4539,
         "lng": 54.3773
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "1e376522f5409964eac24b378a5e5011",
-      "title": "Houthi attacks on #Saudi_Arabia claimed 19 lives since Oct. 1 -- #Coalition  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2110812063794597970",
-      "published": "2026-10-15T19:16:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
@@ -1536,28 +1580,6 @@
       },
       "credibility": 70,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "042952fa1a8265a338f04eec4c10d8d9",
-      "title": "Statment by H.E. the Chairman of the National Emergency Crisis and Disaster Management Authority #NCEMA on the Occasion of the International Day for Disaster Risk Reduction #IDDRR.",
-      "source": "UAE NCEMA (RSS.app)",
-      "source_url": "https://x.com/NCEMAUAE/status/2109911122358985008",
-      "published": "2026-10-13T07:36:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
