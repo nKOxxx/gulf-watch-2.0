@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-16T21:29:08.564089+00:00",
+  "generated_at": "2026-10-16T22:30:17.948618+00:00",
   "total_incidents": 62,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792182699",
+      "title": "Yemen\u2019s government says Houthis fired two missiles at Aden airport",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss",
+      "published": "2026-10-16T21:56:07+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Yemen",
+        "city": null,
+        "lat": 12.7855,
+        "lng": 45.0187
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792180121",
       "title": "Meta employees say Lula\u2019s accounts restricted in Brazil election: Report",
@@ -656,28 +678,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/recap/ausa/2026/10/16/recap-autonomy-dominates-the-us-armys-2026-conference-in-washington/",
-      "title": "Recap: Autonomy dominates the US Army\u2019s 2026 conference in Washington",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/recap/ausa/2026/10/16/recap-autonomy-dominates-the-us-armys-2026-conference-in-washington/",
-      "published": "2026-10-16T12:17:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
