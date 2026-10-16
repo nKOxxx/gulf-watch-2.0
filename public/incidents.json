@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T00:59:16.919467+00:00",
+  "generated_at": "2026-10-16T01:38:00.223621+00:00",
   "total_incidents": 81,
   "incidents": [
     {
@@ -267,10 +267,10 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/future/technology/2026/10/15/russian-bots-and-influence-operations-werent-disrupted-by-ukraine-strikes/",
+      "id": "https://www.thenationalnews.com/future/technology/2026/10/16/yandex-data-center-ukraine-drone/",
       "title": "Russian bots and influence operations 'weren't disrupted by Ukraine strikes'",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/15/russian-bots-and-influence-operations-werent-disrupted-by-ukraine-strikes/",
+      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/16/yandex-data-center-ukraine-drone/",
       "published": "2026-10-15T21:26:52+00:00",
       "type": "incident",
       "status": "unconfirmed",
