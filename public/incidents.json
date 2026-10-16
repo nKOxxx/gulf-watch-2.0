@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-16T02:38:28.399863+00:00",
-  "total_incidents": 80,
+  "generated_at": "2026-10-16T03:36:55.213485+00:00",
+  "total_incidents": 78,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/opinion/feedback/2026/10/16/why-its-important-to-deepen-our-understanding-of-ai/",
+      "title": "Why it\u2019s important to deepen our understanding of AI",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/opinion/feedback/2026/10/16/why-its-important-to-deepen-our-understanding-of-ai/",
+      "published": "2026-10-16T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792113108",
+      "title": "China tells Israel to stop \u2018forced establishment\u2019 of West Bank settlements",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss",
+      "published": "2026-10-16T02:56:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792115840",
       "title": "Peshawar mourns children killed in school roof collapse",
@@ -179,55 +223,11 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792100538",
-      "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
-      "published": "2026-10-15T23:35:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/industry/techwatch/2026/10/15/killer-balloons-an-option-as-us-army-seeks-to-exploit-the-stratosphere/",
       "title": "Killer balloons an option as US Army seeks to \u2018exploit the stratosphere\u2019",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/15/killer-balloons-an-option-as-us-army-seeks-to-exploit-the-stratosphere/",
       "published": "2026-10-15T23:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792101067",
-      "title": "Three children, one teacher killed in Oregon school shooting",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
-      "published": "2026-10-15T22:51:56+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -399,28 +399,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/15/marco-rubio-accuses-cuba-of-helping-iran-and-other-malign-actors-to-attack-us/",
-      "title": "Marco Rubio accuses Cuba of helping Iran and other 'malign actors' to attack US",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/15/marco-rubio-accuses-cuba-of-helping-iran-and-other-malign-actors-to-attack-us/",
-      "published": "2026-10-15T20:01:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-army-eyes-developing-soldier-worn-drone-detection-gear/",
       "title": "US Army eyes developing soldier-worn drone detection gear",
       "source": "Defense News",
@@ -568,28 +546,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/15/us-imposes-iran-related-sanctions-on-iraq-development-bank/",
-      "title": "US imposes Iran-related sanctions on Iraq Development Bank",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/15/us-imposes-iran-related-sanctions-on-iraq-development-bank/",
-      "published": "2026-10-15T19:20:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
