@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-16T14:34:02.096506+00:00",
-  "total_incidents": 60,
+  "generated_at": "2026-10-16T15:30:33.018749+00:00",
+  "total_incidents": 62,
   "incidents": [
+    {
+      "id": "https://breakingdefense.com/?p=98724",
+      "title": "Germany changes course on plans to buy MQ-28 drone wingman: Boeing official",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/germany-changes-course-on-plans-to-buy-mq-28-drone-wingman-boeing-official/",
+      "published": "2026-10-16T15:19:30+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/10/16/south-korean-lasers-down-three-drones-in-army-demo-hanwha-says/",
+      "title": "South Korean lasers down three drones in Army demo, Hanwha says",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/16/south-korean-lasers-down-three-drones-in-army-demo-hanwha-says/",
+      "published": "2026-10-16T15:14:56+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/future/technology/2026/10/16/china-targets-ai-technology-exports-with-new-controls-as-us-trade-truce-frays/",
+      "title": "China targets AI technology exports with new controls as US trade truce frays",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/16/china-targets-ai-technology-exports-with-new-controls-as-us-trade-truce-frays/",
+      "published": "2026-10-16T14:47:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/10/16/bulgaria-seeks-nato-anti-drone-systems-defense-minister-says/",
+      "title": "Bulgaria seeks NATO anti-drone systems, defense minister says",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/16/bulgaria-seeks-nato-anti-drone-systems-defense-minister-says/",
+      "published": "2026-10-16T14:44:49+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo#0",
       "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
@@ -26,7 +114,7 @@
     },
     {
       "id": "https://breakingdefense.com/?p=98677",
-      "title": "Open system architecture will be \u2018hyper important\u2019 in downselect of Army\u2019s XM30: senior official",
+      "title": "Open system architecture will be \u2018hyper important\u2019 in downselect of Army\u2019s XM30: Senior official",
       "source": "Breaking Defense",
       "source_url": "https://breakingdefense.com/2026/10/open-system-architecture-will-be-hyper-important-in-downselect-of-armys-xm30-senior-official/",
       "published": "2026-10-16T14:31:00+00:00",
@@ -39,6 +127,28 @@
         "lng": 48.0
       },
       "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792154416",
+      "title": "Qatar announces \u2018massive\u2019 solar plant project in Lebanon",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/16/qatar-announces-massive-solar-plant-project-in-lebanon?traffic_source=rss",
+      "published": "2026-10-16T14:19:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -443,28 +553,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/16/indian-embassy-in-uae-issues-warning-over-fake-job-offers-and-visa-scams/",
-      "title": "Indian embassy in UAE issues warning over fake job offers and visa scams",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/16/indian-embassy-in-uae-issues-warning-over-fake-job-offers-and-visa-scams/",
-      "published": "2026-10-16T11:00:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-military/2026/10/14/what-is-the-us-army-doing-in-panama-a-bit-of-everything/",
       "title": "What is the US Army doing in Panama? A bit of everything.",
       "source": "Defense News",
@@ -831,28 +919,6 @@
         "lng": 48.5164
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/industry/techwatch/2026/10/15/killer-balloons-an-option-as-us-army-seeks-to-exploit-the-stratosphere/",
-      "title": "Killer balloons an option as US Army seeks to \u2018exploit the stratosphere\u2019",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/15/killer-balloons-an-option-as-us-army-seeks-to-exploit-the-stratosphere/",
-      "published": "2026-10-15T23:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1294,28 +1360,6 @@
       },
       "credibility": 70,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5c9e1fc271163f62b916980ae80105d7",
-      "title": "\u0641\u064a #\u0627\u0644\u064a\u0648\u0645_\u0627\u0644\u0639\u0627\u0644\u0645\u064a_\u0644\u0644\u062d\u062f_\u0645\u0646_\u0645\u062e\u0627\u0637\u0631_\u0627\u0644\u0643\u0648\u0627\u0631\u062b\u060c \u0646\u0624\u0643\u062f \u0623\u0646 \u0627\u0644\u0642\u062f\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u0635\u0645\u0648\u062f \u062a\u0628\u062f\u0623 \u0645\u0646 \u0627\u0644\u0645\u0646\u0632\u0644. \u0648\u0627\u0633\u062a\u0639\u062f\u0627\u062f\u0643 \u0627\u0644\u064a\u0648\u0645 \u064a\u0635\u0646\u0639 \u0641\u0631\u0642\u0627 \u063a\u062f\u0627\u064b. On the International Day for Disaster Risk Reduction #IDDRR, we affirm that resilience starts at home. Your preparedness today makes a difference tomorrow.",
-      "source": "UAE NCEMA (RSS.app)",
-      "source_url": "https://x.com/NCEMAUAE/status/2110024222898823227",
-      "published": "2026-10-13T15:05:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
