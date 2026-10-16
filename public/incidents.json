@@ -1,10 +1,252 @@
 {
-  "generated_at": "2026-10-16T13:32:58.346425+00:00",
-  "total_incidents": 58,
+  "generated_at": "2026-10-16T14:34:02.096506+00:00",
+  "total_incidents": 60,
   "incidents": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo#0",
+      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T14:31:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=98677",
+      "title": "Open system architecture will be \u2018hyper important\u2019 in downselect of Army\u2019s XM30: senior official",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/open-system-architecture-will-be-hyper-important-in-downselect-of-armys-xm30-senior-official/",
+      "published": "2026-10-16T14:31:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792153888",
+      "title": "How Israeli firm\u2019s \u2018zero-click\u2019 malware attack poses global security risk",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/16/how-israeli-firms-zero-click-malware-attack-poses-global-security-risk?traffic_source=rss",
+      "published": "2026-10-16T14:12:13+00:00",
+      "type": "cyber",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/16/settlers-beat-washington-post-journalist-during-attack-on-palestinian-olive-harvest/",
+      "title": "Settlers beat Washington Post journalist during attack on Palestinian olive harvest",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/16/settlers-beat-washington-post-journalist-during-attack-on-palestinian-olive-harvest/",
+      "published": "2026-10-16T14:07:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
+      "title": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
+      "published": "2026-10-16T14:06:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/mideast-africa/2026/10/16/israel-secures-procurement-of-12-apache-gunships-in-last-minute-maneuver/",
+      "title": "Israel secures procurement of 12 Apache gunships in last-minute maneuver",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/mideast-africa/2026/10/16/israel-secures-procurement-of-12-apache-gunships-in-last-minute-maneuver/",
+      "published": "2026-10-16T14:01:24+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792159115",
+      "title": "Qatar FM calls for Israeli withdrawal from Lebanon",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/qatar-fm-calls-for-israeli-withdrawal-from-lebanon?traffic_source=rss",
+      "published": "2026-10-16T14:01:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/your-military/2026/10/15/weaponized-light-kbrs-new-base-defense-technology-pits-lasers-against-drones/",
+      "title": "\u2018Weaponized light\u2019: KBR\u2019s new base defense technology pits lasers against drones",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/10/15/weaponized-light-kbrs-new-base-defense-technology-pits-lasers-against-drones/",
+      "published": "2026-10-16T14:00:00+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "369423867e2faec52d2b70408b819ab6",
+      "title": "\u0627\u062e\u062a\u064f\u062a\u0645\u062a \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u0627\u062a \u0627\u0644\u0633\u0646\u0648\u064a\u0629 \u0644\u0642\u064a\u0627\u062f\u0627\u062a \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 2026\u060c \u0628\u0645\u0634\u0627\u0631\u0643\u0629 \u0623\u0643\u062b\u0631 \u0645\u0646 700 \u0642\u0627\u0626\u062f \u0648\u062e\u0628\u064a\u0631 \u0645\u0646 100 \u062f\u0648\u0644\u0629\u060c \u0641\u064a \u0623\u0643\u062b\u0631 \u0645\u0646 60 \u062c\u0644\u0633\u0629 \u0648\u0641\u0639\u0627\u0644\u064a\u0629\u060c \u0623\u0643\u062f\u062a \u0623\u0647\u0645\u064a\u0629 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u062f\u0648\u0644\u064a \u0648\u0627\u0644\u0639\u0645\u0644 \u0627\u0644\u0645\u0634\u062a\u0631\u0643 \u0641\u064a \u062a\u0635\u0645\u064a\u0645 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0648\u0635\u0646\u0627\u0639\u0629 \u0627\u0644\u063a\u062f. The Annual Meeting of Global Future Leaders 2026 concluded with over 700 leaders and experts from 100 countries participating in more than 60 sessions and events, highlighting the importance of global collaboration and collective action in shaping the future.",
+      "source": "UAE Media Office (RSS.app)",
+      "source_url": "https://x.com/UAEmediaoffice/status/2111094013298188678",
+      "published": "2026-10-16T13:56:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792158673",
+      "title": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss",
+      "published": "2026-10-16T13:52:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792153773",
+      "title": "Palestinians, US journalist attacked in West Bank pogrom: What we know",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-attacked-in-west-bank-pogrom-what-we-know?traffic_source=rss",
+      "published": "2026-10-16T13:26:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 31.9466,
+        "lng": 35.3027
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.aljazeera.com/?t=1792148889",
-      "title": "Israeli settlers continue progrom amid olive harvest in occupied West Bank",
+      "title": "Israeli settlers continue pogrom amid olive harvest in occupied West Bank",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank?traffic_source=rss",
       "published": "2026-10-16T13:04:32+00:00",
@@ -69,28 +311,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792153225",
-      "title": "Fuel tanker fire engulfs market in southern Nigeria",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/fuel-tanker-fire-engulfs-market-in-southern-nigeria?traffic_source=rss",
-      "published": "2026-10-16T12:23:12+00:00",
-      "type": "ground",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/recap/ausa/2026/10/16/recap-autonomy-dominates-the-us-armys-2026-conference-in-washington/",
       "title": "Recap: Autonomy dominates the US Army\u2019s 2026 conference in Washington",
       "source": "Defense News",
@@ -147,28 +367,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792094382",
-      "title": "\u2018Trying to dominate\u2019: In Cyprus, some fear Israel\u2019s growing influence",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state?traffic_source=rss",
-      "published": "2026-10-16T11:54:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -257,28 +455,6 @@
         "city": null,
         "lat": 23.4241,
         "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/16/robert-pether-detained-in-iraq-former-dubai-resident/",
-      "title": "'I was innocent': Former Dubai resident gives first interview after five-year detention in Iraq",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/16/robert-pether-detained-in-iraq-former-dubai-resident/",
-      "published": "2026-10-16T10:15:36+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 85,
       "is_government": false,
@@ -509,28 +685,6 @@
       }
     },
     {
-      "id": "c78c0ef458b4209293f94f6c88017327",
-      "title": ". Abu Dhabi Marine Sports Club (ADMSC) will host the first round of the UAE Motosurf Championship 2026 on 24th-25th Octo...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/Dei7yRuotik",
-      "published": "2026-10-16T06:53:31+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "e332999d685891d54e7f9531e08e8946",
       "title": "#Kuwait Petroleum Corporation (KPC): The price of Kuwaiti oil fell USD 2.06 to USD 104.17 per barrel (pb) in Thursday's trading, compared to USD 106.23 pb on Wednesday  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -707,28 +861,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/news/your-military/2026/10/15/expanded-dining-options-popular-among-soldiers-us-army-officials-say/",
-      "title": "Expanded dining options popular among soldiers, US Army officials say",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-military/2026/10/15/expanded-dining-options-popular-among-soldiers-us-army-officials-say/",
-      "published": "2026-10-15T21:30:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=98646",
       "title": "Army looks to add third CAML system, Lozano says",
       "source": "Breaking Defense",
@@ -743,28 +875,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-army-eyes-developing-soldier-worn-drone-detection-gear/",
-      "title": "US Army eyes developing soldier-worn drone detection gear",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-army-eyes-developing-soldier-worn-drone-detection-gear/",
-      "published": "2026-10-15T20:00:00+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -971,50 +1081,6 @@
       }
     },
     {
-      "id": "74efd52bd8391d36f33e65ad61a61e51",
-      "title": "Weekly security report #\u0645\u0645\u0644\u0643\u0629_\u0627\u0644\u0628\u062d\u0631\u064a\u0646 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 #\u0627\u0644\u0627\u0645\u0646 #Moi",
-      "source": "Bahrain MOI (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DegvQ0yRmYA",
-      "published": "2026-10-15T10:28:13+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/15/yemen-stockpile-supplies-houthis-advance-taiz",
-      "title": "Food and fuel run low as besieged Yemeni city braces for Houthi breakthrough",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/15/yemen-stockpile-supplies-houthis-advance-taiz",
-      "published": "2026-10-15T10:18:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "f61c7608a0d138ff0df85de3af0fd63a",
       "title": "\u0623\u0643\u062f\u062a \u0633\u0645\u0648 \u0627\u0644\u0634\u064a\u062e\u0629 \u0644\u0637\u064a\u0641\u0629 \u0628\u0646\u062a \u0645\u062d\u0645\u062f \u0628\u0646 \u0631\u0627\u0634\u062f \u0622\u0644 \u0645\u0643\u062a\u0648\u0645\u060c \u0631\u0626\u064a\u0633\u0629 \u0647\u064a\u0626\u0629 \u0627\u0644\u062b\u0642\u0627\u0641\u0629 \u0648\u0627\u0644\u0641\u0646\u0648\u0646 \u0641\u064a \u062f\u0628\u064a\u060c \u062e\u0644\u0627\u0644 \u0645\u0634\u0627\u0631\u0643\u062a\u0647\u0627 \u0641\u064a \u00ab\u0645\u062c\u0644\u0633 \u0627\u0644\u0642\u064a\u0627\u062f\u0627\u062a \u0627\u0644\u0646\u0633\u0627\u0626\u064a\u0629\u00bb \u0636\u0645\u0646 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u0627\u062a \u0627\u0644\u0633\u0646\u0648\u064a\u0629 \u0644\u0642\u064a\u0627\u062f\u0627\u062a \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 2026\u060c \u0623\u0647\u0645\u064a\u0629 \u0627\u0644\u0645\u062c\u0627\u0644\u0633 \u0648\u062f\u0648\u0631\u0647\u0627 \u0627\u0644\u062a\u0627\u0631\u064a\u062e\u064a \u0648\u0627\u0644\u062b\u0642\u0627\u0641\u064a \u0641\u064a \u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u0623\u0641\u0643\u0627\u0631 \u0648\u0627\u0644\u062e\u0628\u0631\u0627\u062a \u0648\u0628\u0646\u0627\u0621 \u0627\u0644\u0639\u0644\u0627\u0642\u0627\u062a\u060c \u0648\u0623\u0634\u0627\u0631\u062a \u0633\u0645\u0648\u0647\u0627 \u0625\u0644\u0649 \u0623\u0647\u0645\u064a\u0629 \u062c\u0645\u0639 \u0627\u0644\u0642\u064a\u0627\u062f\u0627\u062a \u0627\u0644\u0646\u0633\u0627\u0626\u064a\u0629 \u0645\u0646 \u0645\u062e\u062a\u0644\u0641 \u0627\u0644\u0645\u062c\u0627\u0644\u0627\u062a \u0644\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u062a\u062c\u0627\u0631\u0628 \u0648\u0627\u0644\u0627\u0633\u062a\u0641\u0627\u062f\u0629 \u0645\u0646 \u0625\u0646\u062c\u0627\u0632\u0627\u062a\u0647\u0646 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u0629 \u0648\u0627\u0644\u0628\u0646\u0627\u0621 \u0639\u0644\u064a\u0647\u0627 \u0646\u062d\u0648 \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644. H.H. Sheikha Latifa bint Mohammed bin Rashid Al Maktoum, Chairperson of Dubai Culture & Arts Authority, highlighted the historical and cultural importance of majlises in exchanging ideas and experiences and building connections. Speaking at the Women\u2019s Leadership Majlis during the Annual Meeting of",
       "source": "UAE Media Office (RSS.app)",
@@ -1073,28 +1139,6 @@
         "lng": 38.9968
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=98495",
-      "title": "Missiles, drones and air-defense weapons galore: Images from AUSA\u2019s final day",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/missiles-drones-and-air-defense-weapons-galore-images-from-ausas-final-day/",
-      "published": "2026-10-14T17:44:25+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1169,7 +1213,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o#0",
+      "id": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o#1",
       "title": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
