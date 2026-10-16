@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-16T03:36:55.213485+00:00",
-  "total_incidents": 78,
+  "generated_at": "2026-10-16T04:35:05.825481+00:00",
+  "total_incidents": 76,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/16/live-houthi-attacks-saudi-arabia-yemen/",
+      "title": "Middle East latest: Saudi coalition releases footage of Houthi attacks on Riyadh airport",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/16/live-houthi-attacks-saudi-arabia-yemen/",
+      "published": "2026-10-16T04:07:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm",
+      "title": "Future of western security is at stake in Yemen civil war, says country\u2019s former PM",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm",
+      "published": "2026-10-16T04:00:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/16/uae-weather-speed-limit-reduced-after-morning-fog-alerts-in-abu-dhabi-and-dubai/",
+      "title": "UAE weather: Speed limits reduced after morning fog alerts in Abu Dhabi and Dubai",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/16/uae-weather-speed-limit-reduced-after-morning-fog-alerts-in-abu-dhabi-and-dubai/",
+      "published": "2026-10-16T03:39:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/opinion/feedback/2026/10/16/why-its-important-to-deepen-our-understanding-of-ai/",
       "title": "Why it\u2019s important to deepen our understanding of AI",
@@ -158,11 +224,11 @@
     },
     {
       "id": "https://www.aljazeera.com/?t=1792103575",
-      "title": "Iran war live: Saudi blasts Houthi \u2018war crimes\u2019; US warns on Saudi airports",
+      "title": "Iran war live: Trump says ground troops unlikely in Iran; Saudi downs drone",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
       "published": "2026-10-16T00:02:37+00:00",
-      "type": "explosion",
+      "type": "drone",
       "status": "unconfirmed",
       "location": {
         "country": "Saudi Arabia",
@@ -311,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/future/technology/2026/10/16/yandex-data-center-ukraine-drone/",
-      "title": "Russian bots and influence operations 'weren't disrupted by Ukraine strikes'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/16/yandex-data-center-ukraine-drone/",
-      "published": "2026-10-15T21:26:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=98646",
       "title": "Army looks to add third CAML system, Lozano says",
       "source": "Breaking Defense",
@@ -345,50 +389,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/15/us-extends-sanctions-waiver-on-russias-lukoil-until-2027/",
-      "title": "US extends sanctions waiver on Russia's Lukoil until 2027",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/15/us-extends-sanctions-waiver-on-russias-lukoil-until-2027/",
-      "published": "2026-10-15T20:42:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/15/rubio-speaks-to-lebanons-aoun-about-explosives-seized-from-hezbollah/",
-      "title": "Rubio speaks to Lebanon\u2019s Aoun about explosives seized from Hezbollah",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/15/rubio-speaks-to-lebanons-aoun-about-explosives-seized-from-hezbollah/",
-      "published": "2026-10-15T20:26:25+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
       },
       "credibility": 85,
       "is_government": false,
@@ -817,28 +817,6 @@
       }
     },
     {
-      "id": "8bd46b31453bad11c8f5a07bc7a39497",
-      "title": "Mansoor bin Mohammed: I honoured the winners of the 14th Dubai Award for Sustainable Transport, organised annually by Dubai\u2019s Roads and Transport Authority (RTA) to advance sustainable mobility, drive innovation, enhance safety and protect the environment. This year\u2019s edition attracted more than 750 applications, marking an increase of over 400% from the previous year and reflecting the award\u2019s growing reach locally, regionally and internationally. I congratulate Greater Amman Municipality in Jordan on winning the Elite Award for its Bus Rapid Transit (BRT) project. I also congratulate all the winners from government entities, companies and educational institutions across the award\u2019s various",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2110746815930998825",
-      "published": "2026-10-15T14:57:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "81019352a03cc283d174d5b961f565fc",
       "title": "\u062a\u0635\u0648\u064a\u0631 \u0623\u0648 \u0646\u0634\u0631 \u0623\u0648 \u062a\u062f\u0627\u0648\u0644 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0630\u0627\u062a \u0635\u0644\u0629 \u0628\u0627\u0644\u062a\u0635\u062f\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0648\u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0645\u0648\u0627\u0642\u0639 \u0633\u0642\u0648\u0637\u0647\u0627 \u064a\u0639\u0631\u0636\u0643 \u0644\u0644\u0645\u0633\u0627\u0621\u0644\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a\u0629. #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 Filming, publishing, or sharing information related to countering missiles and drones and their impact sites exposes you to legal liability. #Ministry_of_Interior",
       "source": "Saudi Civil Defense (RSS.app)",
@@ -875,6 +853,28 @@
         "lng": 48.0
       },
       "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8bd46b31453bad11c8f5a07bc7a39497",
+      "title": "Mansoor bin Mohammed: I honoured the winners of the 14th Dubai Award for Sustainable Transport, organised annually by Dubai\u2019s Roads and Transport Authority (RTA) to advance sustainable mobility, drive innovation, enhance safety and protect the environment. This year\u2019s edition attracted more than 750 applications, marking an increase of over 400% from the previous year and reflecting the award\u2019s growing reach locally, regionally and internationally. I congratulate Greater Amman Municipality in Jordan on winning the Elite Award for its Bus Rapid Transit (BRT) project. I also congratulate all the winners from government entities, companies and educational institutions across the award\u2019s various",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2110746815930998825",
+      "published": "2026-10-15T14:57:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -1565,28 +1565,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/global-development/2026/oct/14/najmeh-amini-blasphemy-death-sentence-insulting-prophet",
-      "title": "Iranian woman handed death sentence for \u2018blasphemy\u2019 in social media post",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/global-development/2026/oct/14/najmeh-amini-blasphemy-death-sentence-insulting-prophet",
-      "published": "2026-10-14T04:00:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "5c9e1fc271163f62b916980ae80105d7",
       "title": "\u0641\u064a #\u0627\u0644\u064a\u0648\u0645_\u0627\u0644\u0639\u0627\u0644\u0645\u064a_\u0644\u0644\u062d\u062f_\u0645\u0646_\u0645\u062e\u0627\u0637\u0631_\u0627\u0644\u0643\u0648\u0627\u0631\u062b\u060c \u0646\u0624\u0643\u062f \u0623\u0646 \u0627\u0644\u0642\u062f\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u0635\u0645\u0648\u062f \u062a\u0628\u062f\u0623 \u0645\u0646 \u0627\u0644\u0645\u0646\u0632\u0644. \u0648\u0627\u0633\u062a\u0639\u062f\u0627\u062f\u0643 \u0627\u0644\u064a\u0648\u0645 \u064a\u0635\u0646\u0639 \u0641\u0631\u0642\u0627 \u063a\u062f\u0627\u064b. On the International Day for Disaster Risk Reduction #IDDRR, we affirm that resilience starts at home. Your preparedness today makes a difference tomorrow.",
       "source": "UAE NCEMA (RSS.app)",
@@ -1687,28 +1665,6 @@
         "city": null,
         "lat": 33.2232,
         "lng": 43.6793
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o#1",
-      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-13T04:30:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 95,
       "is_government": false,
