@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-17T12:37:06.346950+00:00",
-  "total_incidents": 63,
+  "generated_at": "2026-10-17T13:29:13.398908+00:00",
+  "total_incidents": 61,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792230336",
+      "title": "Child, four women among Palestinians injured in West Bank pogroms",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
+      "published": "2026-10-17T12:48:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 31.9466,
+        "lng": 35.3027
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/17/abu-dhabi-launches-rescue-network-for-injured-or-stranded-wildlife/",
+      "title": "Abu Dhabi launches rescue network for injured or stranded wildlife",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/17/abu-dhabi-launches-rescue-network-for-injured-or-stranded-wildlife/",
+      "published": "2026-10-17T12:41:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792233667",
       "title": "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar",
@@ -157,28 +201,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792221883",
-      "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/17/solar-power-booms-in-philippines-as-war-on-iran-spikes-energy-costs?traffic_source=rss",
-      "published": "2026-10-17T10:12:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "eacc7abd5f9d36ff8c0af749e882b92e",
       "title": "United Nations (UN) Resident Coordinator in #Kuwait Ghada Al-Tahir commends #Kuwait's re-election to the Human Rights Council (HRC) for the 2027-2029 term as a renewed responsibility and a significant opportunity to keep contributing to the multilateral system (An interview)  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -257,28 +279,6 @@
         "city": null,
         "lat": 24.5247,
         "lng": 39.5692
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/17/lebanon-airport-fails-to-meet-un-certification-requirements-report-finds/",
-      "title": "Lebanon airport fails to meet UN certification requirements, report finds",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/17/lebanon-airport-fails-to-meet-un-certification-requirements-report-finds/",
-      "published": "2026-10-17T08:06:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
       },
       "credibility": 85,
       "is_government": false,
@@ -399,28 +399,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/17/uae-flight-delays-possible-as-autumn-weather-causes-reduced-visibility/",
-      "title": "UAE flight delays possible as autumn weather causes reduced visibility",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/17/uae-flight-delays-possible-as-autumn-weather-causes-reduced-visibility/",
-      "published": "2026-10-17T07:40:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "4b954933a51bc642fd80dfc7f662634f",
       "title": "#Kuwait Petroleum Corporation (KPC): The price of Kuwaiti oil fell by USD 1.04 to USD 103.13 per barrel (pb) in Friday's trading, compared to USD 104.17 pb on Thursday  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -477,28 +455,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "303b2c34b3d1e171c47180e837750432",
-      "title": "Minister of State for Youth and Sports Affairs, Dr Tariq Al-Jalahma, stated that the \"Inspire Kuwait International Open Roll Race\" championship represents a qualitative addition to the sporting events hosted by Kuwait particularly in the field of motorsports, which enjoys significant interest among youth in Kuwait and the Gulf region.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2111275341276696813",
-      "published": "2026-10-17T01:57:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
