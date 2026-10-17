@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-17T03:34:28.231651+00:00",
-  "total_incidents": 64,
+  "generated_at": "2026-10-17T04:33:29.198700+00:00",
+  "total_incidents": 65,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/17/live-iran-war-hormuz-houthis-saudi-arabia-yemen/",
+      "title": "Middle East latest: Oil tanker struck in Strait of Hormuz, says Indian ports minister",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/17/live-iran-war-hormuz-houthis-saudi-arabia-yemen/",
+      "published": "2026-10-17T04:02:26+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.5,
+        "lng": 56.5
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792201595",
+      "title": "Southern California wildfire engulfs homes, prompts evacuation orders",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss",
+      "published": "2026-10-17T03:30:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.7308,
+        "lng": 36.7094
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "303b2c34b3d1e171c47180e837750432",
       "title": "Minister of State for Youth and Sports Affairs, Dr Tariq Al-Jalahma, stated that the \"Inspire Kuwait International Open Roll Race\" championship represents a qualitative addition to the sporting events hosted by Kuwait particularly in the field of motorsports, which enjoys significant interest among youth in Kuwait and the Gulf region.  #KUNA #KUWAIT",
@@ -172,28 +216,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792187240",
-      "title": "Italy probes Israel\u2019s Katz over abuse, sexual assault of flotilla activists",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss",
-      "published": "2026-10-16T22:48:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
