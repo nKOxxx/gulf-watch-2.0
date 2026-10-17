@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-17T04:33:29.198700+00:00",
+  "generated_at": "2026-10-17T05:30:41.477035+00:00",
   "total_incidents": 65,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791985165",
+      "title": "The Israeli politicians seeking to replace Netanyahu",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu?traffic_source=rss",
+      "published": "2026-10-17T05:00:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/17/saudi-air-defence-demands-vie-with-europes-russia-threat-needs/",
+      "title": "Saudi air defence demands vie with Europe's needs to counter Russian threat",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/17/saudi-air-defence-demands-vie-with-europes-russia-threat-needs/",
+      "published": "2026-10-17T05:00:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/17/live-iran-war-hormuz-houthis-saudi-arabia-yemen/",
       "title": "Middle East latest: Oil tanker struck in Strait of Hormuz, says Indian ports minister",
@@ -128,28 +172,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792187332",
-      "title": "Iran war live: IRGC says supertanker hit naval mine in Hormuz, catches fire",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
-      "published": "2026-10-17T00:00:00+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -391,28 +413,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/16/katie-zacharia-fired-white-house/",
-      "title": "White House press secretary Katie Zacharia fired, reports say",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/16/katie-zacharia-fired-white-house/",
-      "published": "2026-10-16T18:29:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
