@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-17T15:29:00.634388+00:00",
-  "total_incidents": 54,
+  "generated_at": "2026-10-17T16:30:40.573223+00:00",
+  "total_incidents": 53,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/17/my-soul-is-iraqi-my-heart-is-emirati-iraqi-community-comes-together-in-celebration-in-dubai/",
+      "title": "'My soul is Iraqi, my heart is Emirati': Iraqi community comes together in celebration in Dubai",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/17/my-soul-is-iraqi-my-heart-is-emirati-iraqi-community-comes-together-in-celebration-in-dubai/",
+      "published": "2026-10-17T16:13:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4a0b4fe7b72ab2d4452bb4a0e4c2b652",
+      "title": "#Egypt's Minister of Foreign Affairs discusses with Iran's Minister of Foreign Affairs ways to reduce regional tensions, restore stability, and pursue diplomatic solutions to the ongoing crisis  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2111488700211134567",
+      "published": "2026-10-17T16:05:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792245802",
       "title": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
@@ -15,28 +59,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792230336",
-      "title": "Child, four women among Palestinians injured in West Bank pogroms",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
-      "published": "2026-10-17T12:48:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9466,
-        "lng": 35.3027
       },
       "credibility": 90,
       "is_government": false,
@@ -259,28 +281,6 @@
         "lng": 48.0
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4b954933a51bc642fd80dfc7f662634f",
-      "title": "#Kuwait Petroleum Corporation (KPC): The price of Kuwaiti oil fell by USD 1.04 to USD 103.13 per barrel (pb) in Friday's trading, compared to USD 104.17 pb on Thursday  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2111354225825394952",
-      "published": "2026-10-17T07:10:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -1162,28 +1162,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crkg7q97z078o#0",
-      "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T15:34:19+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.5,
-        "lng": 56.5
-      },
-      "credibility": 95,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
