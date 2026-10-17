@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-17T06:43:21.850607+00:00",
-  "total_incidents": 64,
+  "generated_at": "2026-10-17T07:31:09.308787+00:00",
+  "total_incidents": 67,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792175490",
+      "title": "Israeli raids and arrests in southern Syria push population to the brink",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/10/17/israeli-raids-and-arrests-in-southern-syria-push-population-to-the-brink?traffic_source=rss",
+      "published": "2026-10-17T07:17:06+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4b954933a51bc642fd80dfc7f662634f",
+      "title": "#Kuwait Petroleum Corporation (KPC): The price of Kuwaiti oil fell by USD 1.04 to USD 103.13 per barrel (pb) in Friday's trading, compared to USD 104.17 pb on Thursday  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2111354225825394952",
+      "published": "2026-10-17T07:10:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/17/couples-families-separated-war-in-gaza",
+      "title": "\u2018I cannot carry all of this alone\u2019: the couples kept apart by the war in Gaza",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/17/couples-families-separated-war-in-gaza",
+      "published": "2026-10-17T07:00:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792165842",
+      "title": "Can Yemen\u2019s government forces sustain their offensive against the Houthis?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss",
+      "published": "2026-10-17T06:41:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4c60a8263044a6cf200e43fd1fe6fbbc",
+      "title": ". The General Civil Aviation Authority (GCAA) has advised that this time of year is characterised by changing weather co...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DeleyUZiCX4",
+      "published": "2026-10-17T06:37:26+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/17/yemens-houthis-launch-missile-attacks-on-aden-airport/",
       "title": "Yemen's Houthis launch missile attacks on Aden airport",
@@ -135,42 +245,20 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/17/live-iran-war-hormuz-houthis-saudi-arabia-yemen/",
-      "title": "Middle East latest: Oil tanker struck in Strait of Hormuz, says Indian ports minister",
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/17/live-iran-war-houthis-saudi-arabia-yemen/",
+      "title": "Middle East latest: Houthis launch missile attacks on Aden airport",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/17/live-iran-war-hormuz-houthis-saudi-arabia-yemen/",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/17/live-iran-war-houthis-saudi-arabia-yemen/",
       "published": "2026-10-17T04:02:26+00:00",
-      "type": "ground",
+      "type": "missile",
       "status": "unconfirmed",
       "location": {
-        "country": null,
+        "country": "Yemen",
         "city": null,
-        "lat": 26.5,
-        "lng": 56.5
+        "lat": 12.7855,
+        "lng": 45.0187
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792201595",
-      "title": "Southern California wildfire engulfs homes, prompts evacuation orders",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss",
-      "published": "2026-10-17T03:30:36+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.7308,
-        "lng": 36.7094
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -977,28 +1065,6 @@
       "source_url": "https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm",
       "published": "2026-10-16T04:00:50+00:00",
       "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
-      "title": "Houthi missiles strike Yemen presidential palace, killing five",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
-      "published": "2026-10-16T00:27:21+00:00",
-      "type": "missile",
       "status": "unconfirmed",
       "location": {
         "country": null,
