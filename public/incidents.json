@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-17T11:28:47.888708+00:00",
-  "total_incidents": 68,
+  "generated_at": "2026-10-17T12:37:06.346950+00:00",
+  "total_incidents": 63,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792233667",
+      "title": "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss",
+      "published": "2026-10-17T12:27:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792232593",
+      "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
+      "published": "2026-10-17T12:10:56+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
+      "title": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
+      "published": "2026-10-17T11:57:15+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792235760",
       "title": "Russian strikes kill civilians, injure dozens across Ukraine",
@@ -157,50 +223,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792221539",
-      "title": "As Israel blocks PA funding, the West Bank\u2019s healthcare system is failing",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/17/as-israel-blocks-pa-funding-the-west-banks-healthcare-system-is-failing?traffic_source=rss",
-      "published": "2026-10-17T09:47:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792222621",
-      "title": "Sudan\u2019s army claims dozens of RSF fighters killed in Nyala attack",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss",
-      "published": "2026-10-17T09:44:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "757b68e2c09970d061d77fed80fe805c",
       "title": "#Kuwait continues to write inspiring chapters of compassion and generosity in the global humanitarian record through initiatives that restore hope to patients, open doors to education for future generations, and provide families in need with safe shelter and the means to live in dignity (News report)  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -216,50 +238,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792224187",
-      "title": "IMF urges support for poorer nations facing high inflation, war spillovers",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns?traffic_source=rss",
-      "published": "2026-10-17T09:31:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792219471",
-      "title": "Houthis strike Yemen\u2019s Aden: What that means",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss",
-      "published": "2026-10-17T09:16:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Yemen",
-        "city": null,
-        "lat": 12.7855,
-        "lng": 45.0187
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -443,28 +421,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/17/canada-increases-gulf-diplomacy-to-push-for-peace-and-reopening-of-strait-of-hormuz/",
-      "title": "Canada increases Gulf diplomacy to push for peace and reopening of Strait of Hormuz",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/17/canada-increases-gulf-diplomacy-to-push-for-peace-and-reopening-of-strait-of-hormuz/",
-      "published": "2026-10-17T07:28:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.5,
-        "lng": 56.5
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "4b954933a51bc642fd80dfc7f662634f",
       "title": "#Kuwait Petroleum Corporation (KPC): The price of Kuwaiti oil fell by USD 1.04 to USD 103.13 per barrel (pb) in Friday's trading, compared to USD 104.17 pb on Thursday  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -524,28 +480,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/17/yemens-houthis-launch-missile-attacks-on-aden-airport/",
-      "title": "Yemen's Houthis launch missile attacks on Aden airport",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/17/yemens-houthis-launch-missile-attacks-on-aden-airport/",
-      "published": "2026-10-17T06:31:50+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Yemen",
-        "city": null,
-        "lat": 12.7855,
-        "lng": 45.0187
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1103,28 +1037,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm",
-      "title": "Future of western security is at stake in Yemen civil war, says country\u2019s former PM",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm",
-      "published": "2026-10-16T04:00:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo#0",
       "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
       "source": "BBC Middle East",
@@ -1470,28 +1382,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o#1",
-      "title": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T12:26:13+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
