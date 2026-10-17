@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-17T17:28:36.936203+00:00",
-  "total_incidents": 55,
+  "generated_at": "2026-10-17T18:31:59.793899+00:00",
+  "total_incidents": 58,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
+      "title": "Israeli settlers attack European diplomats in West Bank",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
+      "published": "2026-10-17T18:20:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792257402",
+      "title": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss",
+      "published": "2026-10-17T17:18:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2381a96d7d225c97b5344dd10fff9e63",
+      "title": ". Sheikh Nahyan bin Mubarak Al Nahyan, Minister of Tolerance and Coexistence, joined the Iraqi community in the UAE at t...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DemnsF5iAc_",
+      "published": "2026-10-17T17:14:28+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank",
       "title": "Masked settlers attack European diplomats in occupied West Bank",
@@ -48,7 +114,7 @@
     },
     {
       "id": "https://www.aljazeera.com/?t=1792255962",
-      "title": "Al Jazeera reports from Paris as protests turns violent",
+      "title": "Al Jazeera reports from Paris as protests turn violent",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss",
       "published": "2026-10-17T16:56:40+00:00",
