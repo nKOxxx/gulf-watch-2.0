@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T02:37:19.926220+00:00",
-  "total_incidents": 65,
+  "generated_at": "2026-10-17T03:34:28.231651+00:00",
+  "total_incidents": 64,
   "incidents": [
     {
       "id": "303b2c34b3d1e171c47180e837750432",
@@ -238,28 +238,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792182699",
-      "title": "Yemen\u2019s government says Houthis fired two missiles at Aden airport",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss",
-      "published": "2026-10-16T21:56:07+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Yemen",
-        "city": null,
-        "lat": 12.7855,
-        "lng": 45.0187
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
