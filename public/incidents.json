@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-17T22:28:44.946684+00:00",
-  "total_incidents": 62,
+  "generated_at": "2026-10-17T23:26:58.926360+00:00",
+  "total_incidents": 60,
   "incidents": [
     {
-      "id": "https://www.theguardian.com/film/2026/oct/16/jonathan-glazer-says-israels-retaliation-over-naza-more-venal-than-anticipated",
-      "title": "Jonathan Glazer says Israel\u2019s retaliation over NAZA \u2018more venal\u2019 than anticipated",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/film/2026/oct/16/jonathan-glazer-says-israels-retaliation-over-naza-more-venal-than-anticipated",
-      "published": "2026-10-17T21:44:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
+      "id": "b7d500fdc840de500d3ef5571a5ed56b",
+      "title": "#Saudi-led coalition intercepts two ballistic missiles targeting Khamis Mushait.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2111593543546413410",
+      "published": "2026-10-17T23:01:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
       "location": {
-        "country": "Iran",
+        "country": "Saudi Arabia",
         "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
+        "lat": 29.3117,
+        "lng": 47.4818
       },
-      "credibility": 90,
-      "is_government": false,
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -499,28 +499,6 @@
         "city": null,
         "lat": 26.0667,
         "lng": 50.5577
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "eacc7abd5f9d36ff8c0af749e882b92e",
-      "title": "United Nations (UN) Resident Coordinator in #Kuwait Ghada Al-Tahir commends #Kuwait's re-election to the Human Rights Council (HRC) for the 2027-2029 term as a renewed responsibility and a significant opportunity to keep contributing to the multilateral system (An interview)  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2111396676996833449",
-      "published": "2026-10-17T09:59:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
@@ -1338,28 +1316,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm62y89dpd4lo#0",
-      "title": "Global charity withholds report into its role in Syria's 'disappeared' children",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm62y89dpd4lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14T23:20:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 95,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
