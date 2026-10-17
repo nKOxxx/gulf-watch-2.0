@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-17T05:30:41.477035+00:00",
-  "total_incidents": 65,
+  "generated_at": "2026-10-17T06:43:21.850607+00:00",
+  "total_incidents": 64,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/17/yemens-houthis-launch-missile-attacks-on-aden-airport/",
+      "title": "Yemen's Houthis launch missile attacks on Aden airport",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/17/yemens-houthis-launch-missile-attacks-on-aden-airport/",
+      "published": "2026-10-17T06:31:50+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Yemen",
+        "city": null,
+        "lat": 12.7855,
+        "lng": 45.0187
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/17/battle-for-taiz-is-for-whole-of-western-yemen-warns-ex-pm-maeen-abdelmalik-saeed/",
+      "title": "Battle for Taiz is for whole of western Yemen, warns ex-PM Maeen Abdelmalik Saeed",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/17/battle-for-taiz-is-for-whole-of-western-yemen-warns-ex-pm-maeen-abdelmalik-saeed/",
+      "published": "2026-10-17T06:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 38.0962,
+        "lng": 46.2738
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791961384",
+      "title": "The chatbot murder guide: AI\u2019s struggle between privacy, reporting violence",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/17/the-chatbot-murder-guide-ais-struggle-between-privacy-reporting-violence?traffic_source=rss",
+      "published": "2026-10-17T05:50:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792211073",
+      "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss",
+      "published": "2026-10-17T05:19:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791985165",
       "title": "The Israeli politicians seeking to replace Netanyahu",
@@ -106,50 +194,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792200764",
-      "title": "Healthcare crisis escalating in Yemen\u2019s besieged Taiz",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss",
-      "published": "2026-10-17T01:37:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 38.0962,
-        "lng": 46.2738
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792194222",
-      "title": "US coastguard rescues 16 after boat sinks off Mexico\u2019s Baja coast",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/17/us-coastguard-rescues-16-after-boat-sinks-off-mexicos-baja-coast?traffic_source=rss",
-      "published": "2026-10-17T01:33:37+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -370,28 +414,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/16/india-hormuz-strait-tanker-attack/",
-      "title": "Oil tanker struck in Strait of Hormuz, says Indian ports minister",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/16/india-hormuz-strait-tanker-attack/",
-      "published": "2026-10-16T19:27:27+00:00",
-      "type": "ground",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.5,
-        "lng": 56.5
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1382,50 +1404,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "10e818a5d358436c0f3ae9494f7e0485",
-      "title": "Iran and Oman's foreign ministers held a phone call early Wednesday to discuss Yemen and other regional developments.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2110258011050549557",
-      "published": "2026-10-14T06:34:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "1629ee5c1f725b077d244bb31f69ae5a",
-      "title": "The head of the Atomic Energy Organization of Iran (AEOI) says that the country\u2019s capabilities in nuclear science and technology are rival to those of the developed countries, showing Iran\u2019s eye-catching progress in this field.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2110257928943087704",
-      "published": "2026-10-14T06:34:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 70,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
