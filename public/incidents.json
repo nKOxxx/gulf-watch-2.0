@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-18T19:27:03.682565+00:00",
-  "total_incidents": 60,
+  "generated_at": "2026-10-18T20:29:56.580659+00:00",
+  "total_incidents": 56,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792355016",
+      "title": "Fire engulfs Albania\u2019s Supreme Court as protests enter fifth day",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
+      "published": "2026-10-18T20:26:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/economy/2026/10/18/syria-world-bank-recovery-fund/",
+      "title": "Syria and World Bank to set up recovery and rebuilding fund",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/18/syria-world-bank-recovery-fund/",
+      "published": "2026-10-18T20:01:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "024c49c00d9c3ccf19d918eac3956332",
       "title": "\u062a\u0635\u0648\u064a\u0631 \u0623\u0648 \u0646\u0634\u0631 \u0623\u0648 \u062a\u062f\u0627\u0648\u0644 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0630\u0627\u062a \u0635\u0644\u0629 \u0628\u0627\u0644\u062a\u0635\u062f\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0648\u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0645\u0648\u0627\u0642\u0639 \u0633\u0642\u0648\u0637\u0647\u0627 \u064a\u0639\u0631\u0636\u0643 \u0644\u0644\u0645\u0633\u0627\u0621\u0644\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a\u0629. #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 Filming, publishing, or sharing information related to countering missiles and drones and their impact sites exposes you to legal liability. #Ministry_of_Interior",
@@ -92,7 +136,7 @@
     },
     {
       "id": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
-      "title": "Guardian reporter filmed masked militants seconds before West Bank attack on French mayor",
+      "title": "Netanyahu casts doubt on settler attack witnessed by Guardian reporter",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
       "published": "2026-10-18T18:39:23+00:00",
@@ -101,8 +145,8 @@
       "location": {
         "country": null,
         "city": null,
-        "lat": 31.9466,
-        "lng": 35.3027
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -179,28 +223,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792345867",
-      "title": "JERUSALEM DAILY: Settlers attack EU diplomats",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
-      "published": "2026-10-18T17:52:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/18/flydubai-captain-smit-machchhar-blocking-axe-blows-flight-fz1073",
       "title": "Flydubai captain\u00a0describes blocking axe blows as co-pilot attacked him",
       "source": "The Guardian",
@@ -213,28 +235,6 @@
         "city": null,
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792331476",
-      "title": "Residents recount drone strikes in Ethiopia\u2019s northern Tigray region",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss",
-      "published": "2026-10-18T17:20:20+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -399,28 +399,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792335434",
-      "title": "Trump endorses Netanyahu in Israeli legislative elections",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
-      "published": "2026-10-18T16:36:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/industry/techwatch/2026/10/18/us-arms-firm-anduril-could-make-interceptors-in-europe-executive-says/",
       "title": "US arms firm Anduril could make interceptors in Europe, executive says",
       "source": "Defense News",
@@ -435,28 +413,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/18/trump-netanyahu-endorsement-election/",
-      "title": "Donald Trump endorses Benjamin Netanyahu for Israeli election",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/18/trump-netanyahu-endorsement-election/",
-      "published": "2026-10-18T15:39:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1262,50 +1218,6 @@
       "source": "Breaking Defense",
       "source_url": "https://breakingdefense.com/2026/10/army-looks-to-add-third-caml-system-lozano-says/",
       "published": "2026-10-15T20:54:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=98577",
-      "title": "Reprogramming robots in the mud: How Army Special Ops trains its new robot technicians",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/reprogramming-robots-in-the-mud-how-army-special-ops-trains-its-new-robot-technicians/",
-      "published": "2026-10-15T19:59:12+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=98586",
-      "title": "Finding the adversary\u2019s hidden signals is the Army\u2019s next electromagnetic warfare challenge",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/finding-the-adversarys-hidden-signals-is-the-armys-next-electromagnetic-warfare-challenge/",
-      "published": "2026-10-15T19:31:56+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
