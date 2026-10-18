@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-18T06:43:16.572785+00:00",
-  "total_incidents": 59,
+  "generated_at": "2026-10-18T07:31:00.916147+00:00",
+  "total_incidents": 58,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/global-development/2026/oct/18/attacked-from-the-sky-sudanese-goldminers-count-deadly-cost-of-eking-out-a-living-on-the-egypt-border",
+      "title": "Attacked from the sky: Sudanese goldminers count deadly cost of eking out a living on the Egypt border",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/global-development/2026/oct/18/attacked-from-the-sky-sudanese-goldminers-count-deadly-cost-of-eking-out-a-living-on-the-egypt-border",
+      "published": "2026-10-18T07:00:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.8206,
+        "lng": 30.8025
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792295348",
       "title": "Guatemalan former prosecutor shot dead at sports centre",
@@ -48,7 +70,7 @@
     },
     {
       "id": "https://www.theguardian.com/world/2026/oct/18/theres-a-lot-of-racism-a-lot-of-hatred-far-right-gains-predicted-as-israel-heads-to-the-polls",
-      "title": "There\u2019s a lot of racism, a lot of hatred\u2019: Far right gains predicted as Israel heads to the polls",
+      "title": "\u2018There\u2019s a lot of racism, a lot of hatred\u2019: Far right gains predicted as Israel heads to the polls",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/2026/oct/18/theres-a-lot-of-racism-a-lot-of-hatred-far-right-gains-predicted-as-israel-heads-to-the-polls",
       "published": "2026-10-18T05:00:51+00:00",
@@ -685,28 +707,6 @@
       }
     },
     {
-      "id": "fb515be228733ae61d60461a0ac9e3fb",
-      "title": ". Saqr Ghobash, Speaker of the Federal National Council (FNC), affirmed that Gulf and European security can no longer be...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/Dej5eyNiG8o",
-      "published": "2026-10-16T15:52:13+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=98724",
       "title": "Germany changes course on plans to buy MQ-28 drone wingman: Boeing official",
       "source": "Breaking Defense",
@@ -898,28 +898,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/commentisfree/2026/oct/16/naza-israel-film",
-      "title": "I\u2019ve debated with Israel\u2019s most fervent defenders \u2013 NAZA debunks their talking points | Mehdi Hasan",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/oct/16/naza-israel-film",
-      "published": "2026-10-16T12:00:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
