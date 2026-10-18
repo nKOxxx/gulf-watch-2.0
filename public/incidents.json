@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-18T09:30:49.828053+00:00",
-  "total_incidents": 55,
+  "generated_at": "2026-10-18T10:29:55.072022+00:00",
+  "total_incidents": 56,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/18/egypt-pledges-support-for-saudi-arabia-as-houthis-warn-cairo-against-military-intervention/",
+      "title": "Egypt pledges support for Saudi Arabia as Houthis warn Cairo against military intervention",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/18/egypt-pledges-support-for-saudi-arabia-as-houthis-warn-cairo-against-military-intervention/",
+      "published": "2026-10-18T10:20:27+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Egypt",
+        "city": null,
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e21bd87720f8993c1e12f24a10d55186",
+      "title": "His Highness the Crown Prince receives His Highness the Prime Minister, First Deputy Prime Minister & Minister of Interior & Minister of Defense.  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2111758732140912896",
+      "published": "2026-10-18T09:58:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/18/iran-names-new-defence-minister-as-he-warns-us-over-mother-of-all-bombs/",
+      "title": "Iran names new defence minister as he warns US over \u2018Mother of All Bombs\u2019",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/18/iran-names-new-defence-minister-as-he-warns-us-over-mother-of-all-bombs/",
+      "published": "2026-10-18T09:57:03+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "842cc3cf8da3033a2cae7c6994967f69",
+      "title": "His Highness the Amir receive His Highness the Crown Prince, His Highness the Prime Minister, First Deputy Prime Minister & Minister of Interior & Minister of Defense.  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2111755990597046318",
+      "published": "2026-10-18T09:47:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792307109",
+      "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss",
+      "published": "2026-10-18T09:16:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "15e249d79eb9988284a8e4a499fc8723",
       "title": "Dubai\u2019s Roads and Transport Authority adopts \u201cFrom Vision to Impact\u201d as the theme of the 12th Dubai International Project Management Forum (DIPMF). The forum is co-organized with Dubai Electricity and Water Authority (DEWA), Emaar Properties and the Project Management Institute (PMI), from 10 to 13 January 2027, and will bring together a distinguished group of decision-makers, government leaders, business leaders, project management experts and specialists from the UAE and around the world.",
@@ -91,28 +201,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792305166",
-      "title": "Why Iran-US negotiations keep failing",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss",
-      "published": "2026-10-18T07:32:59+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "a2e191a97d74c9410eb7fa782b93b957",
       "title": "#Kuwait's Minister of Defense meets with French Ambassador Olivier Gauvin, addressing ways to enhance military cooperation between Kuwait & #France.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -128,28 +216,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791969275",
-      "title": "Israel\u2019s ties with Europe are fraying. Can its election change that?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss",
-      "published": "2026-10-18T07:05:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -237,28 +303,6 @@
         "lng": 34.8516
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/18/us-ambassador-condemns-israeli-settler-attack-on-washington-post-journalist/",
-      "title": "US ambassador condemns Israeli settler attack on Washington Post journalist",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/18/us-ambassador-condemns-israeli-settler-attack-on-washington-post-journalist/",
-      "published": "2026-10-18T03:45:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -524,28 +568,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4c60a8263044a6cf200e43fd1fe6fbbc",
-      "title": ". The General Civil Aviation Authority (GCAA) has advised that this time of year is characterised by changing weather co...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DeleyUZiCX4",
-      "published": "2026-10-17T06:37:26+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
