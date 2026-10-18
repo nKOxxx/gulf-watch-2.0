@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-18T02:37:37.521282+00:00",
+  "generated_at": "2026-10-18T03:35:58.074398+00:00",
   "total_incidents": 61,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/18/iraqs-dinar-devaluation-tests-efforts-to-protect-consumers-from-rising-prices/",
+      "title": "Iraq\u2019s dinar devaluation tests efforts to protect consumers from rising prices",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/18/iraqs-dinar-devaluation-tests-efforts-to-protect-consumers-from-rising-prices/",
+      "published": "2026-10-18T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "4b290dc584af7d72d5921f94e4507a92",
       "title": "#Coalition forces shoot down 2 drones in #Saudi_Arabia  #KUNA #KUWAIT",
@@ -348,28 +370,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792266795",
-      "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
-      "published": "2026-10-17T21:02:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
