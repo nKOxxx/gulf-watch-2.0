@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-18T11:29:16.324553+00:00",
-  "total_incidents": 57,
+  "generated_at": "2026-10-18T12:38:13.340433+00:00",
+  "total_incidents": 61,
   "incidents": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo#0",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18T12:16:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792324594",
+      "title": "There\u2019s a \u2018New Middle East\u2019, but not the one Israel planned",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/pinch-point/2026/10/18/pp-new-middle-east?traffic_source=rss",
+      "published": "2026-10-18T12:07:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792315993",
+      "title": "Who is Mehrdad Akhlaghi, Iran\u2019s new tech-focused defence minister?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/18/who-is-mehrdad-akhlagh-irans-new-tech-focused-defence-minister?traffic_source=rss",
+      "published": "2026-10-18T12:00:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "67fc09bacfdbcf6a4bec5ff19f593830",
+      "title": "Hamdan bin Mohammed commends the Dubai Integrated Economic Zones Authority (DIEZ) for achieving a new record in trade during the first half of 2026, with the total value of trade across its three economic zones reaching AED246 billion, an increase of 17% compared to the same period last year. DIEZ records its highest first-half trade value for the sixth consecutive year, reflecting investor and international trade stakeholders\u2019 confidence in Dubai and the UAE\u2019s position at the heart of global trade. Imports rise by 14% to AED134.8 billion, while re-exports grow by 22% to AED108.8 billion. Trade with international partners exceeds AED127 billion, up 22%. DIEZ accounts for 16% of Dubai\u2019s non-o",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2111788053006291175",
+      "published": "2026-10-18T11:54:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792316041",
+      "title": "Funeral held for 75 Palestinians after remains recovered from Gaza ruins",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss",
+      "published": "2026-10-18T11:24:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "4a3ad455f7d00806eecbc10ab70c41fc",
       "title": "RT by @DXBMediaOffice: Guided by the vision of His Highness Sheikh Mohammed bin Rashid Al Maktoum, we continue to strengthen Dubai\u2019s position as a global hub for trade and investment. We are achieving this through an integrated economic and logistics ecosystem that connects global economies, enables businesses to expand into international markets, and unlocks new opportunities for investors and entrepreneurs. In another milestone reflecting investor confidence in Dubai\u2019s economic ecosystem, the Dubai Integrated Economic Zones Authority (DIEZ) recorded outstanding non-oil trade performance, with total trade across its three economic zones reaching AED 246 billion in the first half of 2026, ma",
@@ -40,6 +150,28 @@
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792300584",
+      "title": "What help can Egypt offer Saudi Arabia in the war against the Houthis?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss",
+      "published": "2026-10-18T11:11:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 90,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -443,28 +575,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/18/live-saudi-arabia-helicopter-crash/",
-      "title": "Middle East latest: Egypt\u2019s National Defence Council pledges support for Saudi Arabia",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/18/live-saudi-arabia-helicopter-crash/",
-      "published": "2026-10-18T06:04:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/18/theres-a-lot-of-racism-a-lot-of-hatred-far-right-gains-predicted-as-israel-heads-to-the-polls",
       "title": "\u2018There\u2019s a lot of racism, a lot of hatred\u2019: Far right gains predicted as Israel heads to the polls",
       "source": "The Guardian",
@@ -479,28 +589,6 @@
         "lng": 34.8516
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo#0",
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T23:52:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
