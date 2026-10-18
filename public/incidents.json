@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-18T07:31:00.916147+00:00",
-  "total_incidents": 58,
+  "generated_at": "2026-10-18T08:35:05.016296+00:00",
+  "total_incidents": 60,
   "incidents": [
+    {
+      "id": "15e249d79eb9988284a8e4a499fc8723",
+      "title": "Dubai\u2019s Roads and Transport Authority adopts \u201cFrom Vision to Impact\u201d as the theme of the 12th Dubai International Project Management Forum (DIPMF). The forum is co-organized with Dubai Electricity and Water Authority (DEWA), Emaar Properties and the Project Management Institute (PMI), from 10 to 13 January 2027, and will bring together a distinguished group of decision-makers, government leaders, business leaders, project management experts and specialists from the UAE and around the world.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2111727915477995724",
+      "published": "2026-10-18T07:55:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/travel/2026/10/18/riyadh-airport-reopens-which-airlines-are-still-cancelling-flights-to-saudi-arabia/",
+      "title": "Riyadh airport reopens: Which airlines are still cancelling flights to Saudi Arabia?",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/travel/2026/10/18/riyadh-airport-reopens-which-airlines-are-still-cancelling-flights-to-saudi-arabia/",
+      "published": "2026-10-18T07:53:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8fa5db53819541c05e789f2b489fa6e8",
+      "title": "Iranian Foreign Minister Abbas Araghchi met Organisation of Islamic Cooperation Secretary-General Ismail Ould Cheikh Ahmed in Baghdad, discussing issues facing the Islamic world and the organization's agenda.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2111725440188420177",
+      "published": "2026-10-18T07:45:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.3152,
+        "lng": 44.3661
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "742b8eb4cc9a96abe238bf5e125fe500",
+      "title": "Iran's foreign minister said insecurity in the Strait of Hormuz is a direct result of US and Israeli aggression that began on February 28.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2111725280377401726",
+      "published": "2026-10-18T07:45:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792305166",
+      "title": "Why Iran-US negotiations keep failing",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss",
+      "published": "2026-10-18T07:32:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a2e191a97d74c9410eb7fa782b93b957",
+      "title": "#Kuwait's Minister of Defense meets with French Ambassador Olivier Gauvin, addressing ways to enhance military cooperation between Kuwait & #France.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2111721297197601160",
+      "published": "2026-10-18T07:29:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791969275",
+      "title": "Israel\u2019s ties with Europe are fraying. Can its election change that?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss",
+      "published": "2026-10-18T07:05:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/global-development/2026/oct/18/attacked-from-the-sky-sudanese-goldminers-count-deadly-cost-of-eking-out-a-living-on-the-egypt-border",
       "title": "Attacked from the sky: Sudanese goldminers count deadly cost of eking out a living on the Egypt border",
@@ -92,7 +246,7 @@
     },
     {
       "id": "https://www.aljazeera.com/?t=1792294843",
-      "title": "Deaths, injuries after fire at Alberta military base: Canada minister",
+      "title": "\u2018Serious incident\u2019 at Canada military base causes deaths, injuries",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
       "published": "2026-10-18T04:59:29+00:00",
@@ -201,72 +355,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792294949",
-      "title": "Rubio wants \u2018crackdown\u2019 on settler violence after US journalist attack",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss",
-      "published": "2026-10-18T03:44:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/18/iraqs-dinar-devaluation-tests-efforts-to-protect-consumers-from-rising-prices/",
-      "title": "Iraq\u2019s dinar devaluation tests efforts to protect consumers from rising prices",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/18/iraqs-dinar-devaluation-tests-efforts-to-protect-consumers-from-rising-prices/",
-      "published": "2026-10-18T03:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4b290dc584af7d72d5921f94e4507a92",
-      "title": "#Coalition forces shoot down 2 drones in #Saudi_Arabia  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2111639925837664578",
-      "published": "2026-10-18T02:06:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo#0",
       "title": "European diplomats attacked by Israeli settlers in West Bank",
       "source": "BBC Middle East",
@@ -282,28 +370,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b7d500fdc840de500d3ef5571a5ed56b",
-      "title": "#Saudi-led coalition intercepts two ballistic missiles targeting Khamis Mushait.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2111593543546413410",
-      "published": "2026-10-17T23:01:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1247,28 +1313,6 @@
         "city": null,
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "746a0751d5e3d3054fca91be6ac20a40",
-      "title": "RT by @CivilDefenceAD: #AbuDhabiPolice and Abu Dhabi Civil Defence Authority teams have controlled a fire that broke out this morning, Thursday, 15 October 2026, on a floating platform at Al Hudayriyat Beach. No injuries were reported, and cooling and smoke extraction operations are underway. Abu Dhab",
-      "source": "Abu Dhabi Civil Defence (RSS.app)",
-      "source_url": "https://x.com/ADPoliceHQ/status/2110645287274590575",
-      "published": "2026-10-15T08:13:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
       },
       "credibility": 100,
       "is_government": true,
