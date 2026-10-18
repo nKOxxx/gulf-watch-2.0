@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-18T14:29:40.225399+00:00",
-  "total_incidents": 54,
+  "generated_at": "2026-10-18T15:29:40.553240+00:00",
+  "total_incidents": 57,
   "incidents": [
+    {
+      "id": "a6b9b7f999b6898fc4e396cad0e21d5e",
+      "title": "#GCC Secretary-General Jassem Al-Budaiwi stresses the importance of strengthening ties with #Russia, citing shared interests and a mutual desire to expand cooperation  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2111841645175947391",
+      "published": "2026-10-18T15:27:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792332543",
+      "title": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss",
+      "published": "2026-10-18T15:10:05+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792329714",
+      "title": "Tirana sees sixth day of violent protests as Albania\u2019s PM refuses to resign",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss",
+      "published": "2026-10-18T15:08:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792316035",
+      "title": "A timeline of West Bank attacks on Palestinians and foreign officials",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/18/a-timeline-of-west-bank-attacks-on-palestinians-and-foreign-officials?traffic_source=rss",
+      "published": "2026-10-18T14:42:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 31.9466,
+        "lng": 35.3027
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/18/gcc-urges-russia-to-press-iran-to-halt-attacks-as-lavrov-proposes-gulf-security-framework/",
+      "title": "GCC urges Russia to press Iran to halt attacks as Lavrov proposes Gulf security framework",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/18/gcc-urges-russia-to-press-iran-to-halt-attacks-as-lavrov-proposes-gulf-security-framework/",
+      "published": "2026-10-18T14:35:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "1f604425cedf4c41740fa8763fd32f5a",
       "title": "Ang pagkuha ng video, pag-post, o pagbabahagi ng impormasyong may kaugnayan sa paghadlang sa mga missile at drone pati na ang mga pinagbagsakan nito ay maglalagay sa iyo sa pananagutang legal.",
@@ -289,28 +399,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792324594",
-      "title": "There\u2019s a \u2018New Middle East\u2019, but not the one Israel planned",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/pinch-point/2026/10/18/pp-new-middle-east?traffic_source=rss",
-      "published": "2026-10-18T12:07:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "67fc09bacfdbcf6a4bec5ff19f593830",
       "title": "Hamdan bin Mohammed commends the Dubai Integrated Economic Zones Authority (DIEZ) for achieving a new record in trade during the first half of 2026, with the total value of trade across its three economic zones reaching AED246 billion, an increase of 17% compared to the same period last year. DIEZ records its highest first-half trade value for the sixth consecutive year, reflecting investor and international trade stakeholders\u2019 confidence in Dubai and the UAE\u2019s position at the heart of global trade. Imports rise by 14% to AED134.8 billion, while re-exports grow by 22% to AED108.8 billion. Trade with international partners exceeds AED127 billion, up 22%. DIEZ accounts for 16% of Dubai\u2019s non-o",
       "source": "Dubai Media Office (RSS.app)",
@@ -436,28 +524,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/travel/2026/10/18/riyadh-airport-reopens-which-airlines-are-still-cancelling-flights-to-saudi-arabia/",
-      "title": "Riyadh airport reopens: Which airlines are still cancelling flights to Saudi Arabia?",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/travel/2026/10/18/riyadh-airport-reopens-which-airlines-are-still-cancelling-flights-to-saudi-arabia/",
-      "published": "2026-10-18T07:53:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
