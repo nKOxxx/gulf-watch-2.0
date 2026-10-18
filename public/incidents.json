@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-18T22:28:48.369106+00:00",
+  "generated_at": "2026-10-18T23:28:09.947080+00:00",
   "total_incidents": 53,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792345550",
+      "title": "Venezuela opposition renews support for Maria Corina Machado as leader",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss",
+      "published": "2026-10-18T22:41:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "8bbaf913b058e9e7be44398eccebbab5",
       "title": "#Kuwait's Ambassador to #Qatar Ahmad Al-Shuraim reaffirm his support for Kuwait's national U-17 football team competing in the Gulf championship currently hosted by Doha  #KUNA",
@@ -84,28 +106,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792345582",
-      "title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
-      "published": "2026-10-18T18:44:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
