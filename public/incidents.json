@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-17T23:26:58.926360+00:00",
-  "total_incidents": 60,
+  "generated_at": "2026-10-18T01:06:19.126864+00:00",
+  "total_incidents": 62,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792278671",
+      "title": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
+      "published": "2026-10-18T00:00:11+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo#0",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17T23:52:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792272720",
+      "title": "US ambassador urges Israel to prosecute attackers of American journalist",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
+      "published": "2026-10-17T23:40:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792271014",
+      "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
+      "published": "2026-10-17T23:21:57+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 26.8206,
+        "lng": 30.8025
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "b7d500fdc840de500d3ef5571a5ed56b",
       "title": "#Saudi-led coalition intercepts two ballistic missiles targeting Khamis Mushait.  #KUNA #KUWAIT",
@@ -289,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792260856",
-      "title": "Will the EU come to Ukraine\u2019s rescue in war against Russia?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss",
-      "published": "2026-10-17T19:03:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
       "title": "Israeli settlers attack European diplomats in West Bank",
       "source": "The Guardian",
@@ -325,28 +391,6 @@
         "lng": 34.8516
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo#0",
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17T18:38:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
