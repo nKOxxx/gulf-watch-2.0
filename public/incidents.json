@@ -1,20 +1,42 @@
 {
-  "generated_at": "2026-10-18T01:06:19.126864+00:00",
+  "generated_at": "2026-10-18T01:40:13.621602+00:00",
   "total_incidents": 62,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1792278671",
-      "title": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
+      "id": "https://www.aljazeera.com/?t=1792283701",
+      "title": "Israeli settlers attack European diplomats in the occupied West Bank",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
-      "published": "2026-10-18T00:00:11+00:00",
-      "type": "ground",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
+      "published": "2026-10-18T01:02:37+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Israel",
         "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792278671",
+      "title": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
+      "published": "2026-10-18T00:00:11+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
       },
       "credibility": 90,
       "is_government": false,
@@ -352,28 +374,6 @@
         "total": 0,
         "military": 0,
         "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792261726",
-      "title": "At least 17 killed in stampede at religious gathering in India",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss",
-      "published": "2026-10-17T19:48:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 17,
-        "military": 0,
-        "civilian": 17
       }
     },
     {
