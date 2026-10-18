@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-18T03:35:58.074398+00:00",
-  "total_incidents": 61,
+  "generated_at": "2026-10-18T04:34:19.789267+00:00",
+  "total_incidents": 62,
   "incidents": [
+    {
+      "id": "8a5a8d6bfc24d265e7ed59972ca4e85c",
+      "title": "Military helicopter crashes in #Saudi_Arabia -- #Coalition  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2111674242609656138",
+      "published": "2026-10-18T04:22:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/18/us-ambassador-condemns-israeli-settler-attack-on-washington-post-journalist/",
+      "title": "US Ambassador condemns Israeli settler attack on Washington Post journalist",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/18/us-ambassador-condemns-israeli-settler-attack-on-washington-post-journalist/",
+      "published": "2026-10-18T03:45:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792294949",
+      "title": "Rubio wants \u2018crackdown\u2019 on settler violence after US journalist attack",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss",
+      "published": "2026-10-18T03:44:25+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/18/iraqs-dinar-devaluation-tests-efforts-to-protect-consumers-from-rising-prices/",
       "title": "Iraq\u2019s dinar devaluation tests efforts to protect consumers from rising prices",
@@ -169,28 +235,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792271014",
-      "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
-      "published": "2026-10-17T23:21:57+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 26.8206,
-        "lng": 30.8025
       },
       "credibility": 90,
       "is_government": false,
@@ -480,28 +524,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/17/abu-dhabi-launches-rescue-network-for-injured-or-stranded-wildlife/",
-      "title": "Abu Dhabi launches rescue network for injured or stranded wildlife",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/17/abu-dhabi-launches-rescue-network-for-injured-or-stranded-wildlife/",
-      "published": "2026-10-17T12:41:36+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
