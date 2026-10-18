@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T21:29:22.731719+00:00",
-  "total_incidents": 54,
+  "generated_at": "2026-10-18T22:28:48.369106+00:00",
+  "total_incidents": 53,
   "incidents": [
     {
       "id": "8bbaf913b058e9e7be44398eccebbab5",
@@ -169,28 +169,6 @@
         "city": null,
         "lat": 31.9466,
         "lng": 35.3027
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792346130",
-      "title": "Gaza bodybuilders find solace in strongman competition among the ruins",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins?traffic_source=rss",
-      "published": "2026-10-18T18:36:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
       },
       "credibility": 90,
       "is_government": false,
