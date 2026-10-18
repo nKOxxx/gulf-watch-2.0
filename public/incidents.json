@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-18T17:28:30.947265+00:00",
+  "generated_at": "2026-10-18T18:33:26.996389+00:00",
   "total_incidents": 58,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/18/iraq-renews-calls-for-pact-with-gulf-and-says-security-cannot-be-brought-from-abroad/",
+      "title": "Iraq renews calls for pact with Gulf and says security 'cannot be brought from abroad'",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/18/iraq-renews-calls-for-pact-with-gulf-and-says-security-cannot-be-brought-from-abroad/",
+      "published": "2026-10-18T18:04:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792345867",
+      "title": "JERUSALEM DAILY: Settlers attack EU diplomats",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
+      "published": "2026-10-18T17:52:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/2026/oct/18/flydubai-captain-smit-machchhar-blocking-axe-blows-flight-fz1073",
       "title": "Flydubai captain\u00a0describes blocking axe blows as co-pilot attacked him",
@@ -25,6 +69,50 @@
       }
     },
     {
+      "id": "https://www.aljazeera.com/?t=1792331476",
+      "title": "Residents recount drone strikes in Ethiopia\u2019s northern Tigray region",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss",
+      "published": "2026-10-18T17:20:20+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ca37916a565536b143d24aef35d4e323",
+      "title": "#UAE Vice President, Deputy Prime Minister and Presidential Court Chairman Sheikh Mansour bin Zayed Al Nahyan meets with #Saudi Defense Minister Prince Khalid bin Salman bin Abdulaziz Al Saud to discuss bilateral relations  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2111870036008652984",
+      "published": "2026-10-18T17:20:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/18/five-gangsters-killed-in-3-million-drugs-and-weapons-raid-in-egypt/",
       "title": "Five gangsters killed in $3 million drugs and weapons raid in Egypt",
       "source": "The National UAE",
@@ -40,6 +128,28 @@
       },
       "credibility": 85,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b49bca903dcbc3cd54ed5d13330cce76",
+      "title": "At least six #Saudi citizens were injured after a projectile launched by Yemen's Houthi militia struck a residential area in Najran, causing material damage to three houses and three vehicles  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2111869639248523612",
+      "published": "2026-10-18T17:18:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -223,50 +333,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/18/live-iran-war-trump-netanyahu/",
-      "title": "Iran war latest: Trump endorses Netanyahu and vows to \u2018finish the job\u2019",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/18/live-iran-war-trump-netanyahu/",
-      "published": "2026-10-18T15:32:12+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/18/outrage-over-attacks-on-european-diplomats-and-us-journalist-in-west-bank/",
-      "title": "Outrage over attacks on European diplomats and US journalist in West Bank",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/18/outrage-over-attacks-on-european-diplomats-and-us-journalist-in-west-bank/",
-      "published": "2026-10-18T15:31:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9466,
-        "lng": 35.3027
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "463a0ce6509f4ee94b1099933592ffa7",
       "title": "#Kuwait reiterates its vehement condemnation of a spate of \"terrorist\" attacks perpetrated by Yemen's Iran-backed Houthi group against #Saudi Arabia, vowing to stand firmly alongside its larger neighbor amid the onslaught  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -323,50 +389,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792329714",
-      "title": "Tirana sees sixth day of violent protests as Albania\u2019s PM refuses to resign",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss",
-      "published": "2026-10-18T15:08:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792316035",
-      "title": "A timeline of West Bank attacks on Palestinians and foreign officials",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/18/a-timeline-of-west-bank-attacks-on-palestinians-and-foreign-officials?traffic_source=rss",
-      "published": "2026-10-18T14:42:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9466,
-        "lng": 35.3027
       },
       "credibility": 90,
       "is_government": false,
@@ -521,28 +543,6 @@
         "city": null,
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e9daa4f8b69ddad904f7edf682f4170b",
-      "title": "Gulf Cooperation Council (GCC) Secretary-General condemns Houthi attacks on #Saudi Arabia as deliberate criminal acts threatening regional security & stability  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2111797203232534751",
-      "published": "2026-10-18T12:31:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
       },
       "credibility": 95,
       "is_government": true,
