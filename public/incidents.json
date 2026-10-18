@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-18T20:29:56.580659+00:00",
-  "total_incidents": 56,
+  "generated_at": "2026-10-18T21:29:22.731719+00:00",
+  "total_incidents": 54,
   "incidents": [
+    {
+      "id": "8bbaf913b058e9e7be44398eccebbab5",
+      "title": "#Kuwait's Ambassador to #Qatar Ahmad Al-Shuraim reaffirm his support for Kuwait's national U-17 football team competing in the Gulf championship currently hosted by Doha  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2111926538761281912",
+      "published": "2026-10-18T21:04:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 25.2854,
+        "lng": 51.531
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792355016",
       "title": "Fire engulfs Albania\u2019s Supreme Court as protests enter fifth day",
@@ -136,7 +158,7 @@
     },
     {
       "id": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
-      "title": "Netanyahu casts doubt on settler attack witnessed by Guardian reporter",
+      "title": "Guardian reporter filmed masked militants seconds before West Bank attack on French mayor",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
       "published": "2026-10-18T18:39:23+00:00",
@@ -145,8 +167,8 @@
       "location": {
         "country": null,
         "city": null,
-        "lat": 29.0,
-        "lng": 48.0
+        "lat": 31.9466,
+        "lng": 35.3027
       },
       "credibility": 90,
       "is_government": false,
@@ -169,28 +191,6 @@
         "city": null,
         "lat": 31.5017,
         "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792347483",
-      "title": "Why the US is holding secret talks with Myanmar\u2019s military ruler",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss",
-      "published": "2026-10-18T18:22:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -514,28 +514,6 @@
       "source": "KUNA Kuwait (RSS.app)",
       "source_url": "https://x.com/kuna_en/status/2111814174997172487",
       "published": "2026-10-18T13:38:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2bf2bd36cfa2020627630fb1fb12a5f3",
-      "title": "#Kuwait condoles with #Indonesia over fires in the East Java province that left several people dead & injured  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2111813122444898454",
-      "published": "2026-10-18T13:34:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
@@ -1205,28 +1183,6 @@
         "lng": 48.5164
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=98646",
-      "title": "Army looks to add third CAML system, Lozano says",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/army-looks-to-add-third-caml-system-lozano-says/",
-      "published": "2026-10-15T20:54:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
