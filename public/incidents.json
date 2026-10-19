@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-19T16:36:07.003961+00:00",
-  "total_incidents": 52,
+  "generated_at": "2026-10-19T17:31:05.771480+00:00",
+  "total_incidents": 56,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
+      "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
+      "published": "2026-10-19T17:15:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ccaf6fac816836e59a849e96f82f209f",
+      "title": "The #Yemeni Armed Forces announces that they had carried out 1,164 strikes over the past 24 hours as part of Operation \"Dawn of Yemen,\" neutralizing 558 Houthi militia members and destroying or damaging 135 military vehicles and assets  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112229586813554853",
+      "published": "2026-10-19T17:09:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e9e68627e42426b1d3fca05ce205bfd0",
+      "title": "#UAE President Sheikh Mohamed bin Zayed Al-Nahyan and #French President Emmanuel Macron discuss ways to expand strategic relations between their countries, particularly in the fields of economy, investment, energy, advanced technology and artificial intelligence  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112229091910832473",
+      "published": "2026-10-19T17:07:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "99c9d93f5450a2d2842f31eb8ccc56d3",
+      "title": "Ahmed bin Saeed: The 8th edition of AccessAbilities Expo opens today. As the region\u2019s leading platform for accessibility and inclusive innovation, it brings together solution providers, government entities, healthcare institutions, education providers and organisations from across MENASA and beyond. By sharing expertise and working together, the exhibition advances solutions that improve the independence and quality of life of People of Determination. This aligns with the Dubai Social Agenda 33's aim to provide protection, empowerment and equal opportunities to all segments of the community.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2112223500450893890",
+      "published": "2026-10-19T16:45:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792415968",
+      "title": "Search under way for four soldiers missing after gang attack in Haiti",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti?traffic_source=rss",
+      "published": "2026-10-19T16:40:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792426483",
+      "title": "Iran War backlash threatens Republican control of Congress",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_iran-war-fuels-anger-ahead-of-us-midterms-191026?traffic_source=rss",
+      "published": "2026-10-19T16:24:30+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "8148896074c537cae86cae57a447808f",
       "title": "Kuwait participates in an extraordinary meeting of the Operations & Training Committee of the armed forces of the GCC member states, held at the GCC General Secretariat headquarters in Riyadh, Saudi Arabia.  #KUNA",
@@ -106,28 +238,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
-      "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
-      "published": "2026-10-19T15:25:56+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -413,28 +523,6 @@
         "lng": 46.6753
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "1d687eddfa41a72d645eb911cf76d266",
-      "title": "Under the directives of Mansoor bin Mohammed, Dubai Sports Council (DSC), announces the launch of the latest \u2018Dubai Sports Events Calendar\u2019 featuring a comprehensive array of sporting events being held in Dubai through the 2026-2027 season. The new calendar includes more than 500 events, highlighted by over 80 international tournaments and championships. Launched in cooperation with the Dubai Digital Authority, the calendar will be freely accessible to all users of the \u2018DubaiNow\u2019 application, which will offer detailed information related to all sporting events held in Dubai.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2112180740779806856",
-      "published": "2026-10-19T13:55:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
