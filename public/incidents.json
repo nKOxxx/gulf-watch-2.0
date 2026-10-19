@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-19T19:29:45.410008+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-19T20:33:21.434112+00:00",
+  "total_incidents": 51,
   "incidents": [
+    {
+      "id": "fb8ae485316cad10c16564a711fe832b",
+      "title": "Minister of Awqaf and Islamic Affairs Mohammad Al-Wasmi stressed the necessity of boosting cooperation in Islamic affairs field among #GCC states to develop the Gulf joint action Minister Al-Wasmi made the statement to KUNA before leaving the country for Bahrain to head #Kuwait's deletion to the 12th meeting of GCC ministers and officials responsible for Islamic affairs  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112272466059903364",
+      "published": "2026-10-19T19:59:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 26.0667,
+        "lng": 50.5577
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792429565",
+      "title": "Finland seeking one million land mines as it eyes Russian threat",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
+      "published": "2026-10-19T19:57:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/19/lebanon-to-reject-direct-military-co-ordination-with-israel-at-florida-talks/",
       "title": "Lebanon to reject direct military co-ordination with Israel at Florida talks",
@@ -125,28 +169,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792431623",
-      "title": "Ronaldo banned for 30 days, fined $285 by Portugal over spat with Jesus",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/10/19/ronaldo-banned-for-30-days-fined-285-by-portugal-over-spat-with-jesus?traffic_source=rss",
-      "published": "2026-10-19T17:52:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -355,28 +377,6 @@
       }
     },
     {
-      "id": "ef57f46880ad629cbddc5803a7b5ce56",
-      "title": "#French President Emmanuel Macron and his accompanying official delegation leave #Kuwait following an official visit during which he held official talks with His Highness the Amir Sheikh Meshal Al-Ahmad Al-Jaber Al-Sabah. His Highness the Crown Prince Sheikh Sabah Khaled Al-Hamad Al-Sabah was at the forefront of those seeing Macron off at the airport  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112203856998191554",
-      "published": "2026-10-19T15:26:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "85e650dfa571d30ca1bc513b96c7c68c",
       "title": "RT by @DXBMediaOffice: The 8th edition of AccessAbilities Expo opens today. As the region\u2019s leading platform for accessibility and inclusive innovation, it brings together solution providers, government entities, healthcare institutions, education providers and organisations from across MENASA and beyond. By sharing expertise and working together, the exhibition advances solutions that improve the independence and quality of life of People of Determination. This aligns with the Dubai Social Agenda 33's aim to provide protection, empowerment and equal opportunities to all segments of the community.",
       "source": "Dubai Media Office (RSS.app)",
@@ -414,28 +414,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "6c561c877461872b7b4404720063d79f",
-      "title": "Arab League Secretary-General Nabil Fahmi reaffirms the league's full commitment to supporting #Lebanon, its sovereignty and national institutions, foremost among them the Lebanese Army  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112194934262452494",
-      "published": "2026-10-19T14:51:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -589,28 +567,6 @@
         "lng": 46.6753
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "d5c5e2e1ed09995c3331b5d6481909f3",
-      "title": "The United Arab Emirates has strongly condemned the attack by Israeli settlers on a European diplomatic delegation durin...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DerXmuqCLbg",
-      "published": "2026-10-19T13:30:08+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
