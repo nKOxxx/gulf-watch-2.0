@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-19T18:39:28.617235+00:00",
-  "total_incidents": 55,
+  "generated_at": "2026-10-19T19:29:45.410008+00:00",
+  "total_incidents": 53,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/19/lebanon-to-reject-direct-military-co-ordination-with-israel-at-florida-talks/",
+      "title": "Lebanon to reject direct military co-ordination with Israel at Florida talks",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/19/lebanon-to-reject-direct-military-co-ordination-with-israel-at-florida-talks/",
+      "published": "2026-10-19T18:59:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792434672",
+      "title": "Protesters block Louvre in support of French student movement",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/protesters-block-louvre-in-support-of-french-student-movement?traffic_source=rss",
+      "published": "2026-10-19T18:39:27+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://breakingdefense.com/?p=98277",
       "title": "You can\u2019t have a fence high enough to protect your facility against drones",
@@ -149,28 +193,6 @@
         "lng": 34.4668
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792407976",
-      "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel?traffic_source=rss",
-      "published": "2026-10-19T17:16:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -597,28 +619,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/19/dubai-airport-self-driving-wheelchair/",
-      "title": "Dubai airport tries self-driving wheelchair for quicker trip from check-in to plane",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/19/dubai-airport-self-driving-wheelchair/",
-      "published": "2026-10-19T13:21:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=97294",
       "title": "Ukrainian defense firms get creative to try and break through export restrictions",
       "source": "Breaking Defense",
@@ -787,28 +787,6 @@
         "lng": 48.0
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4c21aa045aaa60f2921ef4707c9543a3",
-      "title": "Dr. Anwar Mohammed Gargash, Diplomatic Adviser to the UAE President, received Scott Gilmore, Principal Secretary to the ...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DerKbIOCGBP",
-      "published": "2026-10-19T11:34:57+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -1093,28 +1071,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/industry/techwatch/2026/10/18/us-arms-firm-anduril-could-make-interceptors-in-europe-executive-says/",
-      "title": "US arms firm Anduril could make interceptors in Europe, executive says",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/18/us-arms-firm-anduril-could-make-interceptors-in-europe-executive-says/",
-      "published": "2026-10-18T15:40:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
