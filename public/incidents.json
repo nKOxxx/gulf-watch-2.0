@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-19T03:39:55.359457+00:00",
-  "total_incidents": 56,
+  "generated_at": "2026-10-19T04:38:33.414676+00:00",
+  "total_incidents": 55,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/14/macron-to-visit-uae-on-gulf-tour-next-week/",
+      "title": "Macron to visit UAE on Gulf tour",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/14/macron-to-visit-uae-on-gulf-tour-next-week/",
+      "published": "2026-10-19T04:35:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/us/2026/10/19/who-is-hasan-piker-the-twitch-streamer-who-has-praised-the-houthis/",
       "title": "Who is Hasan Piker, the Twitch streamer who praised the Houthis?",
@@ -201,28 +223,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792345550",
-      "title": "Venezuela opposition renews support for Maria Corina Machado as leader",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss",
-      "published": "2026-10-18T22:41:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "8bbaf913b058e9e7be44398eccebbab5",
       "title": "#Kuwait's Ambassador to #Qatar Ahmad Al-Shuraim reaffirm his support for Kuwait's national U-17 football team competing in the Gulf championship currently hosted by Doha  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -347,28 +347,6 @@
         "lng": 35.3027
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/18/iraq-renews-calls-for-pact-with-gulf-and-says-security-cannot-be-brought-from-abroad/",
-      "title": "Iraq renews calls for pact with Gulf and says security 'cannot be brought from abroad'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/18/iraq-renews-calls-for-pact-with-gulf-and-says-security-cannot-be-brought-from-abroad/",
-      "published": "2026-10-18T18:04:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
