@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-19T21:30:33.858293+00:00",
-  "total_incidents": 52,
+  "generated_at": "2026-10-19T22:30:09.489886+00:00",
+  "total_incidents": 56,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/19/us-allowing-dark-fleet-oil-tankers-to-ship-crude-energy-secretary-says/",
+      "title": "US allowing 'dark fleet' oil tankers to ship crude, Energy Secretary says",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/19/us-allowing-dark-fleet-oil-tankers-to-ship-crude-energy-secretary-says/",
+      "published": "2026-10-19T21:54:19+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792439094",
+      "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss",
+      "published": "2026-10-19T21:46:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792434054",
+      "title": "160 people reported killed in escalating drone attacks across Sudan",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
+      "published": "2026-10-19T21:38:46+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792445115",
+      "title": "Could your halal pension be funding Israel\u2019s military?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss",
+      "published": "2026-10-19T21:28:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792443326",
       "title": "Israeli police say they arrested 10 in connection with settler attacks",
