@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-19T04:38:33.414676+00:00",
-  "total_incidents": 55,
+  "generated_at": "2026-10-19T05:34:01.542036+00:00",
+  "total_incidents": 52,
   "incidents": [
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/14/macron-to-visit-uae-on-gulf-tour-next-week/",
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/19/macron-to-visit-uae-bahrain-kuwait-qatar/",
       "title": "Macron to visit UAE on Gulf tour",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/14/macron-to-visit-uae-on-gulf-tour-next-week/",
-      "published": "2026-10-19T04:35:40+00:00",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/19/macron-to-visit-uae-bahrain-kuwait-qatar/",
+      "published": "2026-10-19T04:45:15+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -201,28 +201,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792358548",
-      "title": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss",
-      "published": "2026-10-18T23:58:05+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "8bbaf913b058e9e7be44398eccebbab5",
       "title": "#Kuwait's Ambassador to #Qatar Ahmad Al-Shuraim reaffirm his support for Kuwait's national U-17 football team competing in the Gulf championship currently hosted by Doha  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -238,28 +216,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/economy/2026/10/18/syria-world-bank-recovery-fund/",
-      "title": "Syria and World Bank to set up recovery and rebuilding fund",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/18/syria-world-bank-recovery-fund/",
-      "published": "2026-10-18T20:01:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1181,28 +1137,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no#0",
-      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T05:00:17+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 95,
       "is_government": false,
