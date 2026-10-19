@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-19T15:31:50.363472+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-19T16:36:07.003961+00:00",
+  "total_incidents": 52,
   "incidents": [
+    {
+      "id": "8148896074c537cae86cae57a447808f",
+      "title": "Kuwait participates in an extraordinary meeting of the Operations & Training Committee of the armed forces of the GCC member states, held at the GCC General Secretariat headquarters in Riyadh, Saudi Arabia.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112217954637017103",
+      "published": "2026-10-19T16:22:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792423320",
+      "title": "Gaza faces worsening hunger as WFP announces food aid cuts",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss",
+      "published": "2026-10-19T16:06:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/",
+      "title": "US Army competition explores military uses for humanoid robots",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/",
+      "published": "2026-10-19T16:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/economy/2026/10/19/saudi-arabia-postpones-fii-investment-in-riyadh-after-houthi-attacks/",
+      "title": "Saudi Arabia postpones FII conference in Riyadh after Houthi attacks",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/19/saudi-arabia-postpones-fii-investment-in-riyadh-after-houthi-attacks/",
+      "published": "2026-10-19T15:42:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ef57f46880ad629cbddc5803a7b5ce56",
+      "title": "#French President Emmanuel Macron and his accompanying official delegation leave #Kuwait following an official visit during which he held official talks with His Highness the Amir Sheikh Meshal Al-Ahmad Al-Jaber Al-Sabah. His Highness the Crown Prince Sheikh Sabah Khaled Al-Hamad Al-Sabah was at the forefront of those seeing Macron off at the airport  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112203856998191554",
+      "published": "2026-10-19T15:26:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
       "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
@@ -158,7 +268,7 @@
     },
     {
       "id": "https://www.theguardian.com/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships",
-      "title": "Strait of Hormuz scoured for spilt cargo after Iran attacks container ships",
+      "title": "People scour strait of Hormuz for spilt cargo after Iran attacks container ships",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships",
       "published": "2026-10-19T14:48:56+00:00",
@@ -179,21 +289,21 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792410772",
-      "title": "Pakistan suspends Iran border trade, amid violence on both sides",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/19/pakistan-suspends-iran-border-trade-amid-violence-on-both-sides?traffic_source=rss",
-      "published": "2026-10-19T14:43:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
+      "id": "60cbf0d8863a40ac79a3cbe3c5e2f520",
+      "title": "\u2068 #\u0644\u0627_\u062a\u0633\u0647\u0644\u0647\u0627_\u0639\u0644\u064a\u0647\u0645 #\u0634\u0647\u0631_\u0627\u0644\u062a\u0648\u0639\u064a\u0629_\u0628\u0627\u0644\u0623\u0645\u0646_\u0627\u0644\u0633\u064a\u0628\u0631\u0627\u0646\u064a #DontMakeItEasyForThem #CybersecurityAwarenessMonth #bahrain\u2069",
+      "source": "Bahrain MOI (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DercNxuCbXs",
+      "published": "2026-10-19T14:12:43+00:00",
+      "type": "cyber",
+      "status": "confirmed",
       "location": {
-        "country": "Iran",
+        "country": "Bahrain",
         "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
+        "lat": 26.0667,
+        "lng": 50.5577
       },
-      "credibility": 90,
-      "is_government": false,
+      "credibility": 100,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -333,28 +443,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792417577",
-      "title": "Australian Member of Parliament critically injured after being hit by a car",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/australian-member-of-parliament-critically-injured-after-being-hit-by-a-car?traffic_source=rss",
-      "published": "2026-10-19T13:49:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "d5c5e2e1ed09995c3331b5d6481909f3",
       "title": "The United Arab Emirates has strongly condemned the attack by Israeli settlers on a European diplomatic delegation durin...",
       "source": "WAM News (RSS.app)",
@@ -414,50 +502,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "450cd5ea2f791d8a836a1421c3124608",
-      "title": "His Highness the Amir welcomes #France's President Emmanuel Macron & his accompanying official delegation to #Kuwait at the airport. #KUNA #KUNA_Photos",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112168975329120503",
-      "published": "2026-10-19T13:08:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "c8bbd716c62e8b9d93b5fa00b2202b77",
-      "title": "His Highness the Amir welcomes #France's President Emmanuel Macron & his accompanying official delegation to #Kuwait at the airport. #KUNA #KUNA_Photos",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112168402596852113",
-      "published": "2026-10-19T13:06:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -663,28 +707,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/19/lebanese-army-bolsters-beirut-patrols-after-tensions-surge/",
-      "title": "Lebanese army bolsters Beirut patrols after tensions surge",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/19/lebanese-army-bolsters-beirut-patrols-after-tensions-surge/",
-      "published": "2026-10-19T11:47:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8938,
-        "lng": 35.5018
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "4c21aa045aaa60f2921ef4707c9543a3",
       "title": "Dr. Anwar Mohammed Gargash, Diplomatic Adviser to the UAE President, received Scott Gilmore, Principal Secretary to the ...",
       "source": "WAM News (RSS.app)",
@@ -741,28 +763,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/19/french-foreign-minister-warns-post-unifil-security-vacuum-in-south-lebanon-must-be-avoided/",
-      "title": "French Foreign Minister warns post-Unifil security vacuum in south Lebanon must be avoided",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/19/french-foreign-minister-warns-post-unifil-security-vacuum-in-south-lebanon-must-be-avoided/",
-      "published": "2026-10-19T11:16:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 23.5859,
-        "lng": 58.4059
       },
       "credibility": 85,
       "is_government": false,
@@ -1139,28 +1139,6 @@
         "lng": 34.8516
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=98652",
-      "title": "Zone 5 \u2018found a spot\u2019 in drone interceptor market with new Eclipse: CEO",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/zone-5-found-a-spot-in-drone-interceptor-market-with-new-eclipse-ceo/",
-      "published": "2026-10-16T16:28:00+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
