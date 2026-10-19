@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-10-19T09:42:07.650680+00:00",
+  "generated_at": "2026-10-19T10:33:32.937753+00:00",
   "total_incidents": 48,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/19/at-least-18-killed-in-houthi-attack-on-yemeni-government-military-camp-in-shabwa-sources-say/",
+      "title": "At least 18 killed in Houthi attack on Yemeni government military camp, sources say",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/19/at-least-18-killed-in-houthi-attack-on-yemeni-government-military-camp-in-shabwa-sources-say/",
+      "published": "2026-10-19T10:19:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 18,
+        "military": 18,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "04fab7b99fddf6adc1aacbf2dd3de54d",
+      "title": "Under the patronage of Ahmed bin Mohammed, the annual Al Ameen Forum will take place on 22 October at Atlantis The Royal, under the theme \u2018The Family: The First Line of Defence in Community Security\u2019, featuring six sessions.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2112126066575978799",
+      "published": "2026-10-19T10:17:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792397487",
+      "title": "WFP cuts aid to \u200c500,000 Palestinians in Gaza amid funding shortages",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss",
+      "published": "2026-10-19T10:08:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/travel/2026/10/19/riyadh-airport-reopens-which-airlines-are-still-cancelling-flights-to-saudi-arabia/",
+      "title": "Riyadh airport reopens: Which airlines are still cancelling flights to Saudi Arabia?",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/travel/2026/10/19/riyadh-airport-reopens-which-airlines-are-still-cancelling-flights-to-saudi-arabia/",
+      "published": "2026-10-19T10:07:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "278d06115434fa166947e7e02037f04a",
+      "title": "The 28th Water, Energy, Technology and Environment Exhibition (WETEX), organised by Dubai Electricity and Water Authority (DEWA), kicks off tomorrow and runs until 22 October at the Dubai World Trade Centre.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2112122873112629290",
+      "published": "2026-10-19T10:05:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon/",
+      "title": "A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon/",
+      "published": "2026-10-19T10:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza",
+      "title": "Cuts force World Food Programme to end support for half a million Palestinians in Gaza",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza",
+      "published": "2026-10-19T09:54:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "753e2647a8e520de3ec8c311637fd3a2",
+      "title": "#Kuwait extends its sympathy to #Canada following the fire that broke out at Wainwright military base in #Alberta, causing the death & injury of several people.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112115091877298600",
+      "published": "2026-10-19T09:34:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792396340",
       "title": "Qatar warns global energy shockwaves from Iran war have yet to peak",
@@ -191,50 +367,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/19/flydubai-indian-pilot-smit-machchhar-interview/",
-      "title": "Inside flydubai Flight 1073: captain tells of cockpit fight in world exclusive interview",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/19/flydubai-indian-pilot-smit-machchhar-interview/",
-      "published": "2026-10-19T06:54:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/19/live-us-iran-war-trump-araghchi/",
-      "title": "Iran war latest: Trump and Araghchi trade threats as US President vows to \u2018finish the job\u2019",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/19/live-us-iran-war-trump-araghchi/",
-      "published": "2026-10-19T06:53:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 85,
       "is_government": false,
@@ -465,50 +597,6 @@
       }
     },
     {
-      "id": "ca37916a565536b143d24aef35d4e323",
-      "title": "#UAE Vice President, Deputy Prime Minister and Presidential Court Chairman Sheikh Mansour bin Zayed Al Nahyan meets with #Saudi Defense Minister Prince Khalid bin Salman bin Abdulaziz Al Saud to discuss bilateral relations  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2111870036008652984",
-      "published": "2026-10-18T17:20:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b49bca903dcbc3cd54ed5d13330cce76",
-      "title": "At least six #Saudi citizens were injured after a projectile launched by Yemen's Houthi militia struck a residential area in Najran, causing material damage to three houses and three vehicles  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2111869639248523612",
-      "published": "2026-10-18T17:18:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine",
       "title": "US ambassador to Israel calls West Bank settler attack on American photojournalist \u2018terror\u2019",
       "source": "The Guardian",
@@ -532,7 +620,7 @@
     },
     {
       "id": "https://www.theguardian.com/world/video/2026/oct/18/french-mayor-attacked-by-israeli-settlers-in-occupied-west-bank-video",
-      "title": "French mayor attacked by Israeli settlers in occupied West Bank \u2013 video",
+      "title": "French mayor attacked by Israeli settlers in West Bank \u2013 video",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/video/2026/oct/18/french-mayor-attacked-by-israeli-settlers-in-occupied-west-bank-video",
       "published": "2026-10-18T16:58:55+00:00",
@@ -568,50 +656,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "463a0ce6509f4ee94b1099933592ffa7",
-      "title": "#Kuwait reiterates its vehement condemnation of a spate of \"terrorist\" attacks perpetrated by Yemen's Iran-backed Houthi group against #Saudi Arabia, vowing to stand firmly alongside its larger neighbor amid the onslaught  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2111842147552895393",
-      "published": "2026-10-18T15:29:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b84b7fd13440f34c68e2701cc9a32beb",
-      "title": "Dubai Municipality completes transformative urban development projects in 2026 Projects completed +107 Total value AED 1.6 billion Delivered across Dubai Projects advance quality of life and support economic growth The diverse portfolio includes: - Parks and beaches - Neighbourhood enhancements - Community spaces",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2111803115456381386",
-      "published": "2026-10-18T12:54:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -741,28 +785,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
-      "title": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
-      "published": "2026-10-17T11:57:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
       },
       "credibility": 90,
       "is_government": false,
@@ -986,28 +1008,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/mideast-africa/2026/10/16/israel-secures-procurement-of-12-apache-gunships-in-last-minute-maneuver/",
-      "title": "Israel secures procurement of 12 Apache gunships in last-minute maneuver",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/mideast-africa/2026/10/16/israel-secures-procurement-of-12-apache-gunships-in-last-minute-maneuver/",
-      "published": "2026-10-16T14:01:24+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
