@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-19T22:30:09.489886+00:00",
-  "total_incidents": 56,
+  "generated_at": "2026-10-19T23:30:20.613224+00:00",
+  "total_incidents": 54,
   "incidents": [
+    {
+      "id": "1039758b58aaeb9e210afe73c56cf902",
+      "title": "#Yemen's Presidential Leadership Council Chairman Rashad Al-Alimi urges #UN Secretary-General Antonio Guterres to support international action aiming to designate the Houthi militia as a terrorist organization  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112311956489064681",
+      "published": "2026-10-19T22:36:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/us/2026/10/19/us-allowing-dark-fleet-oil-tankers-to-ship-crude-energy-secretary-says/",
       "title": "US allowing 'dark fleet' oil tankers to ship crude, Energy Secretary says",
@@ -223,28 +245,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792439041",
-      "title": "One killed in US shooting near mosque in Columbus, Ohio",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
-      "published": "2026-10-19T19:50:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/19/lebanon-to-reject-direct-military-co-ordination-with-israel-at-florida-talks/",
       "title": "Lebanon to reject direct military co-ordination with Israel at Florida talks",
       "source": "The National UAE",
@@ -370,50 +370,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ccaf6fac816836e59a849e96f82f209f",
-      "title": "The #Yemeni Armed Forces announces that they had carried out 1,164 strikes over the past 24 hours as part of Operation \"Dawn of Yemen,\" neutralizing 558 Houthi militia members and destroying or damaging 135 military vehicles and assets  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112229586813554853",
-      "published": "2026-10-19T17:09:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e9e68627e42426b1d3fca05ce205bfd0",
-      "title": "#UAE President Sheikh Mohamed bin Zayed Al-Nahyan and #French President Emmanuel Macron discuss ways to expand strategic relations between their countries, particularly in the fields of economy, investment, energy, advanced technology and artificial intelligence  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112229091910832473",
-      "published": "2026-10-19T17:07:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
