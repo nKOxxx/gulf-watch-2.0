@@ -1,10 +1,208 @@
 {
-  "generated_at": "2026-10-19T10:33:32.937753+00:00",
-  "total_incidents": 48,
+  "generated_at": "2026-10-19T11:32:10.010109+00:00",
+  "total_incidents": 51,
   "incidents": [
     {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/19/french-foreign-minister-warns-post-unifil-security-vacuum-in-south-lebanon-must-be-avoided/",
+      "title": "French Foreign Minister warns post-Unifil security vacuum in south Lebanon must be avoided",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/19/french-foreign-minister-warns-post-unifil-security-vacuum-in-south-lebanon-must-be-avoided/",
+      "published": "2026-10-19T11:16:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 23.5859,
+        "lng": 58.4059
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-army-showing-interest-in-gator-missile-killing-radar-northrop-says/",
+      "title": "US Army showing interest in G/ATOR missile-killing radar, Northrop says",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-army-showing-interest-in-gator-missile-killing-radar-northrop-says/",
+      "published": "2026-10-19T11:00:00+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792361545",
+      "title": "Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit?traffic_source=rss",
+      "published": "2026-10-19T10:49:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/19/i-am-proud-to-be-a-gulf-citizen-sheikh-mohammed-urges-unity-and-rejects-attempts-to-sow-division/",
+      "title": "'I am proud to be a Gulf citizen': Sheikh Mohammed urges unity and rejects attempts to sow division",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/19/i-am-proud-to-be-a-gulf-citizen-sheikh-mohammed-urges-unity-and-rejects-attempts-to-sow-division/",
+      "published": "2026-10-19T10:46:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792400860",
+      "title": "Israeli police arrest 10 after settler attacks on journalist, diplomats",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/19/israeli-police-arrest-10-after-settler-attacks-on-journalist-diplomats?traffic_source=rss",
+      "published": "2026-10-19T10:43:55+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/19/threats-and-invitations-houthis-send-mixed-signals-on-yemen-peace/",
+      "title": "Threats and invitations: Houthis send mixed signals on Yemen peace",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/19/threats-and-invitations-houthis-send-mixed-signals-on-yemen-peace/",
+      "published": "2026-10-19T10:36:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792403895",
+      "title": "Australian MP Helen Haines critically injured in \u2018deliberate\u2019 car ramming",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming?traffic_source=rss",
+      "published": "2026-10-19T10:35:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo#0",
+      "title": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T10:34:18+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/2026/10/19/sport-quiz-of-the-week-october-19-2026/",
+      "title": "Sport quiz of the week: October 19, 2026",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/sport/2026/10/19/sport-quiz-of-the-week-october-19-2026/",
+      "published": "2026-10-19T10:29:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/19/at-least-18-killed-in-houthi-attack-on-yemeni-government-military-camp-in-shabwa-sources-say/",
-      "title": "At least 18 killed in Houthi attack on Yemeni government military camp, sources say",
+      "title": "At least 18 reported dead in Houthi attack on Yemeni military camp",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/mena/2026/10/19/at-least-18-killed-in-houthi-attack-on-yemeni-government-military-camp-in-shabwa-sources-say/",
       "published": "2026-10-19T10:19:28+00:00",
@@ -19,8 +217,8 @@
       "credibility": 85,
       "is_government": false,
       "casualties": {
-        "total": 18,
-        "military": 18,
+        "total": 0,
+        "military": 0,
         "civilian": 0
       }
     },
@@ -267,100 +465,12 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/advertorial/2026/10/19/reportage-group-and-sabah-investment-group-showcase-sea-breeze-projects-in-azerbaijan/",
-      "title": "Reportage Group and Sabah Investment Group showcase Sea Breeze Projects in Azerbaijan",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/advertorial/2026/10/19/reportage-group-and-sabah-investment-group-showcase-sea-breeze-projects-in-azerbaijan/",
-      "published": "2026-10-19T08:56:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/17/canada-increases-gulf-diplomacy-to-push-for-peace-and-reopening-of-strait-of-hormuz/",
-      "title": "Canada increases Gulf diplomacy to push for peace and reopening of Strait of Hormuz",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/17/canada-increases-gulf-diplomacy-to-push-for-peace-and-reopening-of-strait-of-hormuz/",
-      "published": "2026-10-19T08:49:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.5,
-        "lng": 56.5
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792322105",
-      "title": "Hezbollah funding plan indicates a new challenge to Lebanon\u2019s government",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/19/hezbollah-funding-plan-indicates-a-new-challenge-to-lebanons-government?traffic_source=rss",
-      "published": "2026-10-19T08:34:56+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792383736",
-      "title": "Mali\u2019s military and armed groups committing abuses against civilians: HRW",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/19/malis-military-and-armed-groups-committing-abuses-against-civilians-hrw?traffic_source=rss",
-      "published": "2026-10-19T08:06:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/19/arab-vote-could-prove-decisive-in-israels-election-as-fears-grow-over-far-right/",
-      "title": "Arab vote could prove decisive in Israel\u2019s election as fears grow over far right",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/19/arab-vote-could-prove-decisive-in-israels-election-as-fears-grow-over-far-right/",
-      "published": "2026-10-19T07:49:00+00:00",
-      "type": "incident",
+      "id": "https://www.bbc.co.uk/news/articles/c680zdmn100lo#0",
+      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T06:29:55+00:00",
+      "type": "explosion",
       "status": "unconfirmed",
       "location": {
         "country": "Israel",
@@ -368,7 +478,7 @@
         "lat": 31.0461,
         "lng": 34.8516
       },
-      "credibility": 85,
+      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -927,29 +1037,7 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/global/europe/2026/10/16/bulgaria-seeks-nato-anti-drone-systems-defense-minister-says/",
-      "title": "Bulgaria seeks NATO anti-drone systems, defense minister says",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/10/16/bulgaria-seeks-nato-anti-drone-systems-defense-minister-says/",
-      "published": "2026-10-16T14:44:49+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo#1",
       "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
@@ -1030,28 +1118,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=98535",
-      "title": "Turkish Aerospace expands Anka 3 production with new line for upgraded drone",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/turkish-aerospace-expands-anka-3-production-with-new-line-for-upgraded-drone/",
-      "published": "2026-10-16T11:02:00+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
