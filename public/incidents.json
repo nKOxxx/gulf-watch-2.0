@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-19T07:50:17.612476+00:00",
-  "total_incidents": 55,
+  "generated_at": "2026-10-19T08:45:59.677134+00:00",
+  "total_incidents": 51,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792383736",
+      "title": "Mali\u2019s military and armed groups committing abuses against civilians: HRW",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/19/malis-military-and-armed-groups-committing-abuses-against-civilians-hrw?traffic_source=rss",
+      "published": "2026-10-19T08:06:22+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/19/arab-vote-could-prove-decisive-in-israels-election-as-fears-grow-over-far-right/",
       "title": "Arab vote could prove decisive in Israel\u2019s election as fears grow over far right",
@@ -206,28 +228,6 @@
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/2026/10/19/the-kingmakers-that-could-determine-israels-election?traffic_source=rss",
       "published": "2026-10-19T05:58:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792386526",
-      "title": "US President Donald Trump endorses Netanyahu for Israeli election",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/us-president-donald-trump-endorses-netanyahu-for-israeli-election?traffic_source=rss",
-      "published": "2026-10-19T05:10:37+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -575,28 +575,6 @@
       }
     },
     {
-      "id": "a6b9b7f999b6898fc4e396cad0e21d5e",
-      "title": "#GCC Secretary-General Jassem Al-Budaiwi stresses the importance of strengthening ties with #Russia, citing shared interests and a mutual desire to expand cooperation  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2111841645175947391",
-      "published": "2026-10-18T15:27:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "1f604425cedf4c41740fa8763fd32f5a",
       "title": "Ang pagkuha ng video, pag-post, o pagbabahagi ng impormasyong may kaugnayan sa paghadlang sa mga missile at drone pati na ang mga pinagbagsakan nito ay maglalagay sa iyo sa pananagutang legal.",
       "source": "Saudi Civil Defense (RSS.app)",
@@ -656,50 +634,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "67fc09bacfdbcf6a4bec5ff19f593830",
-      "title": "Hamdan bin Mohammed commends the Dubai Integrated Economic Zones Authority (DIEZ) for achieving a new record in trade during the first half of 2026, with the total value of trade across its three economic zones reaching AED246 billion, an increase of 17% compared to the same period last year. DIEZ records its highest first-half trade value for the sixth consecutive year, reflecting investor and international trade stakeholders\u2019 confidence in Dubai and the UAE\u2019s position at the heart of global trade. Imports rise by 14% to AED134.8 billion, while re-exports grow by 22% to AED108.8 billion. Trade with international partners exceeds AED127 billion, up 22%. DIEZ accounts for 16% of Dubai\u2019s non-o",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2111788053006291175",
-      "published": "2026-10-18T11:54:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4a3ad455f7d00806eecbc10ab70c41fc",
-      "title": "RT by @DXBMediaOffice: Guided by the vision of His Highness Sheikh Mohammed bin Rashid Al Maktoum, we continue to strengthen Dubai\u2019s position as a global hub for trade and investment. We are achieving this through an integrated economic and logistics ecosystem that connects global economies, enables businesses to expand into international markets, and unlocks new opportunities for investors and entrepreneurs. In another milestone reflecting investor confidence in Dubai\u2019s economic ecosystem, the Dubai Integrated Economic Zones Authority (DIEZ) recorded outstanding non-oil trade performance, with total trade across its three economic zones reaching AED 246 billion in the first half of 2026, ma",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/HHAhmedBinSaeed/status/2111780472988524936",
-      "published": "2026-10-18T11:24:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1184,28 +1118,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro#0",
-      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16T08:45:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
