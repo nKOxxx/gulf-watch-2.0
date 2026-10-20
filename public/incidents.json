@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-19T23:30:20.613224+00:00",
-  "total_incidents": 54,
+  "generated_at": "2026-10-20T01:01:34.856932+00:00",
+  "total_incidents": 53,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792450462",
+      "title": "Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss",
+      "published": "2026-10-20T00:18:20+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792450912",
+      "title": "Hegseth meets Netanyahu in unannounced Israel visit",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss",
+      "published": "2026-10-20T00:08:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792445984",
+      "title": "Iran war live: Trump says US hits Iran hard \u2018economically and militarily\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss",
+      "published": "2026-10-20T00:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792437962",
+      "title": "Mahmoud Khalil takes deportation fight to the US Supreme Court",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/19/mahmoud-khalil-takes-deportation-fight-to-the-us-supreme-court?traffic_source=rss",
+      "published": "2026-10-19T23:56:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792451450",
+      "title": "Children among six killed in Russian drone strike on Ukraine park",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss",
+      "published": "2026-10-19T23:12:42+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "1039758b58aaeb9e210afe73c56cf902",
       "title": "#Yemen's Presidential Leadership Council Chairman Rashad Al-Alimi urges #UN Secretary-General Antonio Guterres to support international action aiming to designate the Houthi militia as a terrorist organization  #KUNA",
@@ -47,94 +157,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792439094",
-      "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss",
-      "published": "2026-10-19T21:46:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792434054",
-      "title": "160 people reported killed in escalating drone attacks across Sudan",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
-      "published": "2026-10-19T21:38:46+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792445115",
-      "title": "Could your halal pension be funding Israel\u2019s military?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss",
-      "published": "2026-10-19T21:28:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792443326",
-      "title": "Israeli police say they arrested 10 in connection with settler attacks",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/israeli-police-say-they-arrested-10-in-connection-with-settler-attacks?traffic_source=rss",
-      "published": "2026-10-19T21:00:03+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=98858",
       "title": "Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers",
       "source": "Breaking Defense",
@@ -149,28 +171,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792442386",
-      "title": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
-      "published": "2026-10-19T20:49:39+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -216,28 +216,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792429565",
-      "title": "Finland seeking one million land mines as it eyes Russian threat",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
-      "published": "2026-10-19T19:57:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -311,10 +289,10 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/future/technology/2026/10/19/openai-suspect-saudi-worker-abdulrahman-alfozan/",
+      "id": "https://www.thenationalnews.com/future/technology/2026/10/20/abdulrahman-alfozan-openai-saudi/",
       "title": "Prosecutors call Saudi suspect and ex-OpenAI worker Abdulrahman Alfozan 'an ongoing danger'",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/19/openai-suspect-saudi-worker-abdulrahman-alfozan/",
+      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/20/abdulrahman-alfozan-openai-saudi/",
       "published": "2026-10-19T17:43:03+00:00",
       "type": "incident",
       "status": "unconfirmed",
