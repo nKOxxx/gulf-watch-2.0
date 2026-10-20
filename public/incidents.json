@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-20T06:47:38.776157+00:00",
-  "total_incidents": 52,
+  "generated_at": "2026-10-20T07:38:16.891340+00:00",
+  "total_incidents": 51,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/20/uae-bahrain-and-saudi-arabia-to-sell-france-the-equivalent-of-10-per-cent-of-its-diesel-consumption/",
+      "title": "Gulf states to boost diesel shipments to struggling France",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/20/uae-bahrain-and-saudi-arabia-to-sell-france-the-equivalent-of-10-per-cent-of-its-diesel-consumption/",
+      "published": "2026-10-20T07:16:42+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/europe/2026/10/20/french-riots-hold-a-warning-for-british-reformers/",
+      "title": "French riots hold a warning for British reformers",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/20/french-riots-hold-a-warning-for-british-reformers/",
+      "published": "2026-10-20T06:54:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "db4deb5d80b5f2b56db59800190ac5c8",
       "title": "#Tunisia ranks first in North Africa & the Arab Maghreb in the 2026 Energy Transition Index by the World Economic Forum in collaboration with Accenture  #KUNA #Kuwait",
@@ -127,50 +171,6 @@
         "lng": 34.8516
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/football/2026/10/20/cristiano-ronaldo-handed-30-day-suspension-and-255-fine-by-portuguese-fa/",
-      "title": "Cristiano Ronaldo handed 30-day suspension and \u20ac255 fine by Portuguese FA",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/20/cristiano-ronaldo-handed-30-day-suspension-and-255-fine-by-portuguese-fa/",
-      "published": "2026-10-20T04:33:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/20/live-hegseth-israel-us-iran-war/",
-      "title": "Iran war latest: Hegseth makes surprise visit to Israel as Netanyahu tells Trump 'we have job to finish'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/20/live-hegseth-israel-us-iran-war/",
-      "published": "2026-10-20T04:05:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -392,28 +392,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "85e650dfa571d30ca1bc513b96c7c68c",
-      "title": "RT by @DXBMediaOffice: The 8th edition of AccessAbilities Expo opens today. As the region\u2019s leading platform for accessibility and inclusive innovation, it brings together solution providers, government entities, healthcare institutions, education providers and organisations from across MENASA and beyond. By sharing expertise and working together, the exhibition advances solutions that improve the independence and quality of life of People of Determination. This aligns with the Dubai Social Agenda 33's aim to provide protection, empowerment and equal opportunities to all segments of the community.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/HHAhmedBinSaeed/status/2112201236024000584",
-      "published": "2026-10-19T15:16:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
