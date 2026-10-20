@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-20T01:01:34.856932+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-20T01:40:12.098229+00:00",
+  "total_incidents": 54,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792448609",
+      "title": "Saudi Arabia cancels 2026 \u2018Davos in the Desert\u2019 amid Houthi attacks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss",
+      "published": "2026-10-20T01:05:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792450462",
       "title": "Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death",
