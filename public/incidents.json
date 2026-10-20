@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-20T05:33:31.777346+00:00",
-  "total_incidents": 48,
+  "generated_at": "2026-10-20T06:47:38.776157+00:00",
+  "total_incidents": 52,
   "incidents": [
+    {
+      "id": "db4deb5d80b5f2b56db59800190ac5c8",
+      "title": "#Tunisia ranks first in North Africa & the Arab Maghreb in the 2026 Energy Transition Index by the World Economic Forum in collaboration with Accenture  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112429638337118592",
+      "published": "2026-10-20T06:24:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792437251",
+      "title": "Palestine weekly: Israeli settlers attack journalist and diplomats",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/20/palestine-weekly-israeli-settlers-attack-journalist-and-diplomats?traffic_source=rss",
+      "published": "2026-10-20T06:22:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/20/macron-talks-energy-crisis-during-uae-visit-wfp-to-cut-gaza-food-aid-and-dubai-tests-autonomous-wheelchairs/",
+      "title": "Macron talks energy crisis during UAE visit, WFP to cut Gaza food aid and Dubai tests autonomous wheelchairs",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/20/macron-talks-energy-crisis-during-uae-visit-wfp-to-cut-gaza-food-aid-and-dubai-tests-autonomous-wheelchairs/",
+      "published": "2026-10-20T06:04:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/20/im-postponing-my-marriage-gazans-put-lives-on-hold-as-they-await-israeli-election/",
+      "title": "'I'm postponing my marriage': Gazans put lives on hold as they await Israeli election",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/20/im-postponing-my-marriage-gazans-put-lives-on-hold-as-they-await-israeli-election/",
+      "published": "2026-10-20T05:54:25+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit-amid-iran-war-concerns/",
+      "title": "Hegseth meets Netanyahu in unannounced Israel visit amid Iran war concerns",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit-amid-iran-war-concerns/",
+      "published": "2026-10-20T05:43:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791465216",
       "title": "Israel\u2019s elections 2026 explained in maps and charts",
@@ -61,50 +171,6 @@
         "lng": 53.688
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/20/universities-in-uae-set-sights-high-as-student-enrolment-surges/",
-      "title": "Universities in UAE enjoy enrolment surge amid decline in Gulf students heading to UK",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/20/universities-in-uae-set-sights-high-as-student-enrolment-surges/",
-      "published": "2026-10-20T03:12:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791634503",
-      "title": "The human cost of surging US air strikes in Somalia",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers?traffic_source=rss",
-      "published": "2026-10-20T01:52:32+00:00",
-      "type": "airstrike",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -282,6 +348,28 @@
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo#0",
+      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T16:20:51+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
