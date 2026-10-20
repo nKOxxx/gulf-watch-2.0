@@ -1,10 +1,54 @@
 {
-  "generated_at": "2026-10-20T04:35:35.964315+00:00",
-  "total_incidents": 46,
+  "generated_at": "2026-10-20T05:33:31.777346+00:00",
+  "total_incidents": 48,
   "incidents": [
     {
+      "id": "https://www.aljazeera.com/?t=1791465216",
+      "title": "Israel\u2019s elections 2026 explained in maps and charts",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/20/israels-elections-2026-explained-in-maps-and-charts?traffic_source=rss",
+      "published": "2026-10-20T05:25:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/football/2026/10/20/cristiano-ronaldo-handed-30-day-suspension-and-255-fine-by-portuguese-fa/",
+      "title": "Cristiano Ronaldo handed 30-day suspension and \u20ac255 fine by Portuguese FA",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/20/cristiano-ronaldo-handed-30-day-suspension-and-255-fine-by-portuguese-fa/",
+      "published": "2026-10-20T04:33:30+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/20/live-hegseth-israel-us-iran-war/",
-      "title": "Iran war latest: Hegseth 'meets Netanyahu' in unannounced Israel visit amid Iran war concerns",
+      "title": "Iran war latest: Hegseth makes surprise visit to Israel as Netanyahu tells Trump 'we have job to finish'",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/mena/2026/10/20/live-hegseth-israel-us-iran-war/",
       "published": "2026-10-20T04:05:55+00:00",
@@ -25,18 +69,18 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/20/us-midterms-iran-foreign-policy/",
-      "title": "US midterms: Iran war and cost of living put Trump\u2019s foreign policy under pressure",
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/20/universities-in-uae-set-sights-high-as-student-enrolment-surges/",
+      "title": "Universities in UAE enjoy enrolment surge amid decline in Gulf students heading to UK",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/20/us-midterms-iran-foreign-policy/",
-      "published": "2026-10-20T03:00:00+00:00",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/20/universities-in-uae-set-sights-high-as-student-enrolment-surges/",
+      "published": "2026-10-20T03:12:38+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Iran",
+        "country": "UAE",
         "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
+        "lat": 23.4241,
+        "lng": 53.8478
       },
       "credibility": 85,
       "is_government": false,
