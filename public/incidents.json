@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-20T15:32:00.993862+00:00",
-  "total_incidents": 59,
+  "generated_at": "2026-10-20T16:34:19.318095+00:00",
+  "total_incidents": 55,
   "incidents": [
+    {
+      "id": "059bc5eca4ab55b9751852ff6675eee0",
+      "title": "Qatar says contacts, visits & exchanges of messages as part of mediation efforts between the US & Iran have continued without interruption.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112581109644976442",
+      "published": "2026-10-20T16:26:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792511594",
+      "title": "Ferry catches fire near Indonesian port, all passengers rescued",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ferry-catches-fire-near-indonesian-port-all-passengers-rescued?traffic_source=rss",
+      "published": "2026-10-20T16:13:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ad80bd85d9dfa4dc2e8a7ce7f92c9431",
+      "title": "DEWA International signs four MoUs with global partners during WETEX 2026, supporting the expansion of its global project portfolio. The MoUs were signed with EDF Middle East, China Energy International Group, Capital Dynamics and Tata Consultancy Services.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2112577603353837663",
+      "published": "2026-10-20T16:12:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792496964",
+      "title": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis?traffic_source=rss",
+      "published": "2026-10-20T16:01:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/pentagon-congress/2026/10/20/hegseth-discusses-iran-with-netanyahu-in-unannounced-visit-to-israel-officials-say/",
+      "title": "Hegseth discusses Iran with Netanyahu in unannounced visit to Israel, officials say",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/10/20/hegseth-discusses-iran-with-netanyahu-in-unannounced-visit-to-israel-officials-say/",
+      "published": "2026-10-20T15:56:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "dca0f9aa06e989729add085b85cbcbe5",
       "title": "Chairman of Iran's Parliament National Security and Foreign Policy Committee Ebrahim Azizi says the final destination of the Israeli regime is \u201ctotal defeat by the will of the brave Iranian nation and the Resistance Front.\"",
@@ -223,28 +333,6 @@
       }
     },
     {
-      "id": "53b141cffc84867af70e63d59f3243e1",
-      "title": "Ahmed bin Saeed: Today, I inaugurated the 28th edition of the Water, Energy, Technology and Environment Exhibition (WETEX), organised by Dubai Electricity and Water Authority (DEWA), with the participation of 3,000 companies from 60 countries. The scale of this international gathering reflects WETEX\u2019s standing as a global platform for investment, innovation and cooperation across the energy, water and environmental sectors. It brings together decision-makers, investors and experts to exchange knowledge, strengthen partnerships and explore advanced technologies that can be translated into projects with lasting economic and environmental value. This year\u2019s edition will further enhance Dubai\u2019s",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2112550672235458887",
-      "published": "2026-10-20T14:25:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "9c2ba468ae9ab372d4d67a16b0a82ddc",
       "title": "#Kuwait's Minister of Awqaf & Islamic Affairs confirms that Kuwait is keen on strengthening joint Gulf cooperation in the fields of Islamic affairs & endowments, developing waqf initiatives & exchanging experiences.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -257,28 +345,6 @@
         "city": null,
         "lat": 29.3117,
         "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "485d348174fc3c27723991af390df485",
-      "title": "RT by @DXBMediaOffice: Today, I inaugurated the 28th edition of the Water, Energy, Technology and Environment Exhibition (WETEX), organised by Dubai Electricity and Water Authority (DEWA), with the participation of 3,000 companies from 60 countries. The scale of this international gathering reflects WETEX\u2019s standing as a global platform for investment, innovation and cooperation across the energy, water and environmental sectors. It brings together decision-makers, investors and experts to exchange knowledge, strengthen partnerships and explore advanced technologies that can be translated into projects with lasting economic and environmental value. This year\u2019s edition will further enhance Du",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/HHAhmedBinSaeed/status/2112547438288638056",
-      "published": "2026-10-20T14:12:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 95,
       "is_government": true,
@@ -421,28 +487,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792502243",
-      "title": "US envoy Barrack defends decision to join Israel in war on Iran",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss",
-      "published": "2026-10-20T13:20:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/20/opinion-polls-suggest-stalemate-one-week-before-israeli-election/",
       "title": "Opinion polls suggest stalemate one week before Israeli election",
       "source": "The National UAE",
@@ -487,28 +531,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792496018",
-      "title": "More than 250,000 displaced in Yemen since fighting escalated: UNHCR",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/20/more-than-250000-displaced-in-yemen-since-fighting-escalated-unhcr?traffic_source=rss",
-      "published": "2026-10-20T13:00:21+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "7ed6aaca02a512dce15af92879b8f390",
       "title": "#Kuwait's task force tasked with establishing the Aman National Center for Emergency, Crisis & Disaster Management review #Oman's experience in handling emergencies & disasters.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -521,72 +543,6 @@
         "city": null,
         "lat": 31.9454,
         "lng": 35.9284
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e7c86379b11e56d5fdfa8790b25ea15d",
-      "title": "KRCS & KOTC discuss their keenness to strengthen strategic partnerships with national institutions & the oil sector to support humanitarian work, develop community initiatives & coordinate efforts to serve all segments of society.  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112522019107438940",
-      "published": "2026-10-20T12:31:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/20/police-chief-says-nothing-to-worry-about-over-reports-of-strong-fuel-smell-across-sharjah-and-dubai/",
-      "title": "Police chief says nothing to worry about after reports of strong fuel smell across Sharjah and Dubai",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/20/police-chief-says-nothing-to-worry-about-over-reports-of-strong-fuel-smell-across-sharjah-and-dubai/",
-      "published": "2026-10-20T12:25:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "1b9b74796d454800888720542cda3f7d",
-      "title": "#GCC Chief: The value of the Free Trade Agreement signed between the Gulf Cooperation Council & the #UK back in May would be measured by the joint benefits it would generate for all parties involved.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112514946915303689",
-      "published": "2026-10-20T12:03:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 95,
       "is_government": true,
@@ -712,28 +668,6 @@
       "source": "Saudi Civil Defense (RSS.app)",
       "source_url": "https://x.com/SaudiDCD/status/2112458221361222103",
       "published": "2026-10-20T08:17:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "fb8869f9ee00cdb7459dc1810c64cb81",
-      "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0631\u064a\u0627\u0636 \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in Riyadh City to alert of a potential danger. Please follow the instructions below:",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2112456738213630411",
-      "published": "2026-10-20T08:11:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
@@ -1030,28 +964,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/asia-pacific/2026/10/19/australia-gets-the-ball-rolling-on-medium-range-air-defense/",
-      "title": "Australia gets the ball rolling on medium-range air defense",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/asia-pacific/2026/10/19/australia-gets-the-ball-rolling-on-medium-range-air-defense/",
-      "published": "2026-10-19T11:32:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
