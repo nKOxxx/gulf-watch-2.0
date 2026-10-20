@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-20T03:37:14.077256+00:00",
-  "total_incidents": 47,
+  "generated_at": "2026-10-20T04:35:35.964315+00:00",
+  "total_incidents": 46,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/20/live-hegseth-israel-us-iran-war/",
+      "title": "Iran war latest: Hegseth 'meets Netanyahu' in unannounced Israel visit amid Iran war concerns",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/20/live-hegseth-israel-us-iran-war/",
+      "published": "2026-10-20T04:05:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/us/2026/10/20/us-midterms-iran-foreign-policy/",
       "title": "US midterms: Iran war and cost of living put Trump\u2019s foreign policy under pressure",
@@ -47,28 +69,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792448609",
-      "title": "Saudi Arabia cancels 2026 \u2018Davos in the Desert\u2019 amid Houthi attacks",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss",
-      "published": "2026-10-20T01:05:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "1039758b58aaeb9e210afe73c56cf902",
       "title": "#Yemen's Presidential Leadership Council Chairman Rashad Al-Alimi urges #UN Secretary-General Antonio Guterres to support international action aiming to designate the Houthi militia as a terrorist organization  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -84,28 +84,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/19/us-allowing-dark-fleet-oil-tankers-to-ship-crude-energy-secretary-says/",
-      "title": "US allowing 'dark fleet' oil tankers to ship crude, Energy Secretary says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/19/us-allowing-dark-fleet-oil-tankers-to-ship-crude-energy-secretary-says/",
-      "published": "2026-10-19T21:54:19+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
