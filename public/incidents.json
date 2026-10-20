@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-20T18:37:37.896572+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-20T19:30:51.457371+00:00",
+  "total_incidents": 55,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/10/20/dark-fleet-under-spotlight-in-latest-us-move-to-ease-rising-energy-costs/",
+      "title": "'Dark fleet' under spotlight in latest US move to ease rising energy costs",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/20/dark-fleet-under-spotlight-in-latest-us-move-to-ease-rising-energy-costs/",
+      "published": "2026-10-20T19:23:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uk/2026/10/20/raf-fairford-suspects-face-new-charges-of-working-for-iranian-intelligence/",
+      "title": "RAF Fairford suspects face new charges of working for Iranian intelligence",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/20/raf-fairford-suspects-face-new-charges-of-working-for-iranian-intelligence/",
+      "published": "2026-10-20T19:09:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "639486ca337b6f270fa15d4e5fe87be6",
+      "title": "#Kuwait Foreign Affairs reaffirms full support, solidarity with #Saudi_Arabia.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112620894489133543",
+      "published": "2026-10-20T19:04:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/20/tom-barrack-iran-not-evil/",
+      "title": "Iran not an 'evil regime', US ambassador Tom Barrack says",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/20/tom-barrack-iran-not-evil/",
+      "published": "2026-10-20T19:02:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792522028",
+      "title": "UK to deploy fighter jets to defend Saudi Arabia",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss",
+      "published": "2026-10-20T18:55:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792514655",
+      "title": "Can a humanitarian crisis in Gaza be averted?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/inside-story/2026/10/20/can-a-humanitarian-crisis-in-gaza-be-averted?traffic_source=rss",
+      "published": "2026-10-20T18:45:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
       "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
@@ -223,72 +355,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792514843",
-      "title": "Ben-Gvir mocks Gaza destruction in AI-generated video",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ben-gvir-mocks-gaza-destruction-in-ai-generated-video?traffic_source=rss",
-      "published": "2026-10-20T16:51:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/20/gaza-families-fear-losing-their-last-lifeline-after-wfp-aid-cuts/",
-      "title": "Gaza families fear losing their last lifeline after WFP aid cuts",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/20/gaza-families-fear-losing-their-last-lifeline-after-wfp-aid-cuts/",
-      "published": "2026-10-20T16:35:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792504807",
-      "title": "Macron lines up more Gulf diesel as France battles soaring fuel prices",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/10/20/macron-lines-up-more-gulf-diesel-as-france-battles-soaring-fuel?traffic_source=rss",
-      "published": "2026-10-20T16:33:43+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "059bc5eca4ab55b9751852ff6675eee0",
       "title": "Qatar says contacts, visits & exchanges of messages as part of mediation efforts between the US & Iran have continued without interruption.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -304,28 +370,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792512615",
-      "title": "Is Cyprus becoming Israel\u2019s backyard?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_is-cyprus-becoming-israels-backyard-201026?traffic_source=rss",
-      "published": "2026-10-20T16:23:12+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
