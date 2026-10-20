@@ -1,13 +1,145 @@
 {
-  "generated_at": "2026-10-20T11:31:36.259324+00:00",
-  "total_incidents": 47,
+  "generated_at": "2026-10-20T12:43:58.586683+00:00",
+  "total_incidents": 53,
   "incidents": [
     {
-      "id": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
-      "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
-      "published": "2026-10-20T11:08:00+00:00",
+      "id": "e7c86379b11e56d5fdfa8790b25ea15d",
+      "title": "KRCS & KOTC discuss their keenness to strengthen strategic partnerships with national institutions & the oil sector to support humanitarian work, develop community initiatives & coordinate efforts to serve all segments of society.  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112522019107438940",
+      "published": "2026-10-20T12:31:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/20/police-chief-says-nothing-to-worry-about-over-reports-of-strong-fuel-smell-across-sharjah-and-dubai/",
+      "title": "Police chief says nothing to worry about over reports of strong fuel smell across Sharjah and Dubai",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/20/police-chief-says-nothing-to-worry-about-over-reports-of-strong-fuel-smell-across-sharjah-and-dubai/",
+      "published": "2026-10-20T12:25:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/20/iran-says-iraq-has-agreed-to-expel-iranian-kurdish-opposition-groups-from-kurdistan-region/",
+      "title": "Iran says Iraq has agreed to expel Iranian Kurdish opposition groups from Kurdistan region",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/20/iran-says-iraq-has-agreed-to-expel-iranian-kurdish-opposition-groups-from-kurdistan-region/",
+      "published": "2026-10-20T12:06:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791988930",
+      "title": "Yemen: Maps show 10 years of changing control",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/20/yemen-maps-show-10-years-of-changing-control?traffic_source=rss",
+      "published": "2026-10-20T12:05:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "1b9b74796d454800888720542cda3f7d",
+      "title": "#GCC Chief: The value of the Free Trade Agreement signed between the Gulf Cooperation Council & the #UK back in May would be measured by the joint benefits it would generate for all parties involved.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112514946915303689",
+      "published": "2026-10-20T12:03:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/20/pakistan-army-chief-arrives-in-tehran-as-iran-seeks-leverage-in-us-talks/",
+      "title": "Pakistan army chief arrives in Tehran as Iran seeks leverage in US talks",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/20/pakistan-army-chief-arrives-in-tehran-as-iran-seeks-leverage-in-us-talks/",
+      "published": "2026-10-20T12:02:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo#0",
+      "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T11:59:45+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -15,6 +147,94 @@
         "city": null,
         "lat": 23.8859,
         "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+      "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+      "published": "2026-10-20T11:54:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792482095",
+      "title": "Yemen\u2019s critically ill are trapped as war closes the country\u2019s airports",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/10/20/yemens-critically-ill-are-trapped-as-war-closes-the-countrys-airports?traffic_source=rss",
+      "published": "2026-10-20T11:52:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792494754",
+      "title": "UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss",
+      "published": "2026-10-20T11:37:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792495653",
+      "title": "Australian MP Helen Haines remains in critical condition after car attack",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/australian-mp-helen-haines-remains-in-critical-condition-after-car-attack-2?traffic_source=rss",
+      "published": "2026-10-20T11:29:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -157,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/business/economy/2026/10/20/uk-should-do-more-for-gulf-allies-and-consider-strikes-on-houthis-says-ex-defence-secretary/",
-      "title": "UK should do more for Gulf allies and consider strikes on Houthis, says ex-defence secretary",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/20/uk-should-do-more-for-gulf-allies-and-consider-strikes-on-houthis-says-ex-defence-secretary/",
-      "published": "2026-10-20T09:54:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "824b0b25b762c83bc0a828ed1175424a",
       "title": "#Kuwait's Minister of Electricity, Water & Renewable Energy chairs the third Supreme Energy Committee, to review technical progress & the 2035 Energy Transition Plan  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -238,28 +436,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792480149",
-      "title": "South Korea to pull more embassy staff from Ukraine after POW row",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/20/south-korea-to-pull-more-embassy-staff-from-ukraine-after-pow-row?traffic_source=rss",
-      "published": "2026-10-20T09:26:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -391,50 +567,6 @@
         "lng": 46.6753
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "7245087563dea2efa0c2fe8058ba9595",
-      "title": "#Kuwait's oil price up USD 1.09 to USD 104.22 pb -KPC  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112446701357134091",
-      "published": "2026-10-20T07:31:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "db4deb5d80b5f2b56db59800190ac5c8",
-      "title": "#Tunisia ranks first in North Africa & the Arab Maghreb in the 2026 Energy Transition Index by the World Economic Forum in collaboration with Accenture  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112429638337118592",
-      "published": "2026-10-20T06:24:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -971,7 +1103,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo#1",
       "title": "European diplomats attacked by Israeli settlers in West Bank",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
