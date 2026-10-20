@@ -1,14 +1,212 @@
 {
-  "generated_at": "2026-10-20T13:33:24.001583+00:00",
-  "total_incidents": 54,
+  "generated_at": "2026-10-20T14:33:04.764985+00:00",
+  "total_incidents": 56,
   "incidents": [
     {
-      "id": "9fb0155e93a222b9e1b9cd2a13e06d21",
-      "title": "Emirates NBD and BlackRock launch two new income-focused funds, the FundStar Emirates CLO AA Fund and the Emirates Systematic Income and Growth Fund to mark the first anniversary of their partnership. Building on the initial investment platform launched by the two parties in 2025 to give the bank\u2019s high-net-worth clients access to alternative investments, the partnership has attracted USD 350 million in assets under management. The new funds address growing investor demand for regular income, capital preservation and portfolio diversification.",
+      "id": "9c2ba468ae9ab372d4d67a16b0a82ddc",
+      "title": "#Kuwait's Minister of Awqaf & Islamic Affairs confirms that Kuwait is keen on strengthening joint Gulf cooperation in the fields of Islamic affairs & endowments, developing waqf initiatives & exchanging experiences.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112548071569506808",
+      "published": "2026-10-20T14:14:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "485d348174fc3c27723991af390df485",
+      "title": "RT by @DXBMediaOffice: Today, I inaugurated the 28th edition of the Water, Energy, Technology and Environment Exhibition (WETEX), organised by Dubai Electricity and Water Authority (DEWA), with the participation of 3,000 companies from 60 countries. The scale of this international gathering reflects WETEX\u2019s standing as a global platform for investment, innovation and cooperation across the energy, water and environmental sectors. It brings together decision-makers, investors and experts to exchange knowledge, strengthen partnerships and explore advanced technologies that can be translated into projects with lasting economic and environmental value. This year\u2019s edition will further enhance Du",
       "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2112534352278196584",
-      "published": "2026-10-20T13:20:00+00:00",
+      "source_url": "https://x.com/HHAhmedBinSaeed/status/2112547438288638056",
+      "published": "2026-10-20T14:12:00+00:00",
       "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo#0",
+      "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T14:09:42+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=98754",
+      "title": "Ghost Shark with teeth: Australia unveils underwater drone payloads",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/ghost-shark-with-teeth-australia-unveils-underwater-drone-payloads/",
+      "published": "2026-10-20T14:01:23+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=98856",
+      "title": "Drones take over AUSA, plus the Army\u2019s plan to bring in new vendors",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/drones-take-over-ausa-plus-the-armys-plan-to-bring-in-new-vendors/",
+      "published": "2026-10-20T13:57:13+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo#0",
+      "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-20T13:54:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a42c667c65a967f4be0490fa05f71811",
+      "title": "Maktoum bin Mohammed: Today, I met with Georges Elhedery, Group CEO of HSBC, and discussed opportunities to strengthen cooperation in banking, finance and investment. Dubai and HSBC share a longstanding relationship spanning decades, during which the Group\u2019s banking operations have contributed to the growth of the financial services sector. We remain committed to building strategic partnerships with leading global banking and financial institutions to support economic development in the UAE and Dubai. Our partnerships remain strong, our approach steadfast, our vision clear, and our steps bold as we move towards a prosperous future for the UAE.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2112540974454870220",
+      "published": "2026-10-20T13:46:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5dd4ca6a5ab8d9dd60d66dd8c81b97fe",
+      "title": "Maktoum bin Mohammed meets with Georges Elhedery, Group CEO of HSBC. The meeting reviewed the longstanding relationship between the UAE and HSBC and explored opportunities to strengthen cooperation in banking, finance and investment. Discussions also highlighted Dubai\u2019s growing role as a global financial hub, supported by its advanced infrastructure and regulatory environment, and its ability to attract international financial institutions, investment and highly skilled talent from around the world.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2112538351387771355",
+      "published": "2026-10-20T13:36:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "135d54880e0dce0eeff51384d5ed8395",
+      "title": "RT by @DXBMediaOffice: Today, I met with Georges Elhedery, Group CEO of HSBC, and discussed opportunities to strengthen cooperation in banking, finance and investment. Dubai and HSBC share a longstanding relationship spanning decades, during which the Group\u2019s banking operations have contributed to the growth of the financial services sector. We remain committed to building strategic partnerships with leading global banking and financial institutions to support economic development in the UAE and Dubai. Our partnerships remain strong, our approach steadfast, our vision clear, and our steps bold as we move towards a prosperous future for the UAE.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/MaktoumMohammed/status/2112535873195811210",
+      "published": "2026-10-20T13:26:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "310227fd0b427a217f786d5708971587",
+      "title": ". Experts from the International Atomic Energy Agency (IAEA) commended the United Arab Emirates\u2019 robust emergency prepar...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/Det7gN8EwT2",
+      "published": "2026-10-20T13:22:17+00:00",
+      "type": "incident",
       "status": "confirmed",
       "location": {
         "country": null,
@@ -18,6 +216,28 @@
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792502243",
+      "title": "US envoy Barrack defends decision to join Israel in war on Iran",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss",
+      "published": "2026-10-20T13:20:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -62,28 +282,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "877afbaa58193ee10defe386e612d0fa",
-      "title": "The 12th edition of the World Green Economy Summit (WGES) 2026 kicks off tomorrow at the Dubai World Trade Centre. Organised by the Dubai Supreme Council of Energy, Dubai Electricity and Water Authority (DEWA) and the World Green Economy Organization (WGEO), the summit is held under the theme \u2018From Success to Scale: Showcasing the Green Economy\u2019 and brings together 135 speakers, including ministers, business leaders, government officials, decision-makers, experts and innovators from around the world. For more information and to register to attend sessions, visit the website:",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2112531281171055049",
-      "published": "2026-10-20T13:08:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -157,28 +355,6 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo#0",
-      "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T12:55:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "7ed6aaca02a512dce15af92879b8f390",
       "title": "#Kuwait's task force tasked with establishing the Aman National Center for Emergency, Crisis & Disaster Management review #Oman's experience in handling emergencies & disasters.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -191,28 +367,6 @@
         "city": null,
         "lat": 31.9454,
         "lng": 35.9284
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "1a06aa5cc50baf8588e0810894514ac9",
-      "title": "The Water, Energy, Technology and Environment Exhibition (WETEX) attracts 60 sponsors and 23 partners and supporters as it gets underway at the Dubai World Trade Centre, bringing together 3,000 companies from 60 countries and featuring 13 international pavilions.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2112525524199489683",
-      "published": "2026-10-20T12:45:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 95,
       "is_government": true,
@@ -290,7 +444,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/uae/2026/10/20/police-chief-says-nothing-to-worry-about-over-reports-of-strong-fuel-smell-across-sharjah-and-dubai/",
-      "title": "Police chief says nothing to worry about over reports of strong fuel smell across Sharjah and Dubai",
+      "title": "Police chief says nothing to worry about after reports of strong fuel smell across Sharjah and Dubai",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/uae/2026/10/20/police-chief-says-nothing-to-worry-about-over-reports-of-strong-fuel-smell-across-sharjah-and-dubai/",
       "published": "2026-10-20T12:25:11+00:00",
@@ -333,28 +487,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1791988930",
-      "title": "Yemen: Maps show 10 years of changing control",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/20/yemen-maps-show-10-years-of-changing-control?traffic_source=rss",
-      "published": "2026-10-20T12:05:21+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "1b9b74796d454800888720542cda3f7d",
       "title": "#GCC Chief: The value of the Free Trade Agreement signed between the Gulf Cooperation Council & the #UK back in May would be measured by the joint benefits it would generate for all parties involved.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -377,28 +509,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/20/pakistan-army-chief-arrives-in-tehran-as-iran-seeks-leverage-in-us-talks/",
-      "title": "Pakistan army chief arrives in Tehran as Iran seeks leverage in US talks",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/20/pakistan-army-chief-arrives-in-tehran-as-iran-seeks-leverage-in-us-talks/",
-      "published": "2026-10-20T12:02:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
       "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
       "source": "The Guardian",
@@ -411,28 +521,6 @@
         "city": null,
         "lat": 23.8859,
         "lng": 45.0792
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792482095",
-      "title": "Yemen\u2019s critically ill are trapped as war closes the country\u2019s airports",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/10/20/yemens-critically-ill-are-trapped-as-war-closes-the-countrys-airports?traffic_source=rss",
-      "published": "2026-10-20T11:52:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
       },
       "credibility": 90,
       "is_government": false,
@@ -480,28 +568,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5bc6694ca92f1dfc010387b0c68c0983",
-      "title": "Hamdan bin Mohammed: Today, we present the Dubai-it Award in the Government category to the Red Carpet project by the General Directorate of Identity and Foreigners Affairs in Dubai. The project has transformed the airport experience, enabling travellers to complete entry and exit procedures in less than five seconds, making it the fastest service of its kind in the world. It has increased capacity tenfold while achieving a passenger satisfaction rate of over 99%. This is the philosophy behind Dubai-it: achieving exceptional results that change the way things are done, harnessing the latest technologies to make people\u2019s lives easier and create experiences that exceed their expectations. Cong",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2112483151075590651",
-      "published": "2026-10-20T09:56:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -677,28 +743,6 @@
         "lng": 48.5164
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo#0",
-      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T16:20:51+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
