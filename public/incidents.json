@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T21:31:09.567714+00:00",
-  "total_incidents": 54,
+  "generated_at": "2026-10-20T22:30:24.980699+00:00",
+  "total_incidents": 55,
   "incidents": [
     {
       "id": "https://www.aljazeera.com/?t=1792528212",
@@ -18,6 +18,28 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4aacba2ca3453178a70fb69b63a5b682",
+      "title": "#Yemeni parliamentary leaders commend #Kuwait's diplomatic, humanitarian support.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112654820322517000",
+      "published": "2026-10-20T21:18:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
