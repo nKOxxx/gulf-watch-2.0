@@ -1,13 +1,189 @@
 {
-  "generated_at": "2026-10-21T13:32:45.998974+00:00",
-  "total_incidents": 50,
+  "generated_at": "2026-10-21T14:33:48.441156+00:00",
+  "total_incidents": 57,
   "incidents": [
     {
+      "id": "https://www.thenationalnews.com/business/energy/2026/10/21/frances-diesel-deal-with-gulf-states-will-not-make-fuel-cheap-overnight-for-european-country/",
+      "title": "France\u2019s diesel deal with Gulf states will not make fuel 'cheap overnight\u2019 for European country",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/21/frances-diesel-deal-with-gulf-states-will-not-make-fuel-cheap-overnight-for-european-country/",
+      "published": "2026-10-21T14:30:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/10/21/german-military-raises-sabotage-threat-level-amid-warning-of-russian-attacks-report/",
+      "title": "German military raises sabotage threat level amid warning of Russian attacks: report",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/21/german-military-raises-sabotage-threat-level-amid-warning-of-russian-attacks-report/",
+      "published": "2026-10-21T14:27:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/21/besieged-yemeni-city-taiz-houthis-humanitarian-crisis-aid-workers",
+      "title": "Besieged Yemeni city on verge of \u2018unmanageable\u2019 crisis, aid workers warn",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/21/besieged-yemeni-city-taiz-houthis-humanitarian-crisis-aid-workers",
+      "published": "2026-10-21T14:24:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b2395d040d5cf021af03883ed2eacf1d",
+      "title": "#Kuwait's Minister of Oil & KPC Board Chairman tackles ways to strengthen bilateral relations & cooperation with the ambassadors of the #UK, #France & #Japan to Kuwait in separate meetings.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112909257053970899",
+      "published": "2026-10-21T14:09:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest",
-      "title": "Israeli military detains US politician Brad Lander and rabbis at olive harvest",
+      "title": "Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest",
-      "published": "2026-10-21T13:30:01+00:00",
+      "published": "2026-10-21T14:08:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3bb01e34894a8e5ae315549a7945a729",
+      "title": "Assistant Director of the Cybercrime Department reiterates #Kuwait's commitment to developing its security system in fighting cybercrime & enhancing cooperation with Arab countries to tackle cross-border cybercrimes.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112907576304083217",
+      "published": "2026-10-21T14:03:00+00:00",
+      "type": "cyber",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/10/21/timing-to-roll-out-us-armys-ngc2-depends-on-funds-commander-says/",
+      "title": "Timing to roll out US Army\u2019s NGC2 depends on funds, commander says",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/21/timing-to-roll-out-us-armys-ngc2-depends-on-funds-commander-says/",
+      "published": "2026-10-21T13:59:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uk/2026/10/21/a-matter-of-time-warning-on-mass-deaths-in-uk-migrant-boat-crossing/",
+      "title": "'A matter of time' warning on mass deaths in UK migrant boat crossing",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/21/a-matter-of-time-warning-on-mass-deaths-in-uk-migrant-boat-crossing/",
+      "published": "2026-10-21T13:47:40+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792286953",
+      "title": "How Israel\u2019s war on Lebanon has cost young people with autism and ADHD",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss",
+      "published": "2026-10-21T13:32:57+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -40,6 +216,28 @@
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792582831",
+      "title": "Are the UK, France being pulled into the Saudi-Houthi conflict?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/21/are-the-uk-france-being-pulled-into-the-saudi-houthi-conflict?traffic_source=rss",
+      "published": "2026-10-21T13:25:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -83,6 +281,28 @@
         "lng": 48.0
       },
       "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792577216",
+      "title": "From one house to villages: Israeli settlers have Palestinians surrounded",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/10/21/from-one-house-to-whole-villages-settlers-have-palestinians-surrounded?traffic_source=rss",
+      "published": "2026-10-21T13:20:27+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -367,50 +587,6 @@
         "city": null,
         "lat": 26.0667,
         "lng": 50.5577
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792576546",
-      "title": "Kvaratskhelia, Dembele and Marquinhos out injured after PSG\u2019s win",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/10/21/kvaratskhelia-dembele-and-marquinhos-out-injured-after-psgs-win?traffic_source=rss",
-      "published": "2026-10-21T10:45:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e73613ddeb5f47df3cd271cb1770cd2b",
-      "title": "The Executive Bureau of the Council of Arab Ministers of Housing and Construction discusses ways to support reconstruction in Arab countries, promote sustainable housing & advance urban development, with #Kuwait participating in its 91st session.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112840149822320642",
-      "published": "2026-10-21T09:35:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
@@ -961,28 +1137,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
-      "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
-      "published": "2026-10-19T17:15:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
       },
       "credibility": 90,
       "is_government": false,
