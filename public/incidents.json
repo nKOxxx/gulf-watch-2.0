@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-21T20:33:01.111980+00:00",
+  "generated_at": "2026-10-21T21:31:56.816536+00:00",
   "total_incidents": 54,
   "incidents": [
+    {
+      "id": "https://breakingdefense.com/?p=99051",
+      "title": "Air Force needs 1,509 combat-ready jets by 2035, service tells Congress",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/air-force-needs-1509-combat-ready-jets-by-2035-service-tells-congress/",
+      "published": "2026-10-21T20:46:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792614680",
+      "title": "Video shows Israeli settler assaulting Palestinian child",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child?traffic_source=rss",
+      "published": "2026-10-21T20:34:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "706e423fff6e8fa99edab0f12a5efc30",
       "title": "Youth Minister and #Italian envoy discuss expanding bilateral sports cooperation.  #KUNA #KUWAIT",
@@ -81,28 +125,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792584249",
-      "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss",
-      "published": "2026-10-21T18:58:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
@@ -986,28 +1008,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=98909",
-      "title": "Turkish defense procurement spending proposed to rise 229% in 2027",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/turkish-defense-procurement-spending-proposed-to-rise-229-in-2027/",
-      "published": "2026-10-20T14:46:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
