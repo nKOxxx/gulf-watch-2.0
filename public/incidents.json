@@ -1,22 +1,132 @@
 {
-  "generated_at": "2026-10-21T10:33:27.808589+00:00",
-  "total_incidents": 55,
+  "generated_at": "2026-10-21T11:32:40.036828+00:00",
+  "total_incidents": 51,
   "incidents": [
     {
-      "id": "https://www.thenationalnews.com/business/property/2026/10/21/dubai-records-86-deals-for-10m-homes-in-q3-as-wealthy-flock-despite-iran-war/",
-      "title": "Dubai records 86 deals for $10m+ homes in Q3 as wealthy flock despite Iran war",
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/21/mysterious-recurring-stench-adds-to-gazas-misery/",
+      "title": "Mysterious recurring stench adds to Gaza's misery",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/property/2026/10/21/dubai-records-86-deals-for-10m-homes-in-q3-as-wealthy-flock-despite-iran-war/",
-      "published": "2026-10-21T10:10:21+00:00",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/21/mysterious-recurring-stench-adds-to-gazas-misery/",
+      "published": "2026-10-21T11:18:38+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "UAE",
+        "country": "Palestine",
         "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
+        "lat": 31.5017,
+        "lng": 34.4668
       },
       "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/10/21/europe-weighs-giving-utilities-infrastructure-companies-more-powers-to-bring-down-drones/",
+      "title": "Europe weighs giving utilities, infrastructure companies more powers to bring down drones",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/21/europe-weighs-giving-utilities-infrastructure-companies-more-powers-to-bring-down-drones/",
+      "published": "2026-10-21T11:07:00+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "354aeb2f557c740aadad556866ee7c77",
+      "title": "#Bahrain's Housing Minister Amna Al-Rumaihi & #Kuwait's Ambassador Jassem Al-Najem stress the importance of strengthening housing cooperation & exchanging expertise to support sustainable development & bilateral relations.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112862906308001947",
+      "published": "2026-10-21T11:05:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 26.0667,
+        "lng": 50.5577
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792576546",
+      "title": "Kvaratskhelia, Dembele and Marquinhos out injured after PSG\u2019s win",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/10/21/kvaratskhelia-dembele-and-marquinhos-out-injured-after-psgs-win?traffic_source=rss",
+      "published": "2026-10-21T10:45:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792563667",
+      "title": "WW1 to Houthis: British jets for Saudi Arabia build on long military bond",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss",
+      "published": "2026-10-21T10:22:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791377131",
+      "title": "Paramilitary hitman linked to British right-wing group Turning Point UK",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/21/paramilitary-hitman-linked-to-british-right-wing-group-turning-point-uk?traffic_source=rss",
+      "published": "2026-10-21T10:20:41+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -179,28 +289,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/21/macron-wraps-up-gulf-tour-in-qatar-as-france-seeks-to-bolster-energy-security/",
-      "title": "Macron wraps up Gulf tour in Qatar as France seeks to bolster energy security",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/21/macron-wraps-up-gulf-tour-in-qatar-as-france-seeks-to-bolster-energy-security/",
-      "published": "2026-10-21T08:47:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "29de1490812fd526fdf2fbe1f93c5d96",
       "title": "ENOC Group and Dubai Municipality sign an agreement at WETEX 2026 to explore opportunities for collaboration in alternative and cleaner fuels, with a focus on collecting used cooking oil and converting it into biodiesel. The partnership aims to support Dubai\u2019s circular economy.",
       "source": "Dubai Media Office (RSS.app)",
@@ -223,28 +311,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/2026/10/21/australian-mp-has-both-legs-amputated-after-ramming-attack/",
-      "title": "Australian MP has both legs amputated after ramming 'attack'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/2026/10/21/australian-mp-has-both-legs-amputated-after-ramming-attack/",
-      "published": "2026-10-21T08:36:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1792566775",
       "title": "Australian MP loses both legs in vehicle attack as suspect appears in court",
       "source": "Al Jazeera",
@@ -257,116 +323,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/21/sudanese-army-accused-of-drone-strike-in-abyei-region-as-death-toll-rises-to-153/",
-      "title": "Drone attack by SAF kills at least 153 in disputed border region",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/21/sudanese-army-accused-of-drone-strike-in-abyei-region-as-death-toll-rises-to-153/",
-      "published": "2026-10-21T08:31:30+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792570291",
-      "title": "Trump snaps at reporter, ordering him to be quiet",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/trump-snaps-at-reporter-ordering-him-to-be-quiet?traffic_source=rss",
-      "published": "2026-10-21T08:29:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792561015",
-      "title": "Drone attack in disputed Sudan-South Sudan border region kills at least 153",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss",
-      "published": "2026-10-21T08:25:45+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/21/iraq-closes-major-border-crossing-with-iran-over-security-arrangements-says-official/",
-      "title": "Iraq closes major border crossing with Iran over 'security arrangements', says official",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/21/iraq-closes-major-border-crossing-with-iran-over-security-arrangements-says-official/",
-      "published": "2026-10-21T08:05:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792569744",
-      "title": "Israeli soldiers mock Lebanese home they rigged with explosives",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/israeli-soldiers-mock-lebanese-home-they-rigged-with-explosives?traffic_source=rss",
-      "published": "2026-10-21T08:05:28+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -524,28 +480,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4aacba2ca3453178a70fb69b63a5b682",
-      "title": "#Yemeni parliamentary leaders commend #Kuwait's diplomatic, humanitarian support.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112654820322517000",
-      "published": "2026-10-20T21:18:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1027,28 +961,6 @@
         "city": null,
         "lat": 15.5527,
         "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/",
-      "title": "US Army competition explores military uses for humanoid robots",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/",
-      "published": "2026-10-19T16:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
