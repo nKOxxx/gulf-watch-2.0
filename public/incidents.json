@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-21T09:35:08.647659+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-21T10:33:27.808589+00:00",
+  "total_incidents": 55,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/business/property/2026/10/21/dubai-records-86-deals-for-10m-homes-in-q3-as-wealthy-flock-despite-iran-war/",
+      "title": "Dubai records 86 deals for $10m+ homes in Q3 as wealthy flock despite Iran war",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/property/2026/10/21/dubai-records-86-deals-for-10m-homes-in-q3-as-wealthy-flock-despite-iran-war/",
+      "published": "2026-10-21T10:10:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/10/21/non-iran-middle-east-oil-exports-recover-to-prewar-levels-with-hormuz-alternatives/",
+      "title": "Non-Iran Middle East oil exports recover to prewar levels with Hormuz alternatives",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/21/non-iran-middle-east-oil-exports-recover-to-prewar-levels-with-hormuz-alternatives/",
+      "published": "2026-10-21T09:48:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e73613ddeb5f47df3cd271cb1770cd2b",
+      "title": "The Executive Bureau of the Council of Arab Ministers of Housing and Construction discusses ways to support reconstruction in Arab countries, promote sustainable housing & advance urban development, with #Kuwait participating in its 91st session.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112840149822320642",
+      "published": "2026-10-21T09:35:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792565786",
+      "title": "Attack on Australian MP Haines: How threats against legislators have soared",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/21/attack-on-australian-mp-haines-how-threats-against-legislators-have-soared?traffic_source=rss",
+      "published": "2026-10-21T09:24:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/uk/2026/10/21/sultans-state-visit-king-charles-praises-omans-noble-efforts-to-keep-strait-of-hormuz-open/",
       "title": "Sultan's state visit: King Charles praises Oman's 'noble efforts' to keep Strait of Hormuz open",
@@ -180,7 +268,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/21/sudanese-army-accused-of-drone-strike-in-abyei-region-as-death-toll-rises-to-153/",
-      "title": "Sudanese army accused of drone strike in Abyei region as death toll rises to 153",
+      "title": "Drone attack by SAF kills at least 153 in disputed border region",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/mena/2026/10/21/sudanese-army-accused-of-drone-strike-in-abyei-region-as-death-toll-rises-to-153/",
       "published": "2026-10-21T08:31:30+00:00",
@@ -304,28 +392,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/21/araghchi-says-strait-of-hormuz-will-stay-closed-until-us-agrees-to-irans-terms/",
-      "title": "Iran clings to demands even as threat of renewed US-Israel attacks grows",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/21/araghchi-says-strait-of-hormuz-will-stay-closed-until-us-agrees-to-irans-terms/",
-      "published": "2026-10-21T07:04:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -477,28 +543,6 @@
         "city": null,
         "lat": 15.5527,
         "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "639486ca337b6f270fa15d4e5fe87be6",
-      "title": "#Kuwait Foreign Affairs reaffirms full support, solidarity with #Saudi_Arabia.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112620894489133543",
-      "published": "2026-10-20T19:04:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
