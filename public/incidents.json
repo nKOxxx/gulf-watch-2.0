@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-21T04:36:39.627259+00:00",
-  "total_incidents": 51,
+  "generated_at": "2026-10-21T05:33:18.835546+00:00",
+  "total_incidents": 53,
   "incidents": [
+    {
+      "id": "ad37383785679305ca26249c205f2d80",
+      "title": "Kuwait oil price up USD 3.47 to USD 107.69 pb  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112776762958446795",
+      "published": "2026-10-21T05:23:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0e500b5b6e1e4b9e17b1f4bec8a39cd5",
+      "title": "#Kuwait has affirmed its unwavering commitment to respecting diplomatic and consular missions and preserving their safety and their representatives.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112773156058362233",
+      "published": "2026-10-21T05:09:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/artanddesign/2026/oct/21/strait-of-hormuz-life-amid-wartime-iran",
+      "title": "Troubled waters: life during wartime for Iranians on the strait of Hormuz",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/artanddesign/2026/oct/21/strait-of-hormuz-life-amid-wartime-iran",
+      "published": "2026-10-21T05:00:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792548980",
       "title": "Italy approves sweeping security measures in response to protests",
@@ -1029,28 +1095,6 @@
         "lng": 34.4668
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
-      "title": "Guardian reporter filmed masked militants seconds before West Bank attack on French mayor",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
-      "published": "2026-10-18T18:39:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9466,
-        "lng": 35.3027
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
