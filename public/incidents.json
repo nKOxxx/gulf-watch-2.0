@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-21T16:34:10.491071+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-21T17:31:30.749874+00:00",
+  "total_incidents": 51,
   "incidents": [
+    {
+      "id": "https://breakingdefense.com/?p=99028",
+      "title": "Israel\u2019s Elbit acquires Canadian company focused on autonomous underwater systems",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/israels-elbit-acquires-canadian-company-focused-on-autonomous-underwater-systems/",
+      "published": "2026-10-21T17:29:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/21/us-election-candidate-detained-by-israel-at-west-bank-olive-harvest/",
+      "title": "US election candidate detained by Israel at West Bank olive harvest",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/21/us-election-candidate-detained-by-israel-at-west-bank-olive-harvest/",
+      "published": "2026-10-21T17:22:41+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/news/2026/oct/21/israels-fault-lines-inside-the-23-october-guardian-weekly",
+      "title": "Israel\u2019s fault lines: inside the 23 October Guardian Weekly",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/news/2026/oct/21/israels-fault-lines-inside-the-23-october-guardian-weekly",
+      "published": "2026-10-21T17:00:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "1b6b7ac281f8988af9c2b85ebc571c46",
+      "title": "Emirates NBD reports record results in the first 9 months of 2026.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2112948590247395432",
+      "published": "2026-10-21T16:46:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "2934d85f5813ddf763f9529aec7dfaed",
       "title": "Ahmed bin Saeed inaugurates the 12th World Green Economy Summit in Dubai, organised by the Dubai Supreme Council of Energy, Dubai Electricity and Water Authority and the World Green Economy Organization. The summit is being held at Dubai World Trade Centre on 21 and 22 October 2026.",
@@ -18,28 +106,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792586779",
-      "title": "What\u2019s behind protests in Portugal?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/whats-behind-protests-in-portugal?traffic_source=rss",
-      "published": "2026-10-21T15:57:16+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -487,28 +553,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/in-focus/2026/10/21/wetex-2026-powering-the-uaes-energy-future-from-day-one/",
-      "title": "WETEX 2026: Powering the UAE's energy future from day one",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/in-focus/2026/10/21/wetex-2026-powering-the-uaes-energy-future-from-day-one/",
-      "published": "2026-10-21T12:47:16+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "c11705a45d6078d05e49620464032d52",
       "title": "#Kuwait Red Crescent Society Chairman: Gulf Red Crescent Day embodies the unified humanitarian mission of #GCC states & reflects their close cooperation in relief efforts & responding to humanitarian needs worldwide.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -553,56 +597,12 @@
       }
     },
     {
-      "id": "6d35909311e9ffa2d0ed90b521d17018",
-      "title": "Dubai Police issue 7,735 traffic fines and impound 1,630 vehicles for excessive noise and unauthorised modifications during the first nine months of 2026. These measures form part of intensified traffic campaigns to enhance road safety and reduce practices that disturb residents and endanger road users. Dubai Police plan to increase the number of devices used to detect and measure vehicle noise and expand their deployment across a number of roads and areas.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2112874464375632319",
-      "published": "2026-10-21T11:51:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "01322e867874fad0213cc5b3fdcabaeb",
       "title": "The #Kuwait Fund for Arab Economic Development signs a USD 2.56 million grant agreement with ICARDA, supporting efforts to enhance food security & promote sustainable agricultural development in Arab countries.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
       "source_url": "https://x.com/kuna_en/status/2112869607862042864",
       "published": "2026-10-21T11:32:00+00:00",
       "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "143ed4381bf3f6afb3bc22ce8659a899",
-      "title": "His Highness the Prime Minister meets with HSBC Group CEO Georges Elhedery, discussing ways to enhance financial, banking & investment cooperation & explore opportunities to expand the partnership.  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112868825691504699",
-      "published": "2026-10-21T11:29:00+00:00",
-      "type": "naval",
       "status": "confirmed",
       "location": {
         "country": "Kuwait",
@@ -949,28 +949,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=98856",
-      "title": "Drones take over AUSA, plus the Army\u2019s plan to bring in new vendors",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/drones-take-over-ausa-plus-the-armys-plan-to-bring-in-new-vendors/",
-      "published": "2026-10-20T13:57:13+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo#0",
       "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
       "source": "BBC Middle East",
@@ -1051,28 +1029,6 @@
         "lng": 34.8516
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers",
-      "title": "Israeli police detain 10 people in rare raid against West Bank settlers",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers",
-      "published": "2026-10-19T18:05:14+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
