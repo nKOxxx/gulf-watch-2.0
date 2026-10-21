@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-21T03:37:38.537242+00:00",
-  "total_incidents": 52,
+  "generated_at": "2026-10-21T04:36:39.627259+00:00",
+  "total_incidents": 51,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792548980",
+      "title": "Italy approves sweeping security measures in response to protests",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss",
+      "published": "2026-10-21T04:13:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/news/audio/2026/oct/21/the-netanyahu-doctrine-how-israels-longest-serving-leader-reshaped-the-country-in-his-image-podcast",
+      "title": "The Netanyahu doctrine: how Israel\u2019s longest-serving leader reshaped the country in his image \u2013 podcast",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/news/audio/2026/oct/21/the-netanyahu-doctrine-how-israels-longest-serving-leader-reshaped-the-country-in-his-image-podcast",
+      "published": "2026-10-21T04:00:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/21/fifth-firm-pulls-out-israeli-cable-car-project-east-jerusalem",
+      "title": "Fifth foreign firm pulls out of controversial Israeli cable car project to East Jerusalem",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/21/fifth-firm-pulls-out-israeli-cable-car-project-east-jerusalem",
+      "published": "2026-10-21T04:00:05+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/opinion/comment/2026/10/21/lebanon-banks-economy-politics-reform-middle-east/",
+      "title": "Lebanon\u2019s battle for sovereignty must extend to its banks",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/opinion/comment/2026/10/21/lebanon-banks-economy-politics-reform-middle-east/",
+      "published": "2026-10-21T04:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 23.5859,
+        "lng": 58.4059
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/opinion/editorial/2026/10/21/arabian-gulf-gcc-middle-east/",
       "title": "Gulf unity is about more than shared history",
@@ -15,28 +103,6 @@
         "city": null,
         "lat": 35.6892,
         "lng": 51.389
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/football/2026/10/21/cristiano-ronaldo-misses-penalty-but-joao-felix-strikes-to-give-al-nassr-narrow-win/",
-      "title": "Cristiano Ronaldo misses penalty but Joao Felix strikes to give Al Nassr narrow win",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/21/cristiano-ronaldo-misses-penalty-but-joao-felix-strikes-to-give-al-nassr-narrow-win/",
-      "published": "2026-10-21T02:26:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 85,
       "is_government": false,
@@ -113,28 +179,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792534990",
-      "title": "Iran war live: US warns peace deal with Tehran is extremely difficult",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
-      "published": "2026-10-21T00:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "4aacba2ca3453178a70fb69b63a5b682",
       "title": "#Yemeni parliamentary leaders commend #Kuwait's diplomatic, humanitarian support.  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -150,28 +194,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/20/trump-says-ilhan-omar-could-face-jail-as-he-attacks-her-somali-roots/",
-      "title": "Trump says Ilhan Omar could face jail as he attacks her Somali roots",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/20/trump-says-ilhan-omar-could-face-jail-as-he-attacks-her-somali-roots/",
-      "published": "2026-10-20T20:25:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1027,50 +1049,6 @@
         "city": null,
         "lat": 31.9466,
         "lng": 35.3027
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/18/flydubai-captain-smit-machchhar-blocking-axe-blows-flight-fz1073",
-      "title": "Flydubai captain\u00a0describes blocking axe blows as co-pilot attacked him",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/18/flydubai-captain-smit-machchhar-blocking-axe-blows-flight-fz1073",
-      "published": "2026-10-18T17:27:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine",
-      "title": "US ambassador to Israel calls West Bank settler attack on American photojournalist \u2018terror\u2019",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine",
-      "published": "2026-10-18T17:02:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
