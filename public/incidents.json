@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-21T22:31:57.943549+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-21T23:31:07.584287+00:00",
+  "total_incidents": 54,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792619879",
+      "title": "US orders departure of personnel from Saudi Arabia, citing Houthi threat",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss",
+      "published": "2026-10-21T23:13:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uk/2026/10/21/codeword-gospel-how-uk-secret-service-caught-soldier-selling-plans-to-save-lebanon/",
+      "title": "Code word Gospel: How UK secret service caught soldier selling plans to \u2018save Lebanon\u2019",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/21/codeword-gospel-how-uk-secret-service-caught-soldier-selling-plans-to-save-lebanon/",
+      "published": "2026-10-21T23:01:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792619981",
       "title": "Video shows Israeli settler assaulting Palestinian child",
@@ -543,28 +587,6 @@
         "city": null,
         "lat": 25.3548,
         "lng": 51.1839
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/future/technology/2026/10/21/php-security-issues-exploit/",
-      "title": "PHP security issues: Websites go offline amid critical update",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/21/php-security-issues-exploit/",
-      "published": "2026-10-21T14:38:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 85,
       "is_government": false,
