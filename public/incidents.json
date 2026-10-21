@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-21T15:33:58.730450+00:00",
-  "total_incidents": 52,
+  "generated_at": "2026-10-21T16:34:10.491071+00:00",
+  "total_incidents": 53,
   "incidents": [
+    {
+      "id": "2934d85f5813ddf763f9529aec7dfaed",
+      "title": "Ahmed bin Saeed inaugurates the 12th World Green Economy Summit in Dubai, organised by the Dubai Supreme Council of Energy, Dubai Electricity and Water Authority and the World Green Economy Organization. The summit is being held at Dubai World Trade Centre on 21 and 22 October 2026.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2112941235203952923",
+      "published": "2026-10-21T16:17:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792586779",
+      "title": "What\u2019s behind protests in Portugal?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/whats-behind-protests-in-portugal?traffic_source=rss",
+      "published": "2026-10-21T15:57:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "d0fec6c6b7bc00e8ffe3cdad14de0fc4",
+      "title": "DEWA signs three agreements with global partners during WETEX 2026. The agreements include cooperation with Huawei to provide hardware and software products and solutions, support and value-added services. DEWA also signed an agreement with Nozomi Networks to enhance collaboration in technology and sustainable digital solutions, strengthen the operational resilience of critical power transmission infrastructure, and develop asset monitoring and cyber risk management capabilities. In addition, DEWA signed an agreement with Syskey Softlabs to provide specialised solutions for OT system log management, asset performance monitoring, network monitoring and risk management.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2112932323230691470",
+      "published": "2026-10-21T15:41:00+00:00",
+      "type": "cyber",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power/",
       "title": "Got milk? US Army refines its pasteurization power",
@@ -59,6 +125,28 @@
         "city": null,
         "lat": 25.3548,
         "lng": 51.1839
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/future/technology/2026/10/21/php-version-vulnerability-critical-security/",
+      "title": "PHP vulnerability: Websites go offline amid critical security update",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/21/php-version-vulnerability-critical-security/",
+      "published": "2026-10-21T14:38:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 85,
       "is_government": false,
@@ -127,6 +215,28 @@
         "lng": 48.5164
       },
       "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/21/french-president-macron-arrives-in-riyadh-on-surprise-visit/",
+      "title": "Macron visits Saudi Arabia in show of solidarity amid Houthi attacks",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/21/french-president-macron-arrives-in-riyadh-on-surprise-visit/",
+      "published": "2026-10-21T14:24:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -267,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792286953",
-      "title": "How war in Lebanon has cost young people with autism and ADHD",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss",
-      "published": "2026-10-21T13:32:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "4b8d391ce268feb3be0b76b612172f42",
       "title": "Gulf Red Crescent Day, observed annually on October 23, reflects the depth of cooperation & integration among #GCC member countries in the humanitarian & relief sectors. (Photo feature)  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -304,28 +392,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792582831",
-      "title": "Are the UK, France being pulled into the Saudi-Houthi conflict?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/21/are-the-uk-france-being-pulled-into-the-saudi-houthi-conflict?traffic_source=rss",
-      "published": "2026-10-21T13:25:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -369,28 +435,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792577216",
-      "title": "From one house to villages: Israeli settlers have Palestinians surrounded",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/10/21/from-one-house-to-whole-villages-settlers-have-palestinians-surrounded?traffic_source=rss",
-      "published": "2026-10-21T13:20:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -763,28 +807,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/pentagon-congress/2026/10/20/hegseth-discusses-iran-with-netanyahu-in-unannounced-visit-to-israel-officials-say/",
-      "title": "Hegseth discusses Iran with Netanyahu in unannounced visit to Israel, officials say",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/10/20/hegseth-discusses-iran-with-netanyahu-in-unannounced-visit-to-israel-officials-say/",
-      "published": "2026-10-20T15:56:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
