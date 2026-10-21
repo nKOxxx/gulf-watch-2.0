@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-21T02:40:22.205040+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-21T03:37:38.537242+00:00",
+  "total_incidents": 52,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/opinion/editorial/2026/10/21/arabian-gulf-gcc-middle-east/",
+      "title": "Gulf unity is about more than shared history",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/opinion/editorial/2026/10/21/arabian-gulf-gcc-middle-east/",
+      "published": "2026-10-21T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/sport/football/2026/10/21/cristiano-ronaldo-misses-penalty-but-joao-felix-strikes-to-give-al-nassr-narrow-win/",
       "title": "Cristiano Ronaldo misses penalty but Joao Felix strikes to give Al Nassr narrow win",
@@ -17,6 +39,50 @@
         "lng": 48.0
       },
       "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792535288",
+      "title": "Portugal cost-of-living protesters pour back into camps cleared by police",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/21/portugal-cost-of-living-protesters-pour-back-into-camps-cleared-by-police?traffic_source=rss",
+      "published": "2026-10-21T02:19:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792548948",
+      "title": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss",
+      "published": "2026-10-21T02:18:10+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -59,28 +125,6 @@
         "city": null,
         "lat": 35.6892,
         "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792530232",
-      "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
-      "published": "2026-10-20T23:19:52+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -135,50 +179,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/business/energy/2026/10/20/dark-fleet-under-spotlight-in-latest-us-move-to-ease-rising-energy-costs/",
-      "title": "'Dark fleet' under spotlight in latest US move to ease rising energy costs",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/20/dark-fleet-under-spotlight-in-latest-us-move-to-ease-rising-energy-costs/",
-      "published": "2026-10-20T19:23:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uk/2026/10/20/raf-fairford-suspects-face-new-charges-of-working-for-iranian-intelligence/",
-      "title": "RAF Fairford suspects face new charges of working for Iranian intelligence",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/20/raf-fairford-suspects-face-new-charges-of-working-for-iranian-intelligence/",
-      "published": "2026-10-20T19:09:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "639486ca337b6f270fa15d4e5fe87be6",
       "title": "#Kuwait Foreign Affairs reaffirms full support, solidarity with #Saudi_Arabia.  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -194,28 +194,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/20/tom-barrack-iran-not-evil/",
-      "title": "Iran not an 'evil regime', US ambassador Tom Barrack says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/20/tom-barrack-iran-not-evil/",
-      "published": "2026-10-20T19:02:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
