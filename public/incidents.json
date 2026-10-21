@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-21T11:32:40.036828+00:00",
-  "total_incidents": 51,
+  "generated_at": "2026-10-21T12:43:57.993703+00:00",
+  "total_incidents": 50,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792572516",
+      "title": "Iran\u2019s enriched uranium re-emerges as point of contention in US talks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks?traffic_source=rss",
+      "published": "2026-10-21T12:18:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c11705a45d6078d05e49620464032d52",
+      "title": "#Kuwait Red Crescent Society Chairman: Gulf Red Crescent Day embodies the unified humanitarian mission of #GCC states & reflects their close cooperation in relief efforts & responding to humanitarian needs worldwide.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112881308007350743",
+      "published": "2026-10-21T12:18:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/21/halo-trust-demining-workers-still-trapped-by-houthi-siege-in-taiz/",
+      "title": "Halo Trust demining workers still trapped by Houthi siege in Taiz",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/21/halo-trust-demining-workers-still-trapped-by-houthi-siege-in-taiz/",
+      "published": "2026-10-21T12:17:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 38.0962,
+        "lng": 46.2738
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "6d35909311e9ffa2d0ed90b521d17018",
+      "title": "Dubai Police issue 7,735 traffic fines and impound 1,630 vehicles for excessive noise and unauthorised modifications during the first nine months of 2026. These measures form part of intensified traffic campaigns to enhance road safety and reduce practices that disturb residents and endanger road users. Dubai Police plan to increase the number of devices used to detect and measure vehicle noise and expand their deployment across a number of roads and areas.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2112874464375632319",
+      "published": "2026-10-21T11:51:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "01322e867874fad0213cc5b3fdcabaeb",
+      "title": "The #Kuwait Fund for Arab Economic Development signs a USD 2.56 million grant agreement with ICARDA, supporting efforts to enhance food security & promote sustainable agricultural development in Arab countries.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112869607862042864",
+      "published": "2026-10-21T11:32:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "143ed4381bf3f6afb3bc22ce8659a899",
+      "title": "His Highness the Prime Minister meets with HSBC Group CEO Georges Elhedery, discussing ways to enhance financial, banking & investment cooperation & explore opportunities to expand the partnership.  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112868825691504699",
+      "published": "2026-10-21T11:29:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/21/mysterious-recurring-stench-adds-to-gazas-misery/",
       "title": "Mysterious recurring stench adds to Gaza's misery",
@@ -135,28 +267,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/business/energy/2026/10/21/non-iran-middle-east-oil-exports-recover-to-prewar-levels-with-hormuz-alternatives/",
-      "title": "Non-Iran Middle East oil exports recover to prewar levels with Hormuz alternatives",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/21/non-iran-middle-east-oil-exports-recover-to-prewar-levels-with-hormuz-alternatives/",
-      "published": "2026-10-21T09:48:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "e73613ddeb5f47df3cd271cb1770cd2b",
       "title": "The Executive Bureau of the Council of Arab Ministers of Housing and Construction discusses ways to support reconstruction in Arab countries, promote sustainable housing & advance urban development, with #Kuwait participating in its 91st session.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -191,50 +301,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uk/2026/10/21/sultans-state-visit-king-charles-praises-omans-noble-efforts-to-keep-strait-of-hormuz-open/",
-      "title": "Sultan's state visit: King Charles praises Oman's 'noble efforts' to keep Strait of Hormuz open",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/21/sultans-state-visit-king-charles-praises-omans-noble-efforts-to-keep-strait-of-hormuz-open/",
-      "published": "2026-10-21T09:09:24+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 21.4735,
-        "lng": 55.9754
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792571085",
-      "title": "Blast heard in Yemen\u2019s Aden as Houthis claim attack on military camp",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss",
-      "published": "2026-10-21T09:02:18+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Yemen",
-        "city": null,
-        "lat": 12.7855,
-        "lng": 45.0187
       },
       "credibility": 90,
       "is_government": false,
@@ -311,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792566775",
-      "title": "Australian MP loses both legs in vehicle attack as suspect appears in court",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss",
-      "published": "2026-10-21T08:34:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "da03b151048700454d54dcd09f45a072",
       "title": "DP World deploys 17 new Automated Electric Rubber-Tyred Gantry (AeRTG) cranes at its South Container Terminal in Jeddah Islamic Port, Saudi Arabia, as part of a $56 million investment to improve operational efficiency, strengthen cargo-handling and reduce emissions.",
       "source": "Dubai Media Office (RSS.app)",
@@ -367,50 +411,6 @@
         "city": null,
         "lat": 23.8859,
         "lng": 45.0792
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ad37383785679305ca26249c205f2d80",
-      "title": "Kuwait oil price up USD 3.47 to USD 107.69 pb  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112776762958446795",
-      "published": "2026-10-21T05:23:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0e500b5b6e1e4b9e17b1f4bec8a39cd5",
-      "title": "#Kuwait has affirmed its unwavering commitment to respecting diplomatic and consular missions and preserving their safety and their representatives.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112773156058362233",
-      "published": "2026-10-21T05:09:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
@@ -1093,28 +1093,6 @@
         "city": null,
         "lat": 31.5017,
         "lng": 34.4668
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo#1",
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18T12:16:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 95,
       "is_government": false,
