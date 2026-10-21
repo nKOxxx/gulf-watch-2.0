@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-21T06:48:35.683469+00:00",
-  "total_incidents": 52,
+  "generated_at": "2026-10-21T07:39:22.765100+00:00",
+  "total_incidents": 50,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792496478",
+      "title": "The right to enforce civil rights is under attack in the US",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/opinions/2026/10/21/the-right-to-enforce-civil-rights-is-under-attack-in-the-us?traffic_source=rss",
+      "published": "2026-10-21T07:06:41+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/21/araghchi-says-strait-of-hormuz-will-stay-closed-until-us-agrees-to-irans-terms/",
+      "title": "Araghchi says Strait of Hormuz will stay closed until US agrees to Iran's terms",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/21/araghchi-says-strait-of-hormuz-will-stay-closed-until-us-agrees-to-irans-terms/",
+      "published": "2026-10-21T07:04:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2ac177fa6bf5199d95e2ae90cea37ad2",
+      "title": "Emirates Central Cooling Systems Corporation (Empower) earns two new Guinness World Records for its Business Bay district cooling project in the field of thermal energy storage, bringing the project\u2019s total to four Guinness World Records.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2112799822617182367",
+      "published": "2026-10-21T06:55:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ba34b34d107bdcc245b87b4b1a4263e2",
+      "title": "Saudi-led coalition intercepts & destroys five drones targeting #Saudi Arabia  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2112798923953766782",
+      "published": "2026-10-21T06:51:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "e3777934aed42f73bd637cb58c1d96e2",
       "title": "Dubai Aerospace Enterprise announces that it has delivered the tenth and final Boeing 737-9 aircraft to United Airlines under a sale-and-leaseback agreement signed earlier in 2026. The completion of this mandate brings DAE\u2019s total fleet on lease to the airline to 26 Boeing 737 and Airbus A320 family aircraft",
@@ -135,28 +223,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792548980",
-      "title": "Italy approves sweeping security measures in response to protests",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss",
-      "published": "2026-10-21T04:13:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/news/audio/2026/oct/21/the-netanyahu-doctrine-how-israels-longest-serving-leader-reshaped-the-country-in-his-image-podcast",
       "title": "The Netanyahu doctrine: how Israel\u2019s longest-serving leader reshaped the country in his image \u2013 podcast",
       "source": "The Guardian",
@@ -213,50 +279,6 @@
         "city": null,
         "lat": 23.5859,
         "lng": 58.4059
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/opinion/editorial/2026/10/21/arabian-gulf-gcc-middle-east/",
-      "title": "Gulf unity is about more than shared history",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/opinion/editorial/2026/10/21/arabian-gulf-gcc-middle-east/",
-      "published": "2026-10-21T03:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/20/iraqi-fathers-heartfelt-plea-to-save-five-year-old-son-with-rare-muscle-disease/",
-      "title": "Iraqi father\u2019s heartfelt plea to save five-year-old son with rare muscle disease",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/20/iraqi-fathers-heartfelt-plea-to-save-five-year-old-son-with-rare-muscle-disease/",
-      "published": "2026-10-21T02:00:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
       },
       "credibility": 85,
       "is_government": false,
@@ -399,28 +421,6 @@
       }
     },
     {
-      "id": "281fe798f0abda591e81a1e243ee797c",
-      "title": "#Kuwait's Interior Ministry undersecretary Major General Abdulwahab Al-Wuhaib: Kuwait's presence at \"Milpol Qatar\" comes as part of efforts to ratchet up security relations with Doha  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112591280068858323",
-      "published": "2026-10-20T17:06:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.2854,
-        "lng": 51.531
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/industry/techwatch/2026/10/20/us-air-force-f-22-pilot-controls-unmanned-fq-44-in-flight/",
       "title": "US Air Force F-22 pilot controls unmanned FQ-44 in flight",
       "source": "Defense News",
@@ -436,50 +436,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "059bc5eca4ab55b9751852ff6675eee0",
-      "title": "Qatar says contacts, visits & exchanges of messages as part of mediation efforts between the US & Iran have continued without interruption.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112581109644976442",
-      "published": "2026-10-20T16:26:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ad80bd85d9dfa4dc2e8a7ce7f92c9431",
-      "title": "DEWA International signs four MoUs with global partners during WETEX 2026, supporting the expansion of its global project portfolio. The MoUs were signed with EDF Middle East, China Energy International Group, Capital Dynamics and Tata Consultancy Services.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2112577603353837663",
-      "published": "2026-10-20T16:12:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
