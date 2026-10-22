@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-22T05:33:15.730301+00:00",
-  "total_incidents": 51,
+  "generated_at": "2026-10-22T06:48:50.064412+00:00",
+  "total_incidents": 49,
   "incidents": [
+    {
+      "id": "cfd4511d98841ceca5264e745addac50",
+      "title": "In the presence of Hamdan bin Mohammed, Mohammed Bin Rashid Al Maktoum Global Initiatives (MBRGI) announces the allocation of AED150 million to support UAE-based charitable and humanitarian organisations. The announcement was made during the signing of 11 partnership agreements between MBRGI and the following charitable and humanitarian organisations: Operation Chivalrous Knight 3; Tarahum Charity Foundation; the Mohammed Bin Rashid Al Maktoum Charitable Establishment; Emirates Health Services; the UAE Food Bank; Beit Al Khair Society; Dar Al Ber Society; Al Jalila Foundation; Fujairah Charity Association; Noor Dubai; and the Digital School.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2113151924543623323",
+      "published": "2026-10-22T06:14:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792591911",
+      "title": "Cookies and weapons: Women in Yemen\u2019s Taiz find ways to help the city\u2019s defence",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/10/22/cookies-and-weapons-women-in-yemens-taiz-find-ways-to-help-the-citys-defence?traffic_source=rss",
+      "published": "2026-10-22T06:06:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 38.0962,
+        "lng": 46.2738
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792637392",
+      "title": "El Salvador\u2019s Bukele threatens Haitian gangs over abducted soldiers",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss",
+      "published": "2026-10-22T05:36:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/22/us-pulls-staff-from-saudi-arabia-uaes-nusseibeh-in-un-race-and-middle-east-oil-exports-recover/",
+      "title": "US pulls staff from Saudi Arabia, UAE's Nusseibeh in UN race, and Middle East oil exports recover",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/22/us-pulls-staff-from-saudi-arabia-uaes-nusseibeh-in-un-race-and-middle-east-oil-exports-recover/",
+      "published": "2026-10-22T05:33:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o#0",
+      "title": "How Arab parties could hold critical balance of power in Israeli election",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T05:30:22+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/business/energy/2026/10/22/oil-tops-110-as-houthi-drone-strike-near-saudi-shaybah-field-rattles-markets/",
       "title": "Oil tops $110 as Houthi drone strike near Saudi Shaybah field rattles markets",
@@ -39,28 +149,6 @@
         "lng": 50.0916
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792642648",
-      "title": "Australian TV reporter rescues man from sinking car",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss",
-      "published": "2026-10-22T04:19:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -135,42 +223,20 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792636280",
-      "title": "Can Trump deport Congresswoman Ilhan Omar?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss",
-      "published": "2026-10-22T02:34:46+00:00",
+      "id": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o#0",
+      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22T01:07:34+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Oman",
+        "country": "Saudi Arabia",
         "city": null,
-        "lat": 21.4735,
-        "lng": 55.9754
+        "lat": 23.8859,
+        "lng": 45.0792
       },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792625297",
-      "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
-      "published": "2026-10-22T01:45:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
+      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -421,50 +487,6 @@
       }
     },
     {
-      "id": "bb38e8d759c95df7d7a7d8ab958fce54",
-      "title": "Saudi-led Coalition to Restore Legitimacy in Yemen announces destruction of drone launched by terrorist Houthi militia towards southern #SaudiArabia  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112965315445325844",
-      "published": "2026-10-21T17:52:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "dd5cecc6dbbacb3074416d6bc8820b92",
-      "title": "RT by @DXBMediaOffice: The UAE and Singapore stand as global models of economies whose growth is not constrained by geography, and ambitions that know no boundaries. Dubai and Singapore share a common philosophy of success, economic freedom, and an exceptional ability to create opportunities and turn ambitions into achievements. Today, we welcomed H.E. Lawrence Wong, Prime Minister of the Republic of Singapore, and discussed ways to strengthen the strategic partnership between the UAE and Singapore, while capitalising on opportunities arising from shifts in the global economy to unlock new prospects for investment, trade, and the exchange of knowledge and expertise. Building on our longstand",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/MaktoumMohammed/status/2112964069074542828",
-      "published": "2026-10-21T17:47:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=99028",
       "title": "Israel\u2019s Elbit acquires Canadian company focused on autonomous underwater systems",
       "source": "Breaking Defense",
@@ -502,28 +524,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "1b6b7ac281f8988af9c2b85ebc571c46",
-      "title": "Emirates NBD reports record results in the first 9 months of 2026.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2112948590247395432",
-      "published": "2026-10-21T16:46:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1071,50 +1071,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c680zdmn100lo#0",
-      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T06:29:55+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo#0",
-      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T06:00:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
       },
       "credibility": 95,
       "is_government": false,
