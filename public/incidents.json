@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-22T10:32:33.147171+00:00",
-  "total_incidents": 54,
+  "generated_at": "2026-10-22T11:32:05.714070+00:00",
+  "total_incidents": 49,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
+      "title": "Oil prices jump to five-month high as attacks threaten global supply",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
+      "published": "2026-10-22T11:28:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0d8b99cc272b8cd66b4c06e35371a5bd",
+      "title": "In a step aimed at accelerating the transition to a green economy and enhancing sustainability, Saeed Mohammed Al Tayer, Chairman of the World Green Economy Organization (WGEO), sign two memoranda of understanding during the World Green Economy Summit (WGES) 2026 to enhance cooperation with Anwar Gargash Diplomatic Academy (AGDA) and the Arab Towns Organization (ATO).",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2113226568478883967",
+      "published": "2026-10-22T11:10:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/10/22/uks-royal-navy-has-serious-anti-submarine-warfare-gap-committee-finds/",
+      "title": "UK\u2019s Royal Navy has \u2018serious\u2019 anti-submarine warfare gap, committee finds",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/22/uks-royal-navy-has-serious-anti-submarine-warfare-gap-committee-finds/",
+      "published": "2026-10-22T11:07:12+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792576751",
+      "title": "Is Neha Bora, India\u2019s new red star, Modi\u2019s real Gen Z threat?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/10/22/is-neha-bora-indias-new-red-star-modis-real-gen-z-threat?traffic_source=rss",
+      "published": "2026-10-22T10:45:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/22/dubai-pledges-dh150m-to-support-humanitarian-campaigns-across-uae/",
+      "title": "Dubai pledges Dh150m to support humanitarian campaigns across UAE",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/22/dubai-pledges-dh150m-to-support-humanitarian-campaigns-across-uae/",
+      "published": "2026-10-22T10:40:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/business/2026/mar/04/maritime-and-port-workers-how-is-the-middle-east-conflict-affecting-you",
       "title": "Maritime and port workers: how is the Middle East conflict affecting you?",
@@ -113,28 +223,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/business/economy/2026/10/22/imf-forecasts-48-gulf-economic-contraction-in-2026-as-iran-war-hits-energy-exports/",
-      "title": "IMF forecasts 4.8% Gulf economic contraction in 2026 as Iran war hits energy exports",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/22/imf-forecasts-48-gulf-economic-contraction-in-2026-as-iran-war-hits-energy-exports/",
-      "published": "2026-10-22T09:38:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro#0",
       "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
       "source": "BBC Middle East",
@@ -193,138 +281,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792659095",
-      "title": "Israeli elections: Is it just right wing versus right?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/israeli-elections-is-it-just-right-wing-versus-right?traffic_source=rss",
-      "published": "2026-10-22T08:55:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3cec5f3ff6a0e3165158ec76a20f0170",
-      "title": "Dubai CommerCity announces a collaboration with the Hong Kong-Shenzhen Innovation and Technology Park Limited, enabling companies in Dubai CommerCity to explore opportunities to establish their businesses within the Loop Hong Kong Park. The collaboration aims to support the growth and international expansion of technology companies, strengthen connections between Dubai and Hong Kong, and facilitate companies\u2019 access to regional and global markets.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2113187897289674852",
-      "published": "2026-10-22T08:37:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/22/israeli-forces-kill-disabled-syrian-in-raid-on-homes-in-deraa/",
-      "title": "Israeli forces kill disabled Syrian in raid on homes in Deraa",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/22/israeli-forces-kill-disabled-syrian-in-raid-on-homes-in-deraa/",
-      "published": "2026-10-22T08:25:32+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.7308,
-        "lng": 36.7094
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792650360",
-      "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss",
-      "published": "2026-10-22T08:18:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ba5d945e2d8d4d22a1eb8c1376b11bc9",
-      "title": "Dubai Chambers hosts the Dubai\u2013Uzbekistan Business Seminar at its headquarters, welcoming a high-level delegation. The seminar was aimed at exploring trade and investment opportunities and strengthening business partnerships between Dubai and Khorezm. The seminar attracted 180 attendees, including 35 government representatives and business leaders from Khorezm.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2113181611412148422",
-      "published": "2026-10-22T08:12:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/europe/2026/10/22/gulf-tour-gives-sombre-and-combative-macron-platform-to-fight-protests-at-home/",
-      "title": "Gulf tour puts spring in Macron's step to tackle protests at home",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/22/gulf-tour-gives-sombre-and-combative-macron-platform-to-fight-protests-at-home/",
-      "published": "2026-10-22T08:08:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -927,50 +883,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/artanddesign/2026/oct/21/strait-of-hormuz-life-amid-wartime-iran",
-      "title": "Troubled waters: life during wartime for Iranians on the strait of Hormuz",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/artanddesign/2026/oct/21/strait-of-hormuz-life-amid-wartime-iran",
-      "published": "2026-10-21T05:00:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/air-warfare/2026/10/20/us-army-support-for-golden-dome-missile-shield-takes-shape/",
-      "title": "US Army support for Golden Dome missile shield takes shape",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/air-warfare/2026/10/20/us-army-support-for-golden-dome-missile-shield-takes-shape/",
-      "published": "2026-10-20T17:30:40+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=98697",
       "title": "Norway to receive Chunmoos in 2028, reach IOC in 2029: Norwegian army leader",
       "source": "Breaking Defense",
@@ -1162,28 +1074,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo#1",
-      "title": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T10:34:18+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
