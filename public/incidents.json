@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-22T14:34:09.847035+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-22T15:33:44.121993+00:00",
+  "total_incidents": 54,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/22/iran-threatens-seven-gulf-countries-us-israel-renew-attacks",
+      "title": "Iran threatens oil and AI facilities across seven Gulf countries if US and Israel renew attacks",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/22/iran-threatens-seven-gulf-countries-us-israel-renew-attacks",
+      "published": "2026-10-22T15:03:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792672557",
+      "title": "Netanyahu promises Iran regime change: Can Israel topple Tehran government?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/22/netanyahu-promises-iran-regime-change-can-israel-topple-tehran-government?traffic_source=rss",
+      "published": "2026-10-22T14:55:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-long-range-fires-make-a-splash-on-the-frontline-with-china/",
+      "title": "US Army long-range fires make a splash\u00a0on the frontline with China",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-long-range-fires-make-a-splash-on-the-frontline-with-china/",
+      "published": "2026-10-22T14:55:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a09fc42bec7dda63347a4bb2f4bac129",
+      "title": "Israeli National Bureau for Counter Terror Financing Sanctions Lebanese Energy Company Coral Oil: \"Supplied Fuel to Hezbollah\". Read More:",
+      "source": "Israel MOD (RSS.app)",
+      "source_url": "https://x.com/Israel_MOD/status/2113278460315529491",
+      "published": "2026-10-22T14:37:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792659655",
+      "title": "Ilhan Omar home raid, Haines attack: Inside rise in violence on officials",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news-analysis/2026/10/22/ilhan-omar-home-raid-haines-attack-inside-rise-in-violence-on-officials?traffic_source=rss",
+      "published": "2026-10-22T14:34:46+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792669890",
+      "title": "FIFA\u2019s Infantino made to wait on Asian support as chief coy at AFC session",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/10/22/fifas-infantino-made-to-wait-on-asian-support-as-chief-coy-at-afc-session?traffic_source=rss",
+      "published": "2026-10-22T14:31:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "fb4e0ee5f00c5d9cefd6e4399055651f",
+      "title": "\"\u0645\u0628\u0631\u0648\u0643\u060c \u0631\u0628\u062d\u062a \u0645\u0628\u0644\u063a \u0645\u0627\u0644\u064a\u060c \u0628\u0633 \u0646\u062d\u062a\u0627\u062c \u0645\u0646\u0643 \u0631\u0645\u0632 \u0627\u0644\u062a\u062d\u0642\u0642.\" \u0647\u0646\u0627 \u062a\u0648\u0642\u0651\u0641 \u2026\u0623\u064a \u0645\u0628\u0644\u063a \u0645\u0627\u0644\u064a \u062a\u0641\u0648\u0632 \u0641\u064a\u0647 \u0645\u0627 \u064a\u062d\u062a\u0627\u062c \u0625\u0646\u0643 \u062a\u0634\u0627\u0631\u0643 \u0631\u0645\u0632 \u0627\u0644\u062a\u062d\u0642\u0642 \u0623\u0648 \u0628\u064a\u0627\u0646\u0627\u062a\u0643 \u0627\u0644\u062e\u0627\u0635\u0629. \u0648\u0641\u064a #\u0641\u0646\u062c\u0627\u0646_\u0639\u062a\u064a\u0642\u060c \u0646\u062a\u0648\u0642\u0641 \u0639\u0646\u062f \u0647\u0627\u0644\u062a\u0641\u0627\u0635\u064a\u0644 \u0642\u0628\u0644 \u0644\u0627 \u062a\u062a\u0637\u0648\u0631 \u0627\u0644\u0633\u0627\u0644\u0641\u0629 \u0648\u062a\u0635\u064a\u0631 \u0639\u0645\u0644\u064a\u0629 \u0627\u062d\u062a\u064a\u0627\u0644. \u0645\u0639\u0627\u064b \u0636\u062f \u0627\u0644\u0627\u062d\u062a\u064a\u0627\u0644 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a. #\u0644\u0627_\u064a\u0633\u062a\u063a\u0644\u0648\u0643 #\u0634\u0631\u0637\u0629_\u0639\u0645\u0627\u0646_\u0627\u0644\u0633\u0644\u0637\u0627\u0646\u064a\u0629 \"Congrats, you won! Just share the OTP code to claim your prize.\" Hold on right there Real offers don't come at the cost of your personal security or OTPs. In #FenjanAteeq series, we highlight these warning signs before it's too late Pause. Verify. Don't rush",
+      "source": "Royal Oman Police (RSS.app)",
+      "source_url": "https://x.com/RoyalOmanPolice/status/2113277026425794988",
+      "published": "2026-10-22T14:31:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/22/syria-druze-israel/",
       "title": "Syria sends troops to Sweida front line as Israel moves hardware into area",
@@ -135,50 +289,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792663387",
-      "title": "How Sudan\u2019s shift to drone warfare is fuelling a civilian crisis",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/22/how-sudans-shift-to-drone-warfare-is-fuelling-a-civilian-crisis?traffic_source=rss",
-      "published": "2026-10-22T13:35:31+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792612706",
-      "title": "Outposts, violence, impunity: The anatomy of Israeli settler land grabs",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/10/22/outposts-violence-impunity-the-anatomy-of-israeli-settler-land-grabs?traffic_source=rss",
-      "published": "2026-10-22T13:33:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "fbd1cb023e7276199fe49e82f22c4c82",
       "title": "#Kuwait condemns the attack carried out by the Houthi militia on King Fahd International Airport in the #Saudi city of Dammam, which killed two people and injured several others, reiterating Kuwait's solidarity with Saudi Arabia and its people  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -238,28 +348,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792674189",
-      "title": "Shark returns to South Korea canal after failed rescue attempt",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/shark-returns-to-south-korea-canal-after-failed-rescue-attempt?traffic_source=rss",
-      "published": "2026-10-22T13:05:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -347,28 +435,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792649011",
-      "title": "Iran reveals \u2018offensive\u2019 doctrine, US issues alert: Is war imminent?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss",
-      "published": "2026-10-22T12:12:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -546,28 +612,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a2de15eceade45d5bd5e0aff4080b437",
-      "title": "#Kuwait Minister of Defense Sheikh Abdullah Ali Abdullah Al-Salem Al-Sabah and his accompanying delegation leave for the U.S. capital of Washington on an official visit  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2113205399377662402",
-      "published": "2026-10-22T09:46:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -985,28 +1029,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/new-york-little-syria-monument-lebanon",
-      "title": "NYC built a monument to Khalil Gibran and Little Syria. Why was there global uproar?",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/new-york-little-syria-monument-lebanon",
-      "published": "2026-10-21T13:00:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
