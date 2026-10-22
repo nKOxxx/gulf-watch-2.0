@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-22T03:37:38.919511+00:00",
+  "generated_at": "2026-10-22T04:35:51.134980+00:00",
   "total_incidents": 53,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/22/live-saudi-airport-attack/",
+      "title": "Middle East latest: One dead in attack on Dammam airport in Saudi Arabia",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/22/live-saudi-airport-attack/",
+      "published": "2026-10-22T04:20:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 26.3927,
+        "lng": 50.0916
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792642648",
+      "title": "Australian TV reporter rescues man from sinking car",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss",
+      "published": "2026-10-22T04:19:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/global-development/2026/oct/22/israel-us-made-electroshock-weapons-palestinian-detainees-axon-taser",
+      "title": "Tied up and tortured: Israel using US-made electroshock weapons on Palestinian detainees",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/global-development/2026/oct/22/israel-us-made-electroshock-weapons-palestinian-detainees-axon-taser",
+      "published": "2026-10-22T04:00:05+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/22/us-pulls-diplomats-from-saudi-arabia-but-denies-wider-gulf-withdrawal/",
+      "title": "US pulls diplomats from Saudi Arabia but denies wider Gulf withdrawal",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/22/us-pulls-diplomats-from-saudi-arabia-but-denies-wider-gulf-withdrawal/",
+      "published": "2026-10-22T03:58:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "28484c405ac37b817971c678d40aa371",
+      "title": "Kuwait stressed the importance of enhancing integration between international justice mechanisms and national judicial systems.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2113114737428811803",
+      "published": "2026-10-22T03:46:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792636280",
       "title": "Can Trump deport Congresswoman Ilhan Omar?",
@@ -105,72 +215,6 @@
         "lng": 45.0792
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792616039",
-      "title": "World leaders warn of security flaws found in PHP programming language",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss",
-      "published": "2026-10-22T00:10:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/opinion/editorial/2026/10/22/gaza-wfp-palestine-israeli-elections/",
-      "title": "Israel cannot secure lasting peace while Gaza remains in crisis",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/opinion/editorial/2026/10/22/gaza-wfp-palestine-israeli-elections/",
-      "published": "2026-10-22T00:01:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uk/2026/10/21/codeword-gospel-how-uk-secret-service-caught-soldier-selling-plans-to-save-lebanon/",
-      "title": "Code word Gospel: How UK secret service caught soldier selling plans to \u2018save Lebanon\u2019",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/21/codeword-gospel-how-uk-secret-service-caught-soldier-selling-plans-to-save-lebanon/",
-      "published": "2026-10-21T23:01:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -411,28 +455,6 @@
         "city": null,
         "lat": 15.5527,
         "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "43aaf3d3be7d31141f74c6c0e56138a3",
-      "title": "#SaudiArabia's Crown Prince and Prime Minister and #France's President discuss regional and international developments and joint efforts to strengthen security and stability  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112964675755237816",
-      "published": "2026-10-21T17:50:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 95,
       "is_government": true,
@@ -829,28 +851,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/21/fifth-firm-pulls-out-israeli-cable-car-project-east-jerusalem",
-      "title": "Fifth foreign firm pulls out of controversial Israeli cable car project to East Jerusalem",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/21/fifth-firm-pulls-out-israeli-cable-car-project-east-jerusalem",
-      "published": "2026-10-21T04:00:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
       },
       "credibility": 90,
       "is_government": false,
