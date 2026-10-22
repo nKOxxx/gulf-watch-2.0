@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T01:00:30.558294+00:00",
-  "total_incidents": 57,
+  "generated_at": "2026-10-22T01:40:32.441838+00:00",
+  "total_incidents": 56,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
@@ -149,28 +149,6 @@
         "lng": 35.8623
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792619981",
-      "title": "Video shows Israeli settler assaulting Palestinian child",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss",
-      "published": "2026-10-21T22:03:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
