@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-22T06:48:50.064412+00:00",
-  "total_incidents": 49,
+  "generated_at": "2026-10-22T07:38:45.449116+00:00",
+  "total_incidents": 51,
   "incidents": [
+    {
+      "id": "b60d593f98916e4977071dc30f783c4e",
+      "title": "#Saudi General Authority of Civil Aviation (GACA): One more person was killed an attack targeting King Fahd International Airport in Dammam late Wednesday  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2113167319480357211",
+      "published": "2026-10-22T07:15:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 26.3927,
+        "lng": 50.0916
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uk/2026/10/22/lindsay-craig-foreman-evin-prison-release-campaign/",
+      "title": "'I have lived that hell': Former Iran detainee calls for release of British couple in Evin Prison",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/22/lindsay-craig-foreman-evin-prison-release-campaign/",
+      "published": "2026-10-22T07:08:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792231845",
+      "title": "In Israel election, Palestinian citizens weigh fear against disillusionment",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/22/in-israel-election-palestinian-citizens-weigh-fear-against-disillusionment?traffic_source=rss",
+      "published": "2026-10-22T07:02:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/10/22/ai-power-demand-underestimated-in-current-forecasts-81-of-energy-executives-say/",
+      "title": "AI power demand underestimated in current forecasts, 81% of energy executives say",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/22/ai-power-demand-underestimated-in-current-forecasts-81-of-energy-executives-say/",
+      "published": "2026-10-22T06:58:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "12ae2a35e9938a8562a1212cfaba8a55",
+      "title": "#Kuwait Petroleum Corporation (KPC): #Kuwait oil price rose by 35 cents to reach USD 108.04 per barrel (pb) in Wednesday's trading, compared with USD 107.69 on Tuesday  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2113159351766565164",
+      "published": "2026-10-22T06:43:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "cfd4511d98841ceca5264e745addac50",
       "title": "In the presence of Hamdan bin Mohammed, Mohammed Bin Rashid Al Maktoum Global Initiatives (MBRGI) announces the allocation of AED150 million to support UAE-based charitable and humanitarian organisations. The announcement was made during the signing of 11 partnership agreements between MBRGI and the following charitable and humanitarian organisations: Operation Chivalrous Knight 3; Tarahum Charity Foundation; the Mohammed Bin Rashid Al Maktoum Charitable Establishment; Emirates Health Services; the UAE Food Bank; Beit Al Khair Society; Dar Al Ber Society; Al Jalila Foundation; Fujairah Charity Association; Noor Dubai; and the Digital School.",
@@ -135,28 +245,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/22/live-saudi-airport-attack/",
-      "title": "Middle East latest: One dead in attack on Dammam airport in Saudi Arabia",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/22/live-saudi-airport-attack/",
-      "published": "2026-10-22T04:20:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 26.3927,
-        "lng": 50.0916
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/global-development/2026/oct/22/israel-us-made-electroshock-weapons-palestinian-detainees-axon-taser",
       "title": "Tied up and tortured: Israel using US-made electroshock weapons on Palestinian detainees",
       "source": "The Guardian",
@@ -171,28 +259,6 @@
         "lng": 34.8516
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/22/us-pulls-diplomats-from-saudi-arabia-but-denies-wider-gulf-withdrawal/",
-      "title": "US pulls diplomats from Saudi Arabia but denies wider Gulf withdrawal",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/22/us-pulls-diplomats-from-saudi-arabia-but-denies-wider-gulf-withdrawal/",
-      "published": "2026-10-22T03:58:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -391,28 +457,6 @@
         "lng": 53.8478
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "57568a802cb8ca0d2c4daa2554a1ab0f",
-      "title": "18th edition of the Irbil International Book Fair kicks off with many writers, intellectuals, publishers, and academics from #Iraq and several Arab and foreign countries participating  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2112969423191478589",
-      "published": "2026-10-21T18:09:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 36.1911,
-        "lng": 44.0092
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
