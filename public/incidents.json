@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-22T02:40:51.336588+00:00",
-  "total_incidents": 55,
+  "generated_at": "2026-10-22T03:37:38.919511+00:00",
+  "total_incidents": 53,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792636280",
+      "title": "Can Trump deport Congresswoman Ilhan Omar?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss",
+      "published": "2026-10-22T02:34:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 21.4735,
+        "lng": 55.9754
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/uae/2026/10/22/two-uae-scientists-recognised-in-programme-to-support-female-researchers/",
       "title": "Two UAE scientists recognised in programme to support female researchers",
@@ -135,28 +157,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792619353",
-      "title": "Iran war live: IRGC vows invasion as defence doctrine turns \u2018offensive\u2019",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
-      "published": "2026-10-22T00:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/uk/2026/10/21/codeword-gospel-how-uk-secret-service-caught-soldier-selling-plans-to-save-lebanon/",
       "title": "Code word Gospel: How UK secret service caught soldier selling plans to \u2018save Lebanon\u2019",
       "source": "The National UAE",
@@ -267,28 +267,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/21/saudi-aramco-shaybah-houthi-strike/",
-      "title": "Two killed after drone interception in Saudi Arabia",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/21/saudi-aramco-shaybah-houthi-strike/",
-      "published": "2026-10-21T20:06:41+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/your-military/2026/10/21/us-air-force-outlines-the-fighter-fleet-it-needs-by-2035/",
       "title": "US Air Force outlines the fighter fleet it needs by 2035",
       "source": "Defense News",
@@ -303,28 +281,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/future/technology/2026/10/22/offshore-wind-turbines-security/",
-      "title": "Offshore wind farms can enhance maritime security, report says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/22/offshore-wind-turbines-security/",
-      "published": "2026-10-21T18:29:45+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
