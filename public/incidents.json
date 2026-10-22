@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-22T18:37:07.139176+00:00",
+  "generated_at": "2026-10-22T19:30:01.133508+00:00",
   "total_incidents": 58,
   "incidents": [
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/10/22/denmark-to-buy-kongsberg-covenant-missiles-for-new-long-range-strike-option/",
+      "title": "Denmark to buy Kongsberg, Covenant missiles for new long-range strike option",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/22/denmark-to-buy-kongsberg-covenant-missiles-for-new-long-range-strike-option/",
+      "published": "2026-10-22T19:03:40+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792685010",
+      "title": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss",
+      "published": "2026-10-22T18:17:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792684976",
       "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
@@ -260,28 +304,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792679198",
-      "title": "Two Syrian security officers killed in raid on ISIL cell near Damascus",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/22/two-syrian-security-officers-killed-in-raid-on-isil-cell-near-damascus?traffic_source=rss",
-      "published": "2026-10-22T16:24:43+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 33.5138,
-        "lng": 36.2765
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1071,28 +1093,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power/",
-      "title": "Got milk? US Army refines its pasteurization power",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power/",
-      "published": "2026-10-21T15:18:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
