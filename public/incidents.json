@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-22T04:35:51.134980+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-22T05:33:15.730301+00:00",
+  "total_incidents": 51,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/10/22/oil-tops-110-as-houthi-drone-strike-near-saudi-shaybah-field-rattles-markets/",
+      "title": "Oil tops $110 as Houthi drone strike near Saudi Shaybah field rattles markets",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/22/oil-tops-110-as-houthi-drone-strike-near-saudi-shaybah-field-rattles-markets/",
+      "published": "2026-10-22T04:49:30+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/22/live-saudi-airport-attack/",
       "title": "Middle East latest: One dead in attack on Dammam airport in Saudi Arabia",
@@ -135,28 +157,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/22/two-uae-scientists-recognised-in-programme-to-support-female-researchers/",
-      "title": "Two UAE scientists recognised in programme to support female researchers",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/22/two-uae-scientists-recognised-in-programme-to-support-female-researchers/",
-      "published": "2026-10-22T02:00:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1792625297",
       "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
       "source": "Al Jazeera",
@@ -184,28 +184,6 @@
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
       "published": "2026-10-22T00:26:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792622791",
-      "title": "One killed, eight injured in attack on Saudi Arabia\u2019s King Fahd airport",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
-      "published": "2026-10-22T00:25:41+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -543,28 +521,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2934d85f5813ddf763f9529aec7dfaed",
-      "title": "Ahmed bin Saeed inaugurates the 12th World Green Economy Summit in Dubai, organised by the Dubai Supreme Council of Energy, Dubai Electricity and Water Authority and the World Green Economy Organization. The summit is being held at Dubai World Trade Centre on 21 and 22 October 2026.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2112941235203952923",
-      "published": "2026-10-21T16:17:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 95,
       "is_government": true,
