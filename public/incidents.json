@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-22T07:38:45.449116+00:00",
-  "total_incidents": 51,
+  "generated_at": "2026-10-22T08:40:47.735385+00:00",
+  "total_incidents": 54,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/22/israeli-forces-kill-disabled-syrian-in-raid-on-homes-in-deraa/",
+      "title": "Israeli forces kill disabled Syrian in raid on homes in Deraa",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/22/israeli-forces-kill-disabled-syrian-in-raid-on-homes-in-deraa/",
+      "published": "2026-10-22T08:25:32+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.7308,
+        "lng": 36.7094
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792650360",
+      "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss",
+      "published": "2026-10-22T08:18:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ba5d945e2d8d4d22a1eb8c1376b11bc9",
+      "title": "Dubai Chambers hosts the Dubai\u2013Uzbekistan Business Seminar at its headquarters, welcoming a high-level delegation. The seminar was aimed at exploring trade and investment opportunities and strengthening business partnerships between Dubai and Khorezm. The seminar attracted 180 attendees, including 35 government representatives and business leaders from Khorezm.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2113181611412148422",
+      "published": "2026-10-22T08:12:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/europe/2026/10/22/gulf-tour-gives-sombre-and-combative-macron-platform-to-fight-protests-at-home/",
+      "title": "Gulf tour gives sombre and combative Macron platform to fight protests at home",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/22/gulf-tour-gives-sombre-and-combative-macron-platform-to-fight-protests-at-home/",
+      "published": "2026-10-22T08:08:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792650594",
+      "title": "Can Russia broker a new US-Iran deal?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/opinions/2026/10/22/can-russia-broker-a-new-us-iran-deal?traffic_source=rss",
+      "published": "2026-10-22T08:00:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "b60d593f98916e4977071dc30f783c4e",
       "title": "#Saudi General Authority of Civil Aviation (GACA): One more person was killed an attack targeting King Fahd International Airport in Dammam late Wednesday  #KUNA #KUWAIT",
@@ -70,7 +180,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/business/energy/2026/10/22/ai-power-demand-underestimated-in-current-forecasts-81-of-energy-executives-say/",
-      "title": "AI power demand underestimated in current forecasts, 81% of energy executives say",
+      "title": "AI power demand underestimated, say 81% of energy executives",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/business/energy/2026/10/22/ai-power-demand-underestimated-in-current-forecasts-81-of-energy-executives-say/",
       "published": "2026-10-22T06:58:38+00:00",
@@ -157,28 +267,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792637392",
-      "title": "El Salvador\u2019s Bukele threatens Haitian gangs over abducted soldiers",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss",
-      "published": "2026-10-22T05:36:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/22/us-pulls-staff-from-saudi-arabia-uaes-nusseibeh-in-un-race-and-middle-east-oil-exports-recover/",
       "title": "US pulls staff from Saudi Arabia, UAE's Nusseibeh in UN race, and Middle East oil exports recover",
       "source": "The National UAE",
@@ -215,28 +303,6 @@
         "lng": 34.8516
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/10/22/oil-tops-110-as-houthi-drone-strike-near-saudi-shaybah-field-rattles-markets/",
-      "title": "Oil tops $110 as Houthi drone strike near Saudi Shaybah field rattles markets",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/22/oil-tops-110-as-houthi-drone-strike-near-saudi-shaybah-field-rattles-markets/",
-      "published": "2026-10-22T04:49:30+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
