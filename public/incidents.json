@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-22T20:32:13.239625+00:00",
+  "generated_at": "2026-10-22T21:30:33.224096+00:00",
   "total_incidents": 61,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792700302",
+      "title": "IEA chief warns energy is becoming a geopolitical weapon",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_iea-warns-energy-becoming-a-geopolitical-weapon-221026?traffic_source=rss",
+      "published": "2026-10-22T20:51:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/22/will-the-iran-war-resume-before-the-us-and-israeli-elections/",
+      "title": "Will the Iran war resume before the US and Israeli elections?",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/22/will-the-iran-war-resume-before-the-us-and-israeli-elections/",
+      "published": "2026-10-22T20:39:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "426699120b8782b4b7dc5e3cdb64959e",
+      "title": "#Coalition forces shoot down ballistic missile near Saudi Arabia's Najran.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2113367342616871137",
+      "published": "2026-10-22T20:30:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "8789e86556b2f5e64065cd0baf267865",
       "title": "#CENTCOM: Naval blockade deprived Iran of USD 25 billions in oil proceeds.  #KUNA #KUWAIT",
@@ -191,50 +257,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792685010",
-      "title": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss",
-      "published": "2026-10-22T18:17:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792684976",
-      "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
-      "published": "2026-10-22T17:58:04+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
@@ -568,28 +590,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "dcddf0090a629be20c43303aca64128a",
-      "title": "#Kuwait's Minister of Electricity, Water and Renewable Energy discusses with #SouthKorea's Ambassador ways to increase cooperation in the energy and water sectors, as well as regional developments  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2113290955264495958",
-      "published": "2026-10-22T15:26:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
