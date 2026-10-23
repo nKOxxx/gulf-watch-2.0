@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-23T14:36:00.554700+00:00",
+  "generated_at": "2026-10-23T15:34:42.741506+00:00",
   "total_incidents": 64,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/23/tense-shabbat-in-israel-as-pivotal-elections-approach/",
+      "title": "Tense Shabbat in Israel as pivotal elections approach",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/23/tense-shabbat-in-israel-as-pivotal-elections-approach/",
+      "published": "2026-10-23T15:26:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=99220",
+      "title": "Qatari Barzan unveils aerial drones, unmanned surface vessels at Milipol 2026",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/qatari-barzan-unveils-aerial-drones-unmanned-surface-vessels-at-milipol-2026/",
+      "published": "2026-10-23T15:10:00+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 25.3548,
+        "lng": 51.1839
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/10/23/france-uk-carry-out-joint-airborne-nuclear-strike-exercise-for-first-time/",
+      "title": "France, UK carry out joint airborne nuclear-strike exercise for first time",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/23/france-uk-carry-out-joint-airborne-nuclear-strike-exercise-for-first-time/",
+      "published": "2026-10-23T14:56:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko#0",
+      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T14:45:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/2026/10/23/king-abdullah-condemns-terrorist-attack-at-jordan-church-that-left-six-dead-and-28-injured/",
+      "title": "King Abdullah condemns 'terrorist attack' at Jordan church that left six dead and 28 injured",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/2026/10/23/king-abdullah-condemns-terrorist-attack-at-jordan-church-that-left-six-dead-and-28-injured/",
+      "published": "2026-10-23T14:43:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Jordan",
+        "city": null,
+        "lat": 30.5852,
+        "lng": 36.2384
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 28,
+        "military": 0,
+        "civilian": 28
+      }
+    },
     {
       "id": "https://www.defensenews.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling/",
       "title": "US Air Force wants AI to assist aerial refueling",
@@ -157,6 +267,28 @@
       }
     },
     {
+      "id": "https://www.aljazeera.com/?t=1792760676",
+      "title": "At least seven killed after gunmen open fire at church in Jordan",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss",
+      "published": "2026-10-23T13:32:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Jordan",
+        "city": null,
+        "lat": 30.5852,
+        "lng": 36.2384
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
       "title": "Oil price rises above $115 a barrel amid fears US will renew strikes on Iran",
       "source": "The Guardian",
@@ -245,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko#0",
-      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T12:48:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/global/asia-pacific/2026/10/23/chinas-first-aircraft-carrier-forms-evolving-pattern-of-voyages-in-disputed-asian-seas/",
       "title": "China\u2019s first aircraft carrier forms \u2018evolving pattern\u2019 of voyages in disputed Asian seas",
       "source": "Defense News",
@@ -304,28 +414,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/2026/10/23/unknown-gunmen-opened-fire-inside-a-church-in-jordans-karak/",
-      "title": "At least six killed in shooting at church in Jordan's Karak governorate",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/2026/10/23/unknown-gunmen-opened-fire-inside-a-church-in-jordans-karak/",
-      "published": "2026-10-23T12:04:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Jordan",
-        "city": null,
-        "lat": 30.5852,
-        "lng": 36.2384
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1015,28 +1103,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-long-range-fires-make-a-splash-on-the-frontline-with-china/",
-      "title": "US Army long-range fires make a splash\u00a0on the frontline with China",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-long-range-fires-make-a-splash-on-the-frontline-with-china/",
-      "published": "2026-10-22T14:55:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "a09fc42bec7dda63347a4bb2f4bac129",
       "title": "Israeli National Bureau for Counter Terror Financing Sanctions Lebanese Energy Company Coral Oil: \"Supplied Fuel to Hezbollah\". Read More:",
       "source": "Israel MOD (RSS.app)",
@@ -1337,72 +1403,6 @@
         "lng": 53.8478
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "dca0f9aa06e989729add085b85cbcbe5",
-      "title": "Chairman of Iran's Parliament National Security and Foreign Policy Committee Ebrahim Azizi says the final destination of the Israeli regime is \u201ctotal defeat by the will of the brave Iranian nation and the Resistance Front.\"",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2112567053932458096",
-      "published": "2026-10-20T15:30:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5a2ab6fef2d608e59e07660b4124bdcd",
-      "title": "\u0641\u064a \u0638\u0644 \u0627\u0644\u062d\u0627\u0644\u0629 \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0645\u062a\u0648\u0642\u0639\u0629\u060c \u064a\u064f\u0631\u062c\u0649 \u062a\u0648\u062e\u064a \u0627\u0644\u062d\u064a\u0637\u0629 \u0648\u0627\u0644\u062d\u0630\u0631\u060c \u0648\u0627\u0644\u0627\u0644\u062a\u0632\u0627\u0645 \u0628\u0625\u0631\u0634\u0627\u062f\u0627\u062a \u0627\u0644\u0633\u0644\u0627\u0645\u0629\u060c \u0648\u062e\u0641\u0636 \u0627\u0644\u0633\u0631\u0639\u0627\u062a \u0623\u062b\u0646\u0627\u0621 \u0627\u0644\u0642\u064a\u0627\u062f\u0629\u060c \u0648\u0627\u0644\u0627\u0628\u062a\u0639\u0627\u062f \u0639\u0646 \u0623\u0645\u0627\u0643\u0646 \u062c\u0631\u064a\u0627\u0646 \u0627\u0644\u0623\u0648\u062f\u064a\u0629 \u0648\u062a\u062c\u0645\u0639\u0627\u062a \u0627\u0644\u0645\u064a\u0627\u0647 With unsettled weather expected across the country, please exercise caution, follow safety guidelines, reduce speed while driving, stay away from valley channels and areas where water collects \u0645\u0644\u06a9 \u0645\u06cc\u06ba \u0645\u062a\u0648\u0642\u0639 \u0628\u0627\u0631\u0634\u0648\u06ba\u060c \u062a\u06cc\u0632 \u06c1\u0648\u0627\u0624\u06ba\u060c \u06af\u0631\u062c \u0686\u0645\u06a9 \u0627\u0648\u0631 \u06a9\u0645 \u062d\u062f\u0650 \u0646\u06af\u0627\u06c1 \u06a9\u06d2 \u067e\u06cc\u0634\u0650 \u0646\u0638\u0631\u060c \u0627\u062d\u062a\u06cc\u0627\u0637 \u0628\u0631\u062a\u06cc\u06ba\u060c \u0633\u0691\u06a9\u0648\u06ba \u067e\u0631 \u0631\u0641\u062a\u0627\u0631 \u06a9\u0645 \u0631\u06a9\u06be\u06cc\u06ba\u060c \u0648\u0627\u062f\u06cc\u0648\u06ba \u0627\u0648\u0631 \u067e\u0627\u0646\u06cc \u062c\u0645\u0639 \u06c1\u0648\u0646\u06d2 \u0648\u0627\u0644\u06d2 \u0639\u0644\u0627\u0642\u0648\u06ba \u0633\u06d2 \u062f\u0648\u0631 \u0631\u06c1\u06cc\u06ba\u060c \u0627\u0648\u0631 \u0633\u0645\u0646\u062f\u0631 \u0648 \u0633\u0627\u062d\u0644\u0648\u06ba \u067e\u0631 \u062c\u0627\u0646\u06d2 \u0633\u06d2 \u06af\u0631\u06cc\u0632 \u06a9\u0631\u06cc\u06ba\u06d4 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a #\u0641\u062e\u0648\u0631\u064a\u0646_\u0628\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \ud83c\udde6\ud83c\uddea #\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a_\u0623\u0645\u0646_\u0648\u0623\u0645\u0627\u0646 #MOIUAE",
-      "source": "UAE MOI (RSS.app)",
-      "source_url": "https://x.com/moiuae/status/2112558847118524780",
-      "published": "2026-10-20T14:57:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5a2ab6fef2d608e59e07660b4124bdcd",
-      "title": "\u0641\u064a \u0638\u0644 \u0627\u0644\u062d\u0627\u0644\u0629 \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0645\u062a\u0648\u0642\u0639\u0629\u060c \u064a\u064f\u0631\u062c\u0649 \u062a\u0648\u062e\u064a \u0627\u0644\u062d\u064a\u0637\u0629 \u0648\u0627\u0644\u062d\u0630\u0631\u060c \u0648\u0627\u0644\u0627\u0644\u062a\u0632\u0627\u0645 \u0628\u0625\u0631\u0634\u0627\u062f\u0627\u062a \u0627\u0644\u0633\u0644\u0627\u0645\u0629\u060c \u0648\u062e\u0641\u0636 \u0627\u0644\u0633\u0631\u0639\u0627\u062a \u0623\u062b\u0646\u0627\u0621 \u0627\u0644\u0642\u064a\u0627\u062f\u0629\u060c \u0648\u0627\u0644\u0627\u0628\u062a\u0639\u0627\u062f \u0639\u0646 \u0623\u0645\u0627\u0643\u0646 \u062c\u0631\u064a\u0627\u0646 \u0627\u0644\u0623\u0648\u062f\u064a\u0629 \u0648\u062a\u062c\u0645\u0639\u0627\u062a \u0627\u0644\u0645\u064a\u0627\u0647 With unsettled weather expected across the country, please exercise caution, follow safety guidelines, reduce speed while driving, stay away from valley channels and areas where water collects \u0645\u0644\u06a9 \u0645\u06cc\u06ba \u0645\u062a\u0648\u0642\u0639 \u0628\u0627\u0631\u0634\u0648\u06ba\u060c \u062a\u06cc\u0632 \u06c1\u0648\u0627\u0624\u06ba\u060c \u06af\u0631\u062c \u0686\u0645\u06a9 \u0627\u0648\u0631 \u06a9\u0645 \u062d\u062f\u0650 \u0646\u06af\u0627\u06c1 \u06a9\u06d2 \u067e\u06cc\u0634\u0650 \u0646\u0638\u0631\u060c \u0627\u062d\u062a\u06cc\u0627\u0637 \u0628\u0631\u062a\u06cc\u06ba\u060c \u0633\u0691\u06a9\u0648\u06ba \u067e\u0631 \u0631\u0641\u062a\u0627\u0631 \u06a9\u0645 \u0631\u06a9\u06be\u06cc\u06ba\u060c \u0648\u0627\u062f\u06cc\u0648\u06ba \u0627\u0648\u0631 \u067e\u0627\u0646\u06cc \u062c\u0645\u0639 \u06c1\u0648\u0646\u06d2 \u0648\u0627\u0644\u06d2 \u0639\u0644\u0627\u0642\u0648\u06ba \u0633\u06d2 \u062f\u0648\u0631 \u0631\u06c1\u06cc\u06ba\u060c \u0627\u0648\u0631 \u0633\u0645\u0646\u062f\u0631 \u0648 \u0633\u0627\u062d\u0644\u0648\u06ba \u067e\u0631 \u062c\u0627\u0646\u06d2 \u0633\u06d2 \u06af\u0631\u06cc\u0632 \u06a9\u0631\u06cc\u06ba\u06d4 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a #\u0641\u062e\u0648\u0631\u064a\u0646_\u0628\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \ud83c\udde6\ud83c\uddea #\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a_\u0623\u0645\u0646_\u0648\u0623\u0645\u0627\u0646 #MOIUAE",
-      "source": "IDF (RSS.app)",
-      "source_url": "https://x.com/moiuae/status/2112558847118524780",
-      "published": "2026-10-20T14:57:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
