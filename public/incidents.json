@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-23T05:32:41.381393+00:00",
+  "generated_at": "2026-10-23T06:48:29.392011+00:00",
   "total_incidents": 65,
   "incidents": [
+    {
+      "id": "703ff8674e34db7894f98a875b2f5a03",
+      "title": "KPC: #Kuwait oil price is up by USD 4.29 to reach USD 112.33 pb @kpcofficialkw  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2113517110181720364",
+      "published": "2026-10-23T06:25:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/23/high-turnout-israel-palestinians-unseat-netanyahu",
+      "title": "\u2018The biggest motivation is fear\u2019: High turnout among Israel\u2019s Palestinians could unseat Netanyahu",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/23/high-turnout-israel-palestinians-unseat-netanyahu",
+      "published": "2026-10-23T06:00:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/23/uae-tackles-oil-spill-yemen-warns-of-houthi-child-recruitment-and-oman-strengthens-uk-investment-ties/",
+      "title": "UAE tackles oil spill, Yemen warns of Houthi child recruitment and Oman strengthens UK investment ties",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/23/uae-tackles-oil-spill-yemen-warns-of-houthi-child-recruitment-and-oman-strengthens-uk-investment-ties/",
+      "published": "2026-10-23T05:49:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/europe/2026/10/23/europes-summer-heatwaves-caused-50000-excess-heat-deaths/",
       "title": "Europe's heatwaves this summer caused 50,000 excess deaths, report suggests",
@@ -411,50 +477,6 @@
         "city": null,
         "lat": 15.5527,
         "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "426699120b8782b4b7dc5e3cdb64959e",
-      "title": "#Coalition forces shoot down ballistic missile near Saudi Arabia's Najran.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2113367342616871137",
-      "published": "2026-10-22T20:30:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8789e86556b2f5e64065cd0baf267865",
-      "title": "#CENTCOM: Naval blockade deprived Iran of USD 25 billions in oil proceeds.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2113366379331993682",
-      "published": "2026-10-22T20:26:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 95,
       "is_government": true,
@@ -1247,28 +1269,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/21/besieged-yemeni-city-taiz-houthis-humanitarian-crisis-aid-workers",
-      "title": "Besieged Yemeni city on verge of \u2018unmanageable\u2019 crisis, aid workers warn",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/21/besieged-yemeni-city-taiz-houthis-humanitarian-crisis-aid-workers",
-      "published": "2026-10-21T14:24:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
       },
       "credibility": 90,
       "is_government": false,
