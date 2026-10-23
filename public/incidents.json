@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-10-23T16:36:19.220496+00:00",
-  "total_incidents": 64,
+  "generated_at": "2026-10-23T17:31:16.851713+00:00",
+  "total_incidents": 65,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/23/uae-foreign-minister-condemns-jordan-church-attack-in-call-with-safadi/",
+      "title": "UAE Foreign Minister condemns Jordan church attack in call with Safadi",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/23/uae-foreign-minister-condemns-jordan-church-attack-in-call-with-safadi/",
+      "published": "2026-10-23T17:25:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
+      "title": "Israel launches collective punishment campaign in Hebron after two soldiers killed",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
+      "published": "2026-10-23T17:22:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel",
+      "title": "US and Israel are warned against launching fresh strikes on Iran",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel",
+      "published": "2026-10-23T17:18:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uk/2026/10/23/iran-sent-bomb-making-manual-as-it-organised-plots-in-the-uk/",
+      "title": "Iran sent bomb-making manual as it organised plots in the UK",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/23/iran-sent-bomb-making-manual-as-it-organised-plots-in-the-uk/",
+      "published": "2026-10-23T17:00:00+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+      "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+      "published": "2026-10-23T16:48:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792764876",
+      "title": "Israeli roadblocks disrupt schools and medical care in West Bank village",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/23/israeli-roadblocks-disrupt-schools-and-medical-care-in-west-bank-village?traffic_source=rss",
+      "published": "2026-10-23T16:37:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792765976",
+      "title": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks?traffic_source=rss",
+      "published": "2026-10-23T16:29:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792762630",
+      "title": "One person killed in suspected \u2018Islamophobic\u2019 shooting near Paris",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris?traffic_source=rss",
+      "published": "2026-10-23T16:08:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792695089",
       "title": "\u2018Foreign policy is the economy\u2019: How Iran war is shaping US midterm vote",
@@ -157,28 +333,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
-      "title": "Netanyahu orders \u2018very extensive\u2019 operation in West Bank after two Israeli soldiers killed",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
-      "published": "2026-10-23T14:19:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1792761728",
       "title": "Conte dismisses reports of Man United takeover with Carrick\u2019s job uncertain",
       "source": "Al Jazeera",
@@ -257,72 +411,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/23/dubai-sends-winter-relief-supplies-to-gaza-through-new-air-bridge/",
-      "title": "Dubai sends winter relief supplies to Gaza through new air bridge",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/23/dubai-sends-winter-relief-supplies-to-gaza-through-new-air-bridge/",
-      "published": "2026-10-23T13:57:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792760676",
-      "title": "At least seven killed after gunmen open fire at church in Jordan",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss",
-      "published": "2026-10-23T13:32:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Jordan",
-        "city": null,
-        "lat": 30.5852,
-        "lng": 36.2384
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
-      "title": "Oil price rises above $115 a barrel amid fears US will renew strikes on Iran",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
-      "published": "2026-10-23T13:27:04+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
@@ -575,28 +663,6 @@
       }
     },
     {
-      "id": "202c1bd33c9101313212d92d96e16ca0",
-      "title": ". Abu Dhabi Sports Council announced that the winners of the 10th Fatima Bint Mubarak Women Sports Award will be honoure...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/De1NO3JtctF",
-      "published": "2026-10-23T09:11:57+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "8e0bf1e7dac76258a6a431e015852c4a",
       "title": "Dubai\u2019s Community Development Authority signs a cooperation agreement with Dubai Duty Free to provide enhanced benefits for Sanad Card holders, supporting their independence and improving their shopping experience. Signed on the sidelines of AccessAbilities Expo 2026, the agreement strengthens CDA\u2019s private sector partnerships and advances Dubai Social Agenda 33\u2019s goals of improving quality of life and building a cohesive community through services tailored to People of Determination. @CDA_Dubai | @DubaiDutyFree",
       "source": "Dubai Media Office (RSS.app)",
@@ -829,28 +895,6 @@
         "city": null,
         "lat": 15.5527,
         "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2075a466afa8eda52414ddd2cc4cb263",
-      "title": "#DGCA: Inclusion of #Kuwait_International_Airport fees to tickets aims to promote transparency.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2113390804253249657",
-      "published": "2026-10-22T22:03:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
@@ -1315,28 +1359,6 @@
         "lng": 34.8516
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/global-development/2026/oct/22/israel-us-made-electroshock-weapons-palestinian-detainees-axon-taser",
-      "title": "Tied up and tortured: Israel using US-made electroshock weapons on Palestinian detainees",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/global-development/2026/oct/22/israel-us-made-electroshock-weapons-palestinian-detainees-axon-taser",
-      "published": "2026-10-22T04:00:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
