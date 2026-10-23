@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-23T21:30:14.862463+00:00",
-  "total_incidents": 57,
+  "generated_at": "2026-10-23T22:30:41.708504+00:00",
+  "total_incidents": 60,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792792784",
+      "title": "Why is Israel increasing its presence in the Balkans?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss",
+      "published": "2026-10-23T22:01:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3038b704d953d5904c02957bbd35d731",
+      "title": "Italian Prime Minister Giorgia Meloni and her party left #Kuwait after an official visit to the country They were seen off at the airport by His Highness the Prime Minister Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah, Minister of Foreign Affairs Sheikh Jarrah Jaber Al-Ahmad Al-Sabah, and other Officials  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2113748619375362230",
+      "published": "2026-10-23T21:45:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792789263",
+      "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
+      "published": "2026-10-23T21:27:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Jordan",
+        "city": null,
+        "lat": 30.5852,
+        "lng": 36.2384
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e1569034f01ad06c437cba81d6b2ca6c",
+      "title": "#US President Donald Trump hints at imminent operation against Iran  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2113743204663054793",
+      "published": "2026-10-23T21:23:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "bf30732ce862eb5f6399168c8ab43feb",
       "title": "Minister of Defense Sheikh Abdullah Ali Abdullah Al-Salem Al-Sabah met with #Kuwait Ambassador to the United States Sheikha Al-Zain Al-Sabah at the Kuwaiti Embassy in Washington  #KUNA",
@@ -540,28 +628,6 @@
       "status": "confirmed",
       "location": {
         "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "43213adf610e5b96dc95e5f01c833a5d",
-      "title": "The Arab League condemns the attacks launched by the Houthi militia on King Fahd International Airport and the Shaybah oil field in #SaudiArabia, resulting in multiple casualties & material damage.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2113592148591313081",
-      "published": "2026-10-23T11:23:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
         "city": null,
         "lat": 29.0,
         "lng": 48.0
