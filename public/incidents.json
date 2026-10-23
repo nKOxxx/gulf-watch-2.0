@@ -1,7 +1,227 @@
 {
-  "generated_at": "2026-10-23T11:32:19.277077+00:00",
-  "total_incidents": 70,
+  "generated_at": "2026-10-23T12:42:16.854240+00:00",
+  "total_incidents": 67,
   "incidents": [
+    {
+      "id": "https://www.defensenews.com/global/asia-pacific/2026/10/23/chinas-first-aircraft-carrier-forms-evolving-pattern-of-voyages-in-disputed-asian-seas/",
+      "title": "China\u2019s first aircraft carrier forms \u2018evolving pattern\u2019 of voyages in disputed Asian seas",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/asia-pacific/2026/10/23/chinas-first-aircraft-carrier-forms-evolving-pattern-of-voyages-in-disputed-asian-seas/",
+      "published": "2026-10-23T12:35:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "6febf83d80d476c050542ca74bfbb236",
+      "title": "XDubai unveils HYBRDX, a new homegrown hybrid fitness competition, in collaboration with Dubai Sports Council as strategic partner. The inaugural edition will take place at Kite Beach from 15\u201317 January 2027 and is targeting 3,500 participants, who will take on eight 800-metre runs, each followed by a workout station, across three categories.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2113607550503473601",
+      "published": "2026-10-23T12:24:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/2026/10/23/unknown-gunmen-opened-fire-inside-a-church-in-jordans-karak/",
+      "title": "At least seven killed in shooting at a church in Jordan's Karak",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/2026/10/23/unknown-gunmen-opened-fire-inside-a-church-in-jordans-karak/",
+      "published": "2026-10-23T12:04:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Jordan",
+        "city": null,
+        "lat": 30.5852,
+        "lng": 36.2384
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=99135",
+      "title": "Natilus secures Air Force contract to develop blended wing body aircraft",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/natilus-secures-air-force-contract-to-develop-blended-wing-body-aircraft/",
+      "published": "2026-10-23T12:03:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "34087468a761a739da2981c900df57f8",
+      "title": "Under the directives of Mohammed bin Rashid, Dubai Humanitarian launches a new air bridge to support humanitarian relief efforts in Gaza. The first flight, carrying essential supplies and thermal winter blankets for UNICEF, has arrived in Al Arish, Egypt. The air bridge involves multiple flights operated by the Dubai Royal Air Wing using C-130 aircraft, each carrying approximately nine metric tonnes of humanitarian supplies. At least three additional flights are scheduled in the coming days to deliver blankets for children and other vulnerable groups, helping families prepare for the approaching winter.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2113600454269825122",
+      "published": "2026-10-23T11:56:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792747130",
+      "title": "US-Iran war, then and now: How the landscape has changed since February",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february?traffic_source=rss",
+      "published": "2026-10-23T11:43:53+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/23/iran-deliberately-undermining-iraqs-security-says-al-zaidi-adviser/",
+      "title": "Iran 'deliberately undermining Iraq\u2019s security', says Al Zaidi adviser",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/23/iran-deliberately-undermining-iraqs-security-says-al-zaidi-adviser/",
+      "published": "2026-10-23T11:35:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+      "title": "Oil hits five-month high amid fears US will renew strikes on Iran",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+      "published": "2026-10-23T11:35:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792744449",
+      "title": "Saudi Arabia security puts Asian Cup in doubt: Japan football chief",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/10/23/saudi-arabia-security-puts-asian-cup-in-doubt-japan-football-chief?traffic_source=rss",
+      "published": "2026-10-23T11:34:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "bad50a177e8a0220048bffb3cb6536ec",
+      "title": "#UK's Met Office issues an Amber Warning for wind for much of #Scotland, parts of Northern Ireland & northern #England as Storm Boelo approaches.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2113593577443864920",
+      "published": "2026-10-23T11:29:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792754523",
       "title": "\u2018Pink blooms from among the rubble\u2019: Battling breast cancer in Gaza",
@@ -18,6 +238,28 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "43213adf610e5b96dc95e5f01c833a5d",
+      "title": "The Arab League condemns the attacks launched by the Houthi militia on King Fahd International Airport and the Shaybah oil field in #SaudiArabia, resulting in multiple casualties & material damage.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2113592148591313081",
+      "published": "2026-10-23T11:23:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -61,28 +303,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/football/2026/10/23/michael-carrick-does-not-have-support-of-all-man-united-players-but-manager-alone-cant-be-held-responsible/",
-      "title": "Michael Carrick does not have support of all Man United players but manager alone can't be held responsible",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/23/michael-carrick-does-not-have-support-of-all-man-united-players-but-manager-alone-cant-be-held-responsible/",
-      "published": "2026-10-23T10:40:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -135,28 +355,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/23/lebanese-and-british-troops-conclude-three-week-joint-exercise-with-mock-helicopter-assault/",
-      "title": "Lebanese and British troops conclude three-week joint exercise with mock helicopter assault",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/23/lebanese-and-british-troops-conclude-three-week-joint-exercise-with-mock-helicopter-assault/",
-      "published": "2026-10-23T10:13:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1792693456",
       "title": "New electronics reach Iran, but prices soar as gov\u2019t fees, US sanctions hit",
       "source": "Al Jazeera",
@@ -201,72 +399,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/23/global-hamas-fundraising-network-shut-down-after-gaza-aid-diverted/",
-      "title": "Global Hamas fundraising network shut down after 'Gaza aid diverted'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/23/global-hamas-fundraising-network-shut-down-after-gaza-aid-diverted/",
-      "published": "2026-10-23T09:50:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/23/us-stresses-there-is-no-military-solution-to-sudan-war-in-geneva-talks/",
-      "title": "US stresses there is no military solution to Sudan war in Geneva talks",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/23/us-stresses-there-is-no-military-solution-to-sudan-war-in-geneva-talks/",
-      "published": "2026-10-23T09:40:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792747611",
-      "title": "What role does the military play in Israeli schools?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/what-role-does-the-military-play-in-israeli-schools?traffic_source=rss",
-      "published": "2026-10-23T09:32:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/global/asia-pacific/2026/10/23/new-zealand-defense-chief-resigns-over-inappropriate-relationship/",
       "title": "New Zealand defense chief resigns over \u2018inappropriate relationship\u2019",
       "source": "Defense News",
@@ -304,50 +436,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792739739",
-      "title": "Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/10/23/hamilton-calls-for-palestine-sudan-and-congo-freedom-with-f1-in-spotlight?traffic_source=rss",
-      "published": "2026-10-23T09:12:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9522,
-        "lng": 35.2332
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792746688",
-      "title": "Israeli military kills two in gun battle in occupied West Bank",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss",
-      "published": "2026-10-23T09:12:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -575,28 +663,6 @@
       }
     },
     {
-      "id": "3f167d25ce5dd66d01bc0da7700d3928",
-      "title": "\u062a\u0635\u0648\u064a\u0631 \u0623\u0648 \u0646\u0634\u0631 \u0623\u0648 \u062a\u062f\u0627\u0648\u0644 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0630\u0627\u062a \u0635\u0644\u0629 \u0628\u0627\u0644\u062a\u0635\u062f\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0648\u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0645\u0648\u0627\u0642\u0639 \u0633\u0642\u0648\u0637\u0647\u0627 \u064a\u0639\u0631\u0636\u0643 \u0644\u0644\u0645\u0633\u0627\u0621\u0644\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a\u0629. #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 Filming, publishing, or sharing information related to countering missiles and drones and their impact sites exposes you to legal liability. #Ministry_of_Interior",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2113441660860338629",
-      "published": "2026-10-23T01:25:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "ec07f87ad7015163ed02ad9b3c313c04",
       "title": "#Coalition forces down 2 drones in southern #Saudi_Arabia  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -653,28 +719,6 @@
         "city": null,
         "lat": 29.3117,
         "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "03f318c7f7b2f071fbf7a3a0e0110dba",
-      "title": "#Yemen_Army neutralize 512 Houthi militants  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2113389956198453390",
-      "published": "2026-10-22T22:00:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
       },
       "credibility": 95,
       "is_government": true,
@@ -1037,28 +1081,6 @@
       }
     },
     {
-      "id": "641114ff85b7ee83909d841b5cbf4951",
-      "title": "Mansoor bin Mohammed attends \u201cAl Ameen Forum 2026,\u201d which brought together senior officials, decision-makers, and experts to discuss the family\u2019s role in strengthening community security.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2113260593763528966",
-      "published": "2026-10-22T13:26:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "52c0f58e766854b4f317639c2351afac",
       "title": "\u0627\u0633\u062a\u0642\u0628\u0644 \u0633\u0639\u0627\u062f\u0629 \u0639\u0644\u064a \u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0627\u0644\u0623\u062d\u0645\u062f\u060c \u0627\u0644\u0648\u0643\u064a\u0644 \u0627\u0644\u0645\u0633\u0627\u0639\u062f \u0644\u0644\u0633\u064a\u0627\u0633\u0627\u062a \u0648\u0627\u0644\u0627\u062a\u0635\u0627\u0644 \u0627\u0644\u062f\u0641\u0627\u0639\u064a\u060c \u0628\u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0641\u0627\u0639\u060c \u0633\u0639\u0627\u062f\u0629 \u0627\u0644\u062f\u0643\u062a\u0648\u0631 \u062f\u064a\u0628\u0627\u0643 \u0645\u064a\u062a\u0627\u0644\u060c \u0633\u0641\u064a\u0631 \u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0647\u0646\u062f \u0644\u062f\u0649 \u0627\u0644\u062f\u0648\u0644\u0629\u060c \u0648\u0627\u0644\u0648\u0641\u062f \u0627\u0644\u0645\u0631\u0627\u0641\u0642 \u0644\u0647. \u0648\u062c\u0631\u0649 \u062e\u0644\u0627\u0644 \u0627\u0644\u0644\u0642\u0627\u0621 \u0628\u062d\u062b \u0639\u062f\u062f \u0645\u0646 \u0627\u0644\u0645\u0648\u0636\u0648\u0639\u0627\u062a \u0630\u0627\u062a \u0627\u0644\u0627\u0647\u062a\u0645\u0627\u0645 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u060c \u0625\u0644\u0649 \u062c\u0627\u0646\u0628 \u0627\u0633\u062a\u0639\u0631\u0627\u0636 \u0623\u0648\u062c\u0647 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0648\u0633\u0628\u0644 \u062a\u0637\u0648\u064a\u0631\u0647\u0627 \u0628\u0645\u0627 \u064a\u062e\u062f\u0645 \u0627\u0644\u0645\u0635\u0627\u0644\u062d \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u0629. His Excellency Ali Abdullah Al Ahmad, Assistant Undersecretary for Defence policies and Communications at the Ministry of Defence, received His Excellency Dr. Deepak Mittal, Ambassador of the Republic of India to the UAE, and his accompanying delegation. The meeting discussed a number of issues of mutual interest, as well as reviewed areas of cooperation and ways to further develop them in support of",
       "source": "UAE MOD (RSS.app)",
@@ -1118,28 +1140,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "db73f789c8c16200951eaf908d1b9665",
-      "title": "Dubai Department of Economy and Tourism (DET) supports the global expansion of local food and beverage manufacturers at SIAL Paris 2026, where the Dubai Pavilion showcased locally manufactured products and highlighted opportunities to access European and global markets. Alongside DET, Dubai Industrial City and DP World\u2019s Jebel Ali Free Zone (Jafza) participated in the event, with the delegation comprising 30 manufacturers.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2113233715405189507",
-      "published": "2026-10-22T11:39:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1235,28 +1235,6 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report/",
-      "title": "Ukraine to be able to buy military supplies via NATO agency: report",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report/",
-      "published": "2026-10-22T08:58:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o#0",
       "title": "How Arab parties could hold critical balance of power in Israeli election",
       "source": "BBC Middle East",
@@ -1323,28 +1301,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=99051",
-      "title": "Air Force needs 1,509 combat-ready jets by 2035, service tells Congress",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/air-force-needs-1509-combat-ready-jets-by-2035-service-tells-congress/",
-      "published": "2026-10-21T20:46:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "ca29ad470abec52698e35a96554cbf29",
       "title": "\u062e\u062a\u0627\u0645 \u062a\u0645\u0631\u064a\u0646 \"\u0644\u0642\u0627\u0621 \u0627\u0644\u0635\u0642\u0648\u0631 2026\" \u064a\u062c\u0633\u0651\u062f \u0639\u0645\u0642 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0639\u0633\u0643\u0631\u064a \u0628\u064a\u0646 \u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0648\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0623\u0630\u0631\u0628\u064a\u062c\u0627\u0646\u060c \u0648\u064a\u0639\u0643\u0633 \u062d\u0631\u0635 \u0627\u0644\u062c\u0627\u0646\u0628\u064a\u0646 \u0639\u0644\u0649 \u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u062e\u0628\u0631\u0627\u062a \u0648\u062a\u0637\u0648\u064a\u0631 \u0627\u0644\u0642\u062f\u0631\u0627\u062a \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u0629\u060c \u0628\u0645\u0627 \u064a\u0639\u0632\u0632 \u0627\u0644\u062c\u0627\u0647\u0632\u064a\u0629 \u0648\u0627\u0644\u0643\u0641\u0627\u0621\u0629 \u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a\u064a\u0629. The conclusion of the \u201cFalcons Meet 2026\u201d Exercise underscores the depth of military cooperation between the United Arab Emirates and the Republic of Azerbaijan. It also reflects both countries\u2019 commitment to exchanging expertise and developing joint capabilities, thereby strengthening operational readiness and efficiency. #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 #MOD #UAEMinistryOfDefence",
       "source": "UAE MOD (RSS.app)",
@@ -1401,28 +1357,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/news/2026/oct/21/israels-fault-lines-inside-the-23-october-guardian-weekly",
-      "title": "Israel\u2019s fault lines: inside the 23 October Guardian Weekly",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/news/2026/oct/21/israels-fault-lines-inside-the-23-october-guardian-weekly",
-      "published": "2026-10-21T17:00:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
