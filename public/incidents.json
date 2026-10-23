@@ -1,22 +1,110 @@
 {
-  "generated_at": "2026-10-23T17:31:16.851713+00:00",
-  "total_incidents": 65,
+  "generated_at": "2026-10-23T18:38:49.246051+00:00",
+  "total_incidents": 58,
   "incidents": [
     {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/23/uae-foreign-minister-condemns-jordan-church-attack-in-call-with-safadi/",
-      "title": "UAE Foreign Minister condemns Jordan church attack in call with Safadi",
+      "id": "86af1a2df89e9a506c0e9a745a1c414b",
+      "title": "In the presence of His Highness the Prime Minister Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah and visiting Italian Premier Giorgia Meloni, #Kuwait and #Italy signed two memoranda of understanding and a letter of intent, covering the promotion of direct investment, defense, and military and industrial cooperation  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2113695162379505753",
+      "published": "2026-10-23T18:12:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "49dc6193fd599eb05a6d73724b79f254",
+      "title": "#Kuwait strongly condemns terrorist attack on church in #Jordan  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2113694541454692637",
+      "published": "2026-10-23T18:10:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/2026/10/23/pictures-of-the-week-from-show-jumping-at-the-pyramids-to-macron-in-the-gulf/",
+      "title": "Pictures of the week: From show jumping at the Pyramids to Macron in the Gulf",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/23/uae-foreign-minister-condemns-jordan-church-attack-in-call-with-safadi/",
-      "published": "2026-10-23T17:25:49+00:00",
+      "source_url": "https://www.thenationalnews.com/news/2026/10/23/pictures-of-the-week-from-show-jumping-at-the-pyramids-to-macron-in-the-gulf/",
+      "published": "2026-10-23T18:02:00+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "UAE",
+        "country": null,
         "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792776553",
+      "title": "Jerusalem Daily: Israel to \u2018lock down\u2019 occupied West Bank",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
+      "published": "2026-10-23T17:30:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792767759",
+      "title": "Romania blames Russia after drone sinks ship in the Black Sea",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss",
+      "published": "2026-10-23T17:26:13+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 21.4735,
+        "lng": 55.9754
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -69,121 +157,11 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/uk/2026/10/23/iran-sent-bomb-making-manual-as-it-organised-plots-in-the-uk/",
-      "title": "Iran sent bomb-making manual as it organised plots in the UK",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/23/iran-sent-bomb-making-manual-as-it-organised-plots-in-the-uk/",
-      "published": "2026-10-23T17:00:00+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
       "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
       "published": "2026-10-23T16:48:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792764876",
-      "title": "Israeli roadblocks disrupt schools and medical care in West Bank village",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/23/israeli-roadblocks-disrupt-schools-and-medical-care-in-west-bank-village?traffic_source=rss",
-      "published": "2026-10-23T16:37:59+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792765976",
-      "title": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks?traffic_source=rss",
-      "published": "2026-10-23T16:29:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792762630",
-      "title": "One person killed in suspected \u2018Islamophobic\u2019 shooting near Paris",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris?traffic_source=rss",
-      "published": "2026-10-23T16:08:04+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792695089",
-      "title": "\u2018Foreign policy is the economy\u2019: How Iran war is shaping US midterm vote",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote?traffic_source=rss",
-      "published": "2026-10-23T15:51:29+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -215,28 +193,6 @@
         "lng": 34.8516
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/23/tense-shabbat-in-israel-as-pivotal-elections-approach/",
-      "title": "Tense Shabbat in Israel as pivotal elections approach",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/23/tense-shabbat-in-israel-as-pivotal-elections-approach/",
-      "published": "2026-10-23T15:26:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -289,28 +245,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/2026/10/23/king-abdullah-condemns-terrorist-attack-at-jordan-church-that-left-six-dead-and-28-injured/",
-      "title": "King Abdullah condemns \u2018terrorist attack\u2019 at Jordan church that killed seven",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/2026/10/23/king-abdullah-condemns-terrorist-attack-at-jordan-church-that-left-six-dead-and-28-injured/",
-      "published": "2026-10-23T14:43:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Jordan",
-        "city": null,
-        "lat": 30.5852,
-        "lng": 36.2384
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling/",
       "title": "US Air Force wants AI to assist aerial refueling",
       "source": "Defense News",
@@ -325,50 +259,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792761728",
-      "title": "Conte dismisses reports of Man United takeover with Carrick\u2019s job uncertain",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/10/23/conte-dismisses-reports-of-man-united-takeover-with-carricks-job-uncertain?traffic_source=rss",
-      "published": "2026-10-23T14:16:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/in-focus/2026/10/23/how-ai-is-driving-the-future-of-clean-water-and-energy-at-wetex-2026/",
-      "title": "How AI is driving the future of clean water and energy at WETEX 2026",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/in-focus/2026/10/23/how-ai-is-driving-the-future-of-clean-water-and-energy-at-wetex-2026/",
-      "published": "2026-10-23T14:15:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -853,50 +743,6 @@
         "lng": 48.0
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ec07f87ad7015163ed02ad9b3c313c04",
-      "title": "#Coalition forces down 2 drones in southern #Saudi_Arabia  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2113419187989168515",
-      "published": "2026-10-22T23:56:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0f94e8083f4493532c9c3aabb246f725",
-      "title": "Two soldiers killed in Al-Qaeda attack in #Yemen 's Shabwah  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2113418789484126236",
-      "published": "2026-10-22T23:54:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
