@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-23T15:34:42.741506+00:00",
+  "generated_at": "2026-10-23T16:36:19.220496+00:00",
   "total_incidents": 64,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792695089",
+      "title": "\u2018Foreign policy is the economy\u2019: How Iran war is shaping US midterm vote",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote?traffic_source=rss",
+      "published": "2026-10-23T15:51:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko#0",
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T15:37:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/23/tense-shabbat-in-israel-as-pivotal-elections-approach/",
       "title": "Tense Shabbat in Israel as pivotal elections approach",
@@ -69,30 +113,8 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko#0",
-      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T14:45:43+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/2026/10/23/king-abdullah-condemns-terrorist-attack-at-jordan-church-that-left-six-dead-and-28-injured/",
-      "title": "King Abdullah condemns 'terrorist attack' at Jordan church that left six dead and 28 injured",
+      "title": "King Abdullah condemns \u2018terrorist attack\u2019 at Jordan church that killed seven",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/2026/10/23/king-abdullah-condemns-terrorist-attack-at-jordan-church-that-left-six-dead-and-28-injured/",
       "published": "2026-10-23T14:43:52+00:00",
@@ -107,9 +129,9 @@
       "credibility": 85,
       "is_government": false,
       "casualties": {
-        "total": 28,
+        "total": 0,
         "military": 0,
-        "civilian": 28
+        "civilian": 0
       }
     },
     {
@@ -301,28 +323,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792756939",
-      "title": "Hundreds to defy Palestine Action ban in protest at US embassy in London",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/10/23/hundreds-to-defy-palestine-action-ban-in-protest-at-us-embassy-in-london?traffic_source=rss",
-      "published": "2026-10-23T13:25:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9522,
-        "lng": 35.2332
       },
       "credibility": 90,
       "is_government": false,
