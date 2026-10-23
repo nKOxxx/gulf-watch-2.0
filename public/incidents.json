@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-23T12:42:16.854240+00:00",
-  "total_incidents": 67,
+  "generated_at": "2026-10-23T13:33:15.884985+00:00",
+  "total_incidents": 64,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+      "title": "Oil price rises above $115 a barrel amid fears US will renew strikes on Iran",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+      "published": "2026-10-23T13:27:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
+      "title": "Netanyahu orders \u2018very extensive\u2019 operation in West Bank after two Israeli soldiers killed",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
+      "published": "2026-10-23T13:26:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f49d89b80b203e6089bd46cebe111903",
+      "title": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf has warned US policymakers and the American public that a war with Iran would carry heavy economic and military costs for the United States.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2113620837802590483",
+      "published": "2026-10-23T13:17:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c74ac9157372935f55cf5365b8ec7bb9",
+      "title": "IRGC spokesman Brigadier General Hossein Mohebbi said the United States has suffered strategic defeats in the war with Iran, including damage to its claims of ensuring regional security and protecting energy flows.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2113620658450055329",
+      "published": "2026-10-23T13:16:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792755886",
+      "title": "Dortmund to reward football supporters who don\u2019t use phone during matches",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/10/23/dortmund-to-reward-football-supporters-who-dont-use-phone-during-matches?traffic_source=rss",
+      "published": "2026-10-23T13:00:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko#0",
+      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T12:48:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.defensenews.com/global/asia-pacific/2026/10/23/chinas-first-aircraft-carrier-forms-evolving-pattern-of-voyages-in-disputed-asian-seas/",
       "title": "China\u2019s first aircraft carrier forms \u2018evolving pattern\u2019 of voyages in disputed Asian seas",
@@ -48,7 +180,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/2026/10/23/unknown-gunmen-opened-fire-inside-a-church-in-jordans-karak/",
-      "title": "At least seven killed in shooting at a church in Jordan's Karak",
+      "title": "At least seven killed in shooting at church in Jordan's Karak province",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/2026/10/23/unknown-gunmen-opened-fire-inside-a-church-in-jordans-karak/",
       "published": "2026-10-23T12:04:37+00:00",
@@ -113,28 +245,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792747130",
-      "title": "US-Iran war, then and now: How the landscape has changed since February",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february?traffic_source=rss",
-      "published": "2026-10-23T11:43:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/23/iran-deliberately-undermining-iraqs-security-says-al-zaidi-adviser/",
       "title": "Iran 'deliberately undermining Iraq\u2019s security', says Al Zaidi adviser",
       "source": "The National UAE",
@@ -149,50 +259,6 @@
         "lng": 53.688
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
-      "title": "Oil hits five-month high amid fears US will renew strikes on Iran",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
-      "published": "2026-10-23T11:35:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792744449",
-      "title": "Saudi Arabia security puts Asian Cup in doubt: Japan football chief",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/10/23/saudi-arabia-security-puts-asian-cup-in-doubt-japan-football-chief?traffic_source=rss",
-      "published": "2026-10-23T11:34:59+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -216,28 +282,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792754523",
-      "title": "\u2018Pink blooms from among the rubble\u2019: Battling breast cancer in Gaza",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/pink-blooms-from-among-the-rubble-battling-breast-cancer-in-gaza?traffic_source=rss",
-      "published": "2026-10-23T11:27:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -281,94 +325,6 @@
         "lng": 45.0792
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792745880",
-      "title": "France tightens security in anticipation of weekend protests",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/23/france-tightens-security-in-anticipation-of-weekend-protests?traffic_source=rss",
-      "published": "2026-10-23T11:05:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko#0",
-      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23T10:26:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792743934",
-      "title": "South Korea invites North for military talks over border",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border?traffic_source=rss",
-      "published": "2026-10-23T10:20:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792693456",
-      "title": "New electronics reach Iran, but prices soar as gov\u2019t fees, US sanctions hit",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit?traffic_source=rss",
-      "published": "2026-10-23T09:56:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1345,28 +1301,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/21/heidi-levine-palestinians-israeli-settler-attack-west-bank",
-      "title": "Heidi Levine recounts how Palestinian youths helped save her in settler attack",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/21/heidi-levine-palestinians-israeli-settler-attack-west-bank",
-      "published": "2026-10-21T17:59:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "dca0f9aa06e989729add085b85cbcbe5",
       "title": "Chairman of Iran's Parliament National Security and Foreign Policy Committee Ebrahim Azizi says the final destination of the Israeli regime is \u201ctotal defeat by the will of the brave Iranian nation and the Resistance Front.\"",
       "source": "Mehr News (RSS.app)",
@@ -1455,7 +1389,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo#0",
+      "id": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo#1",
       "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
