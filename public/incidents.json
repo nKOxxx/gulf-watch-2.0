@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-23T13:33:15.884985+00:00",
+  "generated_at": "2026-10-23T14:36:00.554700+00:00",
   "total_incidents": 64,
   "incidents": [
+    {
+      "id": "https://www.defensenews.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling/",
+      "title": "US Air Force wants AI to assist aerial refueling",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling/",
+      "published": "2026-10-23T14:29:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
+      "title": "Netanyahu orders \u2018very extensive\u2019 operation in West Bank after two Israeli soldiers killed",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
+      "published": "2026-10-23T14:19:30+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792761728",
+      "title": "Conte dismisses reports of Man United takeover with Carrick\u2019s job uncertain",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/10/23/conte-dismisses-reports-of-man-united-takeover-with-carricks-job-uncertain?traffic_source=rss",
+      "published": "2026-10-23T14:16:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/in-focus/2026/10/23/how-ai-is-driving-the-future-of-clean-water-and-energy-at-wetex-2026/",
+      "title": "How AI is driving the future of clean water and energy at WETEX 2026",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/in-focus/2026/10/23/how-ai-is-driving-the-future-of-clean-water-and-energy-at-wetex-2026/",
+      "published": "2026-10-23T14:15:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/europe/2026/10/23/leonardo-rheinmetall-secure-4-billion-contracts-with-italian-army-report-says/",
+      "title": "Leonardo, Rheinmetall secure $4 billion contracts with Italian Army, report says",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/23/leonardo-rheinmetall-secure-4-billion-contracts-with-italian-army-report-says/",
+      "published": "2026-10-23T14:10:15+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/global/mideast-africa/2026/10/23/saudi-missile-plant-expansion-may-produce-more-powerful-missiles-study-says/",
+      "title": "Saudi missile plant expansion may produce more powerful missiles, study says",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/mideast-africa/2026/10/23/saudi-missile-plant-expansion-may-produce-more-powerful-missiles-study-says/",
+      "published": "2026-10-23T13:57:29+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/23/dubai-sends-winter-relief-supplies-to-gaza-through-new-air-bridge/",
+      "title": "Dubai sends winter relief supplies to Gaza through new air bridge",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/23/dubai-sends-winter-relief-supplies-to-gaza-through-new-air-bridge/",
+      "published": "2026-10-23T13:57:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
       "title": "Oil price rises above $115 a barrel amid fears US will renew strikes on Iran",
@@ -25,18 +179,18 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
-      "title": "Netanyahu orders \u2018very extensive\u2019 operation in West Bank after two Israeli soldiers killed",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
-      "published": "2026-10-23T13:26:32+00:00",
+      "id": "https://www.aljazeera.com/?t=1792756939",
+      "title": "Hundreds to defy Palestine Action ban in protest at US embassy in London",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/10/23/hundreds-to-defy-palestine-action-ban-in-protest-at-us-embassy-in-london?traffic_source=rss",
+      "published": "2026-10-23T13:25:58+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Israel",
+        "country": null,
         "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
+        "lat": 31.9522,
+        "lng": 35.2332
       },
       "credibility": 90,
       "is_government": false,
@@ -83,28 +237,6 @@
         "lng": 53.688
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792755886",
-      "title": "Dortmund to reward football supporters who don\u2019t use phone during matches",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/10/23/dortmund-to-reward-football-supporters-who-dont-use-phone-during-matches?traffic_source=rss",
-      "published": "2026-10-23T13:00:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -180,7 +312,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/2026/10/23/unknown-gunmen-opened-fire-inside-a-church-in-jordans-karak/",
-      "title": "At least seven killed in shooting at church in Jordan's Karak province",
+      "title": "At least six killed in shooting at church in Jordan's Karak governorate",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/2026/10/23/unknown-gunmen-opened-fire-inside-a-church-in-jordans-karak/",
       "published": "2026-10-23T12:04:37+00:00",
@@ -245,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/23/iran-deliberately-undermining-iraqs-security-says-al-zaidi-adviser/",
-      "title": "Iran 'deliberately undermining Iraq\u2019s security', says Al Zaidi adviser",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/23/iran-deliberately-undermining-iraqs-security-says-al-zaidi-adviser/",
-      "published": "2026-10-23T11:35:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "bad50a177e8a0220048bffb3cb6536ec",
       "title": "#UK's Met Office issues an Amber Warning for wind for much of #Scotland, parts of Northern Ireland & northern #England as Storm Boelo approaches.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -304,28 +414,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/travel/2026/10/23/saudi-arabia-flight-cancellations-which-airlines-are-suspending-services-and-until-when/",
-      "title": "Saudi Arabia flight cancellations: Which airlines are suspending services and until when?",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/travel/2026/10/23/saudi-arabia-flight-cancellations-which-airlines-are-suspending-services-and-until-when/",
-      "published": "2026-10-23T11:21:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1081,56 +1169,12 @@
       }
     },
     {
-      "id": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says/",
-      "title": "Pentagon ignored cybersecurity flaws before data breach, Marines\u2019 lawsuit says",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says/",
-      "published": "2026-10-22T13:03:46+00:00",
-      "type": "cyber",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
       "title": "Oil prices jump to five-month high as attacks threaten global supply",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
       "published": "2026-10-22T11:28:11+00:00",
       "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/global/europe/2026/10/22/uks-royal-navy-has-serious-anti-submarine-warfare-gap-committee-finds/",
-      "title": "UK\u2019s Royal Navy has \u2018serious\u2019 anti-submarine warfare gap, committee finds",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/10/22/uks-royal-navy-has-serious-anti-submarine-warfare-gap-committee-finds/",
-      "published": "2026-10-22T11:07:12+00:00",
-      "type": "naval",
       "status": "unconfirmed",
       "location": {
         "country": null,
@@ -1360,50 +1404,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo#1",
-      "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T14:09:42+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo#1",
-      "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20T13:54:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 95,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
