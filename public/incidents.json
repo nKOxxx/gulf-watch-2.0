@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-24T20:30:29.823654+00:00",
-  "total_incidents": 65,
+  "generated_at": "2026-10-24T21:30:10.884474+00:00",
+  "total_incidents": 66,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792871832",
+      "title": "Severe hunger stalks people in Gaza as bakeries close down",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss",
+      "published": "2026-10-24T20:52:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792872905",
+      "title": "Could Israel\u2019s military crackdown influence Tuesday\u2019s election?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
+      "published": "2026-10-24T20:37:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "4d3038f62a8daeff5bf28841ad31f20e",
       "title": "#GCC Secretary General condemns Houthi terrorist attacks on Saudi Arabia  #KUNA",
@@ -235,28 +279,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792850946",
-      "title": "More than 2,000 forced from homes in Hebron amid Israel\u2019s West Bank raids",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
-      "published": "2026-10-24T15:50:49+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
       },
       "credibility": 90,
       "is_government": false,
