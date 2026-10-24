@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-24T15:29:55.929517+00:00",
-  "total_incidents": 62,
+  "generated_at": "2026-10-24T16:31:17.792681+00:00",
+  "total_incidents": 64,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792850946",
+      "title": "More than 2,000 forced from homes in Hebron amid Israel\u2019s West Bank raids",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
+      "published": "2026-10-24T15:50:49+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "67b426bc32f8af3ca3865ba4b0e69cca",
+      "title": "#Russia's Foreign Ministry condemns a deadly attack in #Jordan that killed seven people and injured 40 others  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114016296970965401",
+      "published": "2026-10-24T15:28:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Jordan",
+        "city": null,
+        "lat": 30.5852,
+        "lng": 36.2384
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792845220",
       "title": "Security forces deploy as Milan braces for another day of protests",
