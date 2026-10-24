@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-24T04:34:04.996432+00:00",
+  "generated_at": "2026-10-24T05:31:49.319655+00:00",
   "total_incidents": 68,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792144352",
+      "title": "Lebanese sceptical Israeli polls will bring change, end occupation of south",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss",
+      "published": "2026-10-24T05:04:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
+      "title": "As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
+      "published": "2026-10-24T05:00:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/24/who-are-the-key-figures-in-israels-election-and-what-are-their-stances-on-palestinian-statehood/",
+      "title": "Who are the key figures in Israel's election and what are their stances on Palestinian statehood?",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/24/who-are-the-key-figures-in-israels-election-and-what-are-their-stances-on-palestinian-statehood/",
+      "published": "2026-10-24T05:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792816812",
+      "title": "Massive oil slick seen weeks after tanker struck off UAE\u2019s coast",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast?traffic_source=rss",
+      "published": "2026-10-24T04:48:40+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792813286",
       "title": "Argentina identifies dozens of victims killed in its \u2018Dirty War\u2019",
@@ -333,28 +421,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792791831",
-      "title": "Iran war live: Saudi downs Houthi ballistic missile targeting Riyadh",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
-      "published": "2026-10-24T00:00:00+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "7d1a8e361e897c8e20949255c9bcb485",
       "title": "#Yemeni_army neutralize 620 Houthi militants  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -465,28 +531,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792797016",
-      "title": "Macklemore: \u2018I say free Palestine\u2019 as he kicks off a new tour",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss",
-      "published": "2026-10-23T23:25:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9522,
-        "lng": 35.2332
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3038b704d953d5904c02957bbd35d731",
       "title": "Italian Prime Minister Giorgia Meloni and her party left #Kuwait after an official visit to the country They were seen off at the airport by His Highness the Prime Minister Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah, Minister of Foreign Affairs Sheikh Jarrah Jaber Al-Ahmad Al-Sabah, and other Officials  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -590,28 +634,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/2026/10/23/pictures-of-the-week-from-show-jumping-at-the-pyramids-to-macron-in-the-gulf/",
-      "title": "Pictures of the week: From show jumping at the Pyramids to Macron in the Gulf",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/2026/10/23/pictures-of-the-week-from-show-jumping-at-the-pyramids-to-macron-in-the-gulf/",
-      "published": "2026-10-23T18:02:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1357,28 +1379,6 @@
         "city": null,
         "lat": 23.8859,
         "lng": 45.0792
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
-      "title": "Oil prices jump to five-month high as attacks threaten global supply",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
-      "published": "2026-10-22T11:28:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
