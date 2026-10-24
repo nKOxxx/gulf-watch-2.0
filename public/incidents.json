@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-24T11:30:24.312846+00:00",
-  "total_incidents": 65,
+  "generated_at": "2026-10-24T12:38:41.649283+00:00",
+  "total_incidents": 62,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+      "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+      "published": "2026-10-24T12:37:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.7308,
+        "lng": 36.7094
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9fd288e04d3cb45c2921acbc71d72448",
+      "title": "#Kuwait participates in the \"Dragon 10\" group meeting held in the United Kingdom to discuss regional and international developments, according to the General Staff of the Kuwaiti Army  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2113959123012219213",
+      "published": "2026-10-24T11:41:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/24/arrests-demolitions-raids-and-displacement-israel-launches-days-long-west-bank-offensive/",
       "title": "Arrests, demolitions, raids and displacement: Israel launches days-long West Bank offensive",
@@ -289,72 +333,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792832379",
-      "title": "Ilhan Omar votes as Trump renews attacks amid federal probe",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ilhan-omar-votes-us-midterms-federal-investigation?traffic_source=rss",
-      "published": "2026-10-24T09:16:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792825712",
-      "title": "Why is Israel launching a new military operation in the occupied West Bank?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss",
-      "published": "2026-10-24T09:14:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792832090",
-      "title": "Bolivian teachers strike over wages and education reform",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/bolivian-teachers-strike-over-wages-and-education-reform?traffic_source=rss",
-      "published": "2026-10-24T08:56:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "048fc98a86ce5e9fc12736054e2fae34",
       "title": "Mohammed bin Rashid: Next Thursday, we will celebrate more than 40 million students from 160,000 schools around the world who have taken part in the Arab Reading Challenge, the world\u2019s largest reading competition. Reading will always be one of humanity\u2019s noblest pursuits, one of the finest exercises for the mind and one of the fastest routes to the progress of nations and people. We will continue to champion reading and uphold its enduring mission, God willing.",
       "source": "Dubai Media Office (RSS.app)",
@@ -487,28 +465,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/2026/10/24/turkey-rules-out-combat-with-houthis-under-defence-pact-as-foreign-ministers-meet-in-istanbul/",
-      "title": "Turkey rules out combat with Houthis under defence pact as foreign ministers meet in Istanbul",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/2026/10/24/turkey-rules-out-combat-with-houthis-under-defence-pact-as-foreign-ministers-meet-in-istanbul/",
-      "published": "2026-10-24T08:15:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o#1",
       "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
       "source": "BBC Middle East",
@@ -543,28 +499,6 @@
         "city": null,
         "lat": 25.3548,
         "lng": 51.1839
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "744772aa06cbca961a93397a936ab327",
-      "title": "#Kuwait Petroleum Corporation (KPC): #Kuwaiti oil price rose by USD 1.76 to hit USD 114.09 per barrel (pb) in Friday's trading, compared with USD 112.33 on Thursday  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2113877857415860711",
-      "published": "2026-10-24T06:18:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
