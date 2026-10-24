@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-24T12:38:41.649283+00:00",
-  "total_incidents": 62,
+  "generated_at": "2026-10-24T13:29:45.932133+00:00",
+  "total_incidents": 66,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
       "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
-      "published": "2026-10-24T12:37:31+00:00",
+      "published": "2026-10-24T13:17:13+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -18,6 +18,138 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/24/jordan-christians-church/",
+      "title": "Deadly church attack shocks Jordan's deep-rooted Christian community",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/24/jordan-christians-church/",
+      "published": "2026-10-24T13:14:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Jordan",
+        "city": null,
+        "lat": 30.5852,
+        "lng": 36.2384
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792840401",
+      "title": "Is Iran planning attacks on Americans; why is the US on alert?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss",
+      "published": "2026-10-24T12:51:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/24/sheikh-khaled-meets-emirati-military-students-on-official-visit-to-greece/",
+      "title": "Sheikh Khaled meets Emirati military students on official visit to Greece",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/24/sheikh-khaled-meets-emirati-military-students-on-official-visit-to-greece/",
+      "published": "2026-10-24T12:48:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8452249c4195607e9af3f83110c2d022",
+      "title": "#Kuwait Ministry of Interior carries out a security campaign nationwide as part of its ongoing field efforts to reinforce security presence, arrest wanted individuals and take action against violators  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2113974519815671898",
+      "published": "2026-10-24T12:42:00+00:00",
+      "type": "raid",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792844264",
+      "title": "Malaysia considers complete ban on Israel-based navigation app Waze",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss",
+      "published": "2026-10-24T12:30:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5b55b540abc2933edf7715d99466464b",
+      "title": ". The sixth aircraft carrying humanitarian aid under the Ahmed bin Rashid Humanitarian Bridge departed Saturday, bringin...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/De4H7TDtmXS",
+      "published": "2026-10-24T12:23:18+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -216,50 +348,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792831403",
-      "title": "France braces for another day of mass protests as security on high alert",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss",
-      "published": "2026-10-24T10:04:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/24/lebanons-aoun-vows-end-to-neglect-of-tripoli-in-first-presidential-visit-to-city-in-15-years/",
-      "title": "Lebanon's Aoun vows end to neglect of Tripoli in first presidential visit to city in 15 years",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/24/lebanons-aoun-vows-end-to-neglect-of-tripoli-in-first-presidential-visit-to-city-in-15-years/",
-      "published": "2026-10-24T09:36:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 34.4346,
-        "lng": 35.8362
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
