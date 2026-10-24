@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-24T16:31:17.792681+00:00",
-  "total_incidents": 64,
+  "generated_at": "2026-10-24T17:29:38.622938+00:00",
+  "total_incidents": 65,
   "incidents": [
+    {
+      "id": "ee7b4f57a31b96c1a4fd5629ed501332",
+      "title": "His Highness the Amir sends a cable of condolences to King Abdullah II of the Hashemite Kingdom of #Jordan, expressing sincere condolences and deepest sympathy for the victims of the attack that targeted a church in Karak Governorate  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114044143919890931",
+      "published": "2026-10-24T17:19:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Jordan",
+        "city": null,
+        "lat": 30.5852,
+        "lng": 36.2384
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792849909",
+      "title": "About 25,000 rally in Madrid in support of Spain\u2019s state pension scheme",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
+      "published": "2026-10-24T16:48:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792850946",
       "title": "More than 2,000 forced from homes in Hebron amid Israel\u2019s West Bank raids",
@@ -471,28 +515,6 @@
       "source_url": "https://x.com/SaudiDCD/status/2113910770111045892",
       "published": "2026-10-24T08:29:00+00:00",
       "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2a357112327431b2cc7b13263c64344a",
-      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0637\u0627\u0626\u0641\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (911). Alert: The danger has passed in Taif Governorate. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2113910625608810925",
-      "published": "2026-10-24T08:29:00+00:00",
-      "type": "incident",
       "status": "confirmed",
       "location": {
         "country": null,
