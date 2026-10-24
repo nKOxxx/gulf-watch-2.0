@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-24T22:29:28.676893+00:00",
-  "total_incidents": 67,
+  "generated_at": "2026-10-24T23:28:34.850474+00:00",
+  "total_incidents": 66,
   "incidents": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o#0",
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T23:02:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.7308,
+        "lng": 36.7094
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "363c6d400181d70997d05637acd84a3a",
+      "title": "Muslim World League vehemently condemns terrorist Houthi targeting of Makkah, Madinah  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114129030173597710",
+      "published": "2026-10-24T22:56:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2aed371dd0cbc5416b5c1fc06b767a10",
+      "title": "Saudi Arabia's King Khalid International Airport\u2019s Terminals 1 and 2 to resume operations Sunday  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114128310363934887",
+      "published": "2026-10-24T22:54:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e9e96b0114b3b3420dc324b111f9e06b",
+      "title": "OIC deplores Israeli occupation's destruction of homes, displacement of Palestinians in Al-Khalil  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114127416377377189",
+      "published": "2026-10-24T22:50:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.7308,
+        "lng": 36.7094
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792871189",
       "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
@@ -157,28 +245,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792858814",
-      "title": "Thousands of Israelis rally against Netanyahu gov\u2019t days before election",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
-      "published": "2026-10-24T19:11:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "e9aed644db53772457f10710363a2c58",
       "title": "Saudi General Directorate of Civil Defense announced that fragments and interception debris from two ballistic missiles launched by the terrorist Houthi militia fell across several locations within the Makkah and Medina administrative regions  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -216,28 +282,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o#0",
-      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T17:21:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.7308,
-        "lng": 36.7094
-      },
-      "credibility": 95,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -294,28 +338,6 @@
       "source": "KUNA Kuwait (RSS.app)",
       "source_url": "https://x.com/kuna_en/status/2114044143919890931",
       "published": "2026-10-24T17:19:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Jordan",
-        "city": null,
-        "lat": 30.5852,
-        "lng": 36.2384
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "67b426bc32f8af3ca3865ba4b0e69cca",
-      "title": "#Russia's Foreign Ministry condemns a deadly attack in #Jordan that killed seven people and injured 40 others  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2114016296970965401",
-      "published": "2026-10-24T15:28:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
@@ -421,28 +443,6 @@
       }
     },
     {
-      "id": "8452249c4195607e9af3f83110c2d022",
-      "title": "#Kuwait Ministry of Interior carries out a security campaign nationwide as part of its ongoing field efforts to reinforce security presence, arrest wanted individuals and take action against violators  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2113974519815671898",
-      "published": "2026-10-24T12:42:00+00:00",
-      "type": "raid",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "5b55b540abc2933edf7715d99466464b",
       "title": ". The sixth aircraft carrying humanitarian aid under the Ahmed bin Rashid Humanitarian Bridge departed Saturday, bringin...",
       "source": "WAM News (RSS.app)",
@@ -455,28 +455,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "9fd288e04d3cb45c2921acbc71d72448",
-      "title": "#Kuwait participates in the \"Dragon 10\" group meeting held in the United Kingdom to discuss regional and international developments, according to the General Staff of the Kuwaiti Army  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2113959123012219213",
-      "published": "2026-10-24T11:41:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
