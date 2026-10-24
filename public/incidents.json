@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-24T02:38:12.900215+00:00",
+  "generated_at": "2026-10-24T03:35:52.258368+00:00",
   "total_incidents": 67,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/24/overseas-israelis-mobilise-for-change-in-election-that-could-end-netanyahu-era/",
+      "title": "Overseas Israelis mobilise for 'change' in election that could end Netanyahu era",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/24/overseas-israelis-mobilise-for-change-in-election-that-could-end-netanyahu-era/",
+      "published": "2026-10-24T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792809709",
+      "title": "Century-old mosque near Indian PM\u2019s residence under gov\u2019t threat",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/century-old-mosque-near-indian-pms-residence-under-govt-threat?traffic_source=rss",
+      "published": "2026-10-24T02:53:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/uae/2026/10/24/inside-harrow-abu-dhabi-school-ahead-of-next-years-opening/",
       "title": "Inside Harrow Abu Dhabi school ahead of next year's opening",
@@ -458,50 +502,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "bf30732ce862eb5f6399168c8ab43feb",
-      "title": "Minister of Defense Sheikh Abdullah Ali Abdullah Al-Salem Al-Sabah met with #Kuwait Ambassador to the United States Sheikha Al-Zain Al-Sabah at the Kuwaiti Embassy in Washington  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2113741776833937675",
-      "published": "2026-10-23T21:18:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792775478",
-      "title": "\u2018Generation Right\u2019: Israeli youth show strong support for the right",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss",
-      "published": "2026-10-23T20:52:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
