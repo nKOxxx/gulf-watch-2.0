@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-24T03:35:52.258368+00:00",
-  "total_incidents": 67,
+  "generated_at": "2026-10-24T04:34:04.996432+00:00",
+  "total_incidents": 68,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792813286",
+      "title": "Argentina identifies dozens of victims killed in its \u2018Dirty War\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss",
+      "published": "2026-10-24T03:51:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792806499",
+      "title": "Israel raids towns, detains dozens of Palestinians in occupied West Bank",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss",
+      "published": "2026-10-24T03:47:14+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792809266",
+      "title": "Pentagon designates Confucius Institutes a national security threat",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/24/pentagon-designates-confucius-institutes-a-national-security-threat?traffic_source=rss",
+      "published": "2026-10-24T03:38:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/24/overseas-israelis-mobilise-for-change-in-election-that-could-end-netanyahu-era/",
       "title": "Overseas Israelis mobilise for 'change' in election that could end Netanyahu era",
@@ -421,28 +487,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792792784",
-      "title": "Why is Israel increasing its presence in the Balkans?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss",
-      "published": "2026-10-23T22:01:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3038b704d953d5904c02957bbd35d731",
       "title": "Italian Prime Minister Giorgia Meloni and her party left #Kuwait after an official visit to the country They were seen off at the airport by His Highness the Prime Minister Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah, Minister of Foreign Affairs Sheikh Jarrah Jaber Al-Ahmad Al-Sabah, and other Officials  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -458,28 +502,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792789263",
-      "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
-      "published": "2026-10-23T21:27:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Jordan",
-        "city": null,
-        "lat": 30.5852,
-        "lng": 36.2384
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
