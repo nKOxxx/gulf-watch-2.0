@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-24T05:31:49.319655+00:00",
-  "total_incidents": 68,
+  "generated_at": "2026-10-24T06:44:42.317584+00:00",
+  "total_incidents": 71,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792774480",
+      "title": "Has Vivek Ramaswamy\u2019s attack ad against Amy Acton backfired?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/24/has-vivek-ramaswamys-attack-ad-against-amy-acton-backfired?traffic_source=rss",
+      "published": "2026-10-24T06:21:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "744772aa06cbca961a93397a936ab327",
+      "title": "#Kuwait Petroleum Corporation (KPC): #Kuwaiti oil price rose by USD 1.76 to hit USD 114.09 per barrel (pb) in Friday's trading, compared with USD 112.33 on Thursday  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2113877857415860711",
+      "published": "2026-10-24T06:18:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/24/swift-response-key-to-limiting-environmental-impact-of-uae-oil-spill-experts-say/",
+      "title": "Swift response key to limiting environmental impact of UAE oil spill, experts say",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/24/swift-response-key-to-limiting-environmental-impact-of-uae-oil-spill-experts-say/",
+      "published": "2026-10-24T05:30:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792502256",
+      "title": "How Benjamin Netanyahu reshaped Israel\u2019s institutions",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss",
+      "published": "2026-10-24T05:29:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792772764",
+      "title": "Hospital in Yemen\u2019s Taiz warns of collapse in days because of Houthi siege",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss",
+      "published": "2026-10-24T05:20:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 38.0962,
+        "lng": 46.2738
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792144352",
       "title": "Lebanese sceptical Israeli polls will bring change, end occupation of south",
@@ -202,7 +312,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/uae/2026/10/24/inside-harrow-abu-dhabi-school-ahead-of-next-years-opening/",
-      "title": "Inside Harrow Abu Dhabi school ahead of next year's opening",
+      "title": "Harrow Abu Dhabi to open next year as plans for capital's first boarding school take shape",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/uae/2026/10/24/inside-harrow-abu-dhabi-school-ahead-of-next-years-opening/",
       "published": "2026-10-24T02:00:01+00:00",
@@ -399,28 +509,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792802717",
-      "title": "Syrians protest Israel\u2019s incursions near occupied Golan Heights",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss",
-      "published": "2026-10-24T00:50:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "7d1a8e361e897c8e20949255c9bcb485",
       "title": "#Yemeni_army neutralize 620 Houthi militants  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -543,28 +631,6 @@
         "city": null,
         "lat": 29.3117,
         "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e1569034f01ad06c437cba81d6b2ca6c",
-      "title": "#US President Donald Trump hints at imminent operation against Iran  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2113743204663054793",
-      "published": "2026-10-23T21:23:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 95,
       "is_government": true,
