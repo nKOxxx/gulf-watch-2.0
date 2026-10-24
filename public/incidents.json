@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-24T19:27:31.013666+00:00",
-  "total_incidents": 62,
+  "generated_at": "2026-10-24T20:30:29.823654+00:00",
+  "total_incidents": 65,
   "incidents": [
+    {
+      "id": "4d3038f62a8daeff5bf28841ad31f20e",
+      "title": "#GCC Secretary General condemns Houthi terrorist attacks on Saudi Arabia  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114089837137433014",
+      "published": "2026-10-24T20:21:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9e7a041bdd6507f1fb68ea6b63b12cf8",
+      "title": "#Kuwait's \"Sour Mediathon\" concludes with focus on cybersecurity awareness and AI content creation  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114089364317692329",
+      "published": "2026-10-24T20:19:00+00:00",
+      "type": "cyber",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "71134709e3432d80541a1db32a6c2ce7",
+      "title": "Minister of State for Youth and Sports Affairs Tariq Al-Jalahma: #Kuwait is keen on promoting societal sports to encourage diverse segments of the society to practice physical activities and adopt healthy lifestyle  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114088838867890193",
+      "published": "2026-10-24T20:17:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792858814",
+      "title": "Thousands of Israelis rally against Netanyahu gov\u2019t days before election",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+      "published": "2026-10-24T19:11:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "e9aed644db53772457f10710363a2c58",
       "title": "Saudi General Directorate of Civil Defense announced that fragments and interception debris from two ballistic missiles launched by the terrorist Houthi militia fell across several locations within the Makkah and Medina administrative regions  #KUNA",
@@ -25,8 +113,30 @@
       }
     },
     {
+      "id": "b7d9fd78ecc4858b29f31c2e26d62105",
+      "title": ". Abu Dhabi Future Energy Company PJSC \u2013 Masdar has signed an agreement to acquire and develop one of Greece\u2019s largest s...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/De4sKyHtB3g",
+      "published": "2026-10-24T17:40:01+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o#0",
-      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-24T17:21:42+00:00",
@@ -172,28 +282,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792845220",
-      "title": "Hundreds of soldiers deploy as protesters rally in Italy\u2019s Milan",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
-      "published": "2026-10-24T15:05:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -433,28 +521,6 @@
         "city": null,
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "84bd2e9fb71598b1ea77c20003725405",
-      "title": "The Ministry of Foreign Affairs affirms #Kuwait's commitment to the UN Charter and its support for efforts to protect international peace and security and end conflicts through dialogue  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2113934825748897836",
-      "published": "2026-10-24T10:05:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
