@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-10-25T05:31:43.725160+00:00",
-  "total_incidents": 63,
+  "generated_at": "2026-10-25T06:44:52.250890+00:00",
+  "total_incidents": 65,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+      "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+      "published": "2026-10-25T06:24:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.7308,
+        "lng": 36.7094
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
+      "title": "\u2018Gaza\u2019s suffering has become campaign fodder\u2019: Palestinians fear the worst from Israel election",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
+      "published": "2026-10-25T06:00:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/travel/2026/10/25/saudi-arabia-flight-cancellations-which-airlines-are-suspending-services-and-until-when/",
+      "title": "Saudi Arabia flight cancellations: Which airlines are suspending services and until when?",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/travel/2026/10/25/saudi-arabia-flight-cancellations-which-airlines-are-suspending-services-and-until-when/",
+      "published": "2026-10-25T05:56:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791876702",
+      "title": "Election posters, mass tourism and property: Israel\u2019s footprint in Cyprus",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss",
+      "published": "2026-10-25T05:33:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792761502",
+      "title": "Bots, deepfakes and surveillance: Israel\u2019s election goes to war online",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss",
+      "published": "2026-10-25T05:27:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/25/israel-needs-a-dramatic-change-northern-voters-turn-against-netanyahu/",
       "title": "\u2018Israel needs a dramatic change\u2019: Northern voters turn against Netanyahu",
@@ -25,20 +135,20 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/future/technology/2026/10/25/apples-iphone-duo-faces-screen-damage-complaints-as-first-buyers-report-cracks/",
-      "title": "Apple\u2019s iPhone Duo faces screen damage complaints as first buyers report cracks",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/25/apples-iphone-duo-faces-screen-damage-complaints-as-first-buyers-report-cracks/",
-      "published": "2026-10-25T05:04:29+00:00",
+      "id": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o#0",
+      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T05:15:52+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": null,
+        "country": "Israel",
         "city": null,
-        "lat": 29.0,
-        "lng": 48.0
+        "lat": 31.0461,
+        "lng": 34.8516
       },
-      "credibility": 85,
+      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -245,20 +355,20 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792880133",
-      "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
-      "published": "2026-10-25T00:00:00+00:00",
+      "id": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do#0",
+      "title": "The bitter row over military service that could shape Israel's future",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T23:03:21+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Iran",
+        "country": "Israel",
         "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
+        "lat": 31.0461,
+        "lng": 34.8516
       },
-      "credibility": 90,
+      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -462,28 +572,6 @@
         "total": 40,
         "military": 0,
         "civilian": 40
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
-      "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
-      "published": "2026-10-24T13:17:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.7308,
-        "lng": 36.7094
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
       }
     },
     {
@@ -1191,28 +1279,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs",
-      "title": "Revealed: billionaire Reform donor was in business with foundation linked to Iranian regime",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs",
-      "published": "2026-10-22T16:39:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "00b145de3d4f4d16a8ec23fb55943924",
       "title": "\u0625\u0635\u062f\u0627\u0631 \u062a\u0642\u0631\u064a\u0631 \u062d\u0627\u062f\u062b \u0636\u062f \u0645\u062c\u0647\u0648\u0644 Issue an Accident Report Against an Unkown Person #\u062e\u062f\u0645\u0627\u062a\u064a_\u0631\u0642\u0645\u064a\u0629 #MOI_go_digital #\u062e\u062f\u0645\u0627\u062a_\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 #MOI_Services @uaedgov #\u0641\u062e\u0648\u0631\u064a\u0646_\u0628\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \ud83c\udde6\ud83c\uddea \u0644\u0644\u062f\u062e\u0648\u0644 \u0625\u0644\u0649 \u0627\u0644\u062e\u062f\u0645\u0629 \u0628\u0634\u0643\u0644 \u0645\u0628\u0627\u0634\u0631 \u060c \u064a\u0631\u062c\u0649 \u0627\u0644\u0636\u063a\u0637 \u0639\u0644\u0649 \u0627\u0644\u0631\u0627\u0628\u0637 \u0627\u0644\u062a\u0627\u0644\u064a To access the service directly, please click on the following link",
       "source": "UAE MOI (RSS.app)",
@@ -1271,28 +1337,6 @@
         "lng": 48.5164
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/22/iran-threatens-seven-gulf-countries-us-israel-renew-attacks",
-      "title": "Iran threatens to strike oil and AI facilities across Gulf if US and Israel renew attacks",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/22/iran-threatens-seven-gulf-countries-us-israel-renew-attacks",
-      "published": "2026-10-22T15:03:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
