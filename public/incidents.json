@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-25T17:29:17.757994+00:00",
+  "generated_at": "2026-10-25T18:34:22.109337+00:00",
   "total_incidents": 60,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792951091",
+      "title": "Israeli air strike on Gaza City university kills three people",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
+      "published": "2026-10-25T18:12:13+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3e213e6153589adca65fa78d9dec6f75",
+      "title": "#US Central Command (CENTCOM) Commander Admiral Brad Cooper reaffirms #Washington's firm commitment to ensuring freedom of navigation through the Strait of #Hormuz, saying the US continues to stand alongside its Gulf partners and the maritime shipping industry  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114418727374504427",
+      "published": "2026-10-25T18:08:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "11673efa865b8c2de9ea107879fd4bde",
+      "title": "#Kuwait strongly condemns continued terrorist attacks by the Houthi militia against several areas in #Saudi Arabia, including an attempt to target the holy cities of Makkah and Madinah with two ballistic missiles  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114418355197153602",
+      "published": "2026-10-25T18:06:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ffd3e49e278d0c65f57bc7088be50fd7",
+      "title": "Arab League Secretary-General Nabil Fahmi says that the credibility of the international system was increasingly being measured by developments in the #Gaza Strip, warning that the ceasefire remained fragile amid more than 1,500 Palestinians killed since it took effect  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114418018142896202",
+      "published": "2026-10-25T18:05:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792950558",
+      "title": "US and Israel elections: New leaders, same policies?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
+      "published": "2026-10-25T17:53:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792938481",
+      "title": "AI\u2019s \u2018opportunity divide\u2019 could deepen global inequality, UN official warns",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
+      "published": "2026-10-25T17:26:22+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/us/2026/10/25/trump-iran-strike/",
       "title": "Trump has 'a decision to make' on Iran as concerns over renewed strikes deepen",
@@ -47,8 +179,30 @@
       }
     },
     {
+      "id": "https://www.aljazeera.com/?t=1792948292",
+      "title": "Jerusalem Daily: Israel expels thousands from Hebron",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
+      "published": "2026-10-25T17:12:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.aljazeera.com/?t=1792785872",
-      "title": "Trump\u2019s tariff pause angers some US ranchers, boosts Brazil beef imports",
+      "title": "Trump\u2019s tariff pause angers some US ranchers, boosts Brazilian beef imports",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss",
       "published": "2026-10-25T16:42:33+00:00",
@@ -179,28 +333,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792944351",
-      "title": "Israeli soldiers beat elderly Palestinian in Hebron",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss",
-      "published": "2026-10-25T16:11:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "ccb61025066ea9f204659f7ce117bb26",
       "title": "To support corporate liquidity and Dubai\u2019s competitiveness as a global hub for trade and business, Dubai Customs completes 1.36 million customs deposit refund applications in the first half of 2026, a 3.6% increase compared with the same period in 2025. The total value of applications submitted by customers rises to AED 6.9 billion, recording 13.1% growth.",
       "source": "Dubai Media Office (RSS.app)",
@@ -216,28 +348,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792933924",
-      "title": "Seven killed in Gaza as Israel targets university campus and other sites",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
-      "published": "2026-10-25T15:40:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -279,28 +389,6 @@
         "city": null,
         "lat": 32.0853,
         "lng": 34.7818
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792936945",
-      "title": "Thousands mourn victims of deadly Jordan church attack",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/25/thousands-mourn-victims-of-deadly-jordan-church-attack?traffic_source=rss",
-      "published": "2026-10-25T15:21:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Jordan",
-        "city": null,
-        "lat": 30.5852,
-        "lng": 36.2384
       },
       "credibility": 90,
       "is_government": false,
@@ -370,50 +458,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792938638",
-      "title": "Murder in Malaysia\u2019s Beverly Hills | True Crime Reports",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/true-crime-reports/2026/10/25/murder-in-malaysias-beverly-hills-true-crime-reports?traffic_source=rss",
-      "published": "2026-10-25T14:54:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792931637",
-      "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss",
-      "published": "2026-10-25T14:47:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -509,28 +553,6 @@
       }
     },
     {
-      "id": "c29718e3dc2394ee2ebc89cd637c129c",
-      "title": "A delegation from the #GCC Customs Union Authority visits several #Kuwaiti customs ports to assess the implementation of joint customs decisions and projects, as part of field visits to verify member states\u2019 compliance  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2114359565756027288",
-      "published": "2026-10-25T14:12:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/gulf/2026/10/25/saudi-arabia-announces-support-measures-as-electricity-and-water-tariffs-rise/",
       "title": "Saudi Arabia announces support measures as electricity and water tariffs rise",
       "source": "The National UAE",
@@ -546,28 +568,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3d74e45d7f08eeacf9a7b107d3d962ab",
-      "title": "Saudi Civil Defense says a Saudi citizen & an Asian resident were injured by falling debris from two ballistic missiles intercepted & destroyed over the governorates of Khamis Mushait & Ahad Rufaidah.",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2114355672099750038",
-      "published": "2026-10-25T13:57:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
