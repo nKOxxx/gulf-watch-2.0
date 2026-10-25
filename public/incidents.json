@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-25T18:34:22.109337+00:00",
-  "total_incidents": 60,
+  "generated_at": "2026-10-25T19:27:50.517654+00:00",
+  "total_incidents": 55,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race",
+      "title": "Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race",
+      "published": "2026-10-25T19:00:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/25/uae-officials-reject-irans-criticism-of-un-candidate-nusseibeh/",
+      "title": "UAE officials reject Iran's criticism of UN candidate Nusseibeh",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/25/uae-officials-reject-irans-criticism-of-un-candidate-nusseibeh/",
+      "published": "2026-10-25T18:38:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792951091",
       "title": "Israeli air strike on Gaza City university kills three people",
@@ -201,28 +245,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792785872",
-      "title": "Trump\u2019s tariff pause angers some US ranchers, boosts Brazilian beef imports",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss",
-      "published": "2026-10-25T16:42:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2cb430518405eefb4f52f2990220ad91",
       "title": "Minister of Foreign Affairs Sheikh Jarrah Jaber Al-Ahmad Al-Sabah holds a phone call with Jordanian Deputy Prime Minister and Minister of Foreign Affairs and Expatriates Ayman Safadi, reiterating #Kuwait\u2019s condemnation of the terrorist attack on a church in #Jordan\u2019s Karak Governorate  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -238,28 +260,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792945705",
-      "title": "Israel\u2019s \u2018Generation Right\u2019 could shape Netanyahu\u2019s future",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss",
-      "published": "2026-10-25T16:30:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -303,28 +303,6 @@
         "lng": 34.8516
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792944872",
-      "title": "Jordanians mourn victims of deadly church attack",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss",
-      "published": "2026-10-25T16:16:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Jordan",
-        "city": null,
-        "lat": 30.5852,
-        "lng": 36.2384
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -546,28 +524,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/25/saudi-arabia-announces-support-measures-as-electricity-and-water-tariffs-rise/",
-      "title": "Saudi Arabia announces support measures as electricity and water tariffs rise",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/25/saudi-arabia-announces-support-measures-as-electricity-and-water-tariffs-rise/",
-      "published": "2026-10-25T14:06:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -971,28 +927,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
-      "title": "Israel launches collective punishment campaign in Hebron after two soldiers killed",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
-      "published": "2026-10-23T17:22:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=99220",
       "title": "Qatari Barzan unveils aerial drones, unmanned surface vessels at Milipol 2026",
       "source": "Breaking Defense",
@@ -1272,50 +1206,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/uncategorized/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand/",
-      "title": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/land/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand/",
-      "published": "2026-10-22T19:27:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/uncategorized/2026/10/22/denmark-to-buy-kongsberg-covenant-missiles-for-new-long-range-strike-option/",
-      "title": "Denmark to buy Kongsberg, Covenant missiles for new long-range strike option",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/10/22/denmark-to-buy-kongsberg-covenant-missiles-for-new-long-range-strike-option/",
-      "published": "2026-10-22T19:03:40+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
