@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-25T19:27:50.517654+00:00",
-  "total_incidents": 55,
+  "generated_at": "2026-10-25T20:30:45.868599+00:00",
+  "total_incidents": 50,
   "incidents": [
+    {
+      "id": "c77bee4847d9f8a473b9a809040c985c",
+      "title": "Official: Participation in Arab Air Sports Games benefits Kuwait's team  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114444015642833110",
+      "published": "2026-10-25T19:48:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792956481",
+      "title": "Iraqis mark seven years since Tishreen protests with reform demands",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/iraqis-mark-seven-years-since-tishreen-protests-with-reform-demands?traffic_source=rss",
+      "published": "2026-10-25T19:36:05+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race",
       "title": "Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race",
@@ -135,50 +179,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792950558",
-      "title": "US and Israel elections: New leaders, same policies?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
-      "published": "2026-10-25T17:53:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792938481",
-      "title": "AI\u2019s \u2018opportunity divide\u2019 could deepen global inequality, UN official warns",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
-      "published": "2026-10-25T17:26:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/us/2026/10/25/trump-iran-strike/",
       "title": "Trump has 'a decision to make' on Iran as concerns over renewed strikes deepen",
       "source": "The National UAE",
@@ -215,28 +215,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792948292",
-      "title": "Jerusalem Daily: Israel expels thousands from Hebron",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
-      "published": "2026-10-25T17:12:59+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -399,50 +377,6 @@
       }
     },
     {
-      "id": "cb5e7dafb3f2d4fba98a23a4777f35ad",
-      "title": "Gulf Cooperation Council (GCC) Chief Jasem Al-Budaiwi says that #GCC member states look towards \"long-term\" investment partnerships in a bid to serve the joint interests within the Riyadh-based bloc  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2114372089754841534",
-      "published": "2026-10-25T15:02:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a42604307aaf44e1016c0c95d83a93a8",
-      "title": "Innovartism founder Manal Al-Gharabally says the initiative is an integrated ecosystem launched in #Kuwait to support neurodivergent creatives and empower them artistically, professionally and economically  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2114370830641602836",
-      "published": "2026-10-25T14:57:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3941728d82f0b2393a7572ec142bcb30",
       "title": "#\u0644\u0627_\u062a\u0633\u0647\u0644\u0647\u0627_\u0639\u0644\u064a\u0647\u0645 #\u0634\u0647\u0631_\u0627\u0644\u062a\u0648\u0639\u064a\u0629_\u0628\u0627\u0644\u0623\u0645\u0646_\u0627\u0644\u0633\u064a\u0628\u0631\u0627\u0646\u064a #DontMakeItEasyForThem #CybersecurityAwarenessMonth",
       "source": "Bahrain MOI (RSS.app)",
@@ -477,50 +411,6 @@
         "city": null,
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/25/two-uae-convoys-carrying-260-tonnes-of-aid-arrive-in-gaza/",
-      "title": "Two UAE convoys carrying 260 tonnes of aid arrive in Gaza",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/25/two-uae-convoys-carrying-260-tonnes-of-aid-arrive-in-gaza/",
-      "published": "2026-10-25T14:26:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ec00f9e2544917bb0fec77669952983e",
-      "title": "Minister of State for Economic Affairs and Investment and Acting Minister of Commerce and Industry Abdulaziz Al-Marzouq stresses the importance of focusing on investment quality and its economic and developmental impact  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2114360267333079052",
-      "published": "2026-10-25T14:15:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 95,
       "is_government": true,
