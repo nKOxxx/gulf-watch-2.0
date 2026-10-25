@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T01:06:22.469138+00:00",
-  "total_incidents": 65,
+  "generated_at": "2026-10-25T01:41:04.602183+00:00",
+  "total_incidents": 64,
   "incidents": [
     {
       "id": "https://www.aljazeera.com/?t=1792880133",
@@ -1401,28 +1401,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o#0",
-      "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T01:07:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
       },
       "credibility": 95,
       "is_government": false,
