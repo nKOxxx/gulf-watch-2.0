@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-25T21:30:02.808941+00:00",
+  "generated_at": "2026-10-25T22:28:28.391998+00:00",
   "total_incidents": 49,
   "incidents": [
+    {
+      "id": "baf4459b53ea1c24bccb7cb6a70b04d3",
+      "title": "Bahrain vehemently deplores Houthi terrorist attacks on Saudi Arabia  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114480241624174748",
+      "published": "2026-10-25T22:12:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo#0",
+      "title": "Deeply divided Israel braces for pivotal election",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T22:11:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "c77bee4847d9f8a473b9a809040c985c",
       "title": "Official: Participation in Arab Air Sports Games benefits Kuwait's team  #KUNA #KUWAIT",
@@ -213,28 +257,6 @@
         "city": null,
         "lat": 31.9454,
         "lng": 35.9284
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ee950eb2c894b2588e4dedb8dac53b2d",
-      "title": "Minister of Oil and #Kuwait Petroleum Corporation (KPC) Board Chairman Tariq Al-Roumi discusses with the ambassadors of #Kyrgyzstan and #Tajikistan to Kuwait ways to strengthen bilateral relations, expand cooperation and enhance coordination  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2114392788984844798",
-      "published": "2026-10-25T16:24:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
@@ -677,28 +699,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o#1",
-      "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24T07:36:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
