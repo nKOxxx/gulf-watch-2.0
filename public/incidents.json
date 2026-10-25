@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-10-25T13:29:48.856589+00:00",
-  "total_incidents": 59,
+  "generated_at": "2026-10-25T14:30:25.345583+00:00",
+  "total_incidents": 61,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/25/two-uae-convoys-carrying-260-tonnes-of-aid-arrive-in-gaza/",
+      "title": "Two UAE convoys carrying 260 tonnes of aid arrive in Gaza",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/25/two-uae-convoys-carrying-260-tonnes-of-aid-arrive-in-gaza/",
+      "published": "2026-10-25T14:26:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ec00f9e2544917bb0fec77669952983e",
+      "title": "Minister of State for Economic Affairs and Investment and Acting Minister of Commerce and Industry Abdulaziz Al-Marzouq stresses the importance of focusing on investment quality and its economic and developmental impact  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114360267333079052",
+      "published": "2026-10-25T14:15:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c29718e3dc2394ee2ebc89cd637c129c",
+      "title": "A delegation from the #GCC Customs Union Authority visits several #Kuwaiti customs ports to assess the implementation of joint customs decisions and projects, as part of field visits to verify member states\u2019 compliance  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114359565756027288",
+      "published": "2026-10-25T14:12:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/25/saudi-arabia-announces-support-measures-as-electricity-and-water-tariffs-rise/",
+      "title": "Saudi Arabia announces support measures as electricity and water tariffs rise",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/25/saudi-arabia-announces-support-measures-as-electricity-and-water-tariffs-rise/",
+      "published": "2026-10-25T14:06:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3d74e45d7f08eeacf9a7b107d3d962ab",
+      "title": "Saudi Civil Defense says a Saudi citizen & an Asian resident were injured by falling debris from two ballistic missiles intercepted & destroyed over the governorates of Khamis Mushait & Ahad Rufaidah.",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114355672099750038",
+      "published": "2026-10-25T13:57:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792924179",
+      "title": "Saudi air defences intercept Houthi barrage near Mecca",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss",
+      "published": "2026-10-25T13:49:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 21.3891,
+        "lng": 39.8579
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792505711",
+      "title": "Gaza\u2019s visually and hearing-impaired children miss school due to Israel war",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss",
+      "published": "2026-10-25T13:46:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792930468",
+      "title": "Portuguese police clear Lisbon housing protest camp, arrest 25",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss",
+      "published": "2026-10-25T13:29:56+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/25/yemeni-forces-intercept-houthi-weapons-being-smuggled-from-coast/",
       "title": "Yemeni forces intercept Houthi weapons being smuggled from coast",
@@ -40,6 +216,28 @@
       },
       "credibility": 85,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a72ea6dba448ae88974b3e59978c584a",
+      "title": "The International Security Alliance (ISA) has concluded a specialized training programme organised by the UAE in coopera...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/De6xZQktVZ3",
+      "published": "2026-10-25T13:04:08+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -135,28 +333,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792919882",
-      "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss",
-      "published": "2026-10-25T11:39:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "88528289459f1853d9ec30347b7376fd",
       "title": "Two UAE humanitarian aid convoys comprising 10 trucks carrying 260 tonnes of food supplies entered the Gaza Strip this w...",
       "source": "WAM News (RSS.app)",
@@ -216,50 +392,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792920870",
-      "title": "Iran\u2019s authorities take \u2018self-sacrifice\u2019 mobilisation campaign nationwide",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss",
-      "published": "2026-10-25T10:50:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792919764",
-      "title": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss",
-      "published": "2026-10-25T10:42:51+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -333,28 +465,6 @@
       }
     },
     {
-      "id": "00f769e574fbd8429333303e077ffd6a",
-      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u0646\u0637\u0642\u0629 \u062c\u0627\u0632\u0627\u0646\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (998). Alert: The danger has passed in Jazan Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2114298346705732090",
-      "published": "2026-10-25T10:09:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "fcca387c8ca886d710919070982d6e6b",
       "title": "\u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (31) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 @GDM_MOI #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
       "source": "Saudi MOI (RSS.app)",
@@ -377,28 +487,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/25/funeral-to-be-held-for-victims-of-jordan-church-attack/",
-      "title": "Hundreds gather at funeral of Jordan church attack victims",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/25/funeral-to-be-held-for-victims-of-jordan-church-attack/",
-      "published": "2026-10-25T09:52:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Jordan",
-        "city": null,
-        "lat": 30.5852,
-        "lng": 36.2384
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "308a008646328ea81e8a33ee8af4a7a2",
       "title": "#NATO Regional Centre in #Kuwait stresses the importance of strengthening media & institutional communication skills & improving Gulf personnel's ability to engage with the media, particularly during crises & emergencies.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -411,28 +499,6 @@
         "city": null,
         "lat": 24.5247,
         "lng": 39.5692
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "6ab139c1f31006f1f2d9db086d471faa",
-      "title": "#US military veteran: The Desert Shield & Desert Storm Memorial embodies an \"exceptional chapter\" in modern military history & commemorates the sacrifices of troops from more than 30 countries who liberated #Kuwait in 1991.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2114270941849014599",
-      "published": "2026-10-25T08:20:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
       },
       "credibility": 95,
       "is_government": true,
@@ -1272,28 +1338,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro#0",
-      "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22T13:46:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 95,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
