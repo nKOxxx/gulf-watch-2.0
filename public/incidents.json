@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-24T23:28:34.850474+00:00",
-  "total_incidents": 66,
+  "generated_at": "2026-10-25T01:06:22.469138+00:00",
+  "total_incidents": 65,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792880133",
+      "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
+      "published": "2026-10-25T00:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o#0",
       "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
@@ -125,50 +147,6 @@
         "city": null,
         "lat": 12.7855,
         "lng": 45.0187
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792871832",
-      "title": "Severe hunger stalks people in Gaza as bakeries close down",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss",
-      "published": "2026-10-24T20:52:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792872905",
-      "title": "Could Israel\u2019s military crackdown influence Tuesday\u2019s election?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
-      "published": "2026-10-24T20:37:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
