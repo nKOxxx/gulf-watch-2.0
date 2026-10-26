@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-26T09:46:36.595522+00:00",
-  "total_incidents": 54,
+  "generated_at": "2026-10-26T10:35:56.296824+00:00",
+  "total_incidents": 50,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
+      "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
+      "published": "2026-10-26T09:59:27+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/26/astronomical-arab-turnout-could-reshape-israeli-politics-in-key-election/",
+      "title": "\u2018Astronomical\u2019 Arab turnout could reshape Israeli politics in key election",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/26/astronomical-arab-turnout-could-reshape-israeli-politics-in-key-election/",
+      "published": "2026-10-26T09:58:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "908a4b36e255bb05286d3bdca6a22a87",
+      "title": "The UAE Food Bank and the Community Development Authority in Dubai sign a Memorandum of Understanding to reduce food wastage and maximise the use of surplus food through the \u2018Dubai Weddings\u2019 initiative. The agreement establishes a framework for collecting and redistributing surplus food that is safe for consumption to eligible beneficiaries, extending the initiative's community impact while promoting food sustainability and social responsibility, in supports of the objectives of the Dubai Social Agenda 33. @UAE_foodbank | @CDA_Dubai",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2114657813746401387",
+      "published": "2026-10-26T09:58:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/europe/2026/10/26/europes-top-five-defence-powers-to-name-russia-as-greatest-threat/",
+      "title": "Europe\u2019s top five defence powers to name Russia as greatest threat",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/26/europes-top-five-defence-powers-to-name-russia-as-greatest-threat/",
+      "published": "2026-10-26T09:55:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793000485",
+      "title": "Saudi Arabia confirms January start for Asian Cup 2027 despite attacks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/10/26/saudi-arabia-confirms-january-start-for-asian-cup-2027-despite-attacks?traffic_source=rss",
+      "published": "2026-10-26T09:52:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792933990",
+      "title": "Algeria\u2019s military deployment to Niger: What\u2019s behind the move?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move?traffic_source=rss",
+      "published": "2026-10-26T09:52:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/gulf/2026/10/26/fighting-intensifies-as-houthis-and-saudi-led-coalition-in-yemen-report-attacks/",
       "title": "Fighting intensifies as Houthis and Saudi-led coalition in Yemen report attacks",
@@ -125,116 +257,6 @@
         "city": null,
         "lat": 31.5017,
         "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/2026/10/26/sport-quiz-of-the-week-october-26-2026/",
-      "title": "Sport quiz of the week: October 26, 2026",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/2026/10/26/sport-quiz-of-the-week-october-26-2026/",
-      "published": "2026-10-26T08:20:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/26/dubai-announces-lane-closures-on-emirates-road-from-monday-to-allow-for-self-driving-taxi-tests/",
-      "title": "Dubai announces lane closures on Emirates Road from Monday to clear the way for self-driving taxi tests",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/26/dubai-announces-lane-closures-on-emirates-road-from-monday-to-allow-for-self-driving-taxi-tests/",
-      "published": "2026-10-26T07:48:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792995335",
-      "title": "Officials from Mecca pact states to hold talks in Iran amid regional tensions",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions?traffic_source=rss",
-      "published": "2026-10-26T07:33:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 21.3891,
-        "lng": 39.8579
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792993623",
-      "title": "Photos: Lula supporters flood streets in celebration of historic win",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/gallery/2026/10/26/photos-lula-supporters-flood-streets-in-celebration-of-historic-win?traffic_source=rss",
-      "published": "2026-10-26T07:24:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792845082",
-      "title": "Israel\u2019s election: The main issues in the words of the leading candidates",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/26/israels-election-the-main-issues-in-the-words-of-the-leading-candidates?traffic_source=rss",
-      "published": "2026-10-26T07:03:43+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -531,50 +553,6 @@
       }
     },
     {
-      "id": "ffd3e49e278d0c65f57bc7088be50fd7",
-      "title": "Arab League Secretary-General Nabil Fahmi says that the credibility of the international system was increasingly being measured by developments in the #Gaza Strip, warning that the ceasefire remained fragile amid more than 1,500 Palestinians killed since it took effect  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2114418018142896202",
-      "published": "2026-10-25T18:05:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2cb430518405eefb4f52f2990220ad91",
-      "title": "Minister of Foreign Affairs Sheikh Jarrah Jaber Al-Ahmad Al-Sabah holds a phone call with Jordanian Deputy Prime Minister and Minister of Foreign Affairs and Expatriates Ayman Safadi, reiterating #Kuwait\u2019s condemnation of the terrorist attack on a church in #Jordan\u2019s Karak Governorate  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2114396654593802411",
-      "published": "2026-10-25T16:40:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Jordan",
-        "city": null,
-        "lat": 31.9454,
-        "lng": 35.9284
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "ccb61025066ea9f204659f7ce117bb26",
       "title": "To support corporate liquidity and Dubai\u2019s competitiveness as a global hub for trade and business, Dubai Customs completes 1.36 million customs deposit refund applications in the first half of 2026, a 3.6% increase compared with the same period in 2025. The total value of applications submitted by customers rises to AED 6.9 billion, recording 13.1% growth.",
       "source": "Dubai Media Office (RSS.app)",
@@ -663,28 +641,6 @@
       }
     },
     {
-      "id": "9d3e2e4b08d256e41f69dcf8a79d81ee",
-      "title": "Dubai Environment and Climate Change Authority Five key initiatives under the Dubai Food Security Strategy 2030 1. Support sustainable local agricultural production 2. Strengthen resilient food supply chains 3. Encourage healthy, sustainable food consumption 4. Enhance governance, regulation, and economic support for integrated food systems 5. Create a food ecosystem capable of adapting to market fluctuations",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2114364744182247855",
-      "published": "2026-10-25T14:33:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "a72ea6dba448ae88974b3e59978c584a",
       "title": "The International Security Alliance (ISA) has concluded a specialized training programme organised by the UAE in coopera...",
       "source": "WAM News (RSS.app)",
@@ -744,28 +700,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
-      "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
-      "published": "2026-10-25T06:24:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.7308,
-        "lng": 36.7094
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1162,28 +1096,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "99f33a8e9a8ceab65896c60c86d5b707",
-      "title": "\u0627\u0644\u0627\u062a\u0635\u0627\u0644 \u0628\u0631\u0642\u0645 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 When do we call the emergency number (999) #\u0639\u0627\u0635\u0645\u0629_\u0623\u0643\u062b\u0631_\u0623\u0645\u0627\u0646\u0627\u064b_\u0648\u0633\u0644\u0627\u0645\u0629 #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a_\u0623\u0628\u0648\u0638\u0628\u064a",
-      "source": "Abu Dhabi Civil Defence (RSS.app)",
-      "source_url": "https://x.com/CivilDefenceAD/status/2113570200952111135",
-      "published": "2026-10-23T09:56:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
