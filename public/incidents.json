@@ -1,13 +1,79 @@
 {
-  "generated_at": "2026-10-26T17:31:57.894137+00:00",
-  "total_incidents": 49,
+  "generated_at": "2026-10-26T18:47:27.599733+00:00",
+  "total_incidents": 44,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1793028151",
-      "title": "Russian attacks on Ukraine\u2019s energy infrastructure a war crime: UN",
+      "id": "https://breakingdefense.com/?p=99363",
+      "title": "Helsing rolls out Contra air defense design, plus two new inteceptors",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/helsing-rolls-out-contra-air-defense-design-plus-two-new-inteceptors/",
+      "published": "2026-10-26T18:39:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=99353",
+      "title": "Cyprus to acquire new offshore patrol vessel with \u2018advanced\u2019 naval systems from Israel",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/cyprus-to-acquire-new-offshore-patrol-vessel-with-advanced-naval-systems-from-israel/",
+      "published": "2026-10-26T18:11:59+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793037459",
+      "title": "Could the midterms change America\u2019s military support for Israel?",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/26/russian-attacks-on-ukraines-energy-infrastructure-a-war-crime-un?traffic_source=rss",
-      "published": "2026-10-26T17:27:34+00:00",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
+      "published": "2026-10-26T18:05:12+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793029705",
+      "title": "Algeria\u2019s president orders troop deployment to neighbouring Niger",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/26/algerias-president-orders-troop-deployment-to-neighbouring-niger?traffic_source=rss",
+      "published": "2026-10-26T17:55:47+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -25,18 +91,18 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793033598",
-      "title": "Delegations arrive in Tehran for security talks",
+      "id": "https://www.aljazeera.com/?t=1793028151",
+      "title": "Russian attacks on Ukraine\u2019s energy infrastructure a war crime: UN",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/delegations-arrive-in-tehran-for-security-talks?traffic_source=rss",
-      "published": "2026-10-26T16:55:19+00:00",
+      "source_url": "https://www.aljazeera.com/news/2026/10/26/russian-attacks-on-ukraines-energy-infrastructure-a-war-crime-un?traffic_source=rss",
+      "published": "2026-10-26T17:27:34+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Iran",
+        "country": null,
         "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -69,50 +135,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793025170",
-      "title": "Anthropic\u2019s IPO filing shows explosive growth, risks and staggering costs",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/10/26/anthropics-ipo-filing-shows-explosive-growth-risks-and-staggering-costs?traffic_source=rss",
-      "published": "2026-10-26T16:53:51+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793033184",
-      "title": "\u2018Enough is enough\u2019: Palestinians and Israelis share views ahead of election",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/enough-is-enough-palestinians-and-israelis-share-views-ahead-of-election?traffic_source=rss",
-      "published": "2026-10-26T16:51:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/?p=87018",
       "title": "BCE Consulting outlines the critical elements of layered air defense architecture",
       "source": "Defense News",
@@ -125,28 +147,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793032673",
-      "title": "Guterres warns of \u2018unimaginable\u2019 consequences of Iran-Gulf escalation",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/guterres-warns-iran-gulf-escalation-west-bank?traffic_source=rss",
-      "published": "2026-10-26T16:39:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
@@ -193,50 +193,6 @@
         "lng": 53.8478
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793023246",
-      "title": "\u2018Everything destroyed\u2019: Hebron businesses count cost of Israeli assault",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/10/26/everything-destroyed-hebron-businesses-count-cost-of-israeli-assault?traffic_source=rss",
-      "published": "2026-10-26T16:24:24+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793030834",
-      "title": "Jerusalem Daily: Last minute efforts by Israeli politicians before election",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jerusalem-daily-last-minute-efforts-by-israeli-politicians-before-election?traffic_source=rss",
-      "published": "2026-10-26T16:12:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -304,28 +260,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/26/uae-has-opportunity-to-reinvent-itself-as-exporter-of-intelligence-rather-than-energy-says-g42-chief/",
-      "title": "UAE has opportunity to reinvent itself as exporter of intelligence rather than energy, says G42 chief",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/26/uae-has-opportunity-to-reinvent-itself-as-exporter-of-intelligence-rather-than-energy-says-g42-chief/",
-      "published": "2026-10-26T15:11:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -668,28 +602,6 @@
       "source": "KUNA Kuwait (RSS.app)",
       "source_url": "https://x.com/kuna_en/status/2114690765846728758",
       "published": "2026-10-26T12:09:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "708a690b81275af38d2a2890a66ac2d0",
-      "title": "His Highness the Crown Prince receives Audit Bureau President Esam Al-Roumi, who presented His Highness with the annual report on the examination & audit of budgets & final accounts of entities under its oversight for fiscal year 2025/26  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2114690042329284828",
-      "published": "2026-10-26T12:06:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
@@ -1052,28 +964,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "718cf2837a3ecbc69e7e18e600f486c5",
-      "title": "\u062d\u0636\u0631 \u0645\u0639\u0627\u0644\u064a \u0627\u0644\u0641\u0631\u064a\u0642 \u0639\u064a\u0633\u0649 \u0633\u064a\u0641 \u0628\u0646 \u0639\u0628\u0644\u0627\u0646 \u0627\u0644\u0645\u0632\u0631\u0648\u0639\u064a\u060c \u0631\u0626\u064a\u0633 \u0623\u0631\u0643\u0627\u0646 \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0645\u0633\u0644\u062d\u0629\u060c \u0627\u062c\u062a\u0645\u0627\u0639 \u0645\u062c\u0645\u0648\u0639\u0629 \"\u062f\u0631\u0627\u062c\u0648\u0646 10\" \u0627\u0644\u0630\u064a \u0639\u064f\u0642\u062f \u0641\u064a \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629\u060c \u0628\u0645\u0634\u0627\u0631\u0643\u0629 \u0639\u062f\u062f \u0645\u0646 \u0643\u0628\u0627\u0631 \u0627\u0644\u0642\u0627\u062f\u0629 \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u064a\u0646 \u0648\u0645\u0645\u062b\u0644\u064a \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629 \u0645\u0646 \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629\u060c \u0648\u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629\u060c \u0648\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0628\u062d\u0631\u064a\u0646\u060c \u0648\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629\u060c \u0648\u0633\u0644\u0637\u0646\u0629 \u0639\u064f\u0645\u0627\u0646\u060c \u0648\u062f\u0648\u0644\u0629 \u0642\u0637\u0631\u060c \u0648\u062f\u0648\u0644\u0629 \u0627\u0644\u0643\u0648\u064a\u062a\u060c \u0648\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0645\u0635\u0631 \u0627\u0644\u0639\u0631\u0628\u064a\u0629\u060c \u0648\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0623\u0631\u062f\u0646\u064a\u0629 \u0627\u0644\u0647\u0627\u0634\u0645\u064a\u0629\u060c \u0648\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642\u060c \u0648\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a\u0629. \u0648\u062c\u0631\u0649 \u062e\u0644\u0627\u0644 \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639 \u062a\u0628\u0627\u062f\u0644 \u0648\u062c\u0647\u0627\u062a \u0627\u0644\u0646\u0638\u0631 \u062d\u0648\u0644 \u0623\u0628\u0631\u0632 \u0627\u0644\u062a\u062d\u062f\u064a\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u0648\u0627\u062c\u0647 \u0627\u0644\u0645\u0646\u0637\u0642\u0629\u060c \u0648\u0645\u0646\u0627\u0642\u0634\u0629 \u0627\u0644\u0645\u0633\u062a\u062c\u062f\u0627\u062a \u0627\u0644\u0625\u0642\u0644\u064a\u0645\u064a\u0629 \u0648\u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0630\u0627\u062a \u0627\u0644\u0627\u0647\u062a\u0645\u0627\u0645 \u0627\u0644\u0645\u0634\u062a\u0631\u0643. His Excellency Lieutenant General Issa Saif bin Ablan Al Mazrouei, Chief of Staff of the Armed Forces, attended the tenth Dragon Group meeting held in the U",
-      "source": "UAE MOD (RSS.app)",
-      "source_url": "https://x.com/modgovae/status/2113702836823642404",
-      "published": "2026-10-23T18:43:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
