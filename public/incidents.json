@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-26T05:36:02.848832+00:00",
-  "total_incidents": 52,
+  "generated_at": "2026-10-26T07:02:46.413606+00:00",
+  "total_incidents": 50,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes",
+      "title": "\u2018It\u2019s collective punishment\u2019: nearly 2,000 Palestinians in Hebron displaced as Israeli forces take over homes",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes",
+      "published": "2026-10-26T07:00:25+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.7308,
+        "lng": 36.7094
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/26/saudi-coalition-strikes-sanaa-jordan-arrests-church-attack-suspects-and-iphone-duo-buyers-complain/",
+      "title": "Saudi coalition strikes Sanaa, Jordan arrests church attack suspects and iPhone Duo buyers complain",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/26/saudi-coalition-strikes-sanaa-jordan-arrests-church-attack-suspects-and-iphone-duo-buyers-complain/",
+      "published": "2026-10-26T06:23:13+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Yemen",
+        "city": null,
+        "lat": 15.3694,
+        "lng": 44.191
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/economy/2026/10/26/iraqs-biggest-ever-budget-for-2027-built-for-boom-times-amid-economic-bust/",
+      "title": "Iraq's biggest ever budget for 2027 built for boom times amid economic bust",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/26/iraqs-biggest-ever-budget-for-2027-built-for-boom-times-amid-economic-bust/",
+      "published": "2026-10-26T05:49:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1791439268",
       "title": "Israel\u2019s election: Five key things to know",
@@ -127,72 +193,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792978342",
-      "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
-      "published": "2026-10-26T04:05:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/26/live-saudi-arabia-yemen-houthi-missiles/",
-      "title": "Middle East latest: Saudi Arabia hits Houthi ballistic missiles and tunnels in strikes on Yemen",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/26/live-saudi-arabia-yemen-houthi-missiles/",
-      "published": "2026-10-26T03:57:04+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/26/gazans-want-netanyahu-gone-but-expect-no-new-beginning-from-knesset-vote/",
-      "title": "Gazans want Netanyahu gone but expect no 'new beginning' from Knesset vote",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/26/gazans-want-netanyahu-gone-but-expect-no-new-beginning-from-knesset-vote/",
-      "published": "2026-10-26T03:11:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -685,28 +685,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
-      "title": "\u2018Gaza\u2019s suffering has become campaign fodder\u2019: Palestinians fear the worst from Israel election",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
-      "published": "2026-10-25T06:00:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o#0",
       "title": "Israel to close West Bank crossings on election day as crackdown escalates",
       "source": "BBC Middle East",
@@ -792,28 +770,6 @@
         "total": 0,
         "military": 0,
         "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
-      "title": "Nine killed and 40 injured after gunmen open fire at church funeral in Jordan",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
-      "published": "2026-10-24T14:24:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Jordan",
-        "city": null,
-        "lat": 30.5852,
-        "lng": 36.2384
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 40,
-        "military": 0,
-        "civilian": 40
       }
     },
     {
