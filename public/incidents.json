@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-26T02:45:32.426175+00:00",
-  "total_incidents": 54,
+  "generated_at": "2026-10-26T03:42:32.118617+00:00",
+  "total_incidents": 52,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/26/gazans-want-netanyahu-gone-but-expect-no-new-beginning-from-knesset-vote/",
+      "title": "Gazans want Netanyahu gone but expect no 'new beginning' from Knesset vote",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/26/gazans-want-netanyahu-gone-but-expect-no-new-beginning-from-knesset-vote/",
+      "published": "2026-10-26T03:11:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/banking/2026/10/26/hsbc-not-worried-about-gulf-property-sector-exposure-despite-war-volatility-ceo-says/",
+      "title": "HSBC not worried about Gulf property sector exposure despite war volatility, CEO says",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/banking/2026/10/26/hsbc-not-worried-about-gulf-property-sector-exposure-despite-war-volatility-ceo-says/",
+      "published": "2026-10-26T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792976086",
       "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
@@ -311,50 +355,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/25/trump-iran-strike/",
-      "title": "Trump has 'a decision to make' on Iran as concerns over renewed strikes deepen",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/25/trump-iran-strike/",
-      "published": "2026-10-25T17:20:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/football/2026/10/25/man-united-v-bournemouth-ratings-disaster-at-old-trafford-as-tielemans-and-dalot-struggle/",
-      "title": "Man United v Bournemouth ratings: Disaster at Old Trafford as Tielemans and Dalot struggle",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/25/man-united-v-bournemouth-ratings-disaster-at-old-trafford-as-tielemans-and-dalot-struggle/",
-      "published": "2026-10-25T17:17:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "2cb430518405eefb4f52f2990220ad91",
       "title": "Minister of Foreign Affairs Sheikh Jarrah Jaber Al-Ahmad Al-Sabah holds a phone call with Jordanian Deputy Prime Minister and Minister of Foreign Affairs and Expatriates Ayman Safadi, reiterating #Kuwait\u2019s condemnation of the terrorist attack on a church in #Jordan\u2019s Karak Governorate  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -377,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/24/druze-leader-walid-joumblatt-believes-israel-plans-to-remain-in-southern-lebanon/",
-      "title": "Druze leader Walid Joumblatt believes Israel will 'never leave' southern Lebanon",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/24/druze-leader-walid-joumblatt-believes-israel-plans-to-remain-in-southern-lebanon/",
-      "published": "2026-10-25T16:20:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "ccb61025066ea9f204659f7ce117bb26",
       "title": "To support corporate liquidity and Dubai\u2019s competitiveness as a global hub for trade and business, Dubai Customs completes 1.36 million customs deposit refund applications in the first half of 2026, a 3.6% increase compared with the same period in 2025. The total value of applications submitted by customers rises to AED 6.9 billion, recording 13.1% growth.",
       "source": "Dubai Media Office (RSS.app)",
@@ -414,28 +392,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/25/dubai-food-security-strategy/",
-      "title": "Dubai to boost local produce and reduce waste in new food security strategy",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/25/dubai-food-security-strategy/",
-      "published": "2026-10-25T15:35:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
