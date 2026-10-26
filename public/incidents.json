@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-26T03:42:32.118617+00:00",
+  "generated_at": "2026-10-26T04:40:14.115439+00:00",
   "total_incidents": 52,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/26/jordan-arrests-three-over-deadly-karak-church-attack/",
+      "title": "Jordan arrests three over deadly Karak church attack",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/26/jordan-arrests-three-over-deadly-karak-church-attack/",
+      "published": "2026-10-26T04:30:57+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Jordan",
+        "city": null,
+        "lat": 30.5852,
+        "lng": 36.2384
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792978342",
+      "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+      "published": "2026-10-26T04:05:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/26/live-saudi-arabia-yemen-houthi-missiles/",
+      "title": "Middle East latest: Saudi Arabia hits Houthi ballistic missiles and tunnels in strikes on Yemen",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/26/live-saudi-arabia-yemen-houthi-missiles/",
+      "published": "2026-10-26T03:57:04+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/26/gazans-want-netanyahu-gone-but-expect-no-new-beginning-from-knesset-vote/",
       "title": "Gazans want Netanyahu gone but expect no 'new beginning' from Knesset vote",
@@ -135,50 +201,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1792972426",
-      "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
-      "published": "2026-10-26T00:02:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792969574",
-      "title": "Iran war live: Trump rules out strikes \u2018today\u2019; missile downed near Riyadh",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
-      "published": "2026-10-26T00:00:00+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "baf4459b53ea1c24bccb7cb6a70b04d3",
       "title": "Bahrain vehemently deplores Houthi terrorist attacks on Saudi Arabia  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -259,28 +281,6 @@
         "lng": 34.4668
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/25/uae-officials-reject-irans-criticism-of-un-candidate-nusseibeh/",
-      "title": "UAE officials reject Iran's criticism of UN candidate Nusseibeh",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/25/uae-officials-reject-irans-criticism-of-un-candidate-nusseibeh/",
-      "published": "2026-10-25T18:38:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
