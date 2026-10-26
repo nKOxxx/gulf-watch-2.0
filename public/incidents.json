@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-26T04:40:14.115439+00:00",
+  "generated_at": "2026-10-26T05:36:02.848832+00:00",
   "total_incidents": 52,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1791439268",
+      "title": "Israel\u2019s election: Five key things to know",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
+      "published": "2026-10-26T05:16:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c3062a6c3ae141557937840f9b1db4fd",
+      "title": "Saudi Defense Minister Khalid bin Salman, Pakistani army chief General Asim Munir and Turkish intelligence chief Ibrahim Kalin will take part in a joint meeting in Tehran, a senior SNSC official said.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2114586450863747128",
+      "published": "2026-10-26T05:14:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/global-development/2026/oct/26/zeinab-faraj-journalist-surviving-israel-drone-attack",
+      "title": "I saw a drone suddenly descend towards me. My heart started pounding and I thought, \u2018Is this the end of my life?\u2019",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/global-development/2026/oct/26/zeinab-faraj-journalist-surviving-israel-drone-attack",
+      "published": "2026-10-26T05:00:22+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/26/queen-rania-attends-funeral-of-victims-killed-in-jordan-church-attack/",
+      "title": "Queen Rania attends funeral for victims of Jordan church attack",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/26/queen-rania-attends-funeral-of-victims-killed-in-jordan-church-attack/",
+      "published": "2026-10-26T04:52:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Jordan",
+        "city": null,
+        "lat": 30.5852,
+        "lng": 36.2384
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/26/jordan-arrests-three-over-deadly-karak-church-attack/",
       "title": "Jordan arrests three over deadly Karak church attack",
@@ -17,6 +105,28 @@
         "lng": 36.2384
       },
       "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792976429",
+      "title": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss",
+      "published": "2026-10-26T04:21:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -83,50 +193,6 @@
         "lng": 34.4668
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/banking/2026/10/26/hsbc-not-worried-about-gulf-property-sector-exposure-despite-war-volatility-ceo-says/",
-      "title": "HSBC not worried about Gulf property sector exposure despite war volatility, CEO says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/banking/2026/10/26/hsbc-not-worried-about-gulf-property-sector-exposure-despite-war-volatility-ceo-says/",
-      "published": "2026-10-26T03:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792976086",
-      "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
-      "published": "2026-10-26T01:02:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -751,50 +817,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
-      "title": "No unions, low taxes: why some of Britain\u2019s top chefs are opening outposts in Gulf states",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
-      "published": "2026-10-24T11:00:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
-      "title": "As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
-      "published": "2026-10-24T05:00:24+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=99260",
       "title": "Space Force reveals first 6 \u2018operational\u2019 contracts for civil reserve support in space monitoring",
       "source": "Breaking Defense",
@@ -1117,28 +1139,6 @@
         "lng": 48.0
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e408f896b3a6b9e0c7c2fe8cfbdaaf42",
-      "title": "At 07:15, a report was received at MDA\u2019s 101 Emergency Call Center in the Negev region of two casualties following a shooting attack near the Yehuda Junction. Initial report only!!! MDA EMTs and paramedics are providing medical treatment at the scene to two casualties, including one who is unconscious and one in mild condition.",
-      "source": "Magen David Adom (RSS.app)",
-      "source_url": "https://x.com/Mdais/status/2113493726639145169",
-      "published": "2026-10-23T04:52:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
