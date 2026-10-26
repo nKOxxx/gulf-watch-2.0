@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-10-26T15:45:45.773256+00:00",
-  "total_incidents": 48,
+  "generated_at": "2026-10-26T16:37:27.005977+00:00",
+  "total_incidents": 49,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/26/uae-aid-agency-announces-3-million-in-support-for-those-returning-to-afghanistan/",
+      "title": "UAE Aid Agency announces $3 million in support for those returning to Afghanistan",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/26/uae-aid-agency-announces-3-million-in-support-for-those-returning-to-afghanistan/",
+      "published": "2026-10-26T16:29:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793023246",
+      "title": "\u2018Everything destroyed\u2019: Hebron businesses count cost of Israeli assault",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/10/26/everything-destroyed-hebron-businesses-count-cost-of-israeli-assault?traffic_source=rss",
+      "published": "2026-10-26T16:24:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793030834",
+      "title": "Jerusalem Daily: Last minute efforts by Israeli politicians before election",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jerusalem-daily-last-minute-efforts-by-israeli-politicians-before-election?traffic_source=rss",
+      "published": "2026-10-26T16:12:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/26/gaza-ceasefire-genocide-un/",
+      "title": "Gaza ceasefire has not stopped Israeli 'genocidal acts', UN commission says",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/26/gaza-ceasefire-genocide-un/",
+      "published": "2026-10-26T16:00:53+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/26/iraqi-prime-minister-meets-jordans-king-and-pm-to-discuss-bilateral-ties/",
+      "title": "Iraqi Prime Minister meets Jordan\u2019s King and PM to discuss bilateral ties",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/26/iraqi-prime-minister-meets-jordans-king-and-pm-to-discuss-bilateral-ties/",
+      "published": "2026-10-26T15:57:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3d239cfe345ac3ef72585c2da3f4e562",
+      "title": "Kuwait's Ministry of Foreign Affairs condemns in the strongest terms the storming of Al-Aqsa Mosque by an Israeli occupation government minister & groups of extremist settlers, under the protection of Israeli occupation forces.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114745757546803441",
+      "published": "2026-10-26T15:47:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793017893",
+      "title": "Israel committing crimes against humanity in occupied West Bank: UN",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/26/israel-committing-crimes-against-humanity-in-occupied-west-bank-un?traffic_source=rss",
+      "published": "2026-10-26T15:44:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793021918",
+      "title": "Egyptian parliament authorises military aid for Saudi Arabia",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss",
+      "published": "2026-10-26T15:41:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793029122",
+      "title": "What does the Israeli election mean for religious groups?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/what-does-the-israeli-election-mean-for-religious-groups?traffic_source=rss",
+      "published": "2026-10-26T15:40:41+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://one.sightlinemg.com/defensenews/?p=87018",
       "title": "BCE Consulting outlines the critical elements of layered air defense architecture",
@@ -289,28 +487,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/advertorial/2026/10/26/saudi-maritime-logistics-congress-highlights-maritime-integration-and-growth-opportunities-in-the-kingdom/",
-      "title": "Saudi Maritime & Logistics Congress highlights maritime integration and growth opportunities in the Kingdom",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/advertorial/2026/10/26/saudi-maritime-logistics-congress-highlights-maritime-integration-and-growth-opportunities-in-the-kingdom/",
-      "published": "2026-10-26T13:56:52+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "a2bc228c546f64febb3e3755bc0601fe",
       "title": "President of the Public Authority for Civil Aviation Sheikh Hamoud Mubarak Al-Sabah takes part in the eighth meeting of Directors General of Civil Aviation of the Middle East Region (DGCA-8), held in Doha  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -355,28 +531,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/26/egypts-parliament-authorises-el-sisi-to-send-troops-to-defend-saudi-arabia/",
-      "title": "Egypt's parliament authorises El Sisi to send troops to defend Saudi Arabia",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/26/egypts-parliament-authorises-el-sisi-to-send-troops-to-defend-saudi-arabia/",
-      "published": "2026-10-26T13:27:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/uncategorized/2026/10/26/defense-industry-leaders-weigh-in-how-to-increase-production-and-integrate-ai/",
       "title": "Defense industry leaders weigh in: How to increase production and integrate AI",
       "source": "Defense News",
@@ -413,138 +567,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793020662",
-      "title": "US foreign aid to Israel highlighted in campaign ad in support of El-Sayed",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/us-foreign-aid-to-israel-highlighted-in-campaign-ad-in-support-of-el-sayed?traffic_source=rss",
-      "published": "2026-10-26T13:20:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793010980",
-      "title": "Israel expands expulsions in occupied West Bank to cement control",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss",
-      "published": "2026-10-26T13:11:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793019622",
-      "title": "Who are the Israeli candidates trying to unseat Netanyahu?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/who-are-the-israeli-candidates-trying-to-unseat-netanyahu?traffic_source=rss",
-      "published": "2026-10-26T13:02:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793008136",
-      "title": "Has Pakistan reopened its border with Iran for trade?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/26/has-pakistan-reopened-its-border-with-iran-for-trade?traffic_source=rss",
-      "published": "2026-10-26T13:01:16+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793019165",
-      "title": "Intercepted Houthi missiles cause damage in Saudi Arabian city",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/intercepted-houthi-missiles-cause-damage-in-saudi-arabian-city?traffic_source=rss",
-      "published": "2026-10-26T12:54:05+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/26/lana-nusseibeh-issues-call-for-security-and-freedom-as-palestine-backs-un-bid/",
-      "title": "Lana Nusseibeh issues call for 'security and freedom' as Palestine backs UN bid",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/26/lana-nusseibeh-issues-call-for-security-and-freedom-as-palestine-backs-un-bid/",
-      "published": "2026-10-26T12:34:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9522,
-        "lng": 35.2332
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
