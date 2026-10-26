@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-26T18:47:27.599733+00:00",
-  "total_incidents": 44,
+  "generated_at": "2026-10-26T19:31:39.674041+00:00",
+  "total_incidents": 45,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
+      "title": "Netanyahu reportedly pressured military to attack Iran in runup to election",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
+      "published": "2026-10-26T19:21:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/26/saudi-pakistani-turkish-delegation-iran-avert-flare-up-conflict-us",
+      "title": "Middle East peace held back by US insistence that Iran is a threat, Oman\u2019s foreign minister says",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/26/saudi-pakistani-turkish-delegation-iran-avert-flare-up-conflict-us",
+      "published": "2026-10-26T19:12:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/news/2026/10/26/army-practices-digging-temporary-battlefield-graves/",
+      "title": "US Army practices digging temporary battlefield graves",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/land/2026/10/26/army-practices-digging-temporary-battlefield-graves/",
+      "published": "2026-10-26T18:57:25+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://breakingdefense.com/?p=99363",
       "title": "Helsing rolls out Contra air defense design, plus two new inteceptors",
@@ -48,7 +114,7 @@
     },
     {
       "id": "https://www.aljazeera.com/?t=1793037459",
-      "title": "Could the midterms change America\u2019s military support for Israel?",
+      "title": "Could the midterms change US military support for Israel?",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
       "published": "2026-10-26T18:05:12+00:00",
@@ -421,28 +487,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/26/saudi-pakistani-turkish-delegation-iran-avert-flare-up-conflict-us",
-      "title": "High-level delegation visits Iran to try to avert flare-up with US and Israel",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/26/saudi-pakistani-turkish-delegation-iran-avert-flare-up-conflict-us",
-      "published": "2026-10-26T14:03:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "a2bc228c546f64febb3e3755bc0601fe",
       "title": "President of the Public Authority for Civil Aviation Sheikh Hamoud Mubarak Al-Sabah takes part in the eighth meeting of Directors General of Civil Aviation of the Middle East Region (DGCA-8), held in Doha  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -721,28 +765,6 @@
         "lng": 51.389
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/global-development/2026/oct/26/zeinab-faraj-journalist-surviving-israel-drone-attack",
-      "title": "I saw a drone suddenly descend towards me. My heart started pounding and I thought, \u2018Is this the end of my life?\u2019",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/global-development/2026/oct/26/zeinab-faraj-journalist-surviving-israel-drone-attack",
-      "published": "2026-10-26T05:00:22+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
