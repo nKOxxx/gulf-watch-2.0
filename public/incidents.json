@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T01:44:30.682227+00:00",
+  "generated_at": "2026-10-26T02:45:32.426175+00:00",
   "total_incidents": 54,
   "incidents": [
     {
@@ -114,17 +114,17 @@
     },
     {
       "id": "https://www.aljazeera.com/?t=1792969574",
-      "title": "Iran war live: Trump rules out strikes \u2018today\u2019; Israeli forces raid Hebron",
+      "title": "Iran war live: Trump rules out strikes \u2018today\u2019; missile downed near Riyadh",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
       "published": "2026-10-26T00:00:00+00:00",
-      "type": "raid",
+      "type": "missile",
       "status": "unconfirmed",
       "location": {
-        "country": "Israel",
+        "country": "Saudi Arabia",
         "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
+        "lat": 24.7136,
+        "lng": 46.6753
       },
       "credibility": 90,
       "is_government": false,
