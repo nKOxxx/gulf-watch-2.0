@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-26T10:35:56.296824+00:00",
-  "total_incidents": 50,
+  "generated_at": "2026-10-26T11:37:45.514706+00:00",
+  "total_incidents": 51,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792995532",
+      "title": "Jordan arrests three suspects over church attack in dawn raid: What to know",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss",
+      "published": "2026-10-26T11:08:48+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Jordan",
+        "city": null,
+        "lat": 30.5852,
+        "lng": 36.2384
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793003200",
+      "title": "Key European defence ministers meet in Paris to discuss Ukraine support",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss",
+      "published": "2026-10-26T11:04:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm4g17qq8wz4o#0",
+      "title": "Jordan arrests three men suspected of deadly church attack after shootout",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm4g17qq8wz4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T11:01:16+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Jordan",
+        "city": null,
+        "lat": 30.5852,
+        "lng": 36.2384
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/26/iraqi-court-seeks-arrest-of-maysan-provincial-leader-for-defying-iran-border-closure/",
+      "title": "Iraqi court seeks arrest of Maysan provincial leader for defying Iran border closure",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/26/iraqi-court-seeks-arrest-of-maysan-provincial-leader-for-defying-iran-border-closure/",
+      "published": "2026-10-26T10:54:12+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "26afae8b567bf26fda1c57f22db0b18f",
+      "title": "His Highness the Amir receives Audit Bureau President Esam Al-Roumi, who presented His Highness with the annual report on the examination & audit of budgets & final accounts of entities under its oversight for fiscal year 2025/26.  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114669077385871757",
+      "published": "2026-10-26T10:42:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793001264",
+      "title": "Saudi-led coalition says it struck Houthi missile facilities",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss",
+      "published": "2026-10-26T10:41:23+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792941996",
+      "title": "Suwayda remains in stasis as US signals differences with Israel on Syria",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/26/suwayda-remains-in-deadlock-as-us-signals-differences-with-israel-on-syria?traffic_source=rss",
+      "published": "2026-10-26T10:36:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
       "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
@@ -179,28 +333,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/arts-culture/2026/10/26/abu-dhabi-esports-team-red-dunes-takes-top-prize-in-prestigious-street-fighter-tournament/",
-      "title": "Abu Dhabi esports team Red Dunes takes top prize in prestigious Street Fighter tournament",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/arts-culture/2026/10/26/abu-dhabi-esports-team-red-dunes-takes-top-prize-in-prestigious-street-fighter-tournament/",
-      "published": "2026-10-26T09:06:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=99166",
       "title": "Unmanned systems take center stage at Turkish Ate\u015f Serbest military demonstration",
       "source": "Breaking Defense",
@@ -215,50 +347,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/26/live-israel-election-benjamin-netanyahu/",
-      "title": "Israel elections latest: Donald Trump endorses Benjamin Netanyahu again",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/26/live-israel-election-benjamin-netanyahu/",
-      "published": "2026-10-26T08:46:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792938323",
-      "title": "Do Palestinians in Gaza expect anything to change after Israel\u2019s election?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/26/do-palestinians-in-gaza-expect-anything-to-change-after-israels-election?traffic_source=rss",
-      "published": "2026-10-26T08:43:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -465,28 +553,6 @@
       }
     },
     {
-      "id": "c77bee4847d9f8a473b9a809040c985c",
-      "title": "Official: Participation in Arab Air Sports Games benefits Kuwait's team  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2114444015642833110",
-      "published": "2026-10-25T19:48:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race",
       "title": "Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race",
       "source": "The Guardian",
@@ -502,50 +568,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3e213e6153589adca65fa78d9dec6f75",
-      "title": "#US Central Command (CENTCOM) Commander Admiral Brad Cooper reaffirms #Washington's firm commitment to ensuring freedom of navigation through the Strait of #Hormuz, saying the US continues to stand alongside its Gulf partners and the maritime shipping industry  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2114418727374504427",
-      "published": "2026-10-25T18:08:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "11673efa865b8c2de9ea107879fd4bde",
-      "title": "#Kuwait strongly condemns continued terrorist attacks by the Houthi militia against several areas in #Saudi Arabia, including an attempt to target the holy cities of Makkah and Madinah with two ballistic missiles  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2114418355197153602",
-      "published": "2026-10-25T18:06:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
