@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-26T07:02:46.413606+00:00",
-  "total_incidents": 50,
+  "generated_at": "2026-10-26T07:50:52.596439+00:00",
+  "total_incidents": 53,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792993623",
+      "title": "Photos: Lula supporters flood streets in celebration of historic win",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/gallery/2026/10/26/photos-lula-supporters-flood-streets-in-celebration-of-historic-win?traffic_source=rss",
+      "published": "2026-10-26T07:24:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/26/israels-opposition-in-final-show-of-force-before-elections-as-tens-of-thousands-rally-in-tel-aviv/",
+      "title": "Israel's opposition in final show of force before elections as tens of thousands rally in Tel Aviv",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/26/israels-opposition-in-final-show-of-force-before-elections-as-tens-of-thousands-rally-in-tel-aviv/",
+      "published": "2026-10-26T07:09:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.0853,
+        "lng": 34.7818
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792845082",
+      "title": "Israel\u2019s election: The main issues in the words of the leading candidates",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/26/israels-election-the-main-issues-in-the-words-of-the-leading-candidates?traffic_source=rss",
+      "published": "2026-10-26T07:03:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792994457",
+      "title": "Jordan arrests three suspects in deadly church attack",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-in-deadly-church-attack?traffic_source=rss",
+      "published": "2026-10-26T07:03:07+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Jordan",
+        "city": null,
+        "lat": 30.5852,
+        "lng": 36.2384
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes",
       "title": "\u2018It\u2019s collective punishment\u2019: nearly 2,000 Palestinians in Hebron displaced as Israeli forces take over homes",
@@ -171,28 +259,6 @@
         "lng": 36.2384
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792976429",
-      "title": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss",
-      "published": "2026-10-26T04:21:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
