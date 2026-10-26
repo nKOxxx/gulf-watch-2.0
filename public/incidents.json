@@ -1,10 +1,76 @@
 {
-  "generated_at": "2026-10-26T19:31:39.674041+00:00",
-  "total_incidents": 45,
+  "generated_at": "2026-10-26T20:34:06.861164+00:00",
+  "total_incidents": 43,
   "incidents": [
     {
+      "id": "https://www.aljazeera.com/?t=1793040826",
+      "title": "\u2018Deflections\u2019: Abdul El-Sayed responds to Trump\u2019s anti-Muslim attacks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/26/deflections-abdul-el-sayed-responds-to-trumps-anti-muslim-attacks?traffic_source=rss",
+      "published": "2026-10-26T20:17:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793044100",
+      "title": "80 injured after bus plunges down embankment near Barcelona",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/80-injured-after-bus-plunges-down-embankment-near-barcelona?traffic_source=rss",
+      "published": "2026-10-26T19:49:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 80,
+        "military": 0,
+        "civilian": 80
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793042607",
+      "title": "Jordan arrests three suspects over deadly church attack",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss",
+      "published": "2026-10-26T19:25:53+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Jordan",
+        "city": null,
+        "lat": 30.5852,
+        "lng": 36.2384
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
-      "title": "Netanyahu reportedly pressured military to attack Iran in runup to election",
+      "title": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
       "published": "2026-10-26T19:21:36+00:00",
@@ -125,50 +191,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793029705",
-      "title": "Algeria\u2019s president orders troop deployment to neighbouring Niger",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/26/algerias-president-orders-troop-deployment-to-neighbouring-niger?traffic_source=rss",
-      "published": "2026-10-26T17:55:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793028151",
-      "title": "Russian attacks on Ukraine\u2019s energy infrastructure a war crime: UN",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/26/russian-attacks-on-ukraines-energy-infrastructure-a-war-crime-un?traffic_source=rss",
-      "published": "2026-10-26T17:27:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -641,28 +663,6 @@
       }
     },
     {
-      "id": "fae318b75da6926b20e1822e09254173",
-      "title": "His Highness the Prime Minister receives Audit Bureau President Esam Al-Roumi, who presented His Highness with the annual report on the examination and audit of budgets & final accounts of entities under its oversight for fiscal year 2025/26.  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2114690765846728758",
-      "published": "2026-10-26T12:09:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cm4g17qq8wz4o#0",
       "title": "Jordan arrests three men suspected of deadly church attack after shootout",
       "source": "BBC Middle East",
@@ -817,28 +817,6 @@
       }
     },
     {
-      "id": "1f3f4fdcb2eed53984f45d9e52ad6c92",
-      "title": "The United Arab Emirates has condemned in the strongest terms the Houthi group\u2019s attempt to target several areas in the ...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/De6_GJeNQYT",
-      "published": "2026-10-25T15:03:52+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3941728d82f0b2393a7572ec142bcb30",
       "title": "#\u0644\u0627_\u062a\u0633\u0647\u0644\u0647\u0627_\u0639\u0644\u064a\u0647\u0645 #\u0634\u0647\u0631_\u0627\u0644\u062a\u0648\u0639\u064a\u0629_\u0628\u0627\u0644\u0623\u0645\u0646_\u0627\u0644\u0633\u064a\u0628\u0631\u0627\u0646\u064a #DontMakeItEasyForThem #CybersecurityAwarenessMonth",
       "source": "Bahrain MOI (RSS.app)",
@@ -963,28 +941,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/uncategorized/2026/10/23/us-military-needs-urgent-revolutionary-institutional-change-to-prepare-for-modern-war-petraeus-says/",
-      "title": "US military needs \u2018urgent revolutionary institutional change\u2019 to prepare for modern war, Petraeus says",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/pentagon/2026/10/23/us-military-needs-urgent-revolutionary-institutional-change-to-prepare-for-modern-war-petraeus-says/",
-      "published": "2026-10-23T19:39:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
