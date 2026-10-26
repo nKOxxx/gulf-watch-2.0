@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-26T22:33:32.389959+00:00",
+  "generated_at": "2026-10-26T23:30:23.300665+00:00",
   "total_incidents": 43,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/26/greece-libya-turkey-maritime-corridor/",
+      "title": "Greece warns Libya\u2019s Turkey maritime deal threatens Mediterranean stability",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/26/greece-libya-turkey-maritime-corridor/",
+      "published": "2026-10-26T22:59:56+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
       "title": "Jordan attacks militants in Syria in retaliation for last week\u2019s church attack",
@@ -132,28 +154,6 @@
         "total": 0,
         "military": 0,
         "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793044100",
-      "title": "80 injured after bus plunges down embankment near Barcelona",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/80-injured-after-bus-plunges-down-embankment-near-barcelona?traffic_source=rss",
-      "published": "2026-10-26T19:49:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 80,
-        "military": 0,
-        "civilian": 80
       }
     },
     {
