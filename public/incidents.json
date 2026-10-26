@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-26T07:50:52.596439+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-26T08:49:01.207493+00:00",
+  "total_incidents": 54,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1792938323",
+      "title": "Do Palestinians in Gaza expect anything to change after Israel\u2019s election?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/26/do-palestinians-in-gaza-expect-anything-to-change-after-israels-election?traffic_source=rss",
+      "published": "2026-10-26T08:43:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/2026/10/26/sport-quiz-of-the-week-october-26-2026/",
+      "title": "Sport quiz of the week: October 26, 2026",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/sport/2026/10/26/sport-quiz-of-the-week-october-26-2026/",
+      "published": "2026-10-26T08:20:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/26/dubai-announces-lane-closures-on-emirates-road-from-monday-to-allow-for-self-driving-taxi-tests/",
+      "title": "Dubai announces lane closures on Emirates Road from Monday to clear the way for self-driving taxi tests",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/26/dubai-announces-lane-closures-on-emirates-road-from-monday-to-allow-for-self-driving-taxi-tests/",
+      "published": "2026-10-26T07:48:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792995335",
+      "title": "Officials from Mecca pact states to hold talks in Iran amid regional tensions",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions?traffic_source=rss",
+      "published": "2026-10-26T07:33:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 21.3891,
+        "lng": 39.8579
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1792993623",
       "title": "Photos: Lula supporters flood streets in celebration of historic win",
@@ -149,28 +237,6 @@
         "lng": 43.6793
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1791439268",
-      "title": "Israel\u2019s election: Five key things to know",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
-      "published": "2026-10-26T05:16:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -653,50 +719,6 @@
         "city": null,
         "lat": 31.5017,
         "lng": 34.4668
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "59477692a77f98f68f1082f2d0a65c9b",
-      "title": "Emirates celebrates 40 years of operations in Egypt with a gala dinner at the Grand Egyptian Museum in Cairo. The airline currently operates 35 weekly flights between Dubai and Cairo. Over the past 40 years, the airline has carried 13.2 million passengers on nearly 50,000 flights between Dubai and Cairo, reflecting the continued growth of its operations and the importance of Egypt within its global network.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2114313854608097342",
-      "published": "2026-10-25T11:11:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "1873c9981fac7c6dd5e272a8af0b14c5",
-      "title": "The Atlantis 43ft Traditional Dhow Sailing Race, organised by the Dubai International Marine Club (DIMC), took place yesterday, Saturday, as part of the 2026\u20132027 marine sports season.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2114310598045602090",
-      "published": "2026-10-25T10:58:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 95,
       "is_government": true,
