@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T13:38:22.676436+00:00",
-  "total_incidents": 56,
+  "generated_at": "2026-10-27T14:38:23.420542+00:00",
+  "total_incidents": 57,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "title": "Israel goes to the polls in most consequential election in its history \u2013 live updates",
+      "title": "High turnout as Israel goes to the polls in most consequential election in its history \u2013 live updates",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "published": "2026-10-27T13:37:21+00:00",
+      "published": "2026-10-27T14:22:32+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -15,6 +15,204 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/27/live-israel-election-result-highest-voter-turnout/",
+      "title": "Israel election live: Highest voter turnout in decades puts strain on Netanyahu's campaign",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/27/live-israel-election-result-highest-voter-turnout/",
+      "published": "2026-10-27T14:21:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/commentisfree/2026/oct/27/gaza-peace-lives-year-ceasefire-water",
+      "title": "In Gaza, no privacy, no peace: this is what our lives look like a year after the \u2018ceasefire\u2019 | Akram al-Sourani",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/commentisfree/2026/oct/27/gaza-peace-lives-year-ceasefire-water",
+      "published": "2026-10-27T14:00:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792677927",
+      "title": "Lebanon\u2019s lost olive season: harvesting olives under drones and warplanes",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/10/27/lebanons-lost-olive-season-harvesting-olives-under-drones-and-warplanes?traffic_source=rss",
+      "published": "2026-10-27T13:54:43+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "47504c2d7d4ad6c8f9dcdceefbda1e7c",
+      "title": "The International Federation of Red Cross & Red Crescent Societies affirms its readiness to provide logistical & technical support & to foster the exchange of expertise with the #Kuwait Red Crescent Society.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115077472790233450",
+      "published": "2026-10-27T13:45:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2627c2abe5aed285283aea2cee71283c",
+      "title": "His Highness the Prime Minister meets with KKR Co-CEO Scott Nuttall to discuss investment opportunities.  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115076561447551055",
+      "published": "2026-10-27T13:42:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793105857",
+      "title": "Russia strikes Kyiv ahead of localised ceasefire in Oleshky",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss",
+      "published": "2026-10-27T13:34:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793097633",
+      "title": "The Netherlands pulls out of Eurovision 2027 due to Israel \u2018sensitivities\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/27/the-netherlands-pulls-out-of-eurovision-2027-due-to-israel-sensitivities?traffic_source=rss",
+      "published": "2026-10-27T13:29:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793102197",
+      "title": "Qatar\u2019s Emir meets Iran\u2019s Pezeshkian in Moscow",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/27/qatars-emir-meets-irans-pezeshkian-in-moscow?traffic_source=rss",
+      "published": "2026-10-27T13:26:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793101366",
+      "title": "Iranians brace for renewed attacks after Israeli, US elections",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/27/iranians-will-their-eyes-on-the-sky-for-bomb-when-israeli-us-elections-end?traffic_source=rss",
+      "published": "2026-10-27T13:23:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
@@ -179,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/27/exclusive-iran-saudi-arabia-inside-tehran-talks/",
-      "title": "Inside Tehran talks: Iranians link Houthi de-escalation to US approval of regional truce",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/27/exclusive-iran-saudi-arabia-inside-tehran-talks/",
-      "published": "2026-10-27T12:30:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=99378",
       "title": "The new must-have capabilities for drones",
       "source": "Breaking Defense",
@@ -257,50 +433,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/27/loud-bang-as-drone-is-intercepted-in-baghdad/",
-      "title": "Loud bang as drone is intercepted in Baghdad",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/27/loud-bang-as-drone-is-intercepted-in-baghdad/",
-      "published": "2026-10-27T11:54:37+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.3152,
-        "lng": 44.3661
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/27/hail-hits-northern-emirates-as-uae-weather-alert-issued-over-45kph-winds/",
-      "title": "Hail hits Northern Emirates as Abu Dhabi issues rain alert",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/27/hail-hits-northern-emirates-as-uae-weather-alert-issued-over-45kph-winds/",
-      "published": "2026-10-27T11:51:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
       },
       "credibility": 85,
       "is_government": false,
@@ -377,28 +509,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793091091",
-      "title": "The Ballon d\u2019Or has a narrow definition of footballing greatness",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/opinions/2026/10/27/the-ballon-dor-has-a-narrow-definition-of-footballing-greatness?traffic_source=rss",
-      "published": "2026-10-27T11:49:59+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "03ccce1b375db7bde04d4608ade0ccac",
       "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (911). Alert: The danger has passed in Riyadh City. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
       "source": "Saudi Civil Defense (RSS.app)",
@@ -466,7 +576,7 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o#0",
-      "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
+      "title": "Turnout so far highest on record as Israelis vote in pivotal election",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-27T11:11:33+00:00",
@@ -480,50 +590,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793098264",
-      "title": "Families of victims killed in Jordanian strike deny links to church attack",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/families-of-victims-killed-in-jordanian-strike-deny-links-to-church-attack?traffic_source=rss",
-      "published": "2026-10-27T10:52:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Jordan",
-        "city": null,
-        "lat": 30.5852,
-        "lng": 36.2384
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b0b865b344b2be9e28ac06b8fc43b579",
-      "title": "Dubai Municipality organises the first edition of Cybersecurity Week from 27 to 29 October 2026 at the Radisson Blu Hotel, Dubai Deira Creek, coinciding with the global Cybersecurity Awareness Month. The event aims to strengthen cybersecurity and information security awareness among employees, enhance their ability to recognise digital threats and encourage the adoption of safe digital practices across the Municipality's operations.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2115032960802193813",
-      "published": "2026-10-27T10:48:00+00:00",
-      "type": "cyber",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -961,50 +1027,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/uncategorized/2026/10/26/defense-startup-wants-to-make-genetically-enhanced-military-dogs/",
-      "title": "Defense startup wants to make genetically enhanced military dogs",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/26/defense-startup-wants-to-make-genetically-enhanced-military-dogs/",
-      "published": "2026-10-26T12:32:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/26/what-you-need-to-know-about-the-most-consequential-election-in-israels-history",
-      "title": "What you need to know about the most consequential election in Israel\u2019s history",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/26/what-you-need-to-know-about-the-most-consequential-election-in-israels-history",
-      "published": "2026-10-26T12:17:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
