@@ -1,22 +1,176 @@
 {
-  "generated_at": "2026-10-27T04:36:23.833689+00:00",
-  "total_incidents": 41,
+  "generated_at": "2026-10-27T05:34:42.257874+00:00",
+  "total_incidents": 47,
   "incidents": [
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/27/eu-official-calls-for-urgent-action-to-keep-path-to-peace-open-in-yemen/",
-      "title": "EU official calls for urgent action to keep path to peace open in Yemen",
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/27/israel-election-voter-turnout/",
+      "title": "\u2018Astronomical\u2019 Arab turnout could reshape Israeli politics in key election",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/27/eu-official-calls-for-urgent-action-to-keep-path-to-peace-open-in-yemen/",
-      "published": "2026-10-27T03:00:00+00:00",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/27/israel-election-voter-turnout/",
+      "published": "2026-10-27T05:25:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "title": "Israel election live: polls open in most consequential vote in country\u2019s history",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "published": "2026-10-27T05:23:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/27/israeli-voters-head-to-polling-stations-to-deliver-netanyahu-verdict/",
+      "title": "Israeli voters head to polling stations to deliver Netanyahu\u00a0verdict",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/27/israeli-voters-head-to-polling-stations-to-deliver-netanyahu-verdict/",
+      "published": "2026-10-27T05:21:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793072864",
+      "title": "Macklemore opens \u2018Free Palestine\u2019 tour in Dublin",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/macklemore-opens-free-palestine-tour-in-dublin?traffic_source=rss",
+      "published": "2026-10-27T05:14:13+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": null,
         "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
+        "lat": 31.9522,
+        "lng": 35.2332
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/property/2026/10/27/aldar-reports-25-jump-in-q3-net-profit-amid-launch-of-new-projects/",
+      "title": "Aldar reports 25% jump in Q3 net profit amid launch of new projects",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/property/2026/10/27/aldar-reports-25-jump-in-q3-net-profit-amid-launch-of-new-projects/",
+      "published": "2026-10-27T05:04:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793067720",
+      "title": "Iran, Saudi, Turkiye and Pakistan agree to more talks amid Houthi attacks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/27/iran-saudi-turkiye-and-pakistan-agree-to-more-talks-amid-houthi-attacks?traffic_source=rss",
+      "published": "2026-10-27T04:54:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792591720",
+      "title": "Israel heads to the polls as shift to the right dominates critical election",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/27/israel-heads-to-the-polls-as-shift-to-the-right-dominates-critical-election?traffic_source=rss",
+      "published": "2026-10-27T04:44:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1792934843",
+      "title": "Israel election 2026 live: Netanyahu faces tough test in high-stakes polls",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss",
+      "published": "2026-10-27T04:30:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -30,28 +184,6 @@
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/moroccan-police-intercept-migrant-swimming-back-towards-ceuta?traffic_source=rss",
       "published": "2026-10-27T02:38:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793065499",
-      "title": "Russia halts strikes on Ukraine\u2019s Kherson as Oleshky ceasefire takes effect",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss",
-      "published": "2026-10-27T02:29:00+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
