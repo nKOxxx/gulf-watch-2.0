@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-27T05:34:42.257874+00:00",
-  "total_incidents": 47,
+  "generated_at": "2026-10-27T06:50:18.600261+00:00",
+  "total_incidents": 49,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "title": "Israel election live: polls open in most consequential vote in country\u2019s history",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "published": "2026-10-27T06:47:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793040438",
+      "title": "Palestine weekly: West Bank under siege as Israelis go to the polls",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss",
+      "published": "2026-10-27T06:28:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793030663",
+      "title": "Palestinian citizens of Israel can vote, but cannot expect change",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/opinions/2026/10/27/palestinian-citizens-of-israel-can-vote-but-cannot-expect-change?traffic_source=rss",
+      "published": "2026-10-27T06:15:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793046399",
+      "title": "Palestinian citizens of Israel fear they\u2019re next target if far-right wins",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss",
+      "published": "2026-10-27T06:12:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e423961565bb8f0a55781a18e5858d3b",
+      "title": "#Kuwait crude oil price down to USD 112.68 pb  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114962008126697829",
+      "published": "2026-10-27T06:06:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o#0",
+      "title": "Israel heads to polls for pivotal election defined by security and democracy",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T05:45:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/27/israel-election-voter-turnout/",
       "title": "\u2018Astronomical\u2019 Arab turnout could reshape Israeli politics in key election",
@@ -17,28 +149,6 @@
         "lng": 34.8516
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "title": "Israel election live: polls open in most consequential vote in country\u2019s history",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "published": "2026-10-27T05:23:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -114,85 +224,41 @@
     },
     {
       "id": "https://www.aljazeera.com/?t=1793067720",
-      "title": "Iran, Saudi, Turkiye and Pakistan agree to more talks amid Houthi attacks",
+      "title": "Saudi-led coalition says it downed Houthi missiles and drones",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/27/iran-saudi-turkiye-and-pakistan-agree-to-more-talks-amid-houthi-attacks?traffic_source=rss",
+      "source_url": "https://www.aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones?traffic_source=rss",
       "published": "2026-10-27T04:54:26+00:00",
-      "type": "incident",
+      "type": "missile",
       "status": "unconfirmed",
       "location": {
         "country": "Saudi Arabia",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792591720",
-      "title": "Israel heads to the polls as shift to the right dominates critical election",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/27/israel-heads-to-the-polls-as-shift-to-the-right-dominates-critical-election?traffic_source=rss",
-      "published": "2026-10-27T04:44:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792934843",
-      "title": "Israel election 2026 live: Netanyahu faces tough test in high-stakes polls",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss",
-      "published": "2026-10-27T04:30:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793065828",
-      "title": "Moroccan police intercept migrant swimming back towards Ceuta",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/moroccan-police-intercept-migrant-swimming-back-towards-ceuta?traffic_source=rss",
-      "published": "2026-10-27T02:38:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
         "city": null,
         "lat": 29.0,
         "lng": 48.0
       },
       "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo#0",
+      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T02:40:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -502,28 +568,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3d239cfe345ac3ef72585c2da3f4e562",
-      "title": "Kuwait's Ministry of Foreign Affairs condemns in the strongest terms the storming of Al-Aqsa Mosque by an Israeli occupation government minister & groups of extremist settlers, under the protection of Israeli occupation forces.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2114745757546803441",
-      "published": "2026-10-26T15:47:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -993,7 +1037,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o#1",
       "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
@@ -1015,7 +1059,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o#1",
       "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o?at_medium=RSS&at_campaign=rss",
