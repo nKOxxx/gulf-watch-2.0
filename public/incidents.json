@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T18:28:56.699213+00:00",
-  "total_incidents": 55,
+  "generated_at": "2026-10-27T19:25:30.481615+00:00",
+  "total_incidents": 52,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "title": "Opposition condemns Netanyahu\u2019s bid to extend voting hours in pivotal Israeli election \u2013 live updates",
+      "title": "Israel election live: Netanyahu\u2019s bid to extend voting hours denied by central elections committee",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "published": "2026-10-27T18:26:39+00:00",
+      "published": "2026-10-27T19:11:43+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -18,6 +18,160 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793127006",
+      "title": "Deadly tornado strikes construction site in Turkiye",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/deadly-tornado-strikes-construction-site-in-turkiye?traffic_source=rss",
+      "published": "2026-10-27T18:52:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=99456",
+      "title": "Defense Department selects Poland for new PAC-3 maintenance facility",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/defense-department-selects-poland-for-new-pac-3-maintenance-facility/",
+      "published": "2026-10-27T18:50:27+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=99355",
+      "title": "A more flexible way to defend maneuver forces from drones that doesn\u2019t tie them down",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/a-more-flexible-way-to-defend-maneuver-forces-from-drones-that-doesnt-tie-them-down/",
+      "published": "2026-10-27T18:48:04+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/27/uae-president-honours-flydubai-crew-september-30-attack/",
+      "title": "President honours flydubai crew for courage during September 30 mid-air attack",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/27/uae-president-honours-flydubai-crew-september-30-attack/",
+      "published": "2026-10-27T18:43:04+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b7c434bc9168275507c008e1b073cb00",
+      "title": "UAE President confers the First Class Order of Zayed II on the flydubai crew members involved in September\u2019s in-flight incident, in recognition of their courageous efforts to ensure the safety of passengers. The honours were presented by Hamdan bin Mohammed, who commended the crew\u2019s actions and sense of responsibility.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2115151760528757019",
+      "published": "2026-10-27T18:40:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/27/live-israel-election-result-highest-voter-turnout-extended-hours/",
+      "title": "Israel election live: Committee rules out nationwide extension of voting hours",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/27/live-israel-election-result-highest-voter-turnout-extended-hours/",
+      "published": "2026-10-27T18:29:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "37ff4e3eca619a464cc238b7bfda1cda",
+      "title": "UAE President, in the presence of Mohammed bin Rashid, receives the flydubai crew members involved in the in-flight incident on 30 September. Their Highnesses praised the crew\u2019s courage and professionalism in ensuring the safety of passengers and securing the aircraft, affirming that protecting people\u2019s safety and security remains a top priority for the UAE.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2115147715386728533",
+      "published": "2026-10-27T18:24:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -113,28 +267,6 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o#0",
-      "title": "Turnout so far highest on record as Israelis vote in pivotal election",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T17:39:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/news/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china/",
       "title": "US Army looks to high-flying balloons to help see, strike along front lines with China",
       "source": "Defense News",
@@ -201,50 +333,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793120691",
-      "title": "Fire engulfs Seoul\u2019s last shanty-town, forcing hundreds to evacuate",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/fire-engulfs-seouls-last-shanty-town-forcing-hundreds-to-evacuate?traffic_source=rss",
-      "published": "2026-10-27T17:10:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793120356",
-      "title": "Funeral held for family killed in Jordanian airstrikes in Syria",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/funeral-held-for-family-killed-in-jordanian-airstrikes-in-syria?traffic_source=rss",
-      "published": "2026-10-27T17:03:45+00:00",
-      "type": "airstrike",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=99419",
       "title": "Another Michigan auto firm enters defense industry as state tries to revive \u2018Arsenal of Democracy\u2019",
       "source": "Breaking Defense",
@@ -281,28 +369,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/27/live-israel-election-result-highest-voter-turnout-extended-hours/",
-      "title": "Israel election live: Opposition optimism as Netanyahu's party requests extended voting hours",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/27/live-israel-election-result-highest-voter-turnout-extended-hours/",
-      "published": "2026-10-27T16:32:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -348,72 +414,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793108057",
-      "title": "Death toll from attack by gunmen in northeastern Nigeria rises to 62",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss",
-      "published": "2026-10-27T15:53:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/27/saudi-arabia-global-entry/",
-      "title": "Saudi citizens added to US Global Entry programme for faster clearance at airports",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/27/saudi-arabia-global-entry/",
-      "published": "2026-10-27T15:53:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793115889",
-      "title": "Iranian and Qatari leaders meet at Russian energy forum",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss",
-      "published": "2026-10-27T15:49:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -685,50 +685,6 @@
       }
     },
     {
-      "id": "aeaa1270920872bc97b7ede148b5db78",
-      "title": ". Abu Dhabi Future Energy Company PJSC \u2013 Masdar has issued the first blue bond in its US$6 billion Global Medium Term No...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/De_gXXVtRba",
-      "published": "2026-10-27T09:11:32+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "9e63aba6050c8258ee1b9716eca5de87",
-      "title": ". Nasser Al Dhaheri, Manager of Modern Sports Events at Abu Dhabi Marine Sports Club (ADMSC), has been elected to the F1...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/De_gEt9tcVT",
-      "published": "2026-10-27T09:08:59+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo#0",
       "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
       "source": "BBC Middle East",
@@ -851,28 +807,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=99353",
-      "title": "Cyprus to acquire new offshore patrol vessel with \u2018advanced\u2019 naval systems from Israel",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/cyprus-to-acquire-new-offshore-patrol-vessel-with-advanced-naval-systems-from-israel/",
-      "published": "2026-10-26T18:11:59+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 85,
       "is_government": false,
