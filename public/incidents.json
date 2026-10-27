@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-27T09:37:05.164588+00:00",
+  "generated_at": "2026-10-27T10:34:01.011236+00:00",
   "total_incidents": 55,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "title": "Israel election live: polls open in most consequential vote in country\u2019s history",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "published": "2026-10-27T10:26:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o#0",
+      "title": "Israel heads to polls for pivotal election defined by security and democracy",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T10:14:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/?p=87042",
+      "title": "Britain will not join Canada-led defense bank initiative",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/27/britain-will-not-join-canada-led-defense-bank-initiative/",
+      "published": "2026-10-27T09:46:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/global-development/2026/oct/27/fears-grow-for-iranian-athletes-on-death-row-as-mountaineer-latest-to-be-hanged",
       "title": "Fears grow for Iranian athletes on death row as mountaineer latest to be hanged",
@@ -223,21 +289,43 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "title": "Israel election live: polls open in most consequential vote in country\u2019s history",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "published": "2026-10-27T09:09:17+00:00",
+      "id": "aeaa1270920872bc97b7ede148b5db78",
+      "title": ". Abu Dhabi Future Energy Company PJSC \u2013 Masdar has issued the first blue bond in its US$6 billion Global Medium Term No...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/De_gXXVtRba",
+      "published": "2026-10-27T09:11:32+00:00",
       "type": "incident",
-      "status": "unconfirmed",
+      "status": "confirmed",
       "location": {
-        "country": "Israel",
+        "country": "UAE",
         "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
+        "lat": 24.4539,
+        "lng": 54.3773
       },
-      "credibility": 90,
-      "is_government": false,
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9e63aba6050c8258ee1b9716eca5de87",
+      "title": ". Nasser Al Dhaheri, Manager of Modern Sports Events at Abu Dhabi Marine Sports Club (ADMSC), has been elected to the F1...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/De_gEt9tcVT",
+      "published": "2026-10-27T09:08:59+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -290,7 +378,7 @@
     },
     {
       "id": "https://www.aljazeera.com/?t=1793086446",
-      "title": "Drone strike kills at least 21 and injures 40 in Sudan\u2019s Nyala",
+      "title": "Drone strike in Sudan\u2019s Nyala kills at least 21, injures 40",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala?traffic_source=rss",
       "published": "2026-10-27T08:35:27+00:00",
@@ -399,28 +487,6 @@
       }
     },
     {
-      "id": "5127466f69e423761bd5a366bbe40088",
-      "title": "Four workers killed & one injured during sudden tornado that struck Antalya, #Turkiye  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2114989380842520768",
-      "published": "2026-10-27T07:55:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/27/israel-votes-in-crucial-election-jordan-retaliates-in-syria-and-harry-kane-wins-ballon-dor/",
       "title": "Israel votes in crucial election, Jordan retaliates in Syria and Harry Kane wins Ballon d'Or",
       "source": "The National UAE",
@@ -509,50 +575,6 @@
       }
     },
     {
-      "id": "e423961565bb8f0a55781a18e5858d3b",
-      "title": "#Kuwait crude oil price down to USD 112.68 pb  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2114962008126697829",
-      "published": "2026-10-27T06:06:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o#0",
-      "title": "Israel heads to polls for pivotal election defined by security and democracy",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T05:45:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo#0",
       "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
       "source": "BBC Middle East",
@@ -576,7 +598,7 @@
     },
     {
       "id": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
-      "title": "Jordan attacks militants in Syria in retaliation for last week\u2019s church attack",
+      "title": "Jordan attacks militants in Syria in retaliation for church attack",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
       "published": "2026-10-26T22:08:38+00:00",
@@ -807,28 +829,6 @@
         "city": null,
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "54826ef247ba2a6c68f7a05778ebd46b",
-      "title": "Saqr Ghobash, Speaker of the Federal National Council (FNC), affirmed that BRICS has a historic opportunity to move from...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/De9jBwetjdq",
-      "published": "2026-10-26T14:56:18+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 95,
       "is_government": true,
