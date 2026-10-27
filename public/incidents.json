@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T15:35:23.035102+00:00",
-  "total_incidents": 52,
+  "generated_at": "2026-10-27T16:29:41.122077+00:00",
+  "total_incidents": 56,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
       "title": "High turnout as Israel goes to the polls in most consequential election in its history \u2013 live updates",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "published": "2026-10-27T15:20:56+00:00",
+      "published": "2026-10-27T16:20:12+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -15,6 +15,138 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo#0",
+      "title": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T16:11:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.8206,
+        "lng": 30.8025
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "649b30e623eb8382878aa8dc06881132",
+      "title": "His Highness the Amir attends #Kuwait's National Guard military exercise, as His Highness closely monitors their level of preparedness to deal with any potential emergencies.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115110135810953361",
+      "published": "2026-10-27T15:55:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793108057",
+      "title": "Death toll from attack by gunmen in northeastern Nigeria rises to 62",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss",
+      "published": "2026-10-27T15:53:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/27/saudi-arabia-global-entry/",
+      "title": "Saudi citizens added to US Global Entry programme for faster clearance at airports",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/27/saudi-arabia-global-entry/",
+      "published": "2026-10-27T15:53:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793115889",
+      "title": "Iranian and Qatari leaders meet at Russian energy forum",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss",
+      "published": "2026-10-27T15:49:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793083313",
+      "title": "Iran\u2019s calculations as US escalation looms: Trust, midterms, Hormuz",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz?traffic_source=rss",
+      "published": "2026-10-27T15:26:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
@@ -114,7 +246,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/27/live-israel-election-result-highest-voter-turnout/",
-      "title": "Israel election live: Highest voter turnout in decades puts strain on Netanyahu's campaign",
+      "title": "Israel election live: Netanyahu's Likud party asks for extended voting hours amid record turnout",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/mena/2026/10/27/live-israel-election-result-highest-voter-turnout/",
       "published": "2026-10-27T14:21:10+00:00",
@@ -147,28 +279,6 @@
         "city": null,
         "lat": 31.5017,
         "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1792677927",
-      "title": "Lebanon\u2019s lost olive season: harvesting olives under drones and warplanes",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/10/27/lebanons-lost-olive-season-harvesting-olives-under-drones-and-warplanes?traffic_source=rss",
-      "published": "2026-10-27T13:54:43+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
       },
       "credibility": 90,
       "is_government": false,
@@ -323,28 +433,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/27/today-my-conscience-told-me-to-vote-arab-israelis-turn-out-in-force-to-demand-change/",
-      "title": "\u2018Today my conscience told me to vote\u2019: Arab Israelis turn out in force to demand change",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/27/today-my-conscience-told-me-to-vote-arab-israelis-turn-out-in-force-to-demand-change/",
-      "published": "2026-10-27T12:47:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 85,
       "is_government": false,
@@ -1081,7 +1169,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o#1",
       "title": "Israel to close West Bank crossings on election day as crackdown escalates",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
