@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T07:41:12.987219+00:00",
-  "total_incidents": 48,
+  "generated_at": "2026-10-27T08:41:21.048727+00:00",
+  "total_incidents": 50,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
       "title": "Israel election live: polls open in most consequential vote in country\u2019s history",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "published": "2026-10-27T07:35:37+00:00",
+      "published": "2026-10-27T08:38:15+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -17,6 +17,138 @@
         "lng": 34.8516
       },
       "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/27/iraqi-court-sentences-seven-french-isis-members-to-prison/",
+      "title": "Iraqi court sentences seven French ISIS members to prison",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/27/iraqi-court-sentences-seven-french-isis-members-to-prison/",
+      "published": "2026-10-27T08:31:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8fafa018bcfca3413e20055e97c1ce8b",
+      "title": "British Ambassador to #Kuwait reaffirms #UK commitment to Kuwait's security, sovereignty & territorial integrity, describing more than 125 years of bilateral ties as a strong strategic partnership built on mutual trust & close cooperation  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114997520753447273",
+      "published": "2026-10-27T08:27:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/27/kuwait-sentences-three-to-death-over-iran-links-and-plot-to-assassinate-deputy-pm/",
+      "title": "Kuwait sentences three to death over Iran links and plot to assassinate deputy PM",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/27/kuwait-sentences-three-to-death-over-iran-links-and-plot-to-assassinate-deputy-pm/",
+      "published": "2026-10-27T08:25:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "fa45fdeda44f9fbcdfde3da88d77f5e8",
+      "title": "Global Business School for Health (GBSH), part of University College London (UCL), is bringing the world\u2019s first business school dedicated exclusively to health to Dubai. In close collaboration with the Dubai Healthcare City Authority (DHCA), UCL Global Business School for Health, Dubai will contribute to the UAE\u2019s established healthcare, education, research, and innovation landscape, while creating new opportunities for specialised learning, capability development, and collaboration across the UAE and wider region.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2114995748660232225",
+      "published": "2026-10-27T08:20:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5127466f69e423761bd5a366bbe40088",
+      "title": "Four workers killed & one injured during sudden tornado that struck Antalya, #Turkiye  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2114989380842520768",
+      "published": "2026-10-27T07:55:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/27/israel-votes-in-crucial-election-jordan-retaliates-in-syria-and-harry-kane-wins-ballon-dor/",
+      "title": "Israel votes in crucial election, Jordan retaliates in Syria and Harry Kane wins Ballon d'Or",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/27/israel-votes-in-crucial-election-jordan-retaliates-in-syria-and-harry-kane-wins-ballon-dor/",
+      "published": "2026-10-27T07:53:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -215,94 +347,6 @@
         "lng": 34.8516
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/27/israel-election-voter-turnout/",
-      "title": "\u2018Astronomical\u2019 Arab turnout could reshape Israeli politics in key election",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/27/israel-election-voter-turnout/",
-      "published": "2026-10-27T05:25:59+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/27/israeli-voters-head-to-polling-stations-to-deliver-netanyahu-verdict/",
-      "title": "Israeli voters head to polling stations to deliver Netanyahu\u00a0verdict",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/27/israeli-voters-head-to-polling-stations-to-deliver-netanyahu-verdict/",
-      "published": "2026-10-27T05:21:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793072864",
-      "title": "Macklemore opens \u2018Free Palestine\u2019 tour in Dublin",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/macklemore-opens-free-palestine-tour-in-dublin?traffic_source=rss",
-      "published": "2026-10-27T05:14:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9522,
-        "lng": 35.2332
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/property/2026/10/27/aldar-reports-25-jump-in-q3-net-profit-amid-launch-of-new-projects/",
-      "title": "Aldar reports 25% jump in Q3 net profit amid launch of new projects",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/property/2026/10/27/aldar-reports-25-jump-in-q3-net-profit-amid-launch-of-new-projects/",
-      "published": "2026-10-27T05:04:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
