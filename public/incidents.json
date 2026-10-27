@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T03:38:53.397739+00:00",
-  "total_incidents": 45,
+  "generated_at": "2026-10-27T04:36:23.833689+00:00",
+  "total_incidents": 41,
   "incidents": [
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/27/eu-official-calls-for-urgent-action-to-keep-path-to-peace-open-in-yemen/",
@@ -61,50 +61,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/27/jordan-revenge-attack-on-syria/",
-      "title": "At least seven killed in Jordan's \u2018revenge\u2019 strikes on Syria",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/27/jordan-revenge-attack-on-syria/",
-      "published": "2026-10-27T02:17:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/27/mark-leppard-headteacher-bsak-leave-abu-dhabi/",
-      "title": "After 30 years in the Gulf, Abu Dhabi head teacher of BSAK to leave UAE",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/27/mark-leppard-headteacher-bsak-leave-abu-dhabi/",
-      "published": "2026-10-27T02:00:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -216,50 +172,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793051716",
-      "title": "Iran war live: Iran says US \u2018not serious\u2019 about talks; ship ablaze off Iraq",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
-      "published": "2026-10-27T00:00:00+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/27/greece-libya-turkey-maritime-corridor/",
-      "title": "Libya-Turkey maritime deal threatens Mediterranean stability, six parties warn",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/27/greece-libya-turkey-maritime-corridor/",
-      "published": "2026-10-26T22:59:56+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
