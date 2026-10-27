@@ -1,10 +1,76 @@
 {
-  "generated_at": "2026-10-27T02:42:18.530343+00:00",
-  "total_incidents": 46,
+  "generated_at": "2026-10-27T03:38:53.397739+00:00",
+  "total_incidents": 45,
   "incidents": [
     {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/27/eu-official-calls-for-urgent-action-to-keep-path-to-peace-open-in-yemen/",
+      "title": "EU official calls for urgent action to keep path to peace open in Yemen",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/27/eu-official-calls-for-urgent-action-to-keep-path-to-peace-open-in-yemen/",
+      "published": "2026-10-27T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793065828",
+      "title": "Moroccan police intercept migrant swimming back towards Ceuta",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/moroccan-police-intercept-migrant-swimming-back-towards-ceuta?traffic_source=rss",
+      "published": "2026-10-27T02:38:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793065499",
+      "title": "Russia halts strikes on Ukraine\u2019s Kherson as Oleshky ceasefire takes effect",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss",
+      "published": "2026-10-27T02:29:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/27/jordan-revenge-attack-on-syria/",
-      "title": "At least seven killed in Jordan's \u2018revenge\u2019 attacks on Syria",
+      "title": "At least seven killed in Jordan's \u2018revenge\u2019 strikes on Syria",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/mena/2026/10/27/jordan-revenge-attack-on-syria/",
       "published": "2026-10-27T02:17:28+00:00",
@@ -179,72 +245,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793057049",
-      "title": "Bolsonaro says police demand passports after Brazil election defeat",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss",
-      "published": "2026-10-26T23:53:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793051452",
-      "title": "Jordan strikes Syria after church attack, killing at least seven people",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
-      "published": "2026-10-26T23:50:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793058317",
-      "title": "Jordan attacks Syria in response to Karak church attack",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
-      "published": "2026-10-26T23:48:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/us/2026/10/27/greece-libya-turkey-maritime-corridor/",
       "title": "Libya-Turkey maritime deal threatens Mediterranean stability, six parties warn",
       "source": "The National UAE",
@@ -405,28 +405,6 @@
       "source_url": "https://breakingdefense.com/2026/10/cyprus-to-acquire-new-offshore-patrol-vessel-with-advanced-naval-systems-from-israel/",
       "published": "2026-10-26T18:11:59+00:00",
       "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/26/israel-heads-to-polls-at-pivotal-moment-for-middle-east/",
-      "title": "Israel heads to polls at pivotal moment for Middle East",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/26/israel-heads-to-polls-at-pivotal-moment-for-middle-east/",
-      "published": "2026-10-26T16:54:31+00:00",
-      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Israel",
