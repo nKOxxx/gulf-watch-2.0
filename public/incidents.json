@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T01:04:58.206167+00:00",
-  "total_incidents": 47,
+  "generated_at": "2026-10-27T01:45:09.778831+00:00",
+  "total_incidents": 46,
   "incidents": [
     {
       "id": "cc7fccbb50cae765b827eedda0097ce3",
@@ -235,28 +235,6 @@
         "city": null,
         "lat": 34.8021,
         "lng": 38.9968
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793040471",
-      "title": "Africa food security under threat due to Iran war, trade officials warn",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
-      "published": "2026-10-26T21:42:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
