@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T19:25:30.481615+00:00",
+  "generated_at": "2026-10-27T20:26:55.951177+00:00",
   "total_incidents": 52,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "title": "Israel election live: Netanyahu\u2019s bid to extend voting hours denied by central elections committee",
+      "title": "Israel election live: exit polls project no clear winner, as anti-Netanyahu bloc leads but Likud remains biggest party",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "published": "2026-10-27T19:11:43+00:00",
+      "published": "2026-10-27T20:23:20+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -15,6 +15,248 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/27/live-israel-election-result-latest-highest-voter-turnout/",
+      "title": "Israel election live: Exit polls indicate deadlock after record-breaking turnout",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/27/live-israel-election-result-latest-highest-voter-turnout/",
+      "published": "2026-10-27T20:22:27+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/27/israel-awaits-election-results-after-turnout-soars/",
+      "title": "Israel awaits election results after turnout soars",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/27/israel-awaits-election-results-after-turnout-soars/",
+      "published": "2026-10-27T20:05:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793126759",
+      "title": "Tanzania\u2019s jailed opposition leader Tundu Lissu ends brief hunger strike",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/27/tanzanias-jailed-opposition-leader-tundu-lissu-ends-brief-hunger-strike?traffic_source=rss",
+      "published": "2026-10-27T20:00:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/news/2026/10/27/us-air-force-awards-lockheed-martin-694m-hypersonic-missile-production-contract/",
+      "title": "US Air Force awards Lockheed Martin $694M hypersonic missile production contract",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-air-force-awards-lockheed-martin-694m-hypersonic-missile-production-contract/",
+      "published": "2026-10-27T19:53:42+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/2026/10/27/openais-sam-altman-urges-companies-to-focus-on-ai-security-threat-as-gpt-6-adoption-soars/",
+      "title": "OpenAI\u2019s Sam Altman urges companies to focus on AI security threat as GPT-6 adoption soars",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/2026/10/27/openais-sam-altman-urges-companies-to-focus-on-ai-security-threat-as-gpt-6-adoption-soars/",
+      "published": "2026-10-27T19:49:30+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/27/legacy-of-7-october-looms-large-as-a-divided-israel-goes-to-the-polls-in-record-numbers",
+      "title": "Legacy of 7 October looms large as a divided Israel goes to the polls in record numbers",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/27/legacy-of-7-october-looms-large-as-a-divided-israel-goes-to-the-polls-in-record-numbers",
+      "published": "2026-10-27T19:47:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793129566",
+      "title": "Qatar\u2019s Emir and Putin call for diplomacy amid US-Iran conflict",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss",
+      "published": "2026-10-27T19:36:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/27/saf-drone-strike-on-sudanese-busy-market-kills-dozens-says-msf/",
+      "title": "SAF drone strike on busy Sudanese market kills dozens, says MSF",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/27/saf-drone-strike-on-sudanese-busy-market-kills-dozens-says-msf/",
+      "published": "2026-10-27T19:34:39+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793100812",
+      "title": "Israel election results live: No clear winner \u2013 first TV exit polls",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss",
+      "published": "2026-10-27T19:28:12+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/news/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health/",
+      "title": "Pentagon creates advisory council on human performance, health",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health/",
+      "published": "2026-10-27T19:24:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/news/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles/",
+      "title": "US Army queries industry\u2019s ability to build 21,000 Infantry Squad Vehicles",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles/",
+      "published": "2026-10-27T19:22:31+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -135,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/27/live-israel-election-result-highest-voter-turnout-extended-hours/",
-      "title": "Israel election live: Committee rules out nationwide extension of voting hours",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/27/live-israel-election-result-highest-voter-turnout-extended-hours/",
-      "published": "2026-10-27T18:29:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "37ff4e3eca619a464cc238b7bfda1cda",
       "title": "UAE President, in the presence of Mohammed bin Rashid, receives the flydubai crew members involved in the in-flight incident on 30 September. Their Highnesses praised the crew\u2019s courage and professionalism in ensuring the safety of passengers and securing the aircraft, affirming that protecting people\u2019s safety and security remains a top priority for the UAE.",
       "source": "Dubai Media Office (RSS.app)",
@@ -172,50 +392,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793124420",
-      "title": "Jerusalem Daily: Israeli elections underway",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/jerusalem-daily-israeli-elections-underway?traffic_source=rss",
-      "published": "2026-10-27T18:12:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793118692",
-      "title": "Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss",
-      "published": "2026-10-27T18:11:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -245,28 +421,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/future/technology/2026/10/27/handala-israel-election-bouquets/",
-      "title": "Iran-linked Handala hacking group sends bouquets and letters to Israel polling sites",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/27/handala-israel-election-bouquets/",
-      "published": "2026-10-27T17:40:32+00:00",
-      "type": "cyber",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/news/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china/",
       "title": "US Army looks to high-flying balloons to help see, strike along front lines with China",
       "source": "Defense News",
@@ -281,50 +435,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793111129",
-      "title": "Spain deports migrants from Ceuta in move criticised by rights group",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/27/spain-deports-migrants-from-ceuta-in-move-criticised-by-rights-group?traffic_source=rss",
-      "published": "2026-10-27T17:10:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/27/call-me-israeli-right-wing-candidates-go-door-to-door-pleading-for-votes/",
-      "title": "'Call me': Israeli right-wing candidates go door to door pleading for votes",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/27/call-me-israeli-right-wing-candidates-go-door-to-door-pleading-for-votes/",
-      "published": "2026-10-27T17:10:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -597,50 +707,6 @@
       }
     },
     {
-      "id": "aa7de0cf58c2a029330088ba43fb3fe9",
-      "title": "\u062a\u0635\u0648\u064a\u0631 \u0623\u0648 \u0646\u0634\u0631 \u0623\u0648 \u062a\u062f\u0627\u0648\u0644 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0630\u0627\u062a \u0635\u0644\u0629 \u0628\u0627\u0644\u062a\u0635\u062f\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0648\u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0645\u0648\u0627\u0642\u0639 \u0633\u0642\u0648\u0637\u0647\u0627 \u064a\u0639\u0631\u0636\u0643 \u0644\u0644\u0645\u0633\u0627\u0621\u0644\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a\u0629. #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 Filming, publishing, or sharing information related to countering missiles and drones and their impact sites exposes you to legal liability. #Ministry_of_Interior",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2115048682949075000",
-      "published": "2026-10-27T11:51:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8985ab1326ce00f5a92d9270b96183d6",
-      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062d\u0631\u064a\u0642\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (911). Alert: The danger has passed in Al Hariq Governorate. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2115048542268010760",
-      "published": "2026-10-27T11:50:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/?p=87042",
       "title": "Britain will not join Canada-led defense bank initiative",
       "source": "Defense News",
@@ -861,28 +927,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
-      "title": "UK sanctions Sudanese military leaders implicated in El Fasher \u2018campaign of rape\u2019",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
-      "published": "2026-10-26T15:07:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3549844e1bcba390bfd86d0232ab4e89",
       "title": "\u0639\u0642\u062f\u062a \u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0648\u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u062c\u0648\u064a \u0628\u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629\u060c \u0648\u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0628\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0643\u0648\u0631\u064a\u0627\u060c \u0627\u062c\u062a\u0645\u0627\u0639\u0627\u064b \u0644\u0628\u062d\u062b \u0633\u0628\u0644 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0641\u064a \u0627\u0644\u0639\u0627\u0635\u0645\u0629 \u0627\u0644\u0643\u0648\u0631\u064a\u0629 \u0633\u064a\u0624\u0648\u0644. \u0648\u0646\u0627\u0642\u0634 \u0627\u0644\u062c\u0627\u0646\u0628\u0627\u0646 \u0639\u062f\u062f \u0645\u0646 \u0627\u0644\u0645\u0648\u0627\u0636\u064a\u0639 \u0641\u064a \u0627\u0644\u0645\u062c\u0627\u0644 \u0627\u0644\u0639\u0633\u0643\u0631\u064a \u0648\u0633\u0628\u0644 \u062a\u0639\u0632\u064a\u0632\u0647\u0627\u060c \u0628\u0645\u0627 \u064a\u062e\u062f\u0645 \u0627\u0644\u0645\u0635\u0627\u0644\u062d \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u0629 \u0648\u064a\u0639\u0643\u0633 \u0645\u062a\u0627\u0646\u0629 \u0627\u0644\u0639\u0644\u0627\u0642\u0627\u062a \u0628\u064a\u0646 \u0627\u0644\u0628\u0644\u062f\u064a\u0646\u060c \u062e\u0635\u0648\u0635\u0627\u064b \u0641\u064a \u0645\u062c\u0627\u0644\u0627\u062a \u0627\u0644\u062a\u062f\u0631\u064a\u0628 \u0648\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u062e\u0628\u0631\u0627\u062a \u0648\u062a\u0637\u0648\u064a\u0631 \u0627\u0644\u0642\u062f\u0631\u0627\u062a \u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a\u064a\u0629. \u0648\u064a\u0623\u062a\u064a \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639 \u0641\u064a \u0625\u0637\u0627\u0631 \u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0634\u0631\u0627\u0643\u0627\u062a \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u0629 \u0648\u062a\u0648\u0633\u064a\u0639 \u0622\u0641\u0627\u0642 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0648\u0627\u0644\u062a\u0646\u0633\u064a\u0642 \u0627\u0644\u0645\u0634\u062a\u0631\u0643 \u0628\u064a\u0646 \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0641\u064a \u0627\u0644\u0628\u0644\u062f\u064a\u0646. The UAE Air Force and Air Defence Command and the Republic of Korea Air Force held a meeting in Seoul to explore avenues for enhancing military cooperation between the two countries. The discussions covered a range of military matters and ave",
       "source": "UAE MOD (RSS.app)",
@@ -898,50 +942,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/?p=86991",
-      "title": "Helsing unveils interceptor missiles designed to chase Russia\u2019s fast-flying Geran drones",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/10/26/helsing-unveils-interceptor-missiles-designed-to-chase-russias-fast-flying-geran-drones/",
-      "published": "2026-10-26T14:53:32+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/uncategorized/2026/10/26/defense-leaders-weigh-in-on-expanding-production-defense-news-weekly-full-episode-102726/",
-      "title": "Defense leaders weigh in on expanding production | Defense News Weekly Full Episode 10.27.26",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/video/2026/10/26/defense-leaders-weigh-in-on-expanding-production-defense-news-weekly-full-episode-102726/",
-      "published": "2026-10-26T13:29:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
