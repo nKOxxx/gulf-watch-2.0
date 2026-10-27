@@ -1,13 +1,35 @@
 {
-  "generated_at": "2026-10-27T10:34:01.011236+00:00",
-  "total_incidents": 55,
+  "generated_at": "2026-10-27T11:32:53.712287+00:00",
+  "total_incidents": 56,
   "incidents": [
+    {
+      "id": "f83044a2ee235e3b488c53a66daac7df",
+      "title": "Dubai Police organises a forum in partnership with Meta as part of activities marking Cybersecurity Awareness Month in October. The forum emphasised the importance of cooperation between law enforcement agencies, technology companies and the public in addressing emerging cybercrime threats and promoting safer online behaviour.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2115040888661639571",
+      "published": "2026-10-27T11:20:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
       "title": "Israel election live: polls open in most consequential vote in country\u2019s history",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "published": "2026-10-27T10:26:35+00:00",
+      "published": "2026-10-27T11:17:41+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -26,10 +48,10 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o#0",
-      "title": "Israel heads to polls for pivotal election defined by security and democracy",
+      "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T10:14:00+00:00",
+      "published": "2026-10-27T11:11:33+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -39,6 +61,94 @@
         "lng": 34.8516
       },
       "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793098264",
+      "title": "Families of victims killed in Jordanian strike deny links to church attack",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/families-of-victims-killed-in-jordanian-strike-deny-links-to-church-attack?traffic_source=rss",
+      "published": "2026-10-27T10:52:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Jordan",
+        "city": null,
+        "lat": 30.5852,
+        "lng": 36.2384
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b0b865b344b2be9e28ac06b8fc43b579",
+      "title": "Dubai Municipality organises the first edition of Cybersecurity Week from 27 to 29 October 2026 at the Radisson Blu Hotel, Dubai Deira Creek, coinciding with the global Cybersecurity Awareness Month. The event aims to strengthen cybersecurity and information security awareness among employees, enhance their ability to recognise digital threats and encourage the adoption of safe digital practices across the Municipality's operations.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2115032960802193813",
+      "published": "2026-10-27T10:48:00+00:00",
+      "type": "cyber",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793080795",
+      "title": "Why Jordan has struck Syria: What we know",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/27/why-jordan-has-struck-syria-what-we-know?traffic_source=rss",
+      "published": "2026-10-27T10:46:53+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793094026",
+      "title": "Iran says US \u2018not serious\u2019 about talks amid Tehran meeting",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss",
+      "published": "2026-10-27T10:36:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -172,28 +282,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793086525",
-      "title": "Israel election results 2026: When will we know who won and what\u2019s next?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/27/israel-election-results-2026-when-will-we-know-who-won-and-whats-next?traffic_source=rss",
-      "published": "2026-10-27T09:22:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -348,50 +436,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793090217",
-      "title": "Israelis begin voting as Netanyahu fights for political survival",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/israelis-begin-voting-as-netanyahu-fights-for-political-survival?traffic_source=rss",
-      "published": "2026-10-27T08:38:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793086446",
-      "title": "Drone strike in Sudan\u2019s Nyala kills at least 21, injures 40",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala?traffic_source=rss",
-      "published": "2026-10-27T08:35:27+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -809,28 +853,6 @@
         "lng": 53.8478
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "043e7b1523f38f05a619eb22055e8100",
-      "title": "Hamdan bin Mohammed meets with President and CEO of Marriott International, one of the world\u2019s largest hospitality companies. The meeting explores prospects for cooperation with the group, founded in 1927, and the growth opportunities Dubai offers international hotel chains given its enduring appeal as a global tourism destination.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2114734982413586708",
-      "published": "2026-10-26T15:04:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
