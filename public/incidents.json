@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-28T18:30:19.381282+00:00",
-  "total_incidents": 48,
+  "generated_at": "2026-10-28T19:25:50.724914+00:00",
+  "total_incidents": 49,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
       "title": "Israel election results live: Netanyahu bloc loses majority as most ballots counted",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "published": "2026-10-28T18:21:51+00:00",
+      "published": "2026-10-28T19:15:11+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -15,6 +15,138 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+      "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+      "published": "2026-10-28T19:14:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/commentisfree/2026/oct/28/the-guardian-view-on-israels-elections-netanyahu-lost-his-mandate-if-opponents-unite-hell-lose-power-too",
+      "title": "The Guardian view on Israel\u2019s elections: Netanyahu lost his mandate. If opponents unite, he\u2019ll lose power too | Editorial",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/commentisfree/2026/oct/28/the-guardian-view-on-israels-elections-netanyahu-lost-his-mandate-if-opponents-unite-hell-lose-power-too",
+      "published": "2026-10-28T19:01:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/28/israel-elections-choice-netanyahu-remaining-power-or-palestinian-backed-coalition",
+      "title": "Israel\u2019s choice: Netanyahu remaining in power or a Palestinian-backed coalition",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/28/israel-elections-choice-netanyahu-remaining-power-or-palestinian-backed-coalition",
+      "published": "2026-10-28T18:54:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793213409",
+      "title": "Students on hunger strike in India demand restoration of student union",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/students-on-hunger-strike-in-india-demand-restoration-of-student-union?traffic_source=rss",
+      "published": "2026-10-28T18:52:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/uncategorized/2026/10/13/inside-msis-next-generation-of-counter-drone-defense/",
+      "title": "Inside MSI\u2019s Next Generation of Counter-Drone Defense",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/video/2026/10/28/inside-msis-next-generation-of-counter-drone-defense/",
+      "published": "2026-10-28T18:32:00+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793211775",
+      "title": "Jerusalem Daily: What\u2019s next after Israel\u2019s elections?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
+      "published": "2026-10-28T18:31:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
       },
       "credibility": 90,
       "is_government": false,
@@ -37,28 +169,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
-      "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
-      "published": "2026-10-28T18:04:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -216,28 +326,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793107646",
-      "title": "Israeli soldier visiting UK faces war crimes complaint",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
-      "published": "2026-10-28T16:06:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -598,7 +686,7 @@
     },
     {
       "id": "https://one.sightlinemg.com/defensenews/?p=87107",
-      "title": "Finlands defense minister talks NATO, Ukraine and fishing",
+      "title": "Finland\u2019s defense minister talks NATO, Ukraine and fishing",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/global/europe/2026/10/28/finlands-defense-minister-talks-nato-ukraine-and-fishing/",
       "published": "2026-10-28T12:28:34+00:00",
@@ -707,50 +795,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
-      "title": "Rise of Palestinian parties in Knesset will redraw Israel\u2019s political landscape",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
-      "published": "2026-10-27T23:57:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
-      "title": "Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
-      "published": "2026-10-27T20:56:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo#0",
       "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
       "source": "BBC Middle East",
@@ -831,28 +875,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=99456",
-      "title": "Defense Department selects Poland for new PAC-3 maintenance facility",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/defense-department-selects-poland-for-new-pac-3-maintenance-facility/",
-      "published": "2026-10-27T18:50:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
