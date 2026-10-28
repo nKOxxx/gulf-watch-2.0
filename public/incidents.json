@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-28T01:26:37.619352+00:00",
-  "total_incidents": 61,
+  "generated_at": "2026-10-28T02:30:29.697939+00:00",
+  "total_incidents": 60,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
       "title": "Israel election live: Netanyahu speaks as exit polls point to tie with Eisenkot opposition bloc",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "published": "2026-10-28T01:24:44+00:00",
+      "published": "2026-10-28T02:13:39+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -26,7 +26,7 @@
     },
     {
       "id": "https://www.aljazeera.com/?t=1793136360",
-      "title": "Arab parties could win 18 Israeli parliament seats",
+      "title": "Arab parties projected to win 18 seats in Israel parliamentary election",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
       "published": "2026-10-28T00:43:56+00:00",
@@ -48,7 +48,7 @@
     },
     {
       "id": "https://www.aljazeera.com/?t=1793143811",
-      "title": "Exit polls trigger heated debate across Israeli political divide",
+      "title": "Netanyahu, Eisenkot camps clash over Israel election projections",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
       "published": "2026-10-28T00:43:02+00:00",
@@ -246,7 +246,7 @@
     },
     {
       "id": "https://www.aljazeera.com/?t=1793110569",
-      "title": "No clear mandate projected in Israel election: What\u2019s next?",
+      "title": "Israel election results: No clear winner projected, what\u2019s next?",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
       "published": "2026-10-27T23:06:47+00:00",
@@ -631,28 +631,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/27/uae-president-honours-flydubai-crew-september-30-attack/",
-      "title": "President honours flydubai crew for courage during September 30 mid-air attack",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/27/uae-president-honours-flydubai-crew-september-30-attack/",
-      "published": "2026-10-27T18:43:04+00:00",
-      "type": "airstrike",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 85,
       "is_government": false,
