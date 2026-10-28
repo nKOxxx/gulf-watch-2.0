@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-28T16:29:23.900491+00:00",
-  "total_incidents": 54,
+  "generated_at": "2026-10-28T17:26:30.156364+00:00",
+  "total_incidents": 52,
   "incidents": [
+    {
+      "id": "604955111bcc8989b9596d0ee14a9ba1",
+      "title": "GCC Secretary General Jasem Al-Budaiwi: The Gulf media ambition goes beyond achieving excellence and leadership to becoming a powerful force in shaping awareness, making an impact and bolstering the GCC's regional and global standing  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115494095850287201",
+      "published": "2026-10-28T17:21:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+      "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 92% of ballots counted",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+      "published": "2026-10-28T17:10:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#0",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T16:59:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized",
+      "title": "Iranian film-maker Jafar Panahi given new prison sentence and has assets seized",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized",
+      "published": "2026-10-28T16:56:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=99559",
+      "title": "UK commits to 3 percent GDP on defense by 2030, new investment partnerships with industry",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/uk-commits-to-3-percent-gdp-on-defense-by-2030-new-investment-partnerships-with-industry/",
+      "published": "2026-10-28T16:43:02+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/israel-election-results-live-netanyahu/",
+      "title": "Israel election live: Ruling Likud party claims Arab parties 'stole' election",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/israel-election-results-live-netanyahu/",
+      "published": "2026-10-28T16:33:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "8d9530ad3a2dd69576c47a0957cab42a",
       "title": "#Kuwait's Minister of Foreign Affairs Sheikh Jarrah Jaber Al-Ahmad Al-Sabah and #Saudi Minister of Defense and Minister of Industry and Mineral Resources Prince Abdulaziz bin Salman Al-Saud discuss firm historical and fraternal relations  #KUNA",
@@ -18,6 +150,28 @@
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793107646",
+      "title": "Israeli soldier visiting UK faces war crimes complaint",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
+      "published": "2026-10-28T16:06:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -105,28 +259,6 @@
         "lng": 34.8516
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 92% of ballots counted",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "published": "2026-10-28T15:51:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -333,28 +465,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793193393",
-      "title": "Are GCC countries looking for a regional security pact with Iran?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/28/are-gcc-countries-looking-for-a-regional-security-pact-with-iran?traffic_source=rss",
-      "published": "2026-10-28T14:51:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/us/2026/10/28/bolsonaro-miami-visa-lula/",
       "title": "Brazilian former presidential hopeful Flavio Bolsonaro in US after failing to hand in passport",
       "source": "The National UAE",
@@ -465,11 +575,11 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793188900",
-      "title": "Why Arab parties may not be the \u2018kingmakers\u2019 in this Israeli election",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/28/can-israeli-leader-eisenkot-ally-with-arab-parties-to-unseat-netanyahu?traffic_source=rss",
-      "published": "2026-10-28T14:30:17+00:00",
+      "id": "https://www.bbc.co.uk/news/videos/c893zeknlvnno#0",
+      "title": "Israel's election result is messy - here's why",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T14:26:24+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -478,7 +588,7 @@
         "lat": 31.0461,
         "lng": 34.8516
       },
-      "credibility": 90,
+      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -509,50 +619,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/israel-election-results-live-netanyahu/",
-      "title": "Israel election live: Isaac Herzog urges parties to avoid another election as counting nears end",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/israel-election-results-live-netanyahu/",
-      "published": "2026-10-28T14:15:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793185068",
-      "title": "Espionage threats blur lines between security and dissent in Iran",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/28/iran-faces-espionage-attempts-but-using-threat-for-crackdown-on-opponents?traffic_source=rss",
-      "published": "2026-10-28T14:03:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/uae/2026/10/28/uaes-emirates-red-crescent-provides-dh50-million-in-winter-aid-to-gaza/",
       "title": "UAE's Emirates Red Crescent provides Dh50 million in winter aid to Gaza",
       "source": "The National UAE",
@@ -572,28 +638,6 @@
         "total": 0,
         "military": 0,
         "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/europe/2026/10/28/two-high-speed-trains-collide-in-spain-killing-at-least-10-people/",
-      "title": "At least 68 killed after trains collide in Spain",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/28/two-high-speed-trains-collide-in-spain-killing-at-least-10-people/",
-      "published": "2026-10-28T13:39:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 68,
-        "military": 0,
-        "civilian": 68
       }
     },
     {
@@ -729,28 +773,6 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo#0",
-      "title": "Israeli exit polls suggest no clear winner in pivotal general election",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T02:09:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
       "title": "Rise of Palestinian parties in Knesset will redraw Israel\u2019s political landscape",
       "source": "The Guardian",
@@ -839,28 +861,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/27/legacy-of-7-october-looms-large-as-a-divided-israel-goes-to-the-polls-in-record-numbers",
-      "title": "Legacy of 7 October looms large as a divided Israel goes to the polls in record numbers",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/27/legacy-of-7-october-looms-large-as-a-divided-israel-goes-to-the-polls-in-record-numbers",
-      "published": "2026-10-27T19:47:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/news/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health/",
       "title": "Pentagon creates advisory council on human performance, health",
       "source": "Defense News",
@@ -927,28 +927,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=99355",
-      "title": "A more flexible way to defend maneuver forces from drones that doesn\u2019t tie them down",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/a-more-flexible-way-to-defend-maneuver-forces-from-drones-that-doesnt-tie-them-down/",
-      "published": "2026-10-27T18:48:04+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/news/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china/",
       "title": "US Army looks to high-flying balloons to help see, strike along front lines with China",
       "source": "Defense News",
@@ -963,28 +941,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=99419",
-      "title": "Another Michigan auto firm enters defense industry as state tries to revive \u2018Arsenal of Democracy\u2019",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/another-michigan-auto-firm-enters-defense-industry-as-state-tries-to-revive-arsenal-of-democracy/",
-      "published": "2026-10-27T17:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
