@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-28T21:25:50.209273+00:00",
-  "total_incidents": 47,
+  "generated_at": "2026-10-28T22:26:11.683934+00:00",
+  "total_incidents": 46,
   "incidents": [
+    {
+      "id": "311866873de9d44ef0e8bacd8ef08a86",
+      "title": "Pakistani Defense Minister Khawaja Muhammad Asif and Commander of the Kuwaiti Naval Force Major General (Navy) Saif Al-Hamlan met to discuss expanding bilateral naval ties and strengthening regional maritime security.",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115567823636349114",
+      "published": "2026-10-28T22:14:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/28/gaza-us-2028-presidential-race/",
+      "title": "US officials who quit over Gaza urge 2028 presidential hopefuls not to hire war supporters",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/28/gaza-us-2028-presidential-race/",
+      "published": "2026-10-28T21:46:45+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#0",
       "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
@@ -553,28 +597,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/28/bolsonaro-miami-visa-lula/",
-      "title": "Brazilian former presidential hopeful Flavio Bolsonaro in US after failing to hand in passport",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/28/bolsonaro-miami-visa-lula/",
-      "published": "2026-10-28T14:50:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=99452",
       "title": "Navy faces \u2018years-long\u2019 maintenance crunch amid record-breaking, extended deployments",
       "source": "Breaking Defense",
@@ -741,28 +763,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "title": "Major Israeli TV networks revise polling projections \u2013 as it happened",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "published": "2026-10-28T04:08:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -1005,28 +1005,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo#1",
-      "title": "Deeply divided Israel braces for pivotal election",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25T22:11:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 95,
       "is_government": false,
