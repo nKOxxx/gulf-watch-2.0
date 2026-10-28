@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-28T22:26:11.683934+00:00",
-  "total_incidents": 46,
+  "generated_at": "2026-10-28T23:25:52.978913+00:00",
+  "total_incidents": 45,
   "incidents": [
+    {
+      "id": "https://one.sightlinemg.com/defensenews/news/2026/10/28/us-navy-reports-highest-number-of-class-a-aviation-afloat-mishaps-in-10-years/",
+      "title": "US Navy reports highest number of Class A aviation, afloat mishaps in 10 years",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/naval/2026/10/28/us-navy-reports-highest-number-of-class-a-aviation-afloat-mishaps-in-10-years/",
+      "published": "2026-10-28T23:02:32+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "789199f1f51dfa7a1830e8d1306a3f9c",
+      "title": "Minister of Defense Sheikh Abdullah Al-Ali Al-Sabah and Saudi Minister of Defense Prince Khaled bin Salman Al Saud held talks addressing regional security developments and defense coordination.",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115568398167846926",
+      "published": "2026-10-28T22:16:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "311866873de9d44ef0e8bacd8ef08a86",
       "title": "Pakistani Defense Minister Khawaja Muhammad Asif and Commander of the Kuwaiti Naval Force Major General (Navy) Saif Al-Hamlan met to discuss expanding bilateral naval ties and strengthening regional maritime security.",
@@ -169,28 +213,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793207901",
-      "title": "What are the implications of Israel\u2019s elections?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
-      "published": "2026-10-28T19:03:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -411,28 +433,6 @@
         "city": null,
         "lat": 24.5247,
         "lng": 39.5692
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "cece2e18be8cf2ae35206df60c1d6a5c",
-      "title": "#Kuwait presents a working paper on emerging drug threats at the 40th Arab Conference of Heads of Anti-Narcotics Agencies, held in #Tunisia by the General Secretariat of the Council of Arab Interior Ministers  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115474537278054887",
-      "published": "2026-10-28T16:03:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
@@ -823,28 +823,6 @@
       "source_url": "https://www.defensenews.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health/",
       "published": "2026-10-27T19:24:01+00:00",
       "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/news/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles/",
-      "title": "US Army queries industry\u2019s ability to build 21,000 Infantry Squad Vehicles",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles/",
-      "published": "2026-10-27T19:22:31+00:00",
-      "type": "ground",
       "status": "unconfirmed",
       "location": {
         "country": null,
