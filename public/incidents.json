@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T23:25:53.824415+00:00",
-  "total_incidents": 59,
+  "generated_at": "2026-10-28T00:49:46.381302+00:00",
+  "total_incidents": 61,
   "incidents": [
     {
-      "id": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "title": "Israel election live: setback for Netanyahu as exit polls show strong opposition",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "published": "2026-10-27T23:24:42+00:00",
+      "id": "https://www.aljazeera.com/?t=1793147268",
+      "title": "Israel\u2019s Eisenkot says country voted for change",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss",
+      "published": "2026-10-28T00:30:22+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -18,6 +18,116 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "title": "Israel election live: Netanyahu and Eisenkot opposition blocs tied in latest exit polls",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "published": "2026-10-28T00:29:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
+      "title": "Rise of Palestinian parties in Knesset will redraw Israel\u2019s political landscape",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
+      "published": "2026-10-27T23:57:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793121363",
+      "title": "Gaza\u2019s women filmmakers turn pain into cinema as new academy launches",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
+      "published": "2026-10-27T23:35:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793142801",
+      "title": "A bad day for Ben-Gvir as he addresses his supporters",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss",
+      "published": "2026-10-27T23:16:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "44175cc7b81f01cc0c5fe8f28213b6bf",
+      "title": "#Kuwait steadfast support from #UN charter principal  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115221126611693930",
+      "published": "2026-10-27T23:16:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -91,6 +201,50 @@
       }
     },
     {
+      "id": "https://www.aljazeera.com/?t=1793110569",
+      "title": "No clear mandate projected in Israel election: What\u2019s next?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
+      "published": "2026-10-27T23:06:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793141993",
+      "title": "Smotrich dances in Israel despite far-right decline",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss",
+      "published": "2026-10-27T23:03:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "d83d2020b8ebaab2f7695fa986823d2e",
       "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0645\u062d\u0627\u0641\u0638\u0629 \u064a\u0646\u0628\u0639 \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in the Yanbu Governorate to alert of a potential danger. Please follow the instructions below:",
       "source": "Saudi Civil Defense (RSS.app)",
@@ -135,11 +289,11 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
-      "title": "Rise of Palestinian parties in Knesset will redraw Israel\u2019s political landscape",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
-      "published": "2026-10-27T22:48:19+00:00",
+      "id": "https://www.aljazeera.com/?t=1793140874",
+      "title": "Arab towns in Israel celebrate historic Knesset gains with fireworks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss",
+      "published": "2026-10-27T22:56:32+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -201,72 +355,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793116401",
-      "title": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
-      "published": "2026-10-27T21:28:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793130309",
-      "title": "Will players in the Gulf establish a new security framework?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/inside-story/2026/10/27/will-players-in-the-gulf-establish-a-new-security-framework?traffic_source=rss",
-      "published": "2026-10-27T21:14:12+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793128497",
-      "title": "Dream postponed: Hebron groom caught in Israeli military lockdown",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/27/dream-postponed-hebron-groom-caught-in-israeli-military-lockdown?traffic_source=rss",
-      "published": "2026-10-27T21:12:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
       "title": "Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats",
       "source": "The Guardian",
@@ -279,28 +367,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793130059",
-      "title": "US says it killed five people in strike on alleged drug boat",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss",
-      "published": "2026-10-27T20:54:38+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -348,28 +414,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793128556",
-      "title": "Egypt orders closure of leading independent news site Mada Masr",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/27/egypt-orders-closure-of-leading-independent-news-site-mada-masr?traffic_source=rss",
-      "published": "2026-10-27T20:35:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.8206,
-        "lng": 30.8025
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
