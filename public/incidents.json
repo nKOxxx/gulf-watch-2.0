@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-28T00:49:46.381302+00:00",
+  "generated_at": "2026-10-28T01:26:37.619352+00:00",
   "total_incidents": 61,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1793147268",
-      "title": "Israel\u2019s Eisenkot says country voted for change",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss",
-      "published": "2026-10-28T00:30:22+00:00",
+      "id": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "title": "Israel election live: Netanyahu speaks as exit polls point to tie with Eisenkot opposition bloc",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "published": "2026-10-28T01:24:44+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -25,11 +25,55 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "title": "Israel election live: Netanyahu and Eisenkot opposition blocs tied in latest exit polls",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "published": "2026-10-28T00:29:26+00:00",
+      "id": "https://www.aljazeera.com/?t=1793136360",
+      "title": "Arab parties could win 18 Israeli parliament seats",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
+      "published": "2026-10-28T00:43:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793143811",
+      "title": "Exit polls trigger heated debate across Israeli political divide",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
+      "published": "2026-10-28T00:43:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793147268",
+      "title": "Israel\u2019s Eisenkot says country voted for change",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss",
+      "published": "2026-10-28T00:30:22+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -301,50 +345,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793140137",
-      "title": "\u2018Go home, Ben-Gvir\u2019; Arab Bloc celebrates record turnout in Israel election",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss",
-      "published": "2026-10-27T22:31:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793137967",
-      "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
-      "published": "2026-10-27T22:29:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
