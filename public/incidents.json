@@ -1,13 +1,57 @@
 {
-  "generated_at": "2026-10-28T19:25:50.724914+00:00",
+  "generated_at": "2026-10-28T20:27:57.977640+00:00",
   "total_incidents": 49,
   "incidents": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#0",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T20:24:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/news/2026/10/28/cost-estimate-for-iran-war-rises-to-more-than-47-billion/",
+      "title": "Cost estimate for Iran war rises to more than $47 billion",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/video/2026/10/28/cost-estimate-for-iran-war-rises-to-more-than-47-billion/",
+      "published": "2026-10-28T20:16:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
       "title": "Israel election results live: Netanyahu bloc loses majority as most ballots counted",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "published": "2026-10-28T19:15:11+00:00",
+      "published": "2026-10-28T20:03:20+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -29,7 +73,73 @@
       "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
-      "published": "2026-10-28T19:14:24+00:00",
+      "published": "2026-10-28T19:58:27+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9c3d4aed8b30877998a57f9468363aa2",
+      "title": ". The ministers of information of the Gulf Cooperation Council (GCC) underscored that the cohesion and solidarity among ...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DfDOKDTtrid",
+      "published": "2026-10-28T19:49:24+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793215853",
+      "title": "Spain demands answers after deadliest train disaster in over a decade",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss",
+      "published": "2026-10-28T19:32:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793207901",
+      "title": "What are the implications of Israel\u2019s elections?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
+      "published": "2026-10-28T19:03:03+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -179,28 +289,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793201370",
-      "title": "Balad leader blasts \u2018racist\u2019 exclusion of Arab parties in Israel",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/28/balad-leader-blasts-racist-exclusion-of-arab-parties-in-israel?traffic_source=rss",
-      "published": "2026-10-28T17:54:51+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "604955111bcc8989b9596d0ee14a9ba1",
       "title": "GCC Secretary General Jasem Al-Budaiwi: The Gulf media ambition goes beyond achieving excellence and leadership to becoming a powerful force in shaping awareness, making an impact and bolstering the GCC's regional and global standing  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -216,28 +304,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#0",
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T16:59:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -487,28 +553,6 @@
       }
     },
     {
-      "id": "c1e22a6a12989e5faf5859a4d398d545",
-      "title": "#NATO Secretary-General Mark Rutte welcomes #Britain\u2019s commitment to increasing defense spending, stressing that the country\u2019s role in transatlantic security is vital  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115462668655943723",
-      "published": "2026-10-28T15:16:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb",
       "title": "Israel election: what we know so far",
       "source": "The Guardian",
@@ -545,28 +589,6 @@
         "lng": 39.5692
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "99914cf12634b44056928c92da44673b",
-      "title": "Air #Algerie resumes commercial flights to #Libya after a 12-year hiatus, launching an inaugural flight connecting Algiers Houari Boumediene Airport to Tripoli, Libya  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115457173832569229",
-      "published": "2026-10-28T14:54:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 34.4346,
-        "lng": 35.8362
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -867,28 +889,6 @@
       "source_url": "https://www.defensenews.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles/",
       "published": "2026-10-27T19:22:31+00:00",
       "type": "ground",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/news/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china/",
-      "title": "US Army looks to high-flying balloons to help see, strike along front lines with China",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china/",
-      "published": "2026-10-27T17:22:47+00:00",
-      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": null,
