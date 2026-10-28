@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T20:27:57.977640+00:00",
-  "total_incidents": 49,
+  "generated_at": "2026-10-28T21:25:50.209273+00:00",
+  "total_incidents": 47,
   "incidents": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#0",
@@ -201,28 +201,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793213409",
-      "title": "Students on hunger strike in India demand restoration of student union",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/students-on-hunger-strike-in-india-demand-restoration-of-student-union?traffic_source=rss",
-      "published": "2026-10-28T18:52:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/uncategorized/2026/10/13/inside-msis-next-generation-of-counter-drone-defense/",
       "title": "Inside MSI\u2019s Next Generation of Counter-Drone Defense",
       "source": "Defense News",
@@ -235,28 +213,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793211775",
-      "title": "Jerusalem Daily: What\u2019s next after Israel\u2019s elections?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
-      "published": "2026-10-28T18:31:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
       },
       "credibility": 90,
       "is_government": false,
