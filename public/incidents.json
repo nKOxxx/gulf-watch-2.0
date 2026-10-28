@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-28T08:30:33.233921+00:00",
-  "total_incidents": 49,
+  "generated_at": "2026-10-28T09:28:49.345095+00:00",
+  "total_incidents": 47,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+      "title": "Israel election results live: vote count continues as exit polls suggest no clear winner",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+      "published": "2026-10-28T09:22:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/israel-election-live-netanyahu/",
+      "title": "Israel election live: Netanyahu's coalition ahead as change bloc urged to embrace Arab parties",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/israel-election-live-netanyahu/",
+      "published": "2026-10-28T09:11:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/future/technology/2026/10/28/formula-one-the-best-showcase-for-ai-in-sport-oracle-red-bull-executive-says/",
+      "title": "Formula One the 'best showcase' for AI in sport, Oracle Red Bull executive says",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/28/formula-one-the-best-showcase-for-ai-in-sport-oracle-red-bull-executive-says/",
+      "published": "2026-10-28T09:02:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793176260",
+      "title": "Khouri: Strong Israel-Arab bloc result does not mean Israel has changed",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/khouri-strong-israel-arab-bloc-result-does-not-mean-israel-has-changed?traffic_source=rss",
+      "published": "2026-10-28T08:35:05+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=99394",
+      "title": "Australia pushes to beef up air defenses",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/australia-pushes-to-beef-up-air-defenses/",
+      "published": "2026-10-28T08:34:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "586b561ea968bd9546e1ab93bcaaea76",
+      "title": "Dubai Future Foundation through Sandbox Dubai, launches the AI Sandbox to help local and international technology companies overcome regulatory and policy barriers that can prevent promising artificial intelligence (AI) solutions from moving beyond experimentation into real-world deployment. The initiative will bring together startups, SMEs, established technology companies and relevant government entities, including the Dubai Centre for Artificial Intelligence (DCAI), to test AI-native solutions in real-world environments.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2115361534226645179",
+      "published": "2026-10-28T08:34:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/28/live-iran-war-qatar/",
       "title": "Middle East latest: Qatari mediators present Iran with deal to end war, official says",
@@ -17,28 +149,6 @@
         "lng": 53.688
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "title": "Israel election results live: vote count continues as exit polls suggest no clear winner",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "published": "2026-10-28T08:16:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -83,28 +193,6 @@
         "lng": 34.8516
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793172813",
-      "title": "Elderly women and children survive Russian attack on Kharkiv",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-children-survive-russian-attack-on-kharkiv?traffic_source=rss",
-      "published": "2026-10-28T07:35:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -172,28 +260,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/28/netanyahu-claims-victory-jordan-and-syria-agree-on-security-committee-and-dubai-approves-dh2bn-urban-plan/",
-      "title": "Netanyahu claims victory, Jordan and Syria agree on security committee and Dubai approves Dh2bn urban plan",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/28/netanyahu-claims-victory-jordan-and-syria-agree-on-security-committee-and-dubai-approves-dh2bn-urban-plan/",
-      "published": "2026-10-28T06:25:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -392,28 +458,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e375897d0767699b3f0bc978562c4fcd",
-      "title": "UAE President confers the First Class Order of Zayed II on the flydubai crew members involved in September\u2019s in-flight incident, in recognition of their courageous efforts to ensure the safety of passengers. The honours were presented by Hamdan bin Mohammed, who commended the crew\u2019s actions and sense of responsibility.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2115182263977853108",
-      "published": "2026-10-27T20:42:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -641,28 +685,6 @@
       }
     },
     {
-      "id": "649b30e623eb8382878aa8dc06881132",
-      "title": "His Highness the Amir attends #Kuwait's National Guard military exercise, as His Highness closely monitors their level of preparedness to deal with any potential emergencies.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115110135810953361",
-      "published": "2026-10-27T15:55:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/?p=87065",
       "title": "Building a power layer for the robotic battlefield \u2014 Chariot Defense",
       "source": "Defense News",
@@ -700,28 +722,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "47504c2d7d4ad6c8f9dcdceefbda1e7c",
-      "title": "The International Federation of Red Cross & Red Crescent Societies affirms its readiness to provide logistical & technical support & to foster the exchange of expertise with the #Kuwait Red Crescent Society.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115077472790233450",
-      "published": "2026-10-27T13:45:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -795,28 +795,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=99382",
-      "title": "USAF should buy newly designed air refuelers to meet China threat: Report",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/usaf-should-buy-newly-designed-air-refuelers-to-meet-china-threat-report/",
-      "published": "2026-10-27T12:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/?p=87042",
       "title": "Britain will not join Canada-led defense bank initiative",
       "source": "Defense News",
@@ -875,28 +853,6 @@
         "lng": 38.9968
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/news/2026/10/26/army-practices-digging-temporary-battlefield-graves/",
-      "title": "US Army practices digging temporary battlefield graves",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/land/2026/10/26/army-practices-digging-temporary-battlefield-graves/",
-      "published": "2026-10-26T18:57:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
