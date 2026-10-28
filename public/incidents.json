@@ -1,7 +1,249 @@
 {
-  "generated_at": "2026-10-28T15:27:49.740452+00:00",
+  "generated_at": "2026-10-28T16:29:23.900491+00:00",
   "total_incidents": 54,
   "incidents": [
+    {
+      "id": "8d9530ad3a2dd69576c47a0957cab42a",
+      "title": "#Kuwait's Minister of Foreign Affairs Sheikh Jarrah Jaber Al-Ahmad Al-Sabah and #Saudi Minister of Defense and Minister of Industry and Mineral Resources Prince Abdulaziz bin Salman Al-Saud discuss firm historical and fraternal relations  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115478845897814502",
+      "published": "2026-10-28T16:20:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2fc463373576b8a5c2f69bd7bc49183e",
+      "title": "#Kuwaiti Minister of State for Communications and Information Technology and Acting Minister of Information and Culture Omar Al-Omar says #Kuwait is keen to bolster Gulf media cooperation and integration and address media challenges  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115475026388431200",
+      "published": "2026-10-28T16:05:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+      "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+      "published": "2026-10-28T16:04:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "cece2e18be8cf2ae35206df60c1d6a5c",
+      "title": "#Kuwait presents a working paper on emerging drug threats at the 40th Arab Conference of Heads of Anti-Narcotics Agencies, held in #Tunisia by the General Secretariat of the Council of Arab Interior Ministers  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115474537278054887",
+      "published": "2026-10-28T16:03:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/arab-parties-set-sights-on-removing-netanyahu-as-israel-counts-last-votes/",
+      "title": "Arab parties set sights on removing Netanyahu as Israel counts last votes",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/arab-parties-set-sights-on-removing-netanyahu-as-israel-counts-last-votes/",
+      "published": "2026-10-28T15:59:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+      "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 92% of ballots counted",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+      "published": "2026-10-28T15:51:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/economy/2026/10/28/energy-prices-climb-world-bank/",
+      "title": "Energy prices to climb 32% this year as global shocks mount, World Bank says",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/28/energy-prices-climb-world-bank/",
+      "published": "2026-10-28T15:48:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/?p=87142",
+      "title": "Increasing cyber capability for national defense",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/2026/10/28/increasing-cyber-capability-for-national-defense/",
+      "published": "2026-10-28T15:46:01+00:00",
+      "type": "cyber",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b5f07dd7842054ba930dbfb4f199ae7c",
+      "title": "\u0643\u062c\u0632\u0621 \u0645\u0646 \u0627\u0644\u0645\u0644\u062a\u0642\u0649 \u0627\u0644\u0625\u0639\u0644\u0627\u0645\u064a\u060c \u0639\u0642\u062f\u062a \u0627\u0644\u0647\u064a\u0626\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0625\u062f\u0627\u0631\u0629 #\u0627\u0644\u0637\u0648\u0627\u0631\u0626_\u0648\u0627\u0644\u0623\u0632\u0645\u0627\u062a \u0648\u0627\u0644\u0643\u0648\u0627\u0631\u062b \u062a\u0645\u0631\u064a\u0646 \u0625\u0639\u0644\u0627\u0645\u064a \u062a\u0637\u0628\u064a\u0642\u064a \u064a\u062d\u0627\u0643\u064a \u0633\u064a\u0646\u0627\u0631\u064a\u0648 \u0623\u0632\u0645\u0629 \u0648\u0627\u0642\u0639\u064a\u0629 \u0644\u0627\u062e\u062a\u0628\u0627\u0631 \u0633\u0631\u0639\u0629 \u0627\u0644\u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0648\u0643\u0641\u0627\u0621\u0629 \u0627\u0644\u062a\u0646\u0633\u064a\u0642 \u0648\u0627\u062a\u062e\u0627\u0630 \u0627\u0644\u0642\u0631\u0627\u0631 \u0627\u0644\u0627\u062a\u0635\u0627\u0644\u064a \u0648\u064a\u0646\u0627\u0642\u0634 \u062a\u062d\u062f\u064a\u0627\u062a \u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0648\u062a\u0648\u062d\u064a\u062f \u0627\u0644\u0631\u0633\u0627\u0626\u0644 \u0627\u0644\u0625\u0639\u0644\u0627\u0645\u064a\u0629\u060c \u0648\u064a\u0633\u062a\u0647\u062f\u0641 \u0628\u0644\u0648\u0631\u0629 \u062a\u0648\u0635\u064a\u0627\u062a \u0639\u0645\u0644\u064a\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u062c\u0627\u0647\u0632\u064a\u0629 \u0627\u0644\u0625\u0639\u0644\u0627\u0645\u064a\u0629. As part of the Media Forum, the National Emergency, Crisis and Disaster Management Authority #NCEMA conducted a practical media exercise simulating a realistic crisis scenario, aimed at testing the speed of response, the efficiency of coordination, and communication decision-making. The exercise further examined the challenges of information management and the unification of media messages, with the",
+      "source": "UAE NCEMA (RSS.app)",
+      "source_url": "https://x.com/NCEMAUAE/status/2115467038697415113",
+      "published": "2026-10-28T15:33:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/28/sheikh-ahmed-honoured-with-dubai-it-award-for-transforming-aviation-sector/",
+      "title": "Sheikh Ahmed honoured with Dubai-it award for transforming aviation sector",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/28/sheikh-ahmed-honoured-with-dubai-it-award-for-transforming-aviation-sector/",
+      "published": "2026-10-28T15:31:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "00f86e470dc48a56b806aee1fab789ed",
+      "title": "RT by @DXBMediaOffice: I'm deeply honoured to receive this recognition. My sincere thanks to His Highness Sheikh Mohammed bin Rashid and His Highness Sheikh Hamdan bin Mohammed for the trust placed in me, and for their unwavering support of aviation through forward-looking policies that made this journey possible. This success belongs to all of Dubai. It is the result of the hard work and dedication of a great team of people at Emirates, flydubai, Dubai Airports and our partners across the sector, who turned a vision into reality. Dubai\u2019s best days in the skies are still ahead.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/HHAhmedBinSaeed/status/2115466471036100826",
+      "published": "2026-10-28T15:31:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "c1e22a6a12989e5faf5859a4d398d545",
       "title": "#NATO Secretary-General Mark Rutte welcomes #Britain\u2019s commitment to increasing defense spending, stressing that the country\u2019s role in transatlantic security is vital  #KUNA",
@@ -84,28 +326,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 92% of ballots counted",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "published": "2026-10-28T14:52:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -202,7 +422,7 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo#0",
-      "title": "How could Israel break political deadlock? Here are four scenarios",
+      "title": "How could Israel break election deadlock? Here are four scenarios",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-28T14:30:31+00:00",
@@ -333,28 +553,6 @@
       }
     },
     {
-      "id": "4cb3847dccc8ed5384b09d03fef2170c",
-      "title": "Latifa bint Mohammed to lead a high-level delegation of government leaders and officials to South Korea. The visit will explore opportunities to deepen cooperation and knowledge exchange and learn from experiences across sectors shaping the future of both countries.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2115443137976164821",
-      "published": "2026-10-28T13:58:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/uae/2026/10/28/uaes-emirates-red-crescent-provides-dh50-million-in-winter-aid-to-gaza/",
       "title": "UAE's Emirates Red Crescent provides Dh50 million in winter aid to Gaza",
       "source": "The National UAE",
@@ -377,135 +575,25 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793193277",
-      "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss",
-      "published": "2026-10-28T13:47:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/europe/2026/10/28/two-high-speed-trains-collide-in-spain-killing-at-least-10-people/",
-      "title": "More than 60 killed after trains collide in Spain",
+      "title": "At least 68 killed after trains collide in Spain",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/europe/2026/10/28/two-high-speed-trains-collide-in-spain-killing-at-least-10-people/",
       "published": "2026-10-28T13:39:49+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Iran",
+        "country": null,
         "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 85,
       "is_government": false,
       "casualties": {
-        "total": 60,
+        "total": 68,
         "military": 0,
-        "civilian": 60
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/economy/2026/10/28/israels-economic-outlook-hinges-on-next-government-as-shekel-and-stocks-slide/",
-      "title": "Israel\u2019s economic outlook hinges on next government as shekel and stocks slide",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/28/israels-economic-outlook-hinges-on-next-government-as-shekel-and-stocks-slide/",
-      "published": "2026-10-28T13:33:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/live-iran-war-houthis-aden-airport-sanaa/",
-      "title": "Middle East latest: Yemen says Houthis attacked Aden airport twice with ballistic missiles",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/live-iran-war-houthis-aden-airport-sanaa/",
-      "published": "2026-10-28T13:28:14+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Yemen",
-        "city": null,
-        "lat": 12.7855,
-        "lng": 45.0187
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/oman-calls-for-economic-and-security-pact-between-iran-and-gulf-countries/",
-      "title": "Oman calls for economic and security pact between Iran and Gulf countries",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/oman-calls-for-economic-and-security-pact-between-iran-and-gulf-countries/",
-      "published": "2026-10-28T13:13:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "774b88162292444ce5a35f308d372c26",
-      "title": "#Kuwait's Foreign Ministry, represented by Deputy Foreign Minister Ambassador Hamad Al-Mashaan, summons Iranian Ambassador Mohammad Totounji to hand him a note of protest regarding a statement issued by the Iranian Embassy in Kuwait.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115431554608501043",
-      "published": "2026-10-28T13:12:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
+        "civilian": 68
       }
     },
     {
@@ -553,50 +641,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
-      "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
-      "published": "2026-10-28T11:21:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5e727ed3f36d654a423f45ce5fea247d",
-      "title": ". ADNOC Drilling Company PJSC on Wednesday reported revenue of $3.7 billion, EBITDA of $1.66 billion and net profit of $...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DfCLv87oKxs",
-      "published": "2026-10-28T10:09:15+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/commentisfree/2026/oct/28/israel-election-exit-poll-netanyahu-survives",
       "title": "A bitter night in Israel for all who craved a fresh start. Netanyahu survives for now \u2013 and we are more divided than ever | Dahlia Scheindlin",
       "source": "The Guardian",
@@ -612,28 +656,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "cf22bac028f5ac14682eb508361eb25f",
-      "title": ". The UAE continues to provide humanitarian assistance to residents of the Gaza Strip under Operation Chivalrous Knight ...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DfCG4LXozBc",
-      "published": "2026-10-28T09:26:45+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -977,28 +999,6 @@
       "source_url": "https://www.defensenews.com/global/europe/2026/10/27/us-taps-poland-to-host-european-pac-3-missile-maintenance-facility/",
       "published": "2026-10-27T16:42:28+00:00",
       "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/?p=87065",
-      "title": "Building a power layer for the robotic battlefield \u2014 Chariot Defense",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/2026/10/27/building-a-power-layer-for-the-robotic-battlefield-chariot-defense/",
-      "published": "2026-10-27T15:10:49+00:00",
-      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": null,
