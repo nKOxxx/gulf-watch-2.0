@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-10-28T12:34:11.616852+00:00",
-  "total_incidents": 55,
+  "generated_at": "2026-10-28T13:27:18.973259+00:00",
+  "total_incidents": 52,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+      "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 92% of ballots counted",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+      "published": "2026-10-28T13:26:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/oman-calls-for-economic-and-security-pact-between-iran-and-gulf-countries/",
+      "title": "Oman calls for economic and security pact between Iran and Gulf countries",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/oman-calls-for-economic-and-security-pact-between-iran-and-gulf-countries/",
+      "published": "2026-10-28T13:13:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "774b88162292444ce5a35f308d372c26",
+      "title": "#Kuwait's Foreign Ministry, represented by Deputy Foreign Minister Ambassador Hamad Al-Mashaan, summons Iranian Ambassador Mohammad Totounji to hand him a note of protest regarding a statement issued by the Iranian Embassy in Kuwait.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115431554608501043",
+      "published": "2026-10-28T13:12:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/egyptian-court-orders-closure-of-news-website-and-fines-editor-in-chief/",
+      "title": "Egyptian court orders closure of news website and fines editor-in-chief",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/egyptian-court-orders-closure-of-news-website-and-fines-editor-in-chief/",
+      "published": "2026-10-28T13:02:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.8206,
+        "lng": 30.8025
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "467127c8c2d4776777ed7ff9a642ec62",
+      "title": "RT by @DXBMediaOffice: In recognition of his exceptional leadership in transforming Dubai\u2019s aviation sector and establishing the emirate as one of the world\u2019s leading aviation hubs, we are presenting the Dubai-it Award to His Highness Sheikh Ahmed bin Saeed Al Maktoum. Under his leadership, Dubai\u2019s aviation sector has achieved extraordinary growth. Emirates\u2019 fleet has expanded nearly 139-fold and its destination network 76-fold, while flydubai has grown rapidly. Dubai International Airport welcomed a record 95.2 million passengers in a single year, setting a world record for international passenger traffic. From a sandy runway and two leased aircraft to a global aviation hub, Dubai\u2019s remarka",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/HamdanMohammed/status/2115428417030295822",
+      "published": "2026-10-28T13:00:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/what-are-the-main-palestinian-israeli-parties-and-why-are-they-doing-so-well/",
+      "title": "What are the main Palestinian Israeli parties and why are they doing so well?",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/what-are-the-main-palestinian-israeli-parties-and-why-are-they-doing-so-well/",
+      "published": "2026-10-28T12:41:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793190800",
+      "title": "Victims of Jordan\u2019s air strikes in Syria",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss",
+      "published": "2026-10-28T12:35:19+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/?p=87107",
+      "title": "Finlands defense minister talks NATO, Ukraine and fishing",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/28/finlands-defense-minister-talks-nato-ukraine-and-fishing/",
+      "published": "2026-10-28T12:28:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793181602",
+      "title": "Israel\u2019s election: The battle between change and anti-Palestinian sentiment",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/28/israels-election-the-battle-between-change-and-anti-palestinian-sentiment?traffic_source=rss",
+      "published": "2026-10-28T12:22:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/uae/2026/10/28/sharjah-shuts-beaches-oil-spill-umm-al-quwain-coast/",
       "title": "UAE oil spill: Sharjah closes all beaches as clean-up effort continues",
@@ -17,28 +215,6 @@
         "lng": 55.4209
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 84% of ballots counted",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "published": "2026-10-28T12:06:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -91,28 +267,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793168811",
-      "title": "Families brace for a fourth winter of wind, rain and floods in Gaza\u2019s camps",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/10/28/gaza-families-brace-for-a-fourth-winter-of-wind-rain-and-floods-in-camps?traffic_source=rss",
-      "published": "2026-10-28T11:36:04+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "8fe9f892b059db1867ce1256467bbcc6",
       "title": "Dubai Police wins three prestigious awards from the International Association of Chiefs of Police (IACP) for 2026, recognising excellence in human and civil rights, police and public safety psychology, and the development of young police leaders. The awards were announced during the IACP Annual Conference and Exposition in Orlando, Florida, USA, which brought together senior police officials, security leaders and law enforcement experts from around the world.",
       "source": "Dubai Media Office (RSS.app)",
@@ -128,28 +282,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793176524",
-      "title": "High voter turnout among Palestinian citizens of Israel threatens Netanyahu",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/28/high-voter-turnout-from-palestinian-citizens-of-israel-threatens-netanyahu?traffic_source=rss",
-      "published": "2026-10-28T11:33:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -245,94 +377,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/opinion/comment/2026/10/28/gulf-syria-refugees-middle-east-economy/",
-      "title": "Gulf countries can turn the Syrian refugee crisis into an engine of regional growth",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/opinion/comment/2026/10/28/gulf-syria-refugees-middle-east-economy/",
-      "published": "2026-10-28T11:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/palestinian-israelis-wake-to-new-political-dawn-after-record-election-success/",
-      "title": "Arab Israelis wake to new political dawn after record election success",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/palestinian-israelis-wake-to-new-political-dawn-after-record-election-success/",
-      "published": "2026-10-28T10:39:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/iraqs-al-zaidi-begins-visit-to-syria-in-first-high-profile-trip-since-al-shara-took-power/",
-      "title": "Iraq's Al Zaidi begins visit to Syria in first high-profile trip since Al Shara took power",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/iraqs-al-zaidi-begins-visit-to-syria-in-first-high-profile-trip-since-al-shara-took-power/",
-      "published": "2026-10-28T10:33:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.3463,
-        "lng": 55.4209
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/football/2026/10/28/real-madrid-join-kylian-mbappe-in-china-apology-after-strikers-ill-judged-remarks/",
-      "title": "Real Madrid join Kylian Mbappe in China apology after striker's 'ill-judged' remarks",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/28/real-madrid-join-kylian-mbappe-in-china-apology-after-strikers-ill-judged-remarks/",
-      "published": "2026-10-28T10:32:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3ea8e27dea4cadce17e116b78a2fea48",
       "title": "Dubai Silicon Oasis announces a strategic partnership with TUM International GmbH (TUMint), a subsidiary of the Technical University of Munich (TUM) in Germany, to advance collaboration in applied research and technology transfer. The partnership supports DIEZ\u2019s strategy to establish a global centre for research and technology for economic zones.",
       "source": "Dubai Media Office (RSS.app)",
@@ -411,28 +455,6 @@
         "city": null,
         "lat": 29.3117,
         "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "cf8f15afbea3e2a57b69ef1ba770b135",
-      "title": "Ahmed bin Saeed: We are deeply honoured by the UAE leadership\u2019s recognition of our flydubai colleagues and grateful for the care and support given. Our colleagues\u2019 bravery, courage and professionalism in protecting passengers reflect the values that unite us. The UAE is home to people of hundreds of nationalities, all bound by a collective vision and commitment to the safety, security and success of this country.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2115381982721106196",
-      "published": "2026-10-28T09:55:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 95,
       "is_government": true,
@@ -612,50 +634,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "44175cc7b81f01cc0c5fe8f28213b6bf",
-      "title": "#Kuwait steadfast support from #UN charter principal  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115221126611693930",
-      "published": "2026-10-27T23:16:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e4f865fa385d76530298b94e2e3c3f84",
-      "title": "\u062a\u0635\u0648\u064a\u0631 \u0623\u0648 \u0646\u0634\u0631 \u0623\u0648 \u062a\u062f\u0627\u0648\u0644 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0630\u0627\u062a \u0635\u0644\u0629 \u0628\u0627\u0644\u062a\u0635\u062f\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0648\u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0645\u0648\u0627\u0642\u0639 \u0633\u0642\u0648\u0637\u0647\u0627 \u064a\u0639\u0631\u0636\u0643 \u0644\u0644\u0645\u0633\u0627\u0621\u0644\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a\u0629. #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 Filming, publishing, or sharing information related to countering missiles and drones and their impact sites exposes you to legal liability. #Ministry_of_Interior",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2115219248008118382",
-      "published": "2026-10-27T23:09:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -971,28 +949,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=99378",
-      "title": "The new must-have capabilities for drones",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/the-new-must-have-capabilities-for-drones/",
-      "published": "2026-10-27T12:24:00+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/?p=87042",
       "title": "Britain will not join Canada-led defense bank initiative",
       "source": "Defense News",
@@ -1029,28 +985,6 @@
         "lng": 38.9968
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/?p=87018",
-      "title": "BCE Consulting outlines the critical elements of layered air defense architecture",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/video/2026/10/26/bce-consulting-outlines-the-critical-elements-of-layered-air-defense-architecture/",
-      "published": "2026-10-26T16:41:59+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
