@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-28T13:27:18.973259+00:00",
-  "total_incidents": 52,
+  "generated_at": "2026-10-28T14:28:37.791249+00:00",
+  "total_incidents": 50,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
       "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 92% of ballots counted",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "published": "2026-10-28T13:26:14+00:00",
+      "published": "2026-10-28T14:24:13+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -17,6 +17,204 @@
         "lng": 34.8516
       },
       "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/iran-welcomes-negotiations-after-reported-qatari-mediated-draft-deal/",
+      "title": "Iran 'welcomes negotiations' after reported Qatari-mediated draft deal",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/iran-welcomes-negotiations-after-reported-qatari-mediated-draft-deal/",
+      "published": "2026-10-28T14:21:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/israel-election-results-live-netanyahu/",
+      "title": "Israel election live: Isaac Herzog urges parties to avoid another election as counting nears end",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/israel-election-results-live-netanyahu/",
+      "published": "2026-10-28T14:15:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4cb3847dccc8ed5384b09d03fef2170c",
+      "title": "Latifa bint Mohammed to lead a high-level delegation of government leaders and officials to South Korea. The visit will explore opportunities to deepen cooperation and knowledge exchange and learn from experiences across sectors shaping the future of both countries.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2115443137976164821",
+      "published": "2026-10-28T13:58:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/28/uaes-emirates-red-crescent-provides-dh50-million-in-winter-aid-to-gaza/",
+      "title": "UAE's Emirates Red Crescent provides Dh50 million in winter aid to Gaza",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/28/uaes-emirates-red-crescent-provides-dh50-million-in-winter-aid-to-gaza/",
+      "published": "2026-10-28T13:48:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793193277",
+      "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss",
+      "published": "2026-10-28T13:47:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/europe/2026/10/28/two-high-speed-trains-collide-in-spain-killing-at-least-10-people/",
+      "title": "More than 60 killed after trains collide in Spain",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/28/two-high-speed-trains-collide-in-spain-killing-at-least-10-people/",
+      "published": "2026-10-28T13:39:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 60,
+        "military": 0,
+        "civilian": 60
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/economy/2026/10/28/israels-economic-outlook-hinges-on-next-government-as-shekel-and-stocks-slide/",
+      "title": "Israel\u2019s economic outlook hinges on next government as shekel and stocks slide",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/28/israels-economic-outlook-hinges-on-next-government-as-shekel-and-stocks-slide/",
+      "published": "2026-10-28T13:33:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9a85d7210efe6810a306c354bc769c6c",
+      "title": "Hamdan bin Mohammed announces the presentation of the Dubai-it Award to Ahmed bin Saeed in recognition of his exceptional leadership in transforming Dubai\u2019s aviation sector and establishing the emirate as one of the world\u2019s leading aviation hubs.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2115436825531859179",
+      "published": "2026-10-28T13:33:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/live-iran-war-houthis-aden-airport-sanaa/",
+      "title": "Middle East latest: Yemen says Houthis attacked Aden airport twice with ballistic missiles",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/live-iran-war-houthis-aden-airport-sanaa/",
+      "published": "2026-10-28T13:28:14+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Yemen",
+        "city": null,
+        "lat": 12.7855,
+        "lng": 45.0187
+      },
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -113,28 +311,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/what-are-the-main-palestinian-israeli-parties-and-why-are-they-doing-so-well/",
-      "title": "What are the main Palestinian Israeli parties and why are they doing so well?",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/what-are-the-main-palestinian-israeli-parties-and-why-are-they-doing-so-well/",
-      "published": "2026-10-28T12:41:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1793190800",
       "title": "Victims of Jordan\u2019s air strikes in Syria",
       "source": "Al Jazeera",
@@ -201,138 +377,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/28/sharjah-shuts-beaches-oil-spill-umm-al-quwain-coast/",
-      "title": "UAE oil spill: Sharjah closes all beaches as clean-up effort continues",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/28/sharjah-shuts-beaches-oil-spill-umm-al-quwain-coast/",
-      "published": "2026-10-28T12:09:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.3463,
-        "lng": 55.4209
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793187458",
-      "title": "Israeli voters: hope and despair as election ballots are counted",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israeli-voters-hope-and-despair-as-election-ballots-are-counted?traffic_source=rss",
-      "published": "2026-10-28T11:55:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/europe/2026/10/28/foxtrot-enforcer-charged-with-orchestrating-grenade-attack-on-restaurant/",
-      "title": "'Foxtrot enforcer' charged with orchestrating grenade attack on restaurant",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/28/foxtrot-enforcer-charged-with-orchestrating-grenade-attack-on-restaurant/",
-      "published": "2026-10-28T11:36:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8fe9f892b059db1867ce1256467bbcc6",
-      "title": "Dubai Police wins three prestigious awards from the International Association of Chiefs of Police (IACP) for 2026, recognising excellence in human and civil rights, police and public safety psychology, and the development of young police leaders. The awards were announced during the IACP Annual Conference and Exposition in Orlando, Florida, USA, which brought together senior police officials, security leaders and law enforcement experts from around the world.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2115406864246833498",
-      "published": "2026-10-28T11:34:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "af4fc260e1bb299c18b6373889daee75",
-      "title": "Dubai welcomes over 250 senior maritime leaders on Thursday, 12 November 2026 for the inaugural Seatrade Maritime UAE Summit, held by Seatrade Maritime with host partner DP World, under the theme, \u201cNavigating the Future: The UAE and the New Era of Global Maritime Leadership\u201d. The Summit will include the launch of the Menon Economics & DNV Leading Maritime Cities report, offering fresh insight into the competitiveness, performance and positioning of maritime centres around the world.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2115406269423235439",
-      "published": "2026-10-28T11:32:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/10/28/oil-prices-up-due-to-houthi-strikes-and-us-threat-to-renew-iran-war/",
-      "title": "Oil prices up due to Houthi strikes and US threat to renew Iran war",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/28/oil-prices-up-due-to-houthi-strikes-and-us-threat-to-renew-iran-war/",
-      "published": "2026-10-28T11:30:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "01f0aead767621657790ba60f88371d1",
       "title": ". A UAE Government delegation visited the Socialist Republic of Vietnam to explore opportunities to strengthen bilateral...",
       "source": "WAM News (RSS.app)",
@@ -370,28 +414,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3ea8e27dea4cadce17e116b78a2fea48",
-      "title": "Dubai Silicon Oasis announces a strategic partnership with TUM International GmbH (TUMint), a subsidiary of the Technical University of Munich (TUM) in Germany, to advance collaboration in applied research and technology transfer. The partnership supports DIEZ\u2019s strategy to establish a global centre for research and technology for economic zones.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2115387662907716069",
-      "published": "2026-10-28T10:18:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -524,28 +546,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ea9211c27ce34dfb29db764ae3525822",
-      "title": "#Kuwait's oil price drops 27 cents to USD 112.41 pb -KPC  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115321375795671103",
-      "published": "2026-10-28T05:54:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -897,50 +897,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/commentisfree/2026/oct/27/gaza-peace-lives-year-ceasefire-water",
-      "title": "A year after the 'ceasefire' in Gaza, this is what our lives look like: no privacy, no peace | Akram al-Sourani",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/oct/27/gaza-peace-lives-year-ceasefire-water",
-      "published": "2026-10-27T14:00:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=99269",
-      "title": "2026 midterm cheat sheet: Which races to watch on defense",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/2026-midterm-cheat-sheet-which-races-to-watch-on-defense/",
-      "published": "2026-10-27T13:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
