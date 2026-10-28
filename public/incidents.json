@@ -1,13 +1,35 @@
 {
-  "generated_at": "2026-10-28T09:28:49.345095+00:00",
-  "total_incidents": 47,
+  "generated_at": "2026-10-28T10:27:30.063307+00:00",
+  "total_incidents": 54,
   "incidents": [
+    {
+      "id": "3ea8e27dea4cadce17e116b78a2fea48",
+      "title": "Dubai Silicon Oasis announces a strategic partnership with TUM International GmbH (TUMint), a subsidiary of the Technical University of Munich (TUM) in Germany, to advance collaboration in applied research and technology transfer. The partnership supports DIEZ\u2019s strategy to establish a global centre for research and technology for economic zones.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2115387662907716069",
+      "published": "2026-10-28T10:18:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
       "title": "Israel election results live: vote count continues as exit polls suggest no clear winner",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "published": "2026-10-28T09:22:36+00:00",
+      "published": "2026-10-28T10:16:52+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -18,6 +40,248 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/commentisfree/2026/oct/28/israel-election-exit-poll-netanyahu-survives",
+      "title": "A bitter night in Israel for all who craved a fresh start. Netanyahu survives for now \u2013 and we are more divided than ever | Dahlia Scheindlin",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/commentisfree/2026/oct/28/israel-election-exit-poll-netanyahu-survives",
+      "published": "2026-10-28T10:08:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b2914dab46b27db7e90815a0309ec523",
+      "title": "#Kuwait's National Cybersecurity Center holds conference on Government Cyber Shield Program & the cybersecurity services it offers to government entities  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115384862651633867",
+      "published": "2026-10-28T10:07:00+00:00",
+      "type": "cyber",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793181649",
+      "title": "Hormuz oil spill forces closure of UAE beaches",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/hormuz-oil-spill-forces-closure-of-uae-beaches?traffic_source=rss",
+      "published": "2026-10-28T10:02:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793170930",
+      "title": "Netanyahu or Eisenkot? Can you form Israel\u2019s next coalition government?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/28/netanyahu-or-eisenkot-can-you-form-israels-next-coalition-government?traffic_source=rss",
+      "published": "2026-10-28T10:00:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793171389",
+      "title": "Israel\u2019s stock market drops as exit polls show no clear election winner",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/10/28/israels-stock-market-drops-as-exit-polls-show-no-clear-election-winner?traffic_source=rss",
+      "published": "2026-10-28T09:55:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "cf8f15afbea3e2a57b69ef1ba770b135",
+      "title": "Ahmed bin Saeed: We are deeply honoured by the UAE leadership\u2019s recognition of our flydubai colleagues and grateful for the care and support given. Our colleagues\u2019 bravery, courage and professionalism in protecting passengers reflect the values that unite us. The UAE is home to people of hundreds of nationalities, all bound by a collective vision and commitment to the safety, security and success of this country.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2115381982721106196",
+      "published": "2026-10-28T09:55:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "21218ee9f07e55566e21df627eaa16b4",
+      "title": "RT by @DXBMediaOffice: We are deeply honoured by the UAE leadership\u2019s recognition of our flydubai colleagues and grateful for the care and support given. Our colleagues\u2019 bravery, courage and professionalism in protecting passengers reflect the values that unite us. The UAE is home to people of hundreds of nationalities, all bound by a collective vision and commitment to the safety, security and success of this country.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/HHAhmedBinSaeed/status/2115379159694483859",
+      "published": "2026-10-28T09:44:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793111795",
+      "title": "Mapping the siege of Yemen\u2019s Taiz, and the price families are paying",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/28/mapping-the-siege-of-yemens-taiz-and-the-price-families-are-paying?traffic_source=rss",
+      "published": "2026-10-28T09:43:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793173518",
+      "title": "Israeli right makes provocative statements as election votes are counted",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/28/israeli-right-makes-provocative-statements-as-election-votes-are-counted?traffic_source=rss",
+      "published": "2026-10-28T09:30:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793179256",
+      "title": "At least 10 killed after two trains collide in Spain, authorities say",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain?traffic_source=rss",
+      "published": "2026-10-28T09:26:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 10,
+        "military": 0,
+        "civilian": 10
+      }
+    },
+    {
+      "id": "cf22bac028f5ac14682eb508361eb25f",
+      "title": ". The UAE continues to provide humanitarian assistance to residents of the Gaza Strip under Operation Chivalrous Knight ...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DfCG4LXozBc",
+      "published": "2026-10-28T09:26:45+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -157,28 +421,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?p=5093598",
-      "title": "NBA: Portland Blazers prevail in battle of unbeatens against LA Lakers",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/10/28/nba-portland-blazers-prevail-in-battle-of-unbeatens-against-la-lakers-celtics-spurs-knicks-pistons?traffic_source=rss",
-      "published": "2026-10-28T08:03:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/europe/2026/10/28/teenager-killed-in-attack-on-israel-embassy-in-serbia/",
       "title": "Teenager killed in attack on Israeli embassy in Serbia",
       "source": "The National UAE",
@@ -201,28 +443,6 @@
       }
     },
     {
-      "id": "63f2c9de8b41b2bf74965890c0026e21",
-      "title": "Dubai Taxi Company, National Taxi and Hala announce the renewal of their strategic agreement for a further five years. DTC and National Taxi will together make more than 7,700 taxis, excluding airport fleet, available for booking through Hala on the Careem app under the renewed agreement, further strengthening the platform\u2019s scale with more than 26,000 Captains and 13,000 taxis.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2115344798546809270",
-      "published": "2026-10-28T07:27:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb",
       "title": "Israel election: what we know so far",
       "source": "The Guardian",
@@ -238,28 +458,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "492ac4cbb10ac20bee894bcabcbb7ee6",
-      "title": "Dubai Chambers sign a Memorandum of Understanding with DHL Express, the world\u2019s leading international express services provider, to support the expansion of local companies into global markets and enhance their international competitiveness. The agreement aims to enhance local companies\u2019 access to global markets and support the expansion of their export activities.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2115331752205926910",
-      "published": "2026-10-28T06:36:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -597,28 +795,6 @@
       }
     },
     {
-      "id": "2fd0a03999743da5095e3e1f95c3dbc1",
-      "title": "#US Central Command (CENTCOM) says that its forces and regional partners control the Strait of Hormuz, denying the Iranian Islamic Revolutionary Guard's claims that #US forces have abandoned the waterway  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115137150173790542",
-      "published": "2026-10-27T17:42:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/news/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china/",
       "title": "US Army looks to high-flying balloons to help see, strike along front lines with China",
       "source": "Defense News",
@@ -807,28 +983,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/global-development/2026/oct/27/fears-grow-for-iranian-athletes-on-death-row-as-mountaineer-latest-to-be-hanged",
-      "title": "Fears grow for Iranian athletes on death row as mountaineer latest to be hanged",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/global-development/2026/oct/27/fears-grow-for-iranian-athletes-on-death-row-as-mountaineer-latest-to-be-hanged",
-      "published": "2026-10-27T09:30:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
