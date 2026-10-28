@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-10-28T10:27:30.063307+00:00",
-  "total_incidents": 54,
+  "generated_at": "2026-10-28T11:26:37.323145+00:00",
+  "total_incidents": 52,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+      "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+      "published": "2026-10-28T11:21:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+      "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 84% of ballots counted",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+      "published": "2026-10-28T11:15:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/opinion/comment/2026/10/28/gulf-syria-refugees-middle-east-economy/",
+      "title": "Gulf countries can turn the Syrian refugee crisis into an engine of regional growth",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/opinion/comment/2026/10/28/gulf-syria-refugees-middle-east-economy/",
+      "published": "2026-10-28T11:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793174690",
+      "title": "Israeli forces continue West Bank raids as Hebron lockdown enters sixth day",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/28/israeli-forces-continue-west-bank-raids-as-hebron-lockdown-enters-sixth-day?traffic_source=rss",
+      "published": "2026-10-28T10:41:07+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/palestinian-israelis-wake-to-new-political-dawn-after-record-election-success/",
+      "title": "Arab Israelis wake to new political dawn after record election success",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/palestinian-israelis-wake-to-new-political-dawn-after-record-election-success/",
+      "published": "2026-10-28T10:39:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/iraqs-al-zaidi-begins-visit-to-syria-in-first-high-profile-trip-since-al-shara-took-power/",
+      "title": "Iraq's Al Zaidi begins visit to Syria in first high-profile trip since Al Shara took power",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/iraqs-al-zaidi-begins-visit-to-syria-in-first-high-profile-trip-since-al-shara-took-power/",
+      "published": "2026-10-28T10:33:53+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.3463,
+        "lng": 55.4209
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/football/2026/10/28/real-madrid-join-kylian-mbappe-in-china-apology-after-strikers-ill-judged-remarks/",
+      "title": "Real Madrid join Kylian Mbappe in China apology after striker's 'ill-judged' remarks",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/sport/football/2026/10/28/real-madrid-join-kylian-mbappe-in-china-apology-after-strikers-ill-judged-remarks/",
+      "published": "2026-10-28T10:32:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/28/dr-gargash-warns-wars-can-only-lead-to-further-crises-amid-concerns-of-possible-escalation-in-iran-conflict/",
+      "title": "UAE's Gargash says 'wars only lead to further crises' amid concerns of Iran escalation",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/28/dr-gargash-warns-wars-can-only-lead-to-further-crises-amid-concerns-of-possible-escalation-in-iran-conflict/",
+      "published": "2026-10-28T10:30:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "3ea8e27dea4cadce17e116b78a2fea48",
       "title": "Dubai Silicon Oasis announces a strategic partnership with TUM International GmbH (TUMint), a subsidiary of the Technical University of Munich (TUM) in Germany, to advance collaboration in applied research and technology transfer. The partnership supports DIEZ\u2019s strategy to establish a global centre for research and technology for economic zones.",
@@ -25,21 +201,21 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "title": "Israel election results live: vote count continues as exit polls suggest no clear winner",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "published": "2026-10-28T10:16:52+00:00",
+      "id": "5e727ed3f36d654a423f45ce5fea247d",
+      "title": ". ADNOC Drilling Company PJSC on Wednesday reported revenue of $3.7 billion, EBITDA of $1.66 billion and net profit of $...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DfCLv87oKxs",
+      "published": "2026-10-28T10:09:15+00:00",
       "type": "incident",
-      "status": "unconfirmed",
+      "status": "confirmed",
       "location": {
-        "country": "Israel",
+        "country": null,
         "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
+        "lat": 29.0,
+        "lng": 48.0
       },
-      "credibility": 90,
-      "is_government": false,
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -135,28 +311,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793171389",
-      "title": "Israel\u2019s stock market drops as exit polls show no clear election winner",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/10/28/israels-stock-market-drops-as-exit-polls-show-no-clear-election-winner?traffic_source=rss",
-      "published": "2026-10-28T09:55:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "cf8f15afbea3e2a57b69ef1ba770b135",
       "title": "Ahmed bin Saeed: We are deeply honoured by the UAE leadership\u2019s recognition of our flydubai colleagues and grateful for the care and support given. Our colleagues\u2019 bravery, courage and professionalism in protecting passengers reflect the values that unite us. The UAE is home to people of hundreds of nationalities, all bound by a collective vision and commitment to the safety, security and success of this country.",
       "source": "Dubai Media Office (RSS.app)",
@@ -198,72 +352,6 @@
         "total": 0,
         "military": 0,
         "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793111795",
-      "title": "Mapping the siege of Yemen\u2019s Taiz, and the price families are paying",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/28/mapping-the-siege-of-yemens-taiz-and-the-price-families-are-paying?traffic_source=rss",
-      "published": "2026-10-28T09:43:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793173518",
-      "title": "Israeli right makes provocative statements as election votes are counted",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/28/israeli-right-makes-provocative-statements-as-election-votes-are-counted?traffic_source=rss",
-      "published": "2026-10-28T09:30:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793179256",
-      "title": "At least 10 killed after two trains collide in Spain, authorities say",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain?traffic_source=rss",
-      "published": "2026-10-28T09:26:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 10,
-        "military": 0,
-        "civilian": 10
       }
     },
     {
@@ -311,50 +399,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/future/technology/2026/10/28/formula-one-the-best-showcase-for-ai-in-sport-oracle-red-bull-executive-says/",
-      "title": "Formula One the 'best showcase' for AI in sport, Oracle Red Bull executive says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/28/formula-one-the-best-showcase-for-ai-in-sport-oracle-red-bull-executive-says/",
-      "published": "2026-10-28T09:02:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793176260",
-      "title": "Khouri: Strong Israel-Arab bloc result does not mean Israel has changed",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/khouri-strong-israel-arab-bloc-result-does-not-mean-israel-has-changed?traffic_source=rss",
-      "published": "2026-10-28T08:35:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=99394",
       "title": "Australia pushes to beef up air defenses",
       "source": "Breaking Defense",
@@ -367,72 +411,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "586b561ea968bd9546e1ab93bcaaea76",
-      "title": "Dubai Future Foundation through Sandbox Dubai, launches the AI Sandbox to help local and international technology companies overcome regulatory and policy barriers that can prevent promising artificial intelligence (AI) solutions from moving beyond experimentation into real-world deployment. The initiative will bring together startups, SMEs, established technology companies and relevant government entities, including the Dubai Centre for Artificial Intelligence (DCAI), to test AI-native solutions in real-world environments.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2115361534226645179",
-      "published": "2026-10-28T08:34:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/live-iran-war-qatar/",
-      "title": "Middle East latest: Qatari mediators present Iran with deal to end war, official says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/live-iran-war-qatar/",
-      "published": "2026-10-28T08:23:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/europe/2026/10/28/teenager-killed-in-attack-on-israel-embassy-in-serbia/",
-      "title": "Teenager killed in attack on Israeli embassy in Serbia",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/28/teenager-killed-in-attack-on-israel-embassy-in-serbia/",
-      "published": "2026-10-28T08:00:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 85,
       "is_government": false,
@@ -941,28 +919,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/gallery/2026/oct/27/israel-goes-to-the-polls-in-pictures",
-      "title": "Israel goes to the polls \u2013 in pictures",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/gallery/2026/oct/27/israel-goes-to-the-polls-in-pictures",
-      "published": "2026-10-27T12:04:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
