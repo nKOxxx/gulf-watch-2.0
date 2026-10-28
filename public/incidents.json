@@ -1,13 +1,35 @@
 {
-  "generated_at": "2026-10-28T05:27:40.522545+00:00",
-  "total_incidents": 56,
+  "generated_at": "2026-10-28T06:37:23.844881+00:00",
+  "total_incidents": 57,
   "incidents": [
+    {
+      "id": "492ac4cbb10ac20bee894bcabcbb7ee6",
+      "title": "Dubai Chambers sign a Memorandum of Understanding with DHL Express, the world\u2019s leading international express services provider, to support the expansion of local companies into global markets and enhance their international competitiveness. The agreement aims to enhance local companies\u2019 access to global markets and support the expansion of their export activities.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2115331752205926910",
+      "published": "2026-10-28T06:36:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
       "title": "Israel election results live: vote count underway as exit polls point to tie between Netanyahu and Eisenkot blocs",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "published": "2026-10-28T05:26:52+00:00",
+      "published": "2026-10-28T06:31:13+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -17,6 +39,72 @@
         "lng": 34.8516
       },
       "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/28/netanyahu-claims-victory-jordan-and-syria-agree-on-security-committee-and-dubai-approves-dh2bn-urban-plan/",
+      "title": "Netanyahu claims victory, Jordan and Syria agree on security committee and Dubai approves Dh2bn urban plan",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/28/netanyahu-claims-victory-jordan-and-syria-agree-on-security-committee-and-dubai-approves-dh2bn-urban-plan/",
+      "published": "2026-10-28T06:25:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ea9211c27ce34dfb29db764ae3525822",
+      "title": "#Kuwait's oil price drops 27 cents to USD 112.41 pb -KPC  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115321375795671103",
+      "published": "2026-10-28T05:54:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/28/abu-dhabi-students-help-pack-10000-winter-relief-kits-to-help-needy-gazans/",
+      "title": "Abu Dhabi students help pack 10,000 winter relief kits to help needy Gazans",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/28/abu-dhabi-students-help-pack-10000-winter-relief-kits-to-help-needy-gazans/",
+      "published": "2026-10-28T05:47:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -201,11 +289,11 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793136360",
-      "title": "Arab parties on track to win record seats in Israel election, polls show",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
-      "published": "2026-10-28T00:43:56+00:00",
+      "id": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo#0",
+      "title": "Israeli exit polls suggest no clear winner in pivotal general election",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T02:09:11+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -214,51 +302,7 @@
         "lat": 31.0461,
         "lng": 34.8516
       },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793143811",
-      "title": "Netanyahu, Eisenkot camps clash over Israel election projections",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
-      "published": "2026-10-28T00:43:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793147268",
-      "title": "Israel\u2019s Eisenkot says country voted for change",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss",
-      "published": "2026-10-28T00:30:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
+      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -822,28 +866,6 @@
       "source": "KUNA Kuwait (RSS.app)",
       "source_url": "https://x.com/kuna_en/status/2115077472790233450",
       "published": "2026-10-27T13:45:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2627c2abe5aed285283aea2cee71283c",
-      "title": "His Highness the Prime Minister meets with KKR Co-CEO Scott Nuttall to discuss investment opportunities.  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115076561447551055",
-      "published": "2026-10-27T13:42:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
