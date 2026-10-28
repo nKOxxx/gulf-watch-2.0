@@ -1,13 +1,35 @@
 {
-  "generated_at": "2026-10-28T07:28:17.552459+00:00",
-  "total_incidents": 52,
+  "generated_at": "2026-10-28T08:30:33.233921+00:00",
+  "total_incidents": 49,
   "incidents": [
     {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/live-iran-war-qatar/",
+      "title": "Middle East latest: Qatari mediators present Iran with deal to end war, official says",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/live-iran-war-qatar/",
+      "published": "2026-10-28T08:23:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "title": "Israel election results live: vote count under way as exit polls point to tie between Netanyahu and Eisenkot blocs",
+      "title": "Israel election results live: vote count continues as exit polls suggest no clear winner",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "published": "2026-10-28T07:22:57+00:00",
+      "published": "2026-10-28T08:16:29+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -18,6 +40,94 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?p=5093598",
+      "title": "NBA: Portland Blazers prevail in battle of unbeatens against LA Lakers",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/10/28/nba-portland-blazers-prevail-in-battle-of-unbeatens-against-la-lakers-celtics-spurs-knicks-pistons?traffic_source=rss",
+      "published": "2026-10-28T08:03:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/europe/2026/10/28/teenager-killed-in-attack-on-israel-embassy-in-serbia/",
+      "title": "Teenager killed in attack on Israeli embassy in Serbia",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/28/teenager-killed-in-attack-on-israel-embassy-in-serbia/",
+      "published": "2026-10-28T08:00:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793172813",
+      "title": "Elderly women and children survive Russian attack on Kharkiv",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-children-survive-russian-attack-on-kharkiv?traffic_source=rss",
+      "published": "2026-10-28T07:35:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "63f2c9de8b41b2bf74965890c0026e21",
+      "title": "Dubai Taxi Company, National Taxi and Hala announce the renewal of their strategic agreement for a further five years. DTC and National Taxi will together make more than 7,700 taxis, excluding airport fleet, available for booking through Hala on the Careem app under the renewed agreement, further strengthening the platform\u2019s scale with more than 26,000 Captains and 13,000 taxis.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2115344798546809270",
+      "published": "2026-10-28T07:27:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -37,28 +147,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793091393",
-      "title": "The next phase of military rule in Egypt is here",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/opinions/2026/10/28/the-next-phase-of-military-rule-in-egypt-is-here?traffic_source=rss",
-      "published": "2026-10-28T06:36:59+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.8206,
-        "lng": 30.8025
       },
       "credibility": 90,
       "is_government": false,
@@ -113,28 +201,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793160150",
-      "title": "Netanyahu outlines achievements, future plans as Likud leads Israeli polls",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/28/netanyahu-outlines-achievements-future-plans-as-likud-leads-polls?traffic_source=rss",
-      "published": "2026-10-28T06:02:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "ea9211c27ce34dfb29db764ae3525822",
       "title": "#Kuwait's oil price drops 27 cents to USD 112.41 pb -KPC  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -150,28 +216,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/28/abu-dhabi-students-help-pack-10000-winter-relief-kits-to-help-needy-gazans/",
-      "title": "Abu Dhabi students help pack 10,000 winter relief kits to help needy Gazans",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/28/abu-dhabi-students-help-pack-10000-winter-relief-kits-to-help-needy-gazans/",
-      "published": "2026-10-28T05:47:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -201,28 +245,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/jordan-and-syria-form-joint-security-committee-after-deadly-strikes/",
-      "title": "Jordan and Syria form joint security committee after deadly strikes",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/jordan-and-syria-form-joint-security-committee-after-deadly-strikes/",
-      "published": "2026-10-28T04:22:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
       "title": "Major Israeli TV networks revise polling projections \u2013 as it happened",
       "source": "The Guardian",
@@ -237,28 +259,6 @@
         "lng": 34.8516
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/economy/2026/10/28/blackstone-plans-fourfold-growth-in-gulf-assets-amid-infrastructure-spending-boom/",
-      "title": "Blackstone plans fourfold growth in Gulf assets amid infrastructure spending boom",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/28/blackstone-plans-fourfold-growth-in-gulf-assets-amid-infrastructure-spending-boom/",
-      "published": "2026-10-28T04:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -546,50 +546,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b7c434bc9168275507c008e1b073cb00",
-      "title": "UAE President confers the First Class Order of Zayed II on the flydubai crew members involved in September\u2019s in-flight incident, in recognition of their courageous efforts to ensure the safety of passengers. The honours were presented by Hamdan bin Mohammed, who commended the crew\u2019s actions and sense of responsibility.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2115151760528757019",
-      "published": "2026-10-27T18:40:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "37ff4e3eca619a464cc238b7bfda1cda",
-      "title": "UAE President, in the presence of Mohammed bin Rashid, receives the flydubai crew members involved in the in-flight incident on 30 September. Their Highnesses praised the crew\u2019s courage and professionalism in ensuring the safety of passengers and securing the aircraft, affirming that protecting people\u2019s safety and security remains a top priority for the UAE.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2115147715386728533",
-      "published": "2026-10-27T18:24:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1118,28 +1074,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3941728d82f0b2393a7572ec142bcb30",
-      "title": "#\u0644\u0627_\u062a\u0633\u0647\u0644\u0647\u0627_\u0639\u0644\u064a\u0647\u0645 #\u0634\u0647\u0631_\u0627\u0644\u062a\u0648\u0639\u064a\u0629_\u0628\u0627\u0644\u0623\u0645\u0646_\u0627\u0644\u0633\u064a\u0628\u0631\u0627\u0646\u064a #DontMakeItEasyForThem #CybersecurityAwarenessMonth",
-      "source": "Bahrain MOI (RSS.app)",
-      "source_url": "https://www.instagram.com/p/De67chribMB",
-      "published": "2026-10-25T14:44:38+00:00",
-      "type": "cyber",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
