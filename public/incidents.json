@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-28T17:26:30.156364+00:00",
-  "total_incidents": 52,
+  "generated_at": "2026-10-28T18:30:19.381282+00:00",
+  "total_incidents": 48,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+      "title": "Israel election results live: Netanyahu bloc loses majority as most ballots counted",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+      "published": "2026-10-28T18:21:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/news/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate/",
+      "title": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/pentagon/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate/",
+      "published": "2026-10-28T18:10:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+      "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+      "published": "2026-10-28T18:04:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793201370",
+      "title": "Balad leader blasts \u2018racist\u2019 exclusion of Arab parties in Israel",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/28/balad-leader-blasts-racist-exclusion-of-arab-parties-in-israel?traffic_source=rss",
+      "published": "2026-10-28T17:54:51+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "604955111bcc8989b9596d0ee14a9ba1",
       "title": "GCC Secretary General Jasem Al-Budaiwi: The Gulf media ambition goes beyond achieving excellence and leadership to becoming a powerful force in shaping awareness, making an impact and bolstering the GCC's regional and global standing  #KUNA #KUWAIT",
@@ -18,28 +106,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 92% of ballots counted",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "published": "2026-10-28T17:10:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -70,7 +136,7 @@
     },
     {
       "id": "https://www.theguardian.com/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized",
-      "title": "Iranian film-maker Jafar Panahi given new prison sentence and has assets seized",
+      "title": "Iranian film-maker Jafar Panahi given new prison sentence",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized",
       "published": "2026-10-28T16:56:10+00:00",
@@ -201,28 +267,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
-      "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
-      "published": "2026-10-28T16:04:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "cece2e18be8cf2ae35206df60c1d6a5c",
       "title": "#Kuwait presents a working paper on emerging drug threats at the 40th Arab Conference of Heads of Anti-Narcotics Agencies, held in #Tunisia by the General Secretariat of the Council of Arab Interior Ministers  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -281,28 +325,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/?p=87142",
-      "title": "Increasing cyber capability for national defense",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/2026/10/28/increasing-cyber-capability-for-national-defense/",
-      "published": "2026-10-28T15:46:01+00:00",
-      "type": "cyber",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -509,28 +531,6 @@
       }
     },
     {
-      "id": "63b980fc9ee91d95270fd0007c745cca",
-      "title": "#Kuwaiti First Deputy Prime Minister and Minister of Interior Sheikh Fahad Yusuf Saud Al-Sabah discusses with #Bahraini Coast Guard Commander Brig. Abdulrahman Al-Ruwai, ways to bolster cooperation in the field of coastal security and to share technical and operational expertise  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115452599944040936",
-      "published": "2026-10-28T14:36:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 26.0667,
-        "lng": 50.5577
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo#0",
       "title": "How could Israel break election deadlock? Here are four scenarios",
       "source": "BBC Middle East",
@@ -597,50 +597,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/iran-welcomes-negotiations-after-reported-qatari-mediated-draft-deal/",
-      "title": "Iran 'welcomes negotiations' after reported Qatari-mediated draft deal",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/iran-welcomes-negotiations-after-reported-qatari-mediated-draft-deal/",
-      "published": "2026-10-28T14:21:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/28/uaes-emirates-red-crescent-provides-dh50-million-in-winter-aid-to-gaza/",
-      "title": "UAE's Emirates Red Crescent provides Dh50 million in winter aid to Gaza",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/28/uaes-emirates-red-crescent-provides-dh50-million-in-winter-aid-to-gaza/",
-      "published": "2026-10-28T13:48:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/?p=87107",
       "title": "Finlands defense minister talks NATO, Ukraine and fishing",
       "source": "Defense News",
@@ -656,28 +612,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "01f0aead767621657790ba60f88371d1",
-      "title": ". A UAE Government delegation visited the Socialist Republic of Vietnam to explore opportunities to strengthen bilateral...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DfCU2_gNUHW",
-      "published": "2026-10-28T11:28:43+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -933,28 +867,6 @@
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china/",
       "published": "2026-10-27T17:22:47+00:00",
       "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/?p=87072",
-      "title": "US taps Poland to host European PAC-3 missile maintenance facility",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/10/27/us-taps-poland-to-host-european-pac-3-missile-maintenance-facility/",
-      "published": "2026-10-27T16:42:28+00:00",
-      "type": "missile",
       "status": "unconfirmed",
       "location": {
         "country": null,
