@@ -1,13 +1,35 @@
 {
-  "generated_at": "2026-10-28T03:29:48.440896+00:00",
-  "total_incidents": 58,
+  "generated_at": "2026-10-28T04:29:42.027192+00:00",
+  "total_incidents": 57,
   "incidents": [
     {
-      "id": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "title": "Israel election live: exit polls point to tie between Netanyahu and Eisenkot opposition blocs",
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/jordan-and-syria-form-joint-security-committee-after-deadly-strikes/",
+      "title": "Jordan and Syria form joint security committee after deadly strikes",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/jordan-and-syria-form-joint-security-committee-after-deadly-strikes/",
+      "published": "2026-10-28T04:22:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+      "title": "Israel election results live: exit polls point to tie between Netanyahu and Eisenkot blocs",
       "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-      "published": "2026-10-28T03:15:36+00:00",
+      "source_url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+      "published": "2026-10-28T04:16:26+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -15,6 +37,94 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "title": "Major Israeli TV networks revise polling projections \u2013 as it happened",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+      "published": "2026-10-28T04:08:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/economy/2026/10/28/blackstone-plans-fourfold-growth-in-gulf-assets-amid-infrastructure-spending-boom/",
+      "title": "Blackstone plans fourfold growth in Gulf assets amid infrastructure spending boom",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/28/blackstone-plans-fourfold-growth-in-gulf-assets-amid-infrastructure-spending-boom/",
+      "published": "2026-10-28T04:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb",
+      "title": "Israel election: what we know so far",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb",
+      "published": "2026-10-28T03:31:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793147536",
+      "title": "Syria-Jordan border reopens amid probe into deadly air strikes",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes?traffic_source=rss",
+      "published": "2026-10-28T03:10:17+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
       },
       "credibility": 90,
       "is_government": false,
@@ -61,28 +171,6 @@
         "lng": 34.8516
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/live-iran-war-us-warns-gulf-allies/",
-      "title": "Middle East latest: US warns Gulf allies of possible renewal of Iran war, report says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/live-iran-war-us-warns-gulf-allies/",
-      "published": "2026-10-28T02:35:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -201,50 +289,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793121363",
-      "title": "Gaza\u2019s women filmmakers turn pain into cinema as new academy launches",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
-      "published": "2026-10-27T23:35:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793142801",
-      "title": "A bad day for Ben-Gvir as he addresses his supporters",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss",
-      "published": "2026-10-27T23:16:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "44175cc7b81f01cc0c5fe8f28213b6bf",
       "title": "#Kuwait steadfast support from #UN charter principal  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -326,28 +370,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793110569",
-      "title": "Israel election results: No clear winner projected, what\u2019s next?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
-      "published": "2026-10-27T23:06:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -993,28 +1015,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
-      "title": "Jordan attacks militants in Syria in retaliation for church attack",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
-      "published": "2026-10-26T22:08:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/news/2026/10/26/army-practices-digging-temporary-battlefield-graves/",
       "title": "US Army practices digging temporary battlefield graves",
       "source": "Defense News",
@@ -1249,28 +1249,6 @@
         "lng": 34.8516
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "d23a4f2802718933367e72f4145cbee3",
-      "title": "A senior Iranian lawmaker said in a Hebrew-language post that any action against Iran's security or national interests would make the occupied territories uninhabitable in under an hour.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2114212633326858340",
-      "published": "2026-10-25T04:29:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 70,
       "is_government": false,
       "casualties": {
         "total": 0,
