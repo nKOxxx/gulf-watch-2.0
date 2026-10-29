@@ -1,13 +1,57 @@
 {
-  "generated_at": "2026-10-29T08:31:04.096256+00:00",
-  "total_incidents": 57,
+  "generated_at": "2026-10-29T09:28:59.457213+00:00",
+  "total_incidents": 53,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/29/iraqi-court-sentences-two-prominent-politicians-to-prison-in-corruption-case/",
+      "title": "Iraqi court sentences two prominent politicians to prison in corruption case",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/29/iraqi-court-sentences-two-prominent-politicians-to-prison-in-corruption-case/",
+      "published": "2026-10-29T09:21:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo#0",
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T09:06:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
       "title": "Israel election results live: count of absentee ballots under way as coalition talks set to begin",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-      "published": "2026-10-29T08:26:11+00:00",
+      "published": "2026-10-29T09:03:32+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -18,6 +62,50 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793236801",
+      "title": "North Koreans being recruited into forced labour in Russia, report says",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/10/29/north-koreans-being-recruited-into-forced-labour-in-russia-report-says?traffic_source=rss",
+      "published": "2026-10-29T08:58:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c40490468b04d747f28f8a0ac52ce8bc",
+      "title": "Dubai World Trade Centre (DWTC) is set for its busiest month of 2026, hosting 20 exhibitions and events scheduled across its two venues - DWTC, and Dubai Exhibition Centre (DEC) at Expo City. The November calendar brings together a diverse range of industry sectors, spanning F&B, construction, automotive, education, policing and security, art, fitness and more.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2115725306992738657",
+      "published": "2026-10-29T08:39:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -201,72 +289,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793254308",
-      "title": "El Salvador pledges more than 2,000 soldiers as Haiti delays elections",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/29/el-salvador-pledges-more-than-2000-soldiers-as-haiti-delays-elections?traffic_source=rss",
-      "published": "2026-10-29T07:36:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793247072",
-      "title": "North Korea fires missiles as row over landmine blast intensifies",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss",
-      "published": "2026-10-29T07:24:47+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/10/29/oil-prices-decline-after-diplomatic-push-in-iran-war/",
-      "title": "Oil prices decline after diplomatic push in Iran war",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/29/oil-prices-decline-after-diplomatic-push-in-iran-war/",
-      "published": "2026-10-29T06:49:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "c4a8f27a4959512f776cf8d35e61d563",
       "title": "#Kuwait's Minister of Defense congratulates his Turkish counterpart on his country's National Day  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -311,50 +333,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/29/arab-parties-challenge-netanyahu-and-sharjah-closes-beaches-over-oil-spill/",
-      "title": "Arab parties challenge Netanyahu and Sharjah closes beaches over oil spill",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/29/arab-parties-challenge-netanyahu-and-sharjah-closes-beaches-over-oil-spill/",
-      "published": "2026-10-29T06:42:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.3463,
-        "lng": 55.4209
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/podcasts/business-extra/2026/10/29/imfs-jihad-azour-on-the-deepest-oil-shock-in-history-and-the-regions-road-to-recovery/",
-      "title": "IMF's Jihad Azour on the deepest oil shock in history and the region's road to recovery",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/business-extra/2026/10/29/imfs-jihad-azour-on-the-deepest-oil-shock-in-history-and-the-regions-road-to-recovery/",
-      "published": "2026-10-29T05:54:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "3436f503d00be820511ab5e570d4380d",
       "title": "A US MQ-1 drone was intercepted and destroyed over the eastern Strait of Hormuz by the Islamic Revolution Guard Corps.",
       "source": "Mehr News (RSS.app)",
@@ -369,28 +347,6 @@
         "lng": 56.5
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/lifestyle/things-to-do/2026/10/29/dubais-aquaventure-world-named-worlds-second-most-visited-water-park-with-two-million-guests/",
-      "title": "Dubai's Aquaventure World named world's second most visited water park with two million guests",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/lifestyle/things-to-do/2026/10/29/dubais-aquaventure-world-named-worlds-second-most-visited-water-park-with-two-million-guests/",
-      "published": "2026-10-29T05:37:29+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -949,28 +905,6 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo#0",
-      "title": "How could Israel break election deadlock? Here are four scenarios",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T14:30:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/?p=87129",
       "title": "UK\u2019s Healey says government will fill defense plan gap by \u2018reprioritizing\u2019",
       "source": "Defense News",
@@ -1109,28 +1043,6 @@
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-air-force-awards-lockheed-martin-694m-hypersonic-missile-production-contract/",
       "published": "2026-10-27T19:53:42+00:00",
       "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/news/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health/",
-      "title": "Pentagon creates advisory council on human performance, health",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health/",
-      "published": "2026-10-27T19:24:01+00:00",
-      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": null,
