@@ -1,13 +1,211 @@
 {
-  "generated_at": "2026-10-29T12:34:53.505513+00:00",
-  "total_incidents": 51,
+  "generated_at": "2026-10-29T13:28:22.877238+00:00",
+  "total_incidents": 52,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1793279150",
+      "title": "Men pulled from vehicle stranded by floods in Syria",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/men-pulled-from-vehicle-stranded-by-floods-in-syria?traffic_source=rss",
+      "published": "2026-10-29T13:15:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
       "title": "Israel election results live: president warns against \u2018tarnishing an entire community\u2019 in defence of Palestinian vote",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-      "published": "2026-10-29T12:17:11+00:00",
+      "published": "2026-10-29T13:13:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/2026/10/29/qatarenergy-turns-to-us-lng-with-woodside-deal-as-hormuz-force-majeure-drags-on/",
+      "title": "QatarEnergy turns to US LNG with Woodside deal as Hormuz force majeure drags on",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/2026/10/29/qatarenergy-turns-to-us-lng-with-woodside-deal-as-hormuz-force-majeure-drags-on/",
+      "published": "2026-10-29T13:10:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 25.3548,
+        "lng": 51.1839
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "12ce39a3eec7b3c275c7a40169f2fbe8",
+      "title": "Dubai\u2019s Financial Audit Authority organises the third edition of the Foreseeing Government Audit Future Conference under the theme \u2018Smart Audit\u2019 at the Joharah Ballroom, Madinat Jumeirah. The conference brings together senior officials, experts and specialists in auditing, oversight, governance, cybersecurity and artificial intelligence to examine the transformations reshaping the future of auditing and oversight, and explore the latest trends and applications that strengthen the effectiveness of audit and oversight systems and their readiness for future requirements.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2115792865800622573",
+      "published": "2026-10-29T13:08:00+00:00",
+      "type": "cyber",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/29/netanyahu-finds-shrinking-support-among-europes-far-right/",
+      "title": "Netanyahu finds shrinking support among Europe's far-right",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/29/netanyahu-finds-shrinking-support-among-europes-far-right/",
+      "published": "2026-10-29T12:53:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793264735",
+      "title": "Fighting rages near Yemen\u2019s Taiz as UN urges humanitarian access",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss",
+      "published": "2026-10-29T12:46:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 38.0962,
+        "lng": 46.2738
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f816c72faae4f10e01cbc3be3a2c8239",
+      "title": "Dubai Land Department concludes the fourth Real Estate Day for Emirati Employment, held today at Address Sky View. The event brings together Emirati citizens, university students and more than 80 real estate companies offering opportunities across a range of roles and specialisms, as part of DLD\u2019s efforts to increase Emirati participation in the real estate sector. The fourth edition builds on the achievements of the Real Estate Empowerment Programme, which provided more than 2,100 employment opportunities for UAE nationals between 2023 and 2026 in partnership with the private sector.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2115786844445274225",
+      "published": "2026-10-29T12:44:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "d67878eacd77350679bcf6a50cb74842",
+      "title": ". Abu Dhabi Future Energy Company PJSC (Masdar), Citaglobal Berhad and TIZA Global Sdn Bhd today marked the start of con...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DfFBHXCNZVr",
+      "published": "2026-10-29T12:33:55+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793271056",
+      "title": "Why is Russia sending fighter jets and air defences to Ethiopia?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/29/why-is-russia-sending-fighter-jets-and-air-defences-to-ethiopia?traffic_source=rss",
+      "published": "2026-10-29T12:32:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793273624",
+      "title": "A week of Israel\u2019s lockdown in Hebron: What\u2019s happened, when will it end?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/29/a-week-of-israels-lockdown-in-hebron-whats-happened-when-will-it-end?traffic_source=rss",
+      "published": "2026-10-29T12:29:05+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -69,28 +267,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793268375",
-      "title": "What we know of Vance\u2019s letter to Rezaei, as Trump warns Gulf to \u2018prepare\u2019",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/29/what-we-know-of-vances-letter-to-rezaei-as-trump-warns-gulf-to-prepare?traffic_source=rss",
-      "published": "2026-10-29T11:41:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "07dc33e1c86b77ef8f2b18e7c37b965f",
       "title": "RT by @DXBMediaOffice: Today, I met with Bill Winters, Group Chief Executive of Standard Chartered, to discuss the future of global banking and emerging opportunities in the sector. Building on more than six decades of partnership with Standard Chartered, the UAE continues to deepen its ties with leading financial institutions worldwide to advance its financial sector. We also discussed Dubai\u2019s ambition to become one of the world\u2019s top four financial centres under the Dubai Economic Agenda D33, driven by flexible regulations, digital innovation and strong private-sector partnerships across local, regional and international markets.",
       "source": "Dubai Media Office (RSS.app)",
@@ -106,28 +282,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793258327",
-      "title": "Israel\u2019s election rhetoric: What candidates said, and how they performed",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/29/israels-election-what-the-candidates-said-and-how-they-did?traffic_source=rss",
-      "published": "2026-10-29T11:27:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -201,50 +355,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793252934",
-      "title": "Pentagon says Iran war has cost US taxpayers $47bn: What that means",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/29/pentagon-says-iran-war-has-cost-us-taxpayers-47bn-what-that-means?traffic_source=rss",
-      "published": "2026-10-29T11:12:43+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "eff88675ac052d31454883eb269aad9a",
-      "title": "Absa Group opens a new office in Dubai International Financial Centre (DIFC), strengthening its ability to support trade and investment flows between the Gulf and African markets.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2115761680454193472",
-      "published": "2026-10-29T11:04:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/?p=87198",
       "title": "NATO\u2019s Black Sea nations decry Ukraine war spillover endangering commercial ship traffic",
       "source": "Defense News",
@@ -311,28 +421,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/29/uae-oil-spill-everything-we-know-as-beaches-close-and-clean-up-drive-continues/",
-      "title": "UAE oil spill: Everything we know as beaches close and clean-up drive continues",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/29/uae-oil-spill-everything-we-know-as-beaches-close-and-clean-up-drive-continues/",
-      "published": "2026-10-29T10:27:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "fcb7000b4343fbcfb01be732ba3a0823",
       "title": "#Kuwait's Army to conduct live-fire exercises in the northwestern part of the country from October 30 to November 3  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -348,28 +436,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/29/trump-downplays-vance-letter-sent-to-iran/",
-      "title": "Trump downplays Vance letter sent to Iran",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/29/trump-downplays-vance-letter-sent-to-iran/",
-      "published": "2026-10-29T10:10:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -458,28 +524,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "c40490468b04d747f28f8a0ac52ce8bc",
-      "title": "Dubai World Trade Centre (DWTC) is set for its busiest month of 2026, hosting 20 exhibitions and events scheduled across its two venues - DWTC, and Dubai Exhibition Centre (DEC) at Expo City. The November calendar brings together a diverse range of industry sectors, spanning F&B, construction, automotive, education, policing and security, art, fitness and more.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2115725306992738657",
-      "published": "2026-10-29T08:39:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1007,28 +1051,6 @@
         "lng": 51.389
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=99394",
-      "title": "Australia pushes to beef up air defenses",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/australia-pushes-to-beef-up-air-defenses/",
-      "published": "2026-10-28T08:34:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
