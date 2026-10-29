@@ -1,23 +1,221 @@
 {
-  "generated_at": "2026-10-29T14:28:51.876484+00:00",
+  "generated_at": "2026-10-29T15:28:02.692600+00:00",
   "total_incidents": 50,
   "incidents": [
     {
-      "id": "b689fc369ad4e2e2126725c8adee8677",
-      "title": "Mohammed bin Rashid crowns Mayar Othman from Egypt champion of the 10th Arab Reading Challenge, following qualifying rounds involving more than 40 million students from 60 countries in the initiative\u2019s largest edition to date. Jordan\u2019s Fakhri Mayyas wins the \u2018Outstanding Supervisor\u2019 title, Tunisia\u2019s Sidi Amer Primary School is named \u2018Best School\u2019, and Syria\u2019s Mahmoud Imran takes first place in the People of Determination category. The ceremony also honours Suhaib Majd from New Zealand as the \u2018Community Champion\u2019.",
+      "id": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+      "title": "Israel election results live: Qatar says accusations of election interference in Israel \u2018ridiculous and dangerous\u2019",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+      "published": "2026-10-29T15:19:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/29/israel-election-results-netanyahu-qatar-allegations/",
+      "title": "Israel election live: Qatar denies 'ridiculous' interference allegations",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/29/israel-election-results-netanyahu-qatar-allegations/",
+      "published": "2026-10-29T15:17:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/uncategorized/2026/10/15/how-silvus-is-connecting-soldiers-and-systems-across-the-battlefield/",
+      "title": "How Silvus Is Connecting Soldiers and Systems Across the Battlefield",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/video/2026/10/29/how-silvus-is-connecting-soldiers-and-systems-across-the-battlefield/",
+      "published": "2026-10-29T15:08:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=99634",
+      "title": "Giving counter-UAS operators 75 km of advance warning throws the advantage to them",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/giving-counter-uas-operators-75-km-of-advance-warning-throws-the-advantage-to-them/",
+      "published": "2026-10-29T15:00:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "453716b02c31829876cbf87235151203",
+      "title": "Saif bin Zayed honours Sidi Amer School from Tunisia as the \u2018Best School\u2019 during the Arab Reading Challenge awards ceremony. His Highness also crowns Mahmoud Imran from Syria as the \u2018People of Determination Champion\u2019 of the 10th Arab Reading Challenge.",
       "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2115809865641967655",
-      "published": "2026-10-29T14:15:00+00:00",
+      "source_url": "https://x.com/DXBMediaOffice/status/2115820615882211422",
+      "published": "2026-10-29T14:58:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
-        "country": "Iran",
+        "country": "Syria",
         "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
+        "lat": 34.8021,
+        "lng": 38.9968
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/europe/2026/10/29/europe-set-to-release-42-million-barrels-of-oil-for-short-term-relief/",
+      "title": "Europe set to release 42 million barrels of oil for 'short term relief'",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/29/europe-set-to-release-42-million-barrels-of-oil-for-short-term-relief/",
+      "published": "2026-10-29T14:51:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/29/israeli-election-results-raise-prospect-of-new-iran-attack/",
+      "title": "Israeli election results raise prospect of new Iran attack",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/29/israeli-election-results-raise-prospect-of-new-iran-attack/",
+      "published": "2026-10-29T14:49:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/?p=87224",
+      "title": "Destinus\u2019 monthly output tops Europe\u2019s pre-war annual cruise missile production",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/29/destinus-monthly-output-tops-europes-pre-war-annual-cruise-missile-production/",
+      "published": "2026-10-29T14:44:45+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/29/iraqi-excavations-to-reveal-secrets-of-life-in-mesopotamia-4000-years-ago/",
+      "title": "Iraqi excavations to reveal secrets of life in Mesopotamia 4,000 years ago",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/29/iraqi-excavations-to-reveal-secrets-of-life-in-mesopotamia-4000-years-ago/",
+      "published": "2026-10-29T14:42:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/29/sudanese-people-trapped-between-drones-and-incarceration-in-al-obeid-says-un-mission/",
+      "title": "Sudanese people \u2018trapped between drones and incarceration\u2019 in Al Obeid, says UN mission",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/29/sudanese-people-trapped-between-drones-and-incarceration-in-al-obeid-says-un-mission/",
+      "published": "2026-10-29T14:36:05+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -37,28 +235,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-      "title": "Israel election results live: Qatar says accusations of election interference in Israel \u2018ridiculous and dangerous\u2019",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-      "published": "2026-10-29T14:01:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -113,28 +289,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/29/accident-as-lorry-driver-falls-asleep-at-wheel-sparks-dubai-police-warning/",
-      "title": "Accident as lorry driver falls asleep at wheel sparks Dubai Police warning",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/29/accident-as-lorry-driver-falls-asleep-at-wheel-sparks-dubai-police-warning/",
-      "published": "2026-10-29T13:29:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1793279150",
       "title": "Men pulled from vehicle stranded by floods in Syria",
       "source": "Al Jazeera",
@@ -149,72 +303,6 @@
         "lng": 38.9968
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/2026/10/29/qatarenergy-turns-to-us-lng-with-woodside-deal-as-hormuz-force-majeure-drags-on/",
-      "title": "QatarEnergy turns to US LNG with Woodside deal as Hormuz force majeure drags on",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/2026/10/29/qatarenergy-turns-to-us-lng-with-woodside-deal-as-hormuz-force-majeure-drags-on/",
-      "published": "2026-10-29T13:10:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "12ce39a3eec7b3c275c7a40169f2fbe8",
-      "title": "Dubai\u2019s Financial Audit Authority organises the third edition of the Foreseeing Government Audit Future Conference under the theme \u2018Smart Audit\u2019 at the Joharah Ballroom, Madinat Jumeirah. The conference brings together senior officials, experts and specialists in auditing, oversight, governance, cybersecurity and artificial intelligence to examine the transformations reshaping the future of auditing and oversight, and explore the latest trends and applications that strengthen the effectiveness of audit and oversight systems and their readiness for future requirements.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2115792865800622573",
-      "published": "2026-10-29T13:08:00+00:00",
-      "type": "cyber",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/29/netanyahu-finds-shrinking-support-among-europes-far-right/",
-      "title": "Netanyahu finds shrinking support among Europe's far-right",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/29/netanyahu-finds-shrinking-support-among-europes-far-right/",
-      "published": "2026-10-29T12:53:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -245,28 +333,6 @@
       }
     },
     {
-      "id": "f816c72faae4f10e01cbc3be3a2c8239",
-      "title": "Dubai Land Department concludes the fourth Real Estate Day for Emirati Employment, held today at Address Sky View. The event brings together Emirati citizens, university students and more than 80 real estate companies offering opportunities across a range of roles and specialisms, as part of DLD\u2019s efforts to increase Emirati participation in the real estate sector. The fourth edition builds on the achievements of the Real Estate Empowerment Programme, which provided more than 2,100 employment opportunities for UAE nationals between 2023 and 2026 in partnership with the private sector.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2115786844445274225",
-      "published": "2026-10-29T12:44:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "d67878eacd77350679bcf6a50cb74842",
       "title": ". Abu Dhabi Future Energy Company PJSC (Masdar), Citaglobal Berhad and TIZA Global Sdn Bhd today marked the start of con...",
       "source": "WAM News (RSS.app)",
@@ -279,28 +345,6 @@
         "city": null,
         "lat": 24.4539,
         "lng": 54.3773
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "adf1325e86bba50253c5a37e04686fb4",
-      "title": "Maktoum bin Mohammed discusses the future of the global financial and banking sector with Bill Winters, Group Chief Executive of Standard Chartered. The meeting, held at His Highness\u2019s office, explores key global developments shaping the future of the international banking and financial sector, as well as emerging opportunities that can be harnessed through broader integration across global markets.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2115775252601188400",
-      "published": "2026-10-29T11:58:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 95,
       "is_government": true,
@@ -971,28 +1015,6 @@
       }
     },
     {
-      "id": "https://one.sightlinemg.com/defensenews/?p=87129",
-      "title": "UK\u2019s Healey says government will fill defense plan gap by \u2018reprioritizing\u2019",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/10/28/uks-healey-says-government-will-fill-defense-plan-gap-by-reprioritizing/",
-      "published": "2026-10-28T14:30:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/videos/c893zeknlvnno#0",
       "title": "Israel's election result is messy - here's why",
       "source": "BBC Middle East",
@@ -1074,28 +1096,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3549844e1bcba390bfd86d0232ab4e89",
-      "title": "\u0639\u0642\u062f\u062a \u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0648\u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u062c\u0648\u064a \u0628\u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629\u060c \u0648\u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0628\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0643\u0648\u0631\u064a\u0627\u060c \u0627\u062c\u062a\u0645\u0627\u0639\u0627\u064b \u0644\u0628\u062d\u062b \u0633\u0628\u0644 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0641\u064a \u0627\u0644\u0639\u0627\u0635\u0645\u0629 \u0627\u0644\u0643\u0648\u0631\u064a\u0629 \u0633\u064a\u0624\u0648\u0644. \u0648\u0646\u0627\u0642\u0634 \u0627\u0644\u062c\u0627\u0646\u0628\u0627\u0646 \u0639\u062f\u062f \u0645\u0646 \u0627\u0644\u0645\u0648\u0627\u0636\u064a\u0639 \u0641\u064a \u0627\u0644\u0645\u062c\u0627\u0644 \u0627\u0644\u0639\u0633\u0643\u0631\u064a \u0648\u0633\u0628\u0644 \u062a\u0639\u0632\u064a\u0632\u0647\u0627\u060c \u0628\u0645\u0627 \u064a\u062e\u062f\u0645 \u0627\u0644\u0645\u0635\u0627\u0644\u062d \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u0629 \u0648\u064a\u0639\u0643\u0633 \u0645\u062a\u0627\u0646\u0629 \u0627\u0644\u0639\u0644\u0627\u0642\u0627\u062a \u0628\u064a\u0646 \u0627\u0644\u0628\u0644\u062f\u064a\u0646\u060c \u062e\u0635\u0648\u0635\u0627\u064b \u0641\u064a \u0645\u062c\u0627\u0644\u0627\u062a \u0627\u0644\u062a\u062f\u0631\u064a\u0628 \u0648\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u062e\u0628\u0631\u0627\u062a \u0648\u062a\u0637\u0648\u064a\u0631 \u0627\u0644\u0642\u062f\u0631\u0627\u062a \u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a\u064a\u0629. \u0648\u064a\u0623\u062a\u064a \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639 \u0641\u064a \u0625\u0637\u0627\u0631 \u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0634\u0631\u0627\u0643\u0627\u062a \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u0629 \u0648\u062a\u0648\u0633\u064a\u0639 \u0622\u0641\u0627\u0642 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0648\u0627\u0644\u062a\u0646\u0633\u064a\u0642 \u0627\u0644\u0645\u0634\u062a\u0631\u0643 \u0628\u064a\u0646 \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0641\u064a \u0627\u0644\u0628\u0644\u062f\u064a\u0646. The UAE Air Force and Air Defence Command and the Republic of Korea Air Force held a meeting in Seoul to explore avenues for enhancing military cooperation between the two countries. The discussions covered a range of military matters and ave",
-      "source": "UAE MOD (RSS.app)",
-      "source_url": "https://x.com/modgovae/status/2114735547344437556",
-      "published": "2026-10-26T15:06:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
