@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T01:26:49.549257+00:00",
-  "total_incidents": 50,
+  "generated_at": "2026-10-29T02:30:38.234007+00:00",
+  "total_incidents": 48,
   "incidents": [
     {
       "id": "279286a912b5c98b4c98b43d32029eac",
@@ -568,50 +568,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/28/arab-parties-set-sights-on-removing-netanyahu-as-israel-counts-last-votes/",
-      "title": "Arab parties set sights on removing Netanyahu as Israel counts last votes",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/28/arab-parties-set-sights-on-removing-netanyahu-as-israel-counts-last-votes/",
-      "published": "2026-10-28T15:59:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/economy/2026/10/28/energy-prices-climb-world-bank/",
-      "title": "Energy prices to climb 32% this year as global shocks mount, World Bank says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/economy/2026/10/28/energy-prices-climb-world-bank/",
-      "published": "2026-10-28T15:48:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
