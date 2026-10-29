@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T22:26:32.178258+00:00",
-  "total_incidents": 63,
+  "generated_at": "2026-10-29T23:26:07.299191+00:00",
+  "total_incidents": 61,
   "incidents": [
     {
       "id": "https://www.aljazeera.com/?t=1793298196",
@@ -201,7 +201,7 @@
       }
     },
     {
-      "id": "Defense News-2529235243881337849",
+      "id": "Defense News-3659768262207629849",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
@@ -301,28 +301,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793300485",
-      "title": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss",
-      "published": "2026-10-29T19:06:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -546,28 +524,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
-      "title": "Israeli leader Netanyahu accused of using \u2018ugly\u2019 smear tactics to cling to power",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
-      "published": "2026-10-29T17:26:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
