@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-29T13:28:22.877238+00:00",
-  "total_incidents": 52,
+  "generated_at": "2026-10-29T14:28:51.876484+00:00",
+  "total_incidents": 50,
   "incidents": [
+    {
+      "id": "b689fc369ad4e2e2126725c8adee8677",
+      "title": "Mohammed bin Rashid crowns Mayar Othman from Egypt champion of the 10th Arab Reading Challenge, following qualifying rounds involving more than 40 million students from 60 countries in the initiative\u2019s largest edition to date. Jordan\u2019s Fakhri Mayyas wins the \u2018Outstanding Supervisor\u2019 title, Tunisia\u2019s Sidi Amer Primary School is named \u2018Best School\u2019, and Syria\u2019s Mahmoud Imran takes first place in the People of Determination category. The ceremony also honours Suhaib Majd from New Zealand as the \u2018Community Champion\u2019.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2115809865641967655",
+      "published": "2026-10-29T14:15:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/news/2026/10/29/us-navy-wants-more-visible-role-for-drone-boats-as-one-deploys-for-the-first-time/",
+      "title": "US Navy wants more visible role for drone boats as one deploys for the first time",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/naval/2026/10/29/us-navy-wants-more-visible-role-for-drone-boats-as-one-deploys-for-the-first-time/",
+      "published": "2026-10-29T14:04:32+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+      "title": "Israel election results live: Qatar says accusations of election interference in Israel \u2018ridiculous and dangerous\u2019",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+      "published": "2026-10-29T14:01:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#0",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T13:49:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793198271",
+      "title": "Damascus, Amman contradict each other on attack that killed civilians",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss",
+      "published": "2026-10-29T13:44:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 33.5138,
+        "lng": 36.2765
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/29/accident-as-lorry-driver-falls-asleep-at-wheel-sparks-dubai-police-warning/",
+      "title": "Accident as lorry driver falls asleep at wheel sparks Dubai Police warning",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/29/accident-as-lorry-driver-falls-asleep-at-wheel-sparks-dubai-police-warning/",
+      "published": "2026-10-29T13:29:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1793279150",
       "title": "Men pulled from vehicle stranded by floods in Syria",
@@ -15,28 +147,6 @@
         "city": null,
         "lat": 34.8021,
         "lng": 38.9968
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-      "title": "Israel election results live: president warns against \u2018tarnishing an entire community\u2019 in defence of Palestinian vote",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-      "published": "2026-10-29T13:13:16+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -179,72 +289,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793271056",
-      "title": "Why is Russia sending fighter jets and air defences to Ethiopia?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/29/why-is-russia-sending-fighter-jets-and-air-defences-to-ethiopia?traffic_source=rss",
-      "published": "2026-10-29T12:32:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793273624",
-      "title": "A week of Israel\u2019s lockdown in Hebron: What\u2019s happened, when will it end?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/29/a-week-of-israels-lockdown-in-hebron-whats-happened-when-will-it-end?traffic_source=rss",
-      "published": "2026-10-29T12:29:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793273747",
-      "title": "England and Al-Ahli striker Ivan Toney pleads not guilty to club assault",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/10/29/england-and-al-ahli-striker-ivan-toney-pleads-not-guilty-to-club-assault?traffic_source=rss",
-      "published": "2026-10-29T12:10:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "adf1325e86bba50253c5a37e04686fb4",
       "title": "Maktoum bin Mohammed discusses the future of the global financial and banking sector with Bill Winters, Group Chief Executive of Standard Chartered. The meeting, held at His Highness\u2019s office, explores key global developments shaping the future of the international banking and financial sector, as well as emerging opportunities that can be harnessed through broader integration across global markets.",
       "source": "Dubai Media Office (RSS.app)",
@@ -257,28 +301,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "07dc33e1c86b77ef8f2b18e7c37b965f",
-      "title": "RT by @DXBMediaOffice: Today, I met with Bill Winters, Group Chief Executive of Standard Chartered, to discuss the future of global banking and emerging opportunities in the sector. Building on more than six decades of partnership with Standard Chartered, the UAE continues to deepen its ties with leading financial institutions worldwide to advance its financial sector. We also discussed Dubai\u2019s ambition to become one of the world\u2019s top four financial centres under the Dubai Economic Agenda D33, driven by flexible regulations, digital innovation and strong private-sector partnerships across local, regional and international markets.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/MaktoumMohammed/status/2115768696669077934",
-      "published": "2026-10-29T11:32:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 95,
       "is_government": true,
@@ -304,28 +326,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#0",
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T11:22:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1007,50 +1007,6 @@
         "lng": 34.8516
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/?p=87107",
-      "title": "Finland\u2019s defense minister talks NATO, Ukraine and fishing",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/10/28/finlands-defense-minister-talks-nato-ukraine-and-fishing/",
-      "published": "2026-10-28T12:28:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/commentisfree/2026/oct/28/israel-election-exit-poll-netanyahu-survives",
-      "title": "A bitter night in Israel for all who craved a fresh start. Netanyahu survives for now \u2013 and we are more divided than ever | Dahlia Scheindlin",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/oct/28/israel-election-exit-poll-netanyahu-survives",
-      "published": "2026-10-28T10:08:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
