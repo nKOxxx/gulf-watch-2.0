@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-10-29T20:27:53.954920+00:00",
-  "total_incidents": 63,
+  "generated_at": "2026-10-29T21:26:07.955472+00:00",
+  "total_incidents": 64,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1793298196",
+      "title": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss",
+      "published": "2026-10-29T21:16:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793304282",
+      "title": "Israel bans travel for Brad Lander after detention in occupied West Bank",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss",
+      "published": "2026-10-29T21:10:13+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=99653",
+      "title": "3 congressional races that matter for defense",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/3-congressional-races-that-matter-for-defense/",
+      "published": "2026-10-29T20:41:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793299664",
+      "title": "Palestinians injured, arrested in Israeli raids across West Bank",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank?traffic_source=rss",
+      "published": "2026-10-29T20:40:03+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793296423",
+      "title": "Israel election result shows no overall majority as vote count complete",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
+      "published": "2026-10-29T20:22:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo#0",
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T20:21:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ba2e1d5465343ef60f4acb82b29431a7",
+      "title": "#Coalition force down 2 missiles in #Riyadh  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115901724099518647",
+      "published": "2026-10-29T20:20:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "6495517c52290a202a7b5a3d53caac88",
+      "title": "#Suadi civil defense deactivates alarm system  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115900836437959041",
+      "published": "2026-10-29T20:17:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://breakingdefense.com/?p=99725",
       "title": "Canada unveils first national security strategy in more than 20 years",
@@ -25,7 +201,7 @@
       }
     },
     {
-      "id": "Defense News--4202976368884481958",
+      "id": "Defense News-9008745311946369150",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
@@ -157,28 +333,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793280625",
-      "title": "\u2018Arab voice doesn\u2019t count\u2019: Jewish Israeli blocs reject Palestinian support",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/29/arab-voice-doesnt-count-jewish-israeli-blocs-reject-palestinian-support?traffic_source=rss",
-      "published": "2026-10-29T19:02:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/29/israeli-parties-begin-coalition-talks-with-all-votes-counted/",
       "title": "Israeli parties begin coalition talks with all votes counted",
       "source": "The National UAE",
@@ -238,28 +392,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793279807",
-      "title": "US Muslims concerned but resilient as \u2018hate\u2019 attacks target Abdul El-Sayed",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/29/us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-sayed?traffic_source=rss",
-      "published": "2026-10-29T18:30:04+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -751,72 +883,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/business/energy/2026/10/29/nearly-90-of-energy-leaders-boosted-ai-spending-last-year-adnoc-microsoft-study-finds/",
-      "title": "Nearly 90% of energy leaders boosted AI spending last year, Adnoc-Microsoft study finds",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/29/nearly-90-of-energy-leaders-boosted-ai-spending-last-year-adnoc-microsoft-study-finds/",
-      "published": "2026-10-29T15:54:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#0",
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T15:47:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/29/israel-election-results-netanyahu-qatar-allegations/",
-      "title": "Israel election live: Qatar denies 'ridiculous' interference allegations",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/29/israel-election-results-netanyahu-qatar-allegations/",
-      "published": "2026-10-29T15:17:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/uncategorized/2026/10/15/how-silvus-is-connecting-soldiers-and-systems-across-the-battlefield/",
       "title": "How Silvus Is Connecting Soldiers and Systems Across the Battlefield",
       "source": "Defense News",
@@ -1059,50 +1125,6 @@
       }
     },
     {
-      "id": "c6653b14c28103528e63fed543511c7c",
-      "title": "His Highness the Crown Prince sends a cable to the King of #Spain Felipe VI, expressing sincere condolence over the victims of a train collision in the province of #Toledo, wishing a swift recovery for the injured  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115735974965563476",
-      "published": "2026-10-29T09:22:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "c13071d27f1e13ed3d18eb60ecdd2d7c",
-      "title": "His Highness the Amir sends a cable to the King of #Spain Felipe VI, expressing sincere condolence over the victims of a train collision in the province of #Toledo, wishing a swift recovery for the injured  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115735626486096025",
-      "published": "2026-10-29T09:20:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo#0",
       "title": "How could Israel break election deadlock? Here are four scenarios",
       "source": "BBC Middle East",
@@ -1118,28 +1140,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e0ee3fed94b6f2d1fe0b5ce27c1901ac",
-      "title": "#Kuwait's Sahel wins two Gulf awards as best electronic app  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115718799034851425",
-      "published": "2026-10-29T08:14:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1345,6 +1345,28 @@
       }
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o#0",
+      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T10:17:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo#0",
       "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
       "source": "BBC Middle East",
@@ -1367,7 +1389,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo#1",
       "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
