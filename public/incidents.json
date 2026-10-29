@@ -1,7 +1,227 @@
 {
-  "generated_at": "2026-10-29T10:27:12.758372+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-29T11:26:23.806000+00:00",
+  "total_incidents": 56,
   "incidents": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#0",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T11:22:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/?p=87210",
+      "title": "Switzerland shortlists SAMP/T, Barak MX for long-range air defense",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/29/switzerland-shortlists-samp-t-barak-mx-for-long-range-air-defense/",
+      "published": "2026-10-29T11:17:15+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 30.5156,
+        "lng": 47.7804
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+      "title": "Israel election results live: Netanyahu accused of \u2018ugly delegitimisation campaign\u2019 after his claims about Arab parties",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+      "published": "2026-10-29T11:07:46+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "eff88675ac052d31454883eb269aad9a",
+      "title": "Absa Group opens a new office in Dubai International Financial Centre (DIFC), strengthening its ability to support trade and investment flows between the Gulf and African markets.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2115761680454193472",
+      "published": "2026-10-29T11:04:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/?p=87198",
+      "title": "NATO\u2019s Black Sea nations decry Ukraine war spillover endangering commercial ship traffic",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/29/natos-black-sea-nations-decry-ukraine-war-spillover-endangering-commercial-ship-traffic/",
+      "published": "2026-10-29T10:50:56+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793266218",
+      "title": "Rescue teams search wreckage for survivors after train crash in Spain",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/29/rescue-teams-search-wreckage-for-survivors-after-train-crash-in-spain?traffic_source=rss",
+      "published": "2026-10-29T10:39:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "07f832eacbf4bfcf8c0d7ee88f54fd60",
+      "title": "Weekly security report #\u0645\u0645\u0644\u0643\u0629_\u0627\u0644\u0628\u062d\u0631\u064a\u0646 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 #\u0627\u0644\u0627\u0645\u0646 #Moi",
+      "source": "Bahrain MOI (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DfEzZqhR90X",
+      "published": "2026-10-29T10:36:07+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "7a8c7c32540f8fb5cd29d69fb7f9f5b8",
+      "title": "#Kuwait Petroleum Corporation (KPC) declares new prices of liquefied natural gas (LNG) - propane & butane",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115753085503001071",
+      "published": "2026-10-29T10:30:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/29/uae-oil-spill-everything-we-know-as-beaches-close-and-clean-up-drive-continues/",
+      "title": "UAE oil spill: Everything we know as beaches close and clean-up drive continues",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/29/uae-oil-spill-everything-we-know-as-beaches-close-and-clean-up-drive-continues/",
+      "published": "2026-10-29T10:27:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "fcb7000b4343fbcfb01be732ba3a0823",
+      "title": "#Kuwait's Army to conduct live-fire exercises in the northwestern part of the country from October 30 to November 3  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115750985494622712",
+      "published": "2026-10-29T10:21:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/gulf/2026/10/29/trump-downplays-vance-letter-sent-to-iran/",
       "title": "Trump downplays Vance letter sent to Iran",
@@ -17,28 +237,6 @@
         "lng": 53.688
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-      "title": "Israel election results live: Netanyahu accused of \u2018ugly delegitimisation campaign\u2019 after his claims about Arab parties",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-      "published": "2026-10-29T10:04:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -201,28 +399,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793236801",
-      "title": "North Koreans being recruited into forced labour in Russia, report says",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/10/29/north-koreans-being-recruited-into-forced-labour-in-russia-report-says?traffic_source=rss",
-      "published": "2026-10-29T08:58:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "c40490468b04d747f28f8a0ac52ce8bc",
       "title": "Dubai World Trade Centre (DWTC) is set for its busiest month of 2026, hosting 20 exhibitions and events scheduled across its two venues - DWTC, and Dubai Exhibition Centre (DEC) at Expo City. The November calendar brings together a diverse range of industry sectors, spanning F&B, construction, automotive, education, policing and security, art, fitness and more.",
       "source": "Dubai Media Office (RSS.app)",
@@ -338,28 +514,6 @@
       "source": "KUNA Kuwait (RSS.app)",
       "source_url": "https://x.com/kuna_en/status/2115697566062919796",
       "published": "2026-10-29T06:49:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "bde36fe5cdd60fad84bc873d6d6fe00b",
-      "title": "#Kuwait's oil price drops 86 cents to USD 111.55 pb",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115696932488163466",
-      "published": "2026-10-29T06:47:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
@@ -558,28 +712,6 @@
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-28T20:53:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo#0",
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T20:24:39+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -817,28 +949,6 @@
       }
     },
     {
-      "id": "00f86e470dc48a56b806aee1fab789ed",
-      "title": "RT by @DXBMediaOffice: I'm deeply honoured to receive this recognition. My sincere thanks to His Highness Sheikh Mohammed bin Rashid and His Highness Sheikh Hamdan bin Mohammed for the trust placed in me, and for their unwavering support of aviation through forward-looking policies that made this journey possible. This success belongs to all of Dubai. It is the result of the hard work and dedication of a great team of people at Emirates, flydubai, Dubai Airports and our partners across the sector, who turned a vision into reality. Dubai\u2019s best days in the skies are still ahead.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/HHAhmedBinSaeed/status/2115466471036100826",
-      "published": "2026-10-28T15:31:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb",
       "title": "Israel election: what we know so far",
       "source": "The Guardian",
@@ -1037,28 +1147,6 @@
       }
     },
     {
-      "id": "https://one.sightlinemg.com/defensenews/news/2026/10/27/us-air-force-awards-lockheed-martin-694m-hypersonic-missile-production-contract/",
-      "title": "US Air Force awards Lockheed Martin $694M hypersonic missile production contract",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-air-force-awards-lockheed-martin-694m-hypersonic-missile-production-contract/",
-      "published": "2026-10-27T19:53:42+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo#0",
       "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
       "source": "BBC Middle East",
@@ -1140,28 +1228,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm4g17qq8wz4o#1",
-      "title": "Jordan arrests three men suspected of deadly church attack after shootout",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cm4g17qq8wz4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T11:01:16+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Jordan",
-        "city": null,
-        "lat": 30.5852,
-        "lng": 36.2384
-      },
-      "credibility": 95,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
