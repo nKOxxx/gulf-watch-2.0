@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T21:26:07.955472+00:00",
-  "total_incidents": 64,
+  "generated_at": "2026-10-29T22:26:32.178258+00:00",
+  "total_incidents": 63,
   "incidents": [
     {
       "id": "https://www.aljazeera.com/?t=1793298196",
@@ -201,7 +201,7 @@
       }
     },
     {
-      "id": "Defense News-9008745311946369150",
+      "id": "Defense News-2529235243881337849",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
@@ -1008,28 +1008,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/?p=87210",
-      "title": "Switzerland shortlists SAMP/T, Barak MX for long-range air defense",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/10/29/switzerland-shortlists-samp-t-barak-mx-for-long-range-air-defense/",
-      "published": "2026-10-29T11:17:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 30.5156,
-        "lng": 47.7804
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
