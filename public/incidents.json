@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T03:30:13.615101+00:00",
-  "total_incidents": 50,
+  "generated_at": "2026-10-29T04:29:45.308906+00:00",
+  "total_incidents": 47,
   "incidents": [
     {
       "id": "https://www.aljazeera.com/?t=1793240762",
@@ -201,28 +201,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793233795",
-      "title": "Israelis rally for Jewish-Arab government after election gains",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
-      "published": "2026-10-29T00:34:24+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "359ca47bbec3063c884e181fe807b315",
       "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629 \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in the Eastern Province to alert of a potential danger. Please follow the instructions below:",
       "source": "Saudi Civil Defense (RSS.app)",
@@ -304,28 +282,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/28/gaza-us-2028-presidential-race/",
-      "title": "US officials who quit over Gaza urge 2028 presidential hopefuls not to hire war supporters",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/28/gaza-us-2028-presidential-race/",
-      "published": "2026-10-28T21:46:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1073,28 +1029,6 @@
         "lng": 51.389
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c9p8g7e4k2xjo#1",
-      "title": "Forty Iranian sailors stranded off Sri Lanka coast rescued",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c9p8g7e4k2xjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T03:47:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
