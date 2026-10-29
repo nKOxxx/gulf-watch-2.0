@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-29T05:27:43.235486+00:00",
-  "total_incidents": 46,
+  "generated_at": "2026-10-29T06:37:38.548352+00:00",
+  "total_incidents": 50,
   "incidents": [
     {
       "id": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
       "title": "Israel election results live: count of absentee ballots under way as coalition talks set to begin",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-      "published": "2026-10-29T05:25:11+00:00",
+      "published": "2026-10-29T06:27:33+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -15,6 +15,116 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/podcasts/business-extra/2026/10/29/imfs-jihad-azour-on-the-deepest-oil-shock-in-history-and-the-regions-road-to-recovery/",
+      "title": "IMF's Jihad Azour on the deepest oil shock in history and the region's road to recovery",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/podcasts/business-extra/2026/10/29/imfs-jihad-azour-on-the-deepest-oil-shock-in-history-and-the-regions-road-to-recovery/",
+      "published": "2026-10-29T05:54:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3436f503d00be820511ab5e570d4380d",
+      "title": "A US MQ-1 drone was intercepted and destroyed over the eastern Strait of Hormuz by the Islamic Revolution Guard Corps.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2115681391555809716",
+      "published": "2026-10-29T05:45:00+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.5,
+        "lng": 56.5
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/lifestyle/things-to-do/2026/10/29/dubais-aquaventure-world-named-worlds-second-most-visited-water-park-with-two-million-guests/",
+      "title": "Dubai's Aquaventure World named world's second most visited water park with two million guests",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/lifestyle/things-to-do/2026/10/29/dubais-aquaventure-world-named-worlds-second-most-visited-water-park-with-two-million-guests/",
+      "published": "2026-10-29T05:37:29+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "bf9d56118e6288a0c3828ecbf2669522",
+      "title": "TECOM Group announces its financial results for the first nine months of 2026. The Group reported a 10% year-on-year (YoY) increase in recurring net profit to AED 1.2 billion for the nine-month period, with an 11% YoY rise in revenue to AED 2.3 billion, supported by sustained demand for Grade-A assets, robust operational performance, strong customer retention, and strategic portfolio expansion. @TECOMGroupDubai",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2115676219551461472",
+      "published": "2026-10-29T05:24:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793248994",
+      "title": "Russia says more than 600 drones launched towards Moscow overnight",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight?traffic_source=rss",
+      "published": "2026-10-29T05:22:21+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
       },
       "credibility": 90,
       "is_government": false,
@@ -114,7 +224,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/29/time-for-peace-now-says-kurdish-official-amid-regional-escalation/",
-      "title": "\u2018Time for peace now,\u2019 says Deputy PM of Iraq's Kurdish region amid regional escalation",
+      "title": "\u2018Time for peace now,\u2019 says Deputy PM of Iraq's Kurdish region",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/mena/2026/10/29/time-for-peace-now-says-kurdish-official-amid-regional-escalation/",
       "published": "2026-10-29T03:02:33+00:00",
@@ -169,28 +279,6 @@
         "city": null,
         "lat": 35.6892,
         "lng": 51.389
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793241283",
-      "title": "Israeli settlers savagely attack journalists in occupied West Bank",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settlers-savagely-attack-journalists-in-occupied-west-bank?traffic_source=rss",
-      "published": "2026-10-29T02:43:29+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
