@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-29T09:28:59.457213+00:00",
+  "generated_at": "2026-10-29T10:27:12.758372+00:00",
   "total_incidents": 53,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/29/trump-downplays-vance-letter-sent-to-iran/",
+      "title": "Trump downplays Vance letter sent to Iran",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/29/trump-downplays-vance-letter-sent-to-iran/",
+      "published": "2026-10-29T10:10:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+      "title": "Israel election results live: Netanyahu accused of \u2018ugly delegitimisation campaign\u2019 after his claims about Arab parties",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+      "published": "2026-10-29T10:04:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5e306e829fe36ec0e3344f35128c613b",
+      "title": "Director General of the Israel Ministry of Defense, Maj. Gen. (Res.) Amir Baram, visited Covenant, one of Israel's fast-growing defense-tech companies, as part of the Director General's series of visits to leading defense companies. Read More:",
+      "source": "Israel MOD (RSS.app)",
+      "source_url": "https://x.com/Israel_MOD/status/2115743396031861003",
+      "published": "2026-10-29T09:51:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/europe/2026/10/29/spanish-rescuers-search-train-wreckage-for-survivors-after-68-killed-in-collision/",
+      "title": "Spanish rescuers search train wreckage for survivors after 68 killed in collision",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/29/spanish-rescuers-search-train-wreckage-for-survivors-after-68-killed-in-collision/",
+      "published": "2026-10-29T09:47:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 68,
+        "military": 0,
+        "civilian": 68
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793265981",
+      "title": "Israeli settler take-over",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settler-take-over?traffic_source=rss",
+      "published": "2026-10-29T09:31:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c6653b14c28103528e63fed543511c7c",
+      "title": "His Highness the Crown Prince sends a cable to the King of #Spain Felipe VI, expressing sincere condolence over the victims of a train collision in the province of #Toledo, wishing a swift recovery for the injured  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115735974965563476",
+      "published": "2026-10-29T09:22:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/29/iraqi-court-sentences-two-prominent-politicians-to-prison-in-corruption-case/",
       "title": "Iraqi court sentences two prominent politicians to prison in corruption case",
@@ -25,6 +157,28 @@
       }
     },
     {
+      "id": "c13071d27f1e13ed3d18eb60ecdd2d7c",
+      "title": "His Highness the Amir sends a cable to the King of #Spain Felipe VI, expressing sincere condolence over the victims of a train collision in the province of #Toledo, wishing a swift recovery for the injured  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115735626486096025",
+      "published": "2026-10-29T09:20:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo#0",
       "title": "How could Israel break election deadlock? Here are four scenarios",
       "source": "BBC Middle East",
@@ -39,28 +193,6 @@
         "lng": 34.8516
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-      "title": "Israel election results live: count of absentee ballots under way as coalition talks set to begin",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-      "published": "2026-10-29T09:03:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -179,28 +311,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/29/iraqi-court-hands-life-sentences-to-three-more-french-isis-members/",
-      "title": "Iraqi court hands life sentences to three more French ISIS members",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/29/iraqi-court-hands-life-sentences-to-three-more-french-isis-members/",
-      "published": "2026-10-29T08:05:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "52cc14c856eafe6289a5101c86e82db2",
       "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0645\u062f\u064a\u0646\u0629 \u0646\u062c\u0631\u0627\u0646 \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in Najran City to alert of a potential danger. Please follow the instructions below:",
       "source": "Saudi Civil Defense (RSS.app)",
@@ -216,72 +326,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/29/kuwait-summons-iranian-ambassador-in-dispute-over-death-sentence/",
-      "title": "Kuwait summons Iranian ambassador in dispute over death sentence",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/29/kuwait-summons-iranian-ambassador-in-dispute-over-death-sentence/",
-      "published": "2026-10-29T07:57:41+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793195683",
-      "title": "How to stop the US-Israel war on Iran",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran?traffic_source=rss",
-      "published": "2026-10-29T07:54:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793254428",
-      "title": "Former US officials call on 2028 candidates to denounce Biden\u2019s Gaza policy",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/29/former-us-officials-call-on-2028-candidates-to-denounce-bidens-gaza-policy?traffic_source=rss",
-      "published": "2026-10-29T07:41:04+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -367,50 +411,6 @@
         "city": null,
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "c66e57d7bf587a643d93f55b8c167c38",
-      "title": "UAE stresses need for de-escalation and diplomatic solutions in region  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115666924457623782",
-      "published": "2026-10-29T04:47:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "532833b00c516543df9e6597141afb21",
-      "title": "Coalition air defense intercepts & destroys ballistic missile targeting Saudi Eastern Region  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115666276588593631",
-      "published": "2026-10-29T04:45:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 95,
       "is_government": true,
