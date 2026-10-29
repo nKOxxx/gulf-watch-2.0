@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-29T04:29:45.308906+00:00",
-  "total_incidents": 47,
+  "generated_at": "2026-10-29T05:27:43.235486+00:00",
+  "total_incidents": 46,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+      "title": "Israel election results live: count of absentee ballots under way as coalition talks set to begin",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
+      "published": "2026-10-29T05:25:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c66e57d7bf587a643d93f55b8c167c38",
+      "title": "UAE stresses need for de-escalation and diplomatic solutions in region  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115666924457623782",
+      "published": "2026-10-29T04:47:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "532833b00c516543df9e6597141afb21",
+      "title": "Coalition air defense intercepts & destroys ballistic missile targeting Saudi Eastern Region  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115666276588593631",
+      "published": "2026-10-29T04:45:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "559d73011587f4365043adaf54dfd133",
+      "title": "New Executive Director of the World Food Programme Luke Lindberg has cautioned that about 266 million people suffer from acute food insecurity across the globe.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2115665833556943280",
+      "published": "2026-10-29T04:43:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1793240762",
       "title": "Activists accuse Israeli settlers of assault in occupied West Bank",
@@ -465,28 +553,6 @@
       }
     },
     {
-      "id": "604955111bcc8989b9596d0ee14a9ba1",
-      "title": "GCC Secretary General Jasem Al-Budaiwi: The Gulf media ambition goes beyond achieving excellence and leadership to becoming a powerful force in shaping awareness, making an impact and bolstering the GCC's regional and global standing  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115494095850287201",
-      "published": "2026-10-28T17:21:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized",
       "title": "Iranian film-maker Jafar Panahi given new prison sentence",
       "source": "The Guardian",
@@ -524,50 +590,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8d9530ad3a2dd69576c47a0957cab42a",
-      "title": "#Kuwait's Minister of Foreign Affairs Sheikh Jarrah Jaber Al-Ahmad Al-Sabah and #Saudi Minister of Defense and Minister of Industry and Mineral Resources Prince Abdulaziz bin Salman Al-Saud discuss firm historical and fraternal relations  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115478845897814502",
-      "published": "2026-10-28T16:20:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2fc463373576b8a5c2f69bd7bc49183e",
-      "title": "#Kuwaiti Minister of State for Communications and Information Technology and Acting Minister of Information and Culture Omar Al-Omar says #Kuwait is keen to bolster Gulf media cooperation and integration and address media challenges  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115475026388431200",
-      "published": "2026-10-28T16:05:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -817,28 +839,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war",
-      "title": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war",
-      "published": "2026-10-28T05:00:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo#0",
       "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
       "source": "BBC Middle East",
@@ -1007,28 +1007,6 @@
         "lng": 36.2384
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "c3062a6c3ae141557937840f9b1db4fd",
-      "title": "Saudi Defense Minister Khalid bin Salman, Pakistani army chief General Asim Munir and Turkish intelligence chief Ibrahim Kalin will take part in a joint meeting in Tehran, a senior SNSC official said.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2114586450863747128",
-      "published": "2026-10-26T05:14:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 70,
       "is_government": false,
       "casualties": {
         "total": 0,
