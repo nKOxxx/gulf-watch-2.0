@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-10-29T18:30:46.422644+00:00",
-  "total_incidents": 59,
+  "generated_at": "2026-10-29T19:25:53.929946+00:00",
+  "total_incidents": 63,
   "incidents": [
+    {
+      "id": "https://breakingdefense.com/?p=99686",
+      "title": "Beyond autopilot: Understanding the five levels of battlefield drone autonomy",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/beyond-autopilot-understanding-the-five-levels-of-battlefield-drone-autonomy/",
+      "published": "2026-10-29T19:22:59+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/news/2026/10/29/record-deployment-for-destroyer-uss-spruance-casts-doubt-over-us-navy-maintenance/",
+      "title": "Record deployment for destroyer USS Spruance casts doubt over US Navy maintenance",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/naval/2026/10/29/record-deployment-for-destroyer-uss-spruance-casts-doubt-over-us-navy-maintenance/",
+      "published": "2026-10-29T19:15:42+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793300485",
+      "title": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss",
+      "published": "2026-10-29T19:06:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793280625",
+      "title": "\u2018Arab voice doesn\u2019t count\u2019: Jewish Israeli blocs reject Palestinian support",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/29/arab-voice-doesnt-count-jewish-israeli-blocs-reject-palestinian-support?traffic_source=rss",
+      "published": "2026-10-29T19:02:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/29/israeli-parties-begin-coalition-talks-with-all-votes-counted/",
+      "title": "Israeli parties begin coalition talks with all votes counted",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/29/israeli-parties-begin-coalition-talks-with-all-votes-counted/",
+      "published": "2026-10-29T18:57:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a5ac0a4607c4939e4e65d48815c0baca",
+      "title": "Dubai Financial Market announces strong results for the first nine months of 2026 Total consolidated revenue AED 753.2 million Net profit before tax AED 586.4 million Market capitalisation AED 993 billion Total traded value AED 162 billion Up 22% compared with the same period in 2025 Average daily traded value AED 883 million Up 25% compared with the same period in 2025 New investors 55,460 72% are international investors Total investor base +1.3 million investors @DFMalerts",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2115878573915639869",
+      "published": "2026-10-29T18:48:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f3a81268071f2bb481d38bc4dfd136aa",
+      "title": "Dubai Financial Market announces strong results for the first nine months of 2026 Total consolidated revenue AED 753.2 million Net profit before tax AED 586.4 million Market capitalisation AED 993 billion Total traded value AED 162 billion Up 22% compared with the same period in 2025 Average daily traded value AED 883 million Up 25% compared with the same period in 2025 New investors 55,460 72% are international investors Total investor base +1.3 million investors @DFMalerts",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2115876562486841390",
+      "published": "2026-10-29T18:40:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793279807",
+      "title": "US Muslims concerned but resilient as \u2018hate\u2019 attacks target Abdul El-Sayed",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/29/us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-sayed?traffic_source=rss",
+      "published": "2026-10-29T18:30:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1793288352",
       "title": "Albanian opposition storms parliament, sets off flares and smoke bombs",
@@ -223,28 +399,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793280744",
-      "title": "UAE sentences eight people to life over arms supplies to Sudan\u2019s army",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/29/uae-sentences-eight-people-to-life-over-arms-supplies-to-sudans-army?traffic_source=rss",
-      "published": "2026-10-29T17:25:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "8695d8105dc298e79c4d65558ca7163c",
       "title": "\u062a\u0635\u0648\u064a\u0631 \u0623\u0648 \u0646\u0634\u0631 \u0623\u0648 \u062a\u062f\u0627\u0648\u0644 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0630\u0627\u062a \u0635\u0644\u0629 \u0628\u0627\u0644\u062a\u0635\u062f\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0648\u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0645\u0648\u0627\u0642\u0639 \u0633\u0642\u0648\u0637\u0647\u0627 \u064a\u0639\u0631\u0636\u0643 \u0644\u0644\u0645\u0633\u0627\u0621\u0644\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a\u0629. #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 Filming, publishing, or sharing information related to countering missiles and drones and their impact sites exposes you to legal liability. #Ministry_of_Interior",
       "source": "Saudi Civil Defense (RSS.app)",
@@ -414,28 +568,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793291329",
-      "title": "Why US Sports Owners Spend Millions on Politics",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/game-theory/2026/10/29/why-us-sports-owners-spend-millions-on-politics?traffic_source=rss",
-      "published": "2026-10-29T16:33:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1015,28 +1147,6 @@
       }
     },
     {
-      "id": "https://one.sightlinemg.com/defensenews/news/2026/10/28/us-navy-reports-highest-number-of-class-a-aviation-afloat-mishaps-in-10-years/",
-      "title": "US Navy reports highest number of Class A aviation, afloat mishaps in 10 years",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/naval/2026/10/28/us-navy-reports-highest-number-of-class-a-aviation-afloat-mishaps-in-10-years/",
-      "published": "2026-10-28T23:02:32+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo#0",
       "title": "Israel's election deadlock is a sign of the country's deep divisions",
       "source": "BBC Middle East",
@@ -1139,28 +1249,6 @@
         "lng": 53.688
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=99559",
-      "title": "UK commits to 3 percent GDP on defense by 2030, new investment partnerships with industry",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/uk-commits-to-3-percent-gdp-on-defense-by-2030-new-investment-partnerships-with-industry/",
-      "published": "2026-10-28T16:43:02+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
