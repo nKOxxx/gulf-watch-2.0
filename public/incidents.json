@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-30T06:37:51.693425+00:00",
+  "generated_at": "2026-10-30T07:28:39.876780+00:00",
   "total_incidents": 59,
   "incidents": [
+    {
+      "id": "08930d77a544d31afc688337c597bc43",
+      "title": "An interview with Yaqoub Al Zarouni, Senior Manager of the Dubai Fitness Challenge, on preparations for its 10th edition, taking place from 31 October to 29 November 2026. He discusses the exciting lineup of events and experiences planned for this year and the Challenge\u2019s role in encouraging the community to make physical activity part of everyday life, supporting Dubai\u2019s ambition to become one of the world\u2019s most active and vibrant cities.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2116065783906550209",
+      "published": "2026-10-30T07:12:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793257969",
+      "title": "Britain must sanction Israel, not just its settlers",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/opinions/2026/10/30/britain-must-sanction-israel-not-just-its-settlers?traffic_source=rss",
+      "published": "2026-10-30T07:10:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 23.5859,
+        "lng": 58.4059
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793187436",
+      "title": "How Israel choked off Hebron at 10 entrances, as 5,000 forced to flee",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/10/30/how-israel-choked-off-hebron-at-10-entrances-as-5000-forced-to-flee?traffic_source=rss",
+      "published": "2026-10-30T07:07:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ee067e9955c71d3053137af4213c79e6",
+      "title": "#Kuwait Petroleum Corporation (KPC): The price of Kuwaiti oil fell 78 cents to USD 110.77 per barrel (pb) in Thursday's trading, compared to USD 111.55 pb in Wednesday's trading  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2116063435242803548",
+      "published": "2026-10-30T07:03:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793302366",
+      "title": "UK denies entry to Swedish academic due to speak at Palestine event",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/30/swedish-academic-says-denied-entry-to-uk-over-palestine-event?traffic_source=rss",
+      "published": "2026-10-30T06:50:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 31.9522,
+        "lng": 35.2332
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793337395",
+      "title": "Survivors of Spain\u2019s worst train crashes urge action after latest disaster",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/30/survivors-of-spains-worst-train-crashes-urge-action-after-latest-disaster?traffic_source=rss",
+      "published": "2026-10-30T06:46:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties",
+      "title": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties",
+      "published": "2026-10-30T06:44:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "825c1292ba8cf862ccba8d274d37330c",
       "title": "Dubai South signs an agreement with Phoenix Aviation to develop a new airside facility at the Mohammed bin Rashid Aerospace Hub. Scheduled for completion in Q1 2029, the project will establish a centre of excellence specialising in wide-body aircraft maintenance, repair and overhaul (MRO), cabin modifications and completions, and cargo conversions, catering to growing demand for specialised aviation services.",
@@ -40,6 +194,28 @@
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo#0",
+      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T06:02:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 95,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -201,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793316827",
-      "title": "Flash floods kill five in Syria",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/30/flash-floods-kills-five-in-syria?traffic_source=rss",
-      "published": "2026-10-30T03:11:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/2026/10/30/un-secretary-general-seventh-straw-poll/",
       "title": "UN Security Council to hold seventh straw poll for next secretary general",
       "source": "The National UAE",
@@ -237,28 +391,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793327647",
-      "title": "Netanyahu attacks Israel\u2019s Arab parties as he falls short of majority",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
-      "published": "2026-10-30T02:40:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -377,7 +509,7 @@
       }
     },
     {
-      "id": "Defense News-7057453759229730749",
+      "id": "Defense News-2927430820166238734",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
@@ -480,50 +612,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a5ac0a4607c4939e4e65d48815c0baca",
-      "title": "Dubai Financial Market announces strong results for the first nine months of 2026 Total consolidated revenue AED 753.2 million Net profit before tax AED 586.4 million Market capitalisation AED 993 billion Total traded value AED 162 billion Up 22% compared with the same period in 2025 Average daily traded value AED 883 million Up 25% compared with the same period in 2025 New investors 55,460 72% are international investors Total investor base +1.3 million investors @DFMalerts",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2115878573915639869",
-      "published": "2026-10-29T18:48:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f3a81268071f2bb481d38bc4dfd136aa",
-      "title": "Dubai Financial Market announces strong results for the first nine months of 2026 Total consolidated revenue AED 753.2 million Net profit before tax AED 586.4 million Market capitalisation AED 993 billion Total traded value AED 162 billion Up 22% compared with the same period in 2025 Average daily traded value AED 883 million Up 25% compared with the same period in 2025 New investors 55,460 72% are international investors Total investor base +1.3 million investors @DFMalerts",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2115876562486841390",
-      "published": "2026-10-29T18:40:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -927,28 +1015,6 @@
       }
     },
     {
-      "id": "d67878eacd77350679bcf6a50cb74842",
-      "title": ". Abu Dhabi Future Energy Company PJSC (Masdar), Citaglobal Berhad and TIZA Global Sdn Bhd today marked the start of con...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DfFBHXCNZVr",
-      "published": "2026-10-29T12:33:55+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "620744d0612b7bb2e00933ef708668cf",
       "title": "RT by @CivilDefenceAD: UAE Hosts IAEA School of Radiation Emergency Management to Strengthen National Emergency Preparedness For the full news:  #uae #nuclear @CivilDefenceAD #iaea @iaeaorg",
       "source": "Abu Dhabi Civil Defence (RSS.app)",
@@ -985,50 +1051,6 @@
         "lng": 48.0
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "7a8c7c32540f8fb5cd29d69fb7f9f5b8",
-      "title": "#Kuwait Petroleum Corporation (KPC) declares new prices of liquefied natural gas (LNG) - propane & butane",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115753085503001071",
-      "published": "2026-10-29T10:30:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "fcb7000b4343fbcfb01be732ba3a0823",
-      "title": "#Kuwait's Army to conduct live-fire exercises in the northwestern part of the country from October 30 to November 3  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115750985494622712",
-      "published": "2026-10-29T10:21:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -1169,28 +1191,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/oct/28/israel-elections-choice-netanyahu-remaining-power-or-palestinian-backed-coalition",
-      "title": "Israel\u2019s choice: Netanyahu remaining in power or a Palestinian-backed coalition",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/28/israel-elections-choice-netanyahu-remaining-power-or-palestinian-backed-coalition",
-      "published": "2026-10-28T18:54:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "b5f07dd7842054ba930dbfb4f199ae7c",
       "title": "\u0643\u062c\u0632\u0621 \u0645\u0646 \u0627\u0644\u0645\u0644\u062a\u0642\u0649 \u0627\u0644\u0625\u0639\u0644\u0627\u0645\u064a\u060c \u0639\u0642\u062f\u062a \u0627\u0644\u0647\u064a\u0626\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0625\u062f\u0627\u0631\u0629 #\u0627\u0644\u0637\u0648\u0627\u0631\u0626_\u0648\u0627\u0644\u0623\u0632\u0645\u0627\u062a \u0648\u0627\u0644\u0643\u0648\u0627\u0631\u062b \u062a\u0645\u0631\u064a\u0646 \u0625\u0639\u0644\u0627\u0645\u064a \u062a\u0637\u0628\u064a\u0642\u064a \u064a\u062d\u0627\u0643\u064a \u0633\u064a\u0646\u0627\u0631\u064a\u0648 \u0623\u0632\u0645\u0629 \u0648\u0627\u0642\u0639\u064a\u0629 \u0644\u0627\u062e\u062a\u0628\u0627\u0631 \u0633\u0631\u0639\u0629 \u0627\u0644\u0627\u0633\u062a\u062c\u0627\u0628\u0629 \u0648\u0643\u0641\u0627\u0621\u0629 \u0627\u0644\u062a\u0646\u0633\u064a\u0642 \u0648\u0627\u062a\u062e\u0627\u0630 \u0627\u0644\u0642\u0631\u0627\u0631 \u0627\u0644\u0627\u062a\u0635\u0627\u0644\u064a \u0648\u064a\u0646\u0627\u0642\u0634 \u062a\u062d\u062f\u064a\u0627\u062a \u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0648\u062a\u0648\u062d\u064a\u062f \u0627\u0644\u0631\u0633\u0627\u0626\u0644 \u0627\u0644\u0625\u0639\u0644\u0627\u0645\u064a\u0629\u060c \u0648\u064a\u0633\u062a\u0647\u062f\u0641 \u0628\u0644\u0648\u0631\u0629 \u062a\u0648\u0635\u064a\u0627\u062a \u0639\u0645\u0644\u064a\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u062c\u0627\u0647\u0632\u064a\u0629 \u0627\u0644\u0625\u0639\u0644\u0627\u0645\u064a\u0629. As part of the Media Forum, the National Emergency, Crisis and Disaster Management Authority #NCEMA conducted a practical media exercise simulating a realistic crisis scenario, aimed at testing the speed of response, the efficiency of coordination, and communication decision-making. The exercise further examined the challenges of information management and the unification of media messages, with the",
       "source": "UAE NCEMA (RSS.app)",
@@ -1279,7 +1279,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo#1",
       "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
