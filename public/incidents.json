@@ -1,13 +1,57 @@
 {
-  "generated_at": "2026-10-30T17:26:15.296698+00:00",
-  "total_incidents": 59,
+  "generated_at": "2026-10-30T18:26:58.401008+00:00",
+  "total_incidents": 56,
   "incidents": [
     {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/30/uae-tanker-gem-no-2-oil-spill-contained/",
-      "title": "Oil spill contained as remedial work continues along coastline",
+      "id": "https://www.aljazeera.com/?t=1793382049",
+      "title": "Kim Jong Un calls for North Korea\u2019s drone technology superiority",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss",
+      "published": "2026-10-30T18:03:45+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/arts-culture/2026/10/30/learn-arabic-sikka-alley/",
+      "title": "Arabic word of the week: 'Sikka', the narrow alleyways that tell stories of UAE heritage",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/30/uae-tanker-gem-no-2-oil-spill-contained/",
-      "published": "2026-10-30T17:00:33+00:00",
+      "source_url": "https://www.thenationalnews.com/arts-culture/2026/10/30/learn-arabic-sikka-alley/",
+      "published": "2026-10-30T18:03:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/30/an-era-of-multiple-disasters-how-concrete-and-construction-caused-istanbul-to-flood/",
+      "title": "'An era of multiple disasters': How concrete and construction caused Istanbul to flood",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/30/an-era-of-multiple-disasters-how-concrete-and-construction-caused-istanbul-to-flood/",
+      "published": "2026-10-30T18:02:40+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -17,6 +61,94 @@
         "lng": 48.0
       },
       "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/30/how-the-uaes-rocks-and-soil-could-become-a-vital-resource-for-the-space-race/",
+      "title": "How the UAE's rocks and soil could become a vital resource for the space race",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/30/how-the-uaes-rocks-and-soil-could-become-a-vital-resource-for-the-space-race/",
+      "published": "2026-10-30T18:01:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793326772",
+      "title": "How cuts under Colombia\u2019s de la Espriella threaten a key human rights court",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss",
+      "published": "2026-10-30T17:43:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/video/2026/oct/30/nothing-will-change-for-us-palestinians-react-to-israeli-elections-video",
+      "title": "'Nothing will change for us': Palestinians react to Israeli elections \u2013 video",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/video/2026/oct/30/nothing-will-change-for-us-palestinians-react-to-israeli-elections-video",
+      "published": "2026-10-30T17:41:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793367932",
+      "title": "Report reveals campaign promoting racist, Islamophobic, anti-Qatar views",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/30/report-reveals-campaign-promoting-racist-islamophobic-anti-qatar-views?traffic_source=rss",
+      "published": "2026-10-30T17:34:27+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 25.3548,
+        "lng": 51.1839
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -30,28 +162,6 @@
       "source": "Breaking Defense",
       "source_url": "https://breakingdefense.com/2026/10/new-uk-policy-requires-foreign-defense-contractors-to-invest-locally-for-all-50m-deals/",
       "published": "2026-10-30T16:45:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/30/uae-officials-and-recruits-referred-to-military-court-over-national-service-fraud/",
-      "title": "Several officials and recruits referred to military court over national service evasion scheme",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/30/uae-officials-and-recruits-referred-to-military-court-over-national-service-fraud/",
-      "published": "2026-10-30T16:32:38+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -245,50 +355,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/business/markets/2026/10/30/oil-prices-set-for-sharp-monthly-rise-on-hormuz-strikes-and-us-threat-to-hit-iran/",
-      "title": "Oil prices set for sharp monthly rise on Hormuz strikes and US threat to hit Iran",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/markets/2026/10/30/oil-prices-set-for-sharp-monthly-rise-on-hormuz-strikes-and-us-threat-to-hit-iran/",
-      "published": "2026-10-30T15:33:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793367499",
-      "title": "\u2018Need a Plan B\u2019: Yemenis in Aden prepare for another war as missiles fall",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss",
-      "published": "2026-10-30T15:26:00+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Yemen",
-        "city": null,
-        "lat": 12.7855,
-        "lng": 45.0187
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo#0",
       "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
       "source": "BBC Middle East",
@@ -347,28 +413,6 @@
         "lng": 34.8516
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793372596",
-      "title": "Israeli forces blow up homes of Palestinians accused of killing soldiers",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss",
-      "published": "2026-10-30T15:06:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.7308,
-        "lng": 36.7094
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -443,28 +487,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793371130",
-      "title": "Senators briefed on Trump\u2019s \u2018insane\u2019 plan to restart war on Iran",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss",
-      "published": "2026-10-30T14:40:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/uncategorized/2026/10/16/eos-defense-systems-prepares-to-build-slinger-counter-drone-systems/",
       "title": "EOS Defense Systems Prepares to Build Slinger Counter-Drone Systems",
       "source": "Defense News",
@@ -509,56 +531,12 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/30/lebanese-court-presses-charges-against-hezbollah-members-over-explosives-seizure/",
-      "title": "Lebanese court presses charges against Hezbollah members over explosives seizure",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/30/lebanese-court-presses-charges-against-hezbollah-members-over-explosives-seizure/",
-      "published": "2026-10-30T14:09:26+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "0acd2f8b62c3cd0a15c38ffe7ebe977e",
       "title": "\u062a\u0635\u0648\u064a\u0631 \u0623\u0648 \u0646\u0634\u0631 \u0623\u0648 \u062a\u062f\u0627\u0648\u0644 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0630\u0627\u062a \u0635\u0644\u0629 \u0628\u0627\u0644\u062a\u0635\u062f\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0648\u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0645\u0648\u0627\u0642\u0639 \u0633\u0642\u0648\u0637\u0647\u0627 \u064a\u0639\u0631\u0636\u0643 \u0644\u0644\u0645\u0633\u0627\u0621\u0644\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a\u0629. #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 Filming, publishing, or sharing information related to countering missiles and drones and their impact sites exposes you to legal liability. #Ministry_of_Interior",
       "source": "Saudi Civil Defense (RSS.app)",
       "source_url": "https://x.com/SaudiDCD/status/2116157385559437417",
       "published": "2026-10-30T13:16:00+00:00",
       "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e13b84b94f7f25670c4a4af04f0b707e",
-      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u0646\u0637\u0642\u0629 \u062c\u0627\u0632\u0627\u0646\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (998). Alert: The danger has passed in Jazan Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2116157254084801007",
-      "published": "2026-10-30T13:16:00+00:00",
-      "type": "incident",
       "status": "confirmed",
       "location": {
         "country": null,
@@ -817,7 +795,7 @@
       }
     },
     {
-      "id": "Defense News--6213403637109960484",
+      "id": "Defense News-6331837372334694952",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
@@ -949,28 +927,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=99676",
-      "title": "Taiwan 2027 conflict window remains valid, Army Pacific commander says",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/taiwan-2027-conflict-window-remains-valid-army-pacific-commander-says/",
-      "published": "2026-10-29T17:57:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
       "title": "Israel election results: Qatar says accusations of election interference in Israel \u2018ridiculous and dangerous\u2019 \u2013 as it happened",
       "source": "The Guardian",
@@ -983,28 +939,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/news/2026/10/29/in-arctic-us-army-researchers-test-camo-that-could-adapt-to-changing-landscapes/",
-      "title": "In Arctic, US Army researchers test camo that could adapt to changing landscapes",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/in-arctic-us-army-researchers-test-camo-that-could-adapt-to-changing-landscapes/",
-      "published": "2026-10-29T16:30:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
