@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-29T23:26:07.299191+00:00",
-  "total_incidents": 61,
+  "generated_at": "2026-10-30T00:50:22.213195+00:00",
+  "total_incidents": 62,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1793318642",
+      "title": "Binance says $2.54bn in crypto funds frozen amid \u2018potential security issue\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss",
+      "published": "2026-10-30T00:29:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793308972",
+      "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
+      "published": "2026-10-30T00:11:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793311349",
+      "title": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
+      "published": "2026-10-30T00:00:00+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1793298196",
       "title": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
@@ -61,50 +127,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793299664",
-      "title": "Palestinians injured, arrested in Israeli raids across West Bank",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank?traffic_source=rss",
-      "published": "2026-10-29T20:40:03+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793296423",
-      "title": "Israel election result shows no overall majority as vote count complete",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete?traffic_source=rss",
-      "published": "2026-10-29T20:22:04+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -201,7 +223,7 @@
       }
     },
     {
-      "id": "Defense News-3659768262207629849",
+      "id": "Defense News--284771008027784116",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
