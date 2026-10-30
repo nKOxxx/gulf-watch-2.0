@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-10-30T07:28:39.876780+00:00",
+  "generated_at": "2026-10-30T08:30:05.645244+00:00",
   "total_incidents": 59,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1793342382",
+      "title": "Smoke from wildfires killed 3,500 people in Indonesia in September: Report",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/30/smoke-from-wildfires-killed-3500-people-in-indonesia-in-september-report?traffic_source=rss",
+      "published": "2026-10-30T08:20:30+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "084c12fd8aa3fc1dc55cea91c142e381",
+      "title": "RT by @DXBMediaOffice: I met with H.E. Choi Kyo-jin, Minister of Education of the Republic of South Korea, to exchange perspectives on the future of education and its role in preparing generations to navigate rapid change and shape the future. We discussed the importance of expanding cooperation between educational institutions in the UAE and South Korea, exchanging expertise and innovative practices, and harnessing modern technologies to advance education systems and enhance the quality of education and its outcomes. These efforts can help equip future generations with the knowledge and skills they need to thrive in a rapidly changing world.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/hhshklatifa/status/2116077258842751151",
+      "published": "2026-10-30T07:58:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/30/what-are-us-midterms-why-important/",
+      "title": "What happens in the US midterm elections and why are they important?",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/30/what-are-us-midterms-why-important/",
+      "published": "2026-10-30T07:54:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793341347",
+      "title": "\u2018My life is buried here\u2019: Iranian man whose 12 family members were killed",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/30/my-life-is-buried-here-iranian-man-whose-12-family-members-were-killed?traffic_source=rss",
+      "published": "2026-10-30T07:51:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/30/iraqi-prime-minister-takes-direct-control-of-intelligence-service/",
+      "title": "Iraqi Prime Minister takes direct control of intelligence service",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/30/iraqi-prime-minister-takes-direct-control-of-intelligence-service/",
+      "published": "2026-10-30T07:48:10+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793337902",
+      "title": "Philippines raises alert as Mayon Volcano erupts",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/philippines-raises-alert-as-mayon-volcano-erupts?traffic_source=rss",
+      "published": "2026-10-30T07:37:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "08930d77a544d31afc688337c597bc43",
       "title": "An interview with Yaqoub Al Zarouni, Senior Manager of the Dubai Fitness Challenge, on preparations for its 10th edition, taking place from 31 October to 29 November 2026. He discusses the exciting lineup of events and experiences planned for this year and the Challenge\u2019s role in encouraging the community to make physical activity part of everyday life, supporting Dubai\u2019s ambition to become one of the world\u2019s most active and vibrant cities.",
@@ -91,42 +223,20 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793302366",
-      "title": "UK denies entry to Swedish academic due to speak at Palestine event",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/30/swedish-academic-says-denied-entry-to-uk-over-palestine-event?traffic_source=rss",
-      "published": "2026-10-30T06:50:35+00:00",
+      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/30/israel-begins-coalition-talks-binance-hit-by-63bn-breach-and-abu-dhabi-jails-sudan-arms-traffickers/",
+      "title": "Israel begins coalition talks, Binance hit by $6.3bn breach and Abu Dhabi jails Sudan arms traffickers",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/30/israel-begins-coalition-talks-binance-hit-by-63bn-breach-and-abu-dhabi-jails-sudan-arms-traffickers/",
+      "published": "2026-10-30T07:00:30+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": null,
+        "country": "UAE",
         "city": null,
-        "lat": 31.9522,
-        "lng": 35.2332
+        "lat": 24.4539,
+        "lng": 54.3773
       },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793337395",
-      "title": "Survivors of Spain\u2019s worst train crashes urge action after latest disaster",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/30/survivors-of-spains-worst-train-crashes-urge-action-after-latest-disaster?traffic_source=rss",
-      "published": "2026-10-30T06:46:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -223,28 +333,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/30/live-iran-war-houthis-yemen/",
-      "title": "Middle East latest: Yemen army investigating reports of Houthis using toxic gases in Taiz",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/30/live-iran-war-houthis-yemen/",
-      "published": "2026-10-30T05:51:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 38.0962,
-        "lng": 46.2738
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "86dc2507eb9efdaf8b06ca487af85fef",
       "title": "Coalition air defense intercepts, destroys Houthi drone targeting Makkah region #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -289,50 +377,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793334441",
-      "title": "\u2018You look like hell\u2019, Trump lashes out at reporter in tarmac tirade",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/you-look-like-hell-trump-lashes-out-at-reporter-in-tarmac-tirade?traffic_source=rss",
-      "published": "2026-10-30T04:31:16+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793333445",
-      "title": "Israeli actress slams occupation in accidental \u2018hot mic\u2019 moment",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-actress-slams-occupation-in-accidental-hot-mic-moment?traffic_source=rss",
-      "published": "2026-10-30T04:14:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "9b21804dac8e0a4ce27c8c630ee32eeb",
       "title": "RT by @DXBMediaOffice: I was pleased to meet H.E. Chae Hwi-young, Minister of Culture, Sports and Tourism of the Republic of South Korea, to exchange perspectives on cooperation in culture, tourism and the creative industries. We explored ways to build sustainable partnerships that support the growth of these sectors in both the UAE and Korea. Culture brings people closer through the stories and experiences they share. By connecting creatives across our communities, we can foster mutual learning, strengthen relationships and enrich our cultural and creative landscapes.",
       "source": "Dubai Media Office (RSS.app)",
@@ -348,50 +392,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/10/30/iran-war-puts-energy-security-at-centre-of-g20-talks-amid-geopolitical-tensions/",
-      "title": "Iran war puts energy security at centre of G20 talks amid geopolitical divisions",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/10/30/iran-war-puts-energy-security-at-centre-of-g20-talks-amid-geopolitical-tensions/",
-      "published": "2026-10-30T03:40:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/2026/10/30/un-secretary-general-seventh-straw-poll/",
-      "title": "UN Security Council to hold seventh straw poll for next secretary general",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/2026/10/30/un-secretary-general-seventh-straw-poll/",
-      "published": "2026-10-30T03:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -509,7 +509,7 @@
       }
     },
     {
-      "id": "Defense News-2927430820166238734",
+      "id": "Defense News--8064470013448290476",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
