@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-30T14:29:08.340467+00:00",
+  "generated_at": "2026-10-30T15:25:38.539935+00:00",
   "total_incidents": 56,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/commentisfree/2026/oct/30/israel-election-national-populists-benjamin-netanyahu-arab-parties",
+      "title": "This is the hard lesson from Israel\u2019s election: to stop national populists, you can\u2019t play by gentlemen\u2019s rules | Jonathan Freedland",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/commentisfree/2026/oct/30/israel-election-national-populists-benjamin-netanyahu-arab-parties",
+      "published": "2026-10-30T15:12:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo#0",
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T15:09:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793372596",
+      "title": "Israeli forces blow up homes of Palestinians accused of killing soldiers",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss",
+      "published": "2026-10-30T15:06:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.7308,
+        "lng": 36.7094
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/?p=87292",
+      "title": "Ukraine completes work on new missile defense system, awaits European partner components",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/30/ukraine-completes-work-on-new-missile-defense-system-awaits-european-partner-components/",
+      "published": "2026-10-30T14:56:47+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=99736",
+      "title": "Qatar\u2019s domestic weapons, Turkey\u2019s drone arsenal and the Mecca pact\u2019s next test",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/qatars-domestic-weapons-turkeys-drone-arsenal-and-the-mecca-pacts-next-test/",
+      "published": "2026-10-30T14:45:56+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 21.3891,
+        "lng": 39.8579
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "670b31e870ff7e47a61ce67be4350b03",
+      "title": "Mohammed bin Rashid reviews plans and implementation stages of the AED500 million Arab Reading Challenge Endowment, to be developed by Sobha Realty in Dubai. All proceeds from the project will be directed towards supporting the Arab Reading Challenge\u2019s strategic plans to develop knowledge and cultural programmes, preserve the Arabic language and empower young Arabs to pursue knowledge and modern sciences.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2116178598398931390",
+      "published": "2026-10-30T14:41:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793371130",
+      "title": "Senators briefed on Trump\u2019s \u2018insane\u2019 plan to restart war on Iran",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss",
+      "published": "2026-10-30T14:40:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://one.sightlinemg.com/defensenews/uncategorized/2026/10/16/eos-defense-systems-prepares-to-build-slinger-counter-drone-systems/",
       "title": "EOS Defense Systems Prepares to Build Slinger Counter-Drone Systems",
@@ -40,6 +194,28 @@
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793359625",
+      "title": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un?traffic_source=rss",
+      "published": "2026-10-30T14:18:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -201,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793365095",
-      "title": "Senators briefed on Trump\u2019s \u2018insane\u2019 plan to restart war on Iran",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran?traffic_source=rss",
-      "published": "2026-10-30T13:01:43+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/business/money/2026/10/30/binance-hack-shows-ai-could-make-crypto-attacks-more-dangerous-analysts-warn/",
       "title": "Binance hack shows AI could make crypto attacks 'more dangerous', analysts warn",
       "source": "The National UAE",
@@ -279,50 +433,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?p=5100804",
-      "title": "Russia back in ice hockey world championships after sport court ruling",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/10/30/russia-back-in-ice-hockey-world-championships-after-sport-court-ruling?traffic_source=rss",
-      "published": "2026-10-30T12:43:28+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/30/yemen-investigating-toxic-substances-allegedly-used-by-houthis-in-taiz/",
-      "title": "Yemen investigating 'toxic substances' allegedly used by Houthis in Taiz",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/30/yemen-investigating-toxic-substances-allegedly-used-by-houthis-in-taiz/",
-      "published": "2026-10-30T11:49:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 38.0962,
-        "lng": 46.2738
       },
       "credibility": 85,
       "is_government": false,
@@ -414,50 +524,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "084c12fd8aa3fc1dc55cea91c142e381",
-      "title": "RT by @DXBMediaOffice: I met with H.E. Choi Kyo-jin, Minister of Education of the Republic of South Korea, to exchange perspectives on the future of education and its role in preparing generations to navigate rapid change and shape the future. We discussed the importance of expanding cooperation between educational institutions in the UAE and South Korea, exchanging expertise and innovative practices, and harnessing modern technologies to advance education systems and enhance the quality of education and its outcomes. These efforts can help equip future generations with the knowledge and skills they need to thrive in a rapidly changing world.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/hhshklatifa/status/2116077258842751151",
-      "published": "2026-10-30T07:58:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "08930d77a544d31afc688337c597bc43",
-      "title": "An interview with Yaqoub Al Zarouni, Senior Manager of the Dubai Fitness Challenge, on preparations for its 10th edition, taking place from 31 October to 29 November 2026. He discusses the exciting lineup of events and experiences planned for this year and the Challenge\u2019s role in encouraging the community to make physical activity part of everyday life, supporting Dubai\u2019s ambition to become one of the world\u2019s most active and vibrant cities.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2116065783906550209",
-      "published": "2026-10-30T07:12:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -597,28 +663,6 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo#0",
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29T20:21:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "ba2e1d5465343ef60f4acb82b29431a7",
       "title": "#Coalition force down 2 missiles in #Riyadh  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -631,28 +675,6 @@
         "city": null,
         "lat": 24.7136,
         "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "6495517c52290a202a7b5a3d53caac88",
-      "title": "#Suadi civil defense deactivates alarm system  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2115900836437959041",
-      "published": "2026-10-29T20:17:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
@@ -685,7 +707,7 @@
       }
     },
     {
-      "id": "Defense News--7697633237453951017",
+      "id": "Defense News-2264585288734055174",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
@@ -942,28 +964,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/uncategorized/2026/10/15/how-silvus-is-connecting-soldiers-and-systems-across-the-battlefield/",
-      "title": "How Silvus Is Connecting Soldiers and Systems Across the Battlefield",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/video/2026/10/29/how-silvus-is-connecting-soldiers-and-systems-across-the-battlefield/",
-      "published": "2026-10-29T15:08:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
