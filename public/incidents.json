@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-30T04:29:13.704827+00:00",
-  "total_incidents": 58,
+  "generated_at": "2026-10-30T05:27:52.157828+00:00",
+  "total_incidents": 59,
   "incidents": [
+    {
+      "id": "86dc2507eb9efdaf8b06ca487af85fef",
+      "title": "Coalition air defense intercepts, destroys Houthi drone targeting Makkah region #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2116026108667740469",
+      "published": "2026-10-30T04:35:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c5987dbb539eff036254986cd7209b08",
+      "title": "Kuwait calls for urgent action on UN Security Council Resolution 2817 (2026), condemning Iranian attacks on GCC states and Jordan. Kuwait stresses the need to end threats to navigation in the Strait of Hormuz and Bab el-Mandeb. #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2116025648053424374",
+      "published": "2026-10-30T04:33:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793334441",
+      "title": "\u2018You look like hell\u2019, Trump lashes out at reporter in tarmac tirade",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/you-look-like-hell-trump-lashes-out-at-reporter-in-tarmac-tirade?traffic_source=rss",
+      "published": "2026-10-30T04:31:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1793333445",
       "title": "Israeli actress slams occupation in accidental \u2018hot mic\u2019 moment",
@@ -18,6 +84,28 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9b21804dac8e0a4ce27c8c630ee32eeb",
+      "title": "RT by @DXBMediaOffice: I was pleased to meet H.E. Chae Hwi-young, Minister of Culture, Sports and Tourism of the Republic of South Korea, to exchange perspectives on cooperation in culture, tourism and the creative industries. We explored ways to build sustainable partnerships that support the growth of these sectors in both the UAE and Korea. Culture brings people closer through the stories and experiences they share. By connecting creatives across our communities, we can foster mutual learning, strengthen relationships and enrich our cultural and creative landscapes.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/hhshklatifa/status/2116014581990690832",
+      "published": "2026-10-30T03:49:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -245,7 +333,7 @@
       }
     },
     {
-      "id": "Defense News-1177700305587737031",
+      "id": "Defense News--3728757293059098724",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
@@ -509,28 +597,6 @@
       }
     },
     {
-      "id": "336be88be227e8fea4512b1ad3277324",
-      "title": "Dubai\u2019s Roads and Transport Authority partners with Dubai Holding Community Management to build two pedestrian bridges on Palm Jumeirah to enhance safety and improve traffic flow.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2115861337830244534",
-      "published": "2026-10-29T17:40:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "8695d8105dc298e79c4d65558ca7163c",
       "title": "\u062a\u0635\u0648\u064a\u0631 \u0623\u0648 \u0646\u0634\u0631 \u0623\u0648 \u062a\u062f\u0627\u0648\u0644 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0630\u0627\u062a \u0635\u0644\u0629 \u0628\u0627\u0644\u062a\u0635\u062f\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0648\u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0645\u0648\u0627\u0642\u0639 \u0633\u0642\u0648\u0637\u0647\u0627 \u064a\u0639\u0631\u0636\u0643 \u0644\u0644\u0645\u0633\u0627\u0621\u0644\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a\u0629. #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 Filming, publishing, or sharing information related to countering missiles and drones and their impact sites exposes you to legal liability. #Ministry_of_Interior",
       "source": "Saudi Civil Defense (RSS.app)",
@@ -722,28 +788,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b02adc875fc34755d891a7e8a87b5795",
-      "title": "Roads and Transport Authority (RTA) partners with Dubai Holding Community Management to build two pedestrian bridges on Palm Jumeirah, near Shoreline and Golden Mile, to enhance safety, improve traffic flow and strengthen pedestrian connectivity and accessibility. The bridges will have a combined capacity of 2,700 pedestrians per hour, with the Shoreline bridge scheduled for completion in June 2027 and the Golden Mile bridge in October 2027. The project is expected to reduce vehicle waiting times at surrounding intersections by 50%. @rta_dubai",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2115842174218899619",
-      "published": "2026-10-29T16:24:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1137,28 +1181,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized",
-      "title": "Iranian film-maker Jafar Panahi given new prison sentence",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized",
-      "published": "2026-10-28T16:56:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
