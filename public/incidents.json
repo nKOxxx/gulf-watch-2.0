@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-30T03:30:07.460920+00:00",
+  "generated_at": "2026-10-30T04:29:13.704827+00:00",
   "total_incidents": 58,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1793333445",
+      "title": "Israeli actress slams occupation in accidental \u2018hot mic\u2019 moment",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-actress-slams-occupation-in-accidental-hot-mic-moment?traffic_source=rss",
+      "published": "2026-10-30T04:14:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/10/30/iran-war-puts-energy-security-at-centre-of-g20-talks-amid-geopolitical-tensions/",
+      "title": "Iran war puts energy security at centre of G20 talks amid geopolitical divisions",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/10/30/iran-war-puts-energy-security-at-centre-of-g20-talks-amid-geopolitical-tensions/",
+      "published": "2026-10-30T03:40:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1793316827",
       "title": "Flash floods kill five in Syria",
@@ -83,50 +127,6 @@
         "lng": 34.8516
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/30/khor-fakkan-port-expansion-to-strengthen-sharjahs-role-in-regional-trade/",
-      "title": "Khor Fakkan Port expansion to strengthen Sharjah's role in regional trade",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/30/khor-fakkan-port-expansion-to-strengthen-sharjahs-role-in-regional-trade/",
-      "published": "2026-10-30T02:00:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.3463,
-        "lng": 55.4209
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/future/technology/2026/10/30/binance-news-security-deposits-withdrawals/",
-      "title": "Binance investigating cyber security incident, freezes deposits and withdrawals",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/10/30/binance-news-security-deposits-withdrawals/",
-      "published": "2026-10-30T01:38:10+00:00",
-      "type": "cyber",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -245,7 +245,7 @@
       }
     },
     {
-      "id": "Defense News-7414307188407656256",
+      "id": "Defense News-1177700305587737031",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
