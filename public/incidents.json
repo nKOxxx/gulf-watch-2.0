@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-30T21:25:35.953583+00:00",
+  "generated_at": "2026-10-30T22:25:27.439357+00:00",
   "total_incidents": 51,
   "incidents": [
+    {
+      "id": "c718940bdbe42640b45f0074069b2016",
+      "title": "The Ministry of Foreign Affairs (MoFA) convened its second diplomatic briefing for Ambassadors, Deputy Chiefs of Mission...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DfIl54wtnCL",
+      "published": "2026-10-30T21:53:07+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://breakingdefense.com/?p=99813",
       "title": "US greenlights 500 Patriot missiles for Ukraine, with $2.1 billion to be paid by allies",
@@ -103,28 +125,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/10/30/how-the-uaes-rocks-and-soil-could-become-a-vital-resource-for-the-space-race/",
-      "title": "How the UAE's rocks and soil could become a vital resource for the space race",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/30/how-the-uaes-rocks-and-soil-could-become-a-vital-resource-for-the-space-race/",
-      "published": "2026-10-30T18:01:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
       },
       "credibility": 85,
       "is_government": false,
@@ -751,7 +751,7 @@
       }
     },
     {
-      "id": "Defense News-298814410781269296",
+      "id": "Defense News--3262780008260763127",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
