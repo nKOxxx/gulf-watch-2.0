@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-30T16:28:37.519182+00:00",
-  "total_incidents": 58,
+  "generated_at": "2026-10-30T17:26:15.296698+00:00",
+  "total_incidents": 59,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/30/uae-tanker-gem-no-2-oil-spill-contained/",
+      "title": "Oil spill contained as remedial work continues along coastline",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/30/uae-tanker-gem-no-2-oil-spill-contained/",
+      "published": "2026-10-30T17:00:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=99769",
+      "title": "New UK policy requires foreign defense contractors to invest locally for all \u00a350M+ deals",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/10/new-uk-policy-requires-foreign-defense-contractors-to-invest-locally-for-all-50m-deals/",
+      "published": "2026-10-30T16:45:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/30/uae-officials-and-recruits-referred-to-military-court-over-national-service-fraud/",
+      "title": "Several officials and recruits referred to military court over national service evasion scheme",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/30/uae-officials-and-recruits-referred-to-military-court-over-national-service-fraud/",
+      "published": "2026-10-30T16:32:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793373717",
+      "title": "Arsenal boss Arteta fires \u2018Disneyland\u2019 warning at Dowman after red card",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/10/30/arsenal-boss-arteta-fires-disneyland-warning-at-dowman-after-red-card?traffic_source=rss",
+      "published": "2026-10-30T16:23:12+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://breakingdefense.com/?p=99759",
       "title": "Navy flexes new acquisition muscles with TOTE\u2019s $269M LSM award to Hanwha",
@@ -62,6 +150,28 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "98715bd90de5148435120a1b801e9852",
+      "title": ". The Ministry of Energy and Infrastructure has affirmed that joint coordination with the Ministry of Climate Change and...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DfH7r5sN0_-",
+      "published": "2026-10-30T15:44:12+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -399,28 +509,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793359625",
-      "title": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un?traffic_source=rss",
-      "published": "2026-10-30T14:18:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/30/lebanese-court-presses-charges-against-hezbollah-members-over-explosives-seizure/",
       "title": "Lebanese court presses charges against Hezbollah members over explosives seizure",
       "source": "The National UAE",
@@ -487,28 +575,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/business/money/2026/10/30/binance-hack-shows-ai-could-make-crypto-attacks-more-dangerous-analysts-warn/",
-      "title": "Binance hack shows AI could make crypto attacks 'more dangerous', analysts warn",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/money/2026/10/30/binance-hack-shows-ai-could-make-crypto-attacks-more-dangerous-analysts-warn/",
-      "published": "2026-10-30T13:01:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
       "title": "Gulf states must rethink trillion-dollar defence in light of US-Iran war, says report",
       "source": "The Guardian",
@@ -523,28 +589,6 @@
         "lng": 58.4059
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uk/2026/10/30/uks-tougher-stance-on-billionaires-and-sovereign-wealth-risks-further-flight-of-super-rich/",
-      "title": "UK\u2019s tougher stance on billionaires and sovereign wealth \u2018risks further flight of super rich\u2019",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/10/30/uks-tougher-stance-on-billionaires-and-sovereign-wealth-risks-further-flight-of-super-rich/",
-      "published": "2026-10-30T12:49:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -773,7 +817,7 @@
       }
     },
     {
-      "id": "Defense News--6490963366190262482",
+      "id": "Defense News--6213403637109960484",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
@@ -1008,28 +1052,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=99634",
-      "title": "Giving counter-UAS operators 75 km of advance warning throws the advantage to them",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/giving-counter-uas-operators-75-km-of-advance-warning-throws-the-advantage-to-them/",
-      "published": "2026-10-29T15:00:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
