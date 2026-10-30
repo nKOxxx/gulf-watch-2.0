@@ -1,12 +1,78 @@
 {
-  "generated_at": "2026-10-30T11:25:36.026035+00:00",
+  "generated_at": "2026-10-30T12:34:46.722673+00:00",
   "total_incidents": 58,
   "incidents": [
     {
-      "id": "https://www.thenationalnews.com/travel/2026/10/08/uae-dubai-abu-dhabi-flights-status/",
+      "id": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
+      "title": "Gulf states must rethink trillion-dollar defence in light of US-Iran war, says report",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
+      "published": "2026-10-30T12:06:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 23.5859,
+        "lng": 58.4059
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/30/yemen-investigating-toxic-substances-allegedly-used-by-houthis-in-taiz/",
+      "title": "Yemen investigating 'toxic substances' allegedly used by Houthis in Taiz",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/30/yemen-investigating-toxic-substances-allegedly-used-by-houthis-in-taiz/",
+      "published": "2026-10-30T11:49:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 38.0962,
+        "lng": 46.2738
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793360372",
+      "title": "Palestinian voter turnout exposes Israel\u2019s attitude towards Arab citizens",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-turnout-exposes-israels-treatment-of-arab-citizens?traffic_source=rss",
+      "published": "2026-10-30T11:43:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/travel/2026/10/30/uae-dubai-abu-dhabi-flights-status/",
       "title": "Middle East flights: KLM, Singapore Airlines and Air France extend suspensions",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/travel/2026/10/08/uae-dubai-abu-dhabi-flights-status/",
+      "source_url": "https://www.thenationalnews.com/travel/2026/10/30/uae-dubai-abu-dhabi-flights-status/",
       "published": "2026-10-30T11:19:34+00:00",
       "type": "incident",
       "status": "unconfirmed",
@@ -40,6 +106,28 @@
       },
       "credibility": 85,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8fc98178f06f07a33a1412f7d4e82402",
+      "title": "#Turkiye's President Recep Tayyip Erdogan says that his country hoped renewed tensions would be resolved through diplomacy rather than military confrontation  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2116126459156664771",
+      "published": "2026-10-30T11:13:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -179,28 +267,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/europe/2026/10/30/train-driver-killed-in-spanish-rail-crash-warned-of-impending-disaster/",
-      "title": "Train driver killed in Spanish rail crash warned of impending disaster",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/europe/2026/10/30/train-driver-killed-in-spanish-rail-crash-warned-of-impending-disaster/",
-      "published": "2026-10-30T10:22:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.aljazeera.com/?t=1793344638",
       "title": "Dakar Rally 2027 to be held in Portugal, Morocco as Saudi hosting revoked",
       "source": "Al Jazeera",
@@ -238,50 +304,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793346203",
-      "title": "What can a global strike of dockworkers achieve for Gaza?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/10/30/what-can-a-global-strike-of-dockworkers-achieve-for-gaza?traffic_source=rss",
-      "published": "2026-10-30T10:04:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/30/four-children-among-five-killed-as-flash-floods-hit-syria/",
-      "title": "Four children among five killed as flash floods hit Syria",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/30/four-children-among-five-killed-as-flash-floods-hit-syria/",
-      "published": "2026-10-30T09:20:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -619,7 +641,7 @@
       }
     },
     {
-      "id": "Defense News--7118846454954098894",
+      "id": "Defense News--9135875958393466728",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
@@ -1139,28 +1161,6 @@
         "lng": 34.8516
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
-      "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
-      "published": "2026-10-28T19:58:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
