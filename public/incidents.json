@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-10-31T08:25:53.774680+00:00",
-  "total_incidents": 55,
+  "generated_at": "2026-10-31T09:25:44.354196+00:00",
+  "total_incidents": 63,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/31/bedouin-women-success-arab-parties-israel-election",
+      "title": "\u2018You need the power of all your votes\u2019: Bedouin women secure success for Arab parties in Israeli election",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/31/bedouin-women-success-arab-parties-israel-election",
+      "published": "2026-10-31T09:25:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "83952244c23034de7fc777feda2e0a87",
+      "title": "Latifa bint Mohammed: Our second day in Korea brought a diverse range of experiences across architecture, technology, and healthcare, offering insights into advanced approaches to design, urban planning, and medical innovation. We explored HEERIM's work in architectural design and urban planning, and met with leaders from Lotte Group to learn more about its activities and future direction, as well as opportunities for global companies to expand their operations from Dubai and the UAE. We also visited Asan Medical Centre to learn about its advanced healthcare services and how it harnesses innovation and technology to develop medical care.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2116459020223758726",
+      "published": "2026-10-31T09:15:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "54ae7e0c561b926d46549fa847394fda",
+      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u0646\u0637\u0642\u0629 \u0646\u062c\u0631\u0627\u0646\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (998). Alert: The danger has passed in Najran Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2116457396780286295",
+      "published": "2026-10-31T09:08:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "01586e3ec42825f2c0bb85347bbd875d",
+      "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0645\u0646\u0637\u0642\u0629 \u0646\u062c\u0631\u0627\u0646 \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in Najran Province to alert of a potential danger. Please follow the instructions below:",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2116456309566668968",
+      "published": "2026-10-31T09:04:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793428430",
+      "title": "A UN protection force must be urgently deployed to Palestine",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/opinions/2026/10/31/a-un-protection-force-must-be-urgently-deployed-to-palestine?traffic_source=rss",
+      "published": "2026-10-31T08:57:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 23.5859,
+        "lng": 58.4059
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e989964d7d18893e60eb5c962ec28a94",
+      "title": "\u0627\u062e\u062a\u062a\u0645\u062a \u0645\u0646\u0627\u0641\u0633\u0627\u062a \u0627\u0644\u0646\u0633\u062e\u0629 \u0627\u0644\u064031 \u0645\u0646 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0634\u0631\u0637\u0629 \u0644\u0623\u0644\u0639\u0627\u0628 \u0627\u0644\u0642\u0648\u0649\u060c \u0627\u0644\u062a\u064a \u0646\u0638\u0645\u0647\u0627 \u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a \u0639\u0644\u0649 \u0645\u0644\u0627\u0639\u0628 \u0646\u0627\u062f\u064a \u0636\u0628\u0627\u0637 \u0634\u0631\u0637\u0629 \u062f\u0628\u064a\u060c \u0628\u0645\u0634\u0627\u0631\u0643\u0629 \u0642\u0637\u0627\u0639\u0627\u062a \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0648\u0627\u0644\u0642\u064a\u0627\u062f\u0627\u062a \u0627\u0644\u0634\u0631\u0637\u064a\u0629 \u0628\u0627\u0644\u062f\u0648\u0644\u0629\u060c \u0648\u0628\u062d\u0636\u0648\u0631 \u0627\u0644\u0639\u0645\u064a\u062f \u062c\u0627\u0633\u0645 \u0645\u062d\u0645\u062f \u062d\u0633\u0646\u060c \u0646\u0627\u0626\u0628 \u0645\u062f\u064a\u0631 \u0627\u0644\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0644\u062a\u062f\u0631\u064a\u0628 \u0628\u0634\u0631\u0637\u0629 \u062f\u0628\u064a\u060c \u0648\u0627\u0644\u0639\u0645\u064a\u062f \u0633\u0644\u0637\u0627\u0646 \u0627\u0644\u0633\u0648\u064a\u062f\u064a\u060c \u0645\u062f\u064a\u0631 \u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u062a\u0631\u0628\u064a\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629 \u0628\u0634\u0631\u0637\u0629 \u0623\u0628\u0648\u0638\u0628\u064a\u060c \u0648\u0627\u0644\u0639\u0642\u064a\u062f \u062c\u0627\u0633\u0645 \u0645\u062d\u0645\u062f \u0639\u0644\u064a\u060c \u0646\u0627\u0626\u0628 \u0645\u062f\u064a\u0631 \u0625\u062f\u0627\u0631\u0629 \u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u060c \u0648\u062a\u0648\u062c\u062a \u0634\u0631\u0637\u0629 \u062f\u0628\u064a \u0628\u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0623\u0648\u0644 \u0641\u064a \u0641\u0626\u0629 \u0627\u0644\u0631\u062c\u0627\u0644\u060c \u062a\u0644\u062a\u0647\u0627 \u0634\u0631\u0637\u0629 \u0623\u0628\u0648\u0638\u0628\u064a \u062b\u0645 \u0634\u0631\u0637\u0629 \u0627\u0644\u0634\u0627\u0631\u0642\u0629\u060c \u0641\u064a\u0645\u0627 \u062a\u0635\u062f\u0631\u062a \u0634\u0631\u0637\u0629 \u0623\u0628\u0648\u0638\u0628\u064a \u0645\u0646\u0627\u0641\u0633\u0627\u062a \u0627\u0644\u0633\u064a\u062f\u0627\u062a\u060c \u0648\u062c\u0627\u0621\u062a \u0634\u0631\u0637\u0629 \u062f\u0628\u064a \u062b\u0627\u0646\u064a\u0629\u060c \u0648\u0627\u0644\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0644\u0625\u0642\u0627\u0645\u0629 \u0648\u0634\u0624\u0648\u0646 \u0627\u0644\u0623\u062c\u0627\u0646\u0628 \u0628\u062f\u0628\u064a \u062b\u0627\u0644\u062b\u0629. The 31st Police Athletics Championship, organized by the Police Sports Association, has concluded at the Dubai Police Officers Club g",
+      "source": "UAE MOI (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2116452921898659954",
+      "published": "2026-10-31T08:51:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e989964d7d18893e60eb5c962ec28a94",
+      "title": "\u0627\u062e\u062a\u062a\u0645\u062a \u0645\u0646\u0627\u0641\u0633\u0627\u062a \u0627\u0644\u0646\u0633\u062e\u0629 \u0627\u0644\u064031 \u0645\u0646 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0634\u0631\u0637\u0629 \u0644\u0623\u0644\u0639\u0627\u0628 \u0627\u0644\u0642\u0648\u0649\u060c \u0627\u0644\u062a\u064a \u0646\u0638\u0645\u0647\u0627 \u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a \u0639\u0644\u0649 \u0645\u0644\u0627\u0639\u0628 \u0646\u0627\u062f\u064a \u0636\u0628\u0627\u0637 \u0634\u0631\u0637\u0629 \u062f\u0628\u064a\u060c \u0628\u0645\u0634\u0627\u0631\u0643\u0629 \u0642\u0637\u0627\u0639\u0627\u062a \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0648\u0627\u0644\u0642\u064a\u0627\u062f\u0627\u062a \u0627\u0644\u0634\u0631\u0637\u064a\u0629 \u0628\u0627\u0644\u062f\u0648\u0644\u0629\u060c \u0648\u0628\u062d\u0636\u0648\u0631 \u0627\u0644\u0639\u0645\u064a\u062f \u062c\u0627\u0633\u0645 \u0645\u062d\u0645\u062f \u062d\u0633\u0646\u060c \u0646\u0627\u0626\u0628 \u0645\u062f\u064a\u0631 \u0627\u0644\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0644\u062a\u062f\u0631\u064a\u0628 \u0628\u0634\u0631\u0637\u0629 \u062f\u0628\u064a\u060c \u0648\u0627\u0644\u0639\u0645\u064a\u062f \u0633\u0644\u0637\u0627\u0646 \u0627\u0644\u0633\u0648\u064a\u062f\u064a\u060c \u0645\u062f\u064a\u0631 \u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u062a\u0631\u0628\u064a\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629 \u0628\u0634\u0631\u0637\u0629 \u0623\u0628\u0648\u0638\u0628\u064a\u060c \u0648\u0627\u0644\u0639\u0642\u064a\u062f \u062c\u0627\u0633\u0645 \u0645\u062d\u0645\u062f \u0639\u0644\u064a\u060c \u0646\u0627\u0626\u0628 \u0645\u062f\u064a\u0631 \u0625\u062f\u0627\u0631\u0629 \u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u060c \u0648\u062a\u0648\u062c\u062a \u0634\u0631\u0637\u0629 \u062f\u0628\u064a \u0628\u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0623\u0648\u0644 \u0641\u064a \u0641\u0626\u0629 \u0627\u0644\u0631\u062c\u0627\u0644\u060c \u062a\u0644\u062a\u0647\u0627 \u0634\u0631\u0637\u0629 \u0623\u0628\u0648\u0638\u0628\u064a \u062b\u0645 \u0634\u0631\u0637\u0629 \u0627\u0644\u0634\u0627\u0631\u0642\u0629\u060c \u0641\u064a\u0645\u0627 \u062a\u0635\u062f\u0631\u062a \u0634\u0631\u0637\u0629 \u0623\u0628\u0648\u0638\u0628\u064a \u0645\u0646\u0627\u0641\u0633\u0627\u062a \u0627\u0644\u0633\u064a\u062f\u0627\u062a\u060c \u0648\u062c\u0627\u0621\u062a \u0634\u0631\u0637\u0629 \u062f\u0628\u064a \u062b\u0627\u0646\u064a\u0629\u060c \u0648\u0627\u0644\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0644\u0625\u0642\u0627\u0645\u0629 \u0648\u0634\u0624\u0648\u0646 \u0627\u0644\u0623\u062c\u0627\u0646\u0628 \u0628\u062f\u0628\u064a \u062b\u0627\u0644\u062b\u0629. The 31st Police Athletics Championship, organized by the Police Sports Association, has concluded at the Dubai Police Officers Club g",
+      "source": "IDF (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2116452921898659954",
+      "published": "2026-10-31T08:51:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/31/uae-calls-on-world-leaders-to-commit-to-water-security-at-landmark-abu-dhabi-summit/",
+      "title": "UAE calls on world leaders to commit to water security at landmark Abu Dhabi summit",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/10/31/uae-calls-on-world-leaders-to-commit-to-water-security-at-landmark-abu-dhabi-summit/",
+      "published": "2026-10-31T08:46:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4d13cdc2d26aaf30f96faada909df527",
+      "title": "#Kuwait's Ministry of Oil Public Relations & Petroleum Media Director: The Ministry launches the fifth edition of the \"Oil Innovates\" Award, in cooperation with Sabah Al-Ahmad Center for Giftedness & Creativity.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2116451391002599517",
+      "published": "2026-10-31T08:45:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "2b8dd824a7ca3926759be2acd745dbb3",
       "title": "#Kuwait carries on \"bridges of mercy\" through humanitarian & developmental initiatives that cross geographical borders that answer human needs & maintain human dignity. (Report)  #KUNA",
@@ -18,6 +216,28 @@
       },
       "credibility": 95,
       "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793351633",
+      "title": "Are Houthis using Russian satellites as Saudi Arabia fends off strikes?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/31/are-houthis-using-russian-satellites-as-saudi-arabia-faces-hits?traffic_source=rss",
+      "published": "2026-10-31T08:08:30+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 90,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -135,21 +355,21 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793387407",
-      "title": "After the \u2018martyr\u2019s\u2019 funeral: The families left behind by Yemen\u2019s war",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/10/31/after-the-martyrs-funeral-the-families-left-behind-by-yemens-war?traffic_source=rss",
-      "published": "2026-10-31T05:48:25+00:00",
+      "id": "81c5a924d4238a8c52158b0d6e7b8f95",
+      "title": "RT by @DXBMediaOffice: Our second day in Korea brought a diverse range of experiences across architecture, technology, and healthcare, offering insights into advanced approaches to design, urban planning, and medical innovation. We explored HEERIM's work in architectural design and urban planning, and met with leaders from Lotte Group to learn more about its activities and future direction, as well as opportunities for global companies to expand their operations from Dubai and the UAE. We also visited Asan Medical Centre to learn about its advanced healthcare services and how it harnesses innovation and technology to develop medical care.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/hhshklatifa/status/2116414415058894945",
+      "published": "2026-10-31T06:18:00+00:00",
       "type": "incident",
-      "status": "unconfirmed",
+      "status": "confirmed",
       "location": {
-        "country": null,
+        "country": "UAE",
         "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
+        "lat": 25.2048,
+        "lng": 55.2708
       },
-      "credibility": 90,
-      "is_government": false,
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -216,28 +436,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/31/bedouin-women-success-arab-parties-israel-election",
-      "title": "\u2018You need the power of all your votes\u2019: Bedouin women secure success for Arab parties in Israeli election",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/31/bedouin-women-success-arab-parties-israel-election",
-      "published": "2026-10-31T05:00:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -663,28 +861,6 @@
       }
     },
     {
-      "id": "670b31e870ff7e47a61ce67be4350b03",
-      "title": "Mohammed bin Rashid reviews plans and implementation stages of the AED500 million Arab Reading Challenge Endowment, to be developed by Sobha Realty in Dubai. All proceeds from the project will be directed towards supporting the Arab Reading Challenge\u2019s strategic plans to develop knowledge and cultural programmes, preserve the Arabic language and empower young Arabs to pursue knowledge and modern sciences.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2116178598398931390",
-      "published": "2026-10-30T14:41:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/uncategorized/2026/10/16/eos-defense-systems-prepares-to-build-slinger-counter-drone-systems/",
       "title": "EOS Defense Systems Prepares to Build Slinger Counter-Drone Systems",
       "source": "Defense News",
@@ -861,7 +1037,7 @@
       }
     },
     {
-      "id": "Defense News--1950355654413463556",
+      "id": "Defense News--2455762023947342851",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
