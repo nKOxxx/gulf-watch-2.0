@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-31T16:25:57.749268+00:00",
-  "total_incidents": 54,
+  "generated_at": "2026-10-31T17:25:47.783880+00:00",
+  "total_incidents": 52,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/31/bedouin-women-success-arab-parties-israel-election",
+      "title": "\u2018You need the power of all your votes\u2019: Bedouin women secure success for Arab parties in Israeli election",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/31/bedouin-women-success-arab-parties-israel-election",
+      "published": "2026-10-31T17:16:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "a88c81f5fe567fb6c6b1abb7e43d97f1",
       "title": "\u0641\u062a\u062d \u0627\u0644\u0628\u0644\u0627\u063a\u0627\u062a \u0627\u0644\u0645\u0631\u0648\u0631\u064a\u0629 File Traffic Reports #\u062e\u062f\u0645\u0627\u062a\u064a_\u0631\u0642\u0645\u064a\u0629 #MOI_go_digital #\u062e\u062f\u0645\u0627\u062a_\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 #MOI_Services @uaedgov #\u0641\u062e\u0648\u0631\u064a\u0646_\u0628\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \ud83c\udde6\ud83c\uddea \u0644\u0644\u062f\u062e\u0648\u0644 \u0625\u0644\u0649 \u0627\u0644\u062e\u062f\u0645\u0629 \u0628\u0634\u0643\u0644 \u0645\u0628\u0627\u0634\u0631 \u060c \u064a\u0631\u062c\u0649 \u0627\u0644\u0636\u063a\u0637 \u0639\u0644\u0649 \u0627\u0644\u0631\u0627\u0628\u0637 \u0627\u0644\u062a\u0627\u0644\u064a To access the service directly, please click on the following link",
@@ -267,50 +289,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/31/jordan-repels-armed-infiltration-from-syria-amid-heightened-border-tensions/",
-      "title": "Jordan stops fighters entering from Syria amid heightened border tensions",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/31/jordan-repels-armed-infiltration-from-syria-amid-heightened-border-tensions/",
-      "published": "2026-10-31T10:47:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/gulf/2026/10/31/gulf-security-inseparable-from-stability-of-middle-east-says-egypt-fm/",
-      "title": "Gulf security 'inseparable' from stability of Middle East, says Egypt's Foreign Minister",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/31/gulf-security-inseparable-from-stability-of-middle-east-says-egypt-fm/",
-      "published": "2026-10-31T10:02:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.8206,
-        "lng": 30.8025
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "a54d26a6921f2eb7d2da4c51d654d829",
       "title": "The Kuwaiti Army announces that some of its units will conduct live-fire exercises in southern #Kuwait. The exercises will begin on Sunday & continue until November 5, 2026.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -326,28 +304,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/oct/31/bedouin-women-success-arab-parties-israel-election",
-      "title": "\u2018You need the power of all your votes\u2019: Bedouin women secure success for Arab parties in Israeli election",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/oct/31/bedouin-women-success-arab-parties-israel-election",
-      "published": "2026-10-31T09:25:16+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -971,7 +927,7 @@
       }
     },
     {
-      "id": "Defense News--4925355899121483615",
+      "id": "Defense News-1525733315237405862",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
