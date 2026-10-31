@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-31T20:25:39.997404+00:00",
-  "total_incidents": 49,
+  "generated_at": "2026-10-31T21:26:00.095143+00:00",
+  "total_incidents": 50,
   "incidents": [
+    {
+      "id": "fe50ae349dbffc5fa1e22aeb54a3af6a",
+      "title": "#Kuwait's national team for air sports has snatched the gold medal in the Aeromodelling contest at the fourth Arab Model Aircraft Championship, as part of the closing events of the 3rd Arab Air Sports Championship in #Tunisia  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2116630367264223290",
+      "published": "2026-10-31T20:36:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793478167",
+      "title": "Israel\u2019s allegations of Qatari election interference rejected",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
+      "published": "2026-10-31T20:24:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793473576",
+      "title": "Turkiye\u2019s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss",
+      "published": "2026-10-31T20:09:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "0dccd8ab35719b42bab80dfa7386208e",
       "title": "Minister of State for Youth and Sports Affairs Tareq Al-Jalahma: The success in hosting and organizing Premier Padel #Kuwait Major 2026 reflects Kuwait's distinguished organizational capabilities and highlights its status as a destination for major international sports events  #KUNA",
@@ -59,28 +125,6 @@
         "city": null,
         "lat": 31.9522,
         "lng": 35.2332
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793459921",
-      "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
-      "published": "2026-10-31T17:49:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
       },
       "credibility": 90,
       "is_government": false,
@@ -861,7 +905,7 @@
       }
     },
     {
-      "id": "Defense News--8911983211341487680",
+      "id": "Defense News-224208967102595936",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
@@ -1051,28 +1095,6 @@
         "lng": 56.5
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo#0",
-      "title": "Israel's election deadlock is a sign of the country's deep divisions",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-28T20:53:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
