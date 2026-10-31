@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-31T02:26:33.349335+00:00",
-  "total_incidents": 54,
+  "generated_at": "2026-10-31T03:25:52.540886+00:00",
+  "total_incidents": 55,
   "incidents": [
+    {
+      "id": "176956a64f2d6abc8672e9ba0bfd22d0",
+      "title": "Kuwait\u2019s Foreign Ministry extends deepest condolences to Italy after the EUFOR helicopter crash in Bosnia. Kuwait stands with the Italian government and families of the victims, wishing the injured a swift recovery.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2116366175542095873",
+      "published": "2026-10-31T03:06:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "05f0fb3c8e91fba4da289e974027897f",
+      "title": "Kuwait urges the world to keep outer space peaceful and open for all. At the UN, Kuwait\u2019s Diplomatic Attache called for global cooperation in space exploration. Read more:  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2116364853631717794",
+      "published": "2026-10-31T03:01:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/10/31/middle-east-fertiliser-exports-decline-by-70-as-iran-war-disrupts-supplies/",
+      "title": "Middle East fertiliser exports decline by 70% as Iran war disrupts supplies",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/10/31/middle-east-fertiliser-exports-decline-by-70-as-iran-war-disrupts-supplies/",
+      "published": "2026-10-31T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793407666",
+      "title": "Ebola death toll in DR Congo passes 5,000",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss",
+      "published": "2026-10-31T02:51:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1793409253",
       "title": "Dog walker threatened with gun during ICE arrest in North Hollywood",
@@ -81,28 +169,6 @@
         "city": null,
         "lat": 31.9522,
         "lng": 35.2332
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793208708",
-      "title": "Why AI could threaten much of the world\u2019s digital infrastructure",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss",
-      "published": "2026-10-30T23:13:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -729,50 +795,6 @@
       }
     },
     {
-      "id": "86dc2507eb9efdaf8b06ca487af85fef",
-      "title": "Coalition air defense intercepts, destroys Houthi drone targeting Makkah region #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2116026108667740469",
-      "published": "2026-10-30T04:35:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "c5987dbb539eff036254986cd7209b08",
-      "title": "Kuwait calls for urgent action on UN Security Council Resolution 2817 (2026), condemning Iranian attacks on GCC states and Jordan. Kuwait stresses the need to end threats to navigation in the Strait of Hormuz and Bab el-Mandeb. #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2116025648053424374",
-      "published": "2026-10-30T04:33:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=99653",
       "title": "3 congressional races that matter for defense",
       "source": "Breaking Defense",
@@ -817,7 +839,7 @@
       }
     },
     {
-      "id": "Defense News--9145452445731975413",
+      "id": "Defense News-1243337690966902690",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
