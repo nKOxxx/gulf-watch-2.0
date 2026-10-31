@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-31T01:25:52.450872+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-31T02:26:33.349335+00:00",
+  "total_incidents": 54,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1793409253",
+      "title": "Dog walker threatened with gun during ICE arrest in North Hollywood",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/dog-walker-threatened-with-gun-during-ice-arrest-in-north-hollywood?traffic_source=rss",
+      "published": "2026-10-31T01:23:59+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1793397571",
       "title": "Brazil summons Argentinian diplomat over Bolsonaro\u2019s flight to US",
@@ -26,7 +48,7 @@
     },
     {
       "id": "https://www.aljazeera.com/?t=1793402105",
-      "title": "Iran war live: Oil tankers hit in Hormuz; Trump says conflict will end soon",
+      "title": "Iran war live: 4 tankers hit in Hormuz; Trump says conflict will end soon",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
       "published": "2026-10-31T00:00:00+00:00",
@@ -795,7 +817,7 @@
       }
     },
     {
-      "id": "Defense News--6665405458366099889",
+      "id": "Defense News--9145452445731975413",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
