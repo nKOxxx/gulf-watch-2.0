@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-31T21:26:00.095143+00:00",
+  "generated_at": "2026-10-31T22:25:57.528970+00:00",
   "total_incidents": 50,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1793483980",
+      "title": "Palestine Action supporters arrested outside US embassy in London",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
+      "published": "2026-10-31T22:10:53+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 31.9522,
+        "lng": 35.2332
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "fe50ae349dbffc5fa1e22aeb54a3af6a",
       "title": "#Kuwait's national team for air sports has snatched the gold medal in the Aeromodelling contest at the fourth Arab Model Aircraft Championship, as part of the closing events of the 3rd Arab Air Sports Championship in #Tunisia  #KUNA",
@@ -106,28 +128,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793466478",
-      "title": "London police arrest 139 as hundreds protest Palestine Action ban",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
-      "published": "2026-10-31T18:48:29+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9522,
-        "lng": 35.2332
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -905,7 +905,7 @@
       }
     },
     {
-      "id": "Defense News-224208967102595936",
+      "id": "Defense News--622526366218771072",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
