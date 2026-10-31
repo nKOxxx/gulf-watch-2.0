@@ -1,10 +1,76 @@
 {
-  "generated_at": "2026-10-31T10:25:30.789980+00:00",
-  "total_incidents": 63,
+  "generated_at": "2026-10-31T11:26:00.819730+00:00",
+  "total_incidents": 59,
   "incidents": [
     {
+      "id": "https://www.aljazeera.com/?t=1793444772",
+      "title": "Thousands protest across Italy over living costs and military spending",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/thousands-protest-across-italy-over-living-costs-and-military-spending?traffic_source=rss",
+      "published": "2026-10-31T11:07:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793423568",
+      "title": "Swiss commentary on Israeli Olympic bobsleigh team termed \u2018discriminatory\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/10/31/swiss-commentary-on-israeli-olympic-bobsleigh-team-termed-discriminatory?traffic_source=rss",
+      "published": "2026-10-31T10:49:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/31/jordan-repels-armed-infiltration-from-syria-amid-heightened-border-tensions/",
+      "title": "Jordan stops fighters entering from Syria amid heightened border tensions",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/31/jordan-repels-armed-infiltration-from-syria-amid-heightened-border-tensions/",
+      "published": "2026-10-31T10:47:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.thenationalnews.com/news/gulf/2026/10/31/gulf-security-inseparable-from-stability-of-middle-east-says-egypt-fm/",
-      "title": "Gulf security 'inseparable' from stability of Middle East, says Egypt FM",
+      "title": "Gulf security 'inseparable' from stability of Middle East, says Egypt's Foreign Minister",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/gulf/2026/10/31/gulf-security-inseparable-from-stability-of-middle-east-says-egypt-fm/",
       "published": "2026-10-31T10:02:08+00:00",
@@ -62,28 +128,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793435105",
-      "title": "Lebanon charges 13 over confiscated Hezbollah explosives",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/31/lebanon-charges-13-over-hezbollah-confiscated-explosives?traffic_source=rss",
-      "published": "2026-10-31T09:26:46+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -157,28 +201,6 @@
       }
     },
     {
-      "id": "83952244c23034de7fc777feda2e0a87",
-      "title": "Latifa bint Mohammed: Our second day in Korea brought a diverse range of experiences across architecture, technology, and healthcare, offering insights into advanced approaches to design, urban planning, and medical innovation. We explored HEERIM's work in architectural design and urban planning, and met with leaders from Lotte Group to learn more about its activities and future direction, as well as opportunities for global companies to expand their operations from Dubai and the UAE. We also visited Asan Medical Centre to learn about its advanced healthcare services and how it harnesses innovation and technology to develop medical care.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2116459020223758726",
-      "published": "2026-10-31T09:15:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "54ae7e0c561b926d46549fa847394fda",
       "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u0646\u0637\u0642\u0629 \u0646\u062c\u0631\u0627\u0646\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (998). Alert: The danger has passed in Najran Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
       "source": "Saudi Civil Defense (RSS.app)",
@@ -216,28 +238,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793428430",
-      "title": "A UN protection force must be urgently deployed to Palestine",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/opinions/2026/10/31/a-un-protection-force-must-be-urgently-deployed-to-palestine?traffic_source=rss",
-      "published": "2026-10-31T08:57:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 23.5859,
-        "lng": 58.4059
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -355,28 +355,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793351633",
-      "title": "Are Houthis using Russian satellites as Saudi Arabia fends off strikes?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/31/are-houthis-using-russian-satellites-as-saudi-arabia-faces-hits?traffic_source=rss",
-      "published": "2026-10-31T08:08:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/31/adapt-to-higher-prices-un-official-warns-amid-hormuz-standoff-and-threat-of-new-war/",
       "title": "'Adapt to higher prices', UN official warns amid Hormuz standoff and threat of new war",
       "source": "The National UAE",
@@ -487,28 +465,6 @@
       }
     },
     {
-      "id": "81c5a924d4238a8c52158b0d6e7b8f95",
-      "title": "RT by @DXBMediaOffice: Our second day in Korea brought a diverse range of experiences across architecture, technology, and healthcare, offering insights into advanced approaches to design, urban planning, and medical innovation. We explored HEERIM's work in architectural design and urban planning, and met with leaders from Lotte Group to learn more about its activities and future direction, as well as opportunities for global companies to expand their operations from Dubai and the UAE. We also visited Asan Medical Centre to learn about its advanced healthcare services and how it harnesses innovation and technology to develop medical care.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/hhshklatifa/status/2116414415058894945",
-      "published": "2026-10-31T06:18:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/mena/2026/10/31/exclusive-hezbollah-iran-war/",
       "title": "Hezbollah unlikely to join renewed war unless Iran faces existential threat, Lebanese official says",
       "source": "The National UAE",
@@ -568,28 +524,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/31/live-iran-war-strait-of-hormuz/",
-      "title": "Middle East latest: Attacks on ships transiting Hormuz in October highest since start of war",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/31/live-iran-war-strait-of-hormuz/",
-      "published": "2026-10-31T04:02:47+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -757,28 +691,6 @@
       "source_url": "https://x.com/SaudiDCD/status/2116193745813037305",
       "published": "2026-10-30T15:41:00+00:00",
       "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f6426af6d0622eae0d9df430d4e51e72",
-      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u062d\u0627\u0641\u0638\u0629 \u062e\u0645\u064a\u0633 \u0645\u0634\u064a\u0637\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (998). Alert: The danger has passed in Khamis Mushait Governorate. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2116193609015873774",
-      "published": "2026-10-30T15:40:00+00:00",
-      "type": "incident",
       "status": "confirmed",
       "location": {
         "country": null,
@@ -1059,7 +971,7 @@
       }
     },
     {
-      "id": "Defense News--1898035861821817528",
+      "id": "Defense News-5764322978399017972",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
