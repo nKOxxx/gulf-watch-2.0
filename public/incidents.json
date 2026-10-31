@@ -1,10 +1,54 @@
 {
-  "generated_at": "2026-10-31T19:25:46.969787+00:00",
-  "total_incidents": 50,
+  "generated_at": "2026-10-31T20:25:39.997404+00:00",
+  "total_incidents": 49,
   "incidents": [
     {
+      "id": "0dccd8ab35719b42bab80dfa7386208e",
+      "title": "Minister of State for Youth and Sports Affairs Tareq Al-Jalahma: The success in hosting and organizing Premier Padel #Kuwait Major 2026 reflects Kuwait's distinguished organizational capabilities and highlights its status as a destination for major international sports events  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2116623359974805546",
+      "published": "2026-10-31T20:08:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "cf9d52f7226b78a043e059d21f3a760d",
+      "title": "The United Nations High Commissioner for Human Rights Saturday called on the Houthi de facto authorities to ensure a prompt independent and thorough investigation into the circumstances surrounding the death of a UN Human Rights Office staff member Mohammad el-Shami.",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2116611998418956773",
+      "published": "2026-10-31T19:23:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.aljazeera.com/?t=1793466478",
-      "title": "London police arrest 48 as hundreds protest Palestine Action ban",
+      "title": "London police arrest 139 as hundreds protest Palestine Action ban",
       "source": "Al Jazeera",
       "source_url": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
       "published": "2026-10-31T18:48:29+00:00",
@@ -61,28 +105,6 @@
         "lng": 53.688
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793467596",
-      "title": "Jerusalem Daily: Who will form Israel\u2019s next government?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss",
-      "published": "2026-10-31T17:29:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -433,50 +455,6 @@
         "city": null,
         "lat": 24.5247,
         "lng": 39.5692
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2b8dd824a7ca3926759be2acd745dbb3",
-      "title": "#Kuwait carries on \"bridges of mercy\" through humanitarian & developmental initiatives that cross geographical borders that answer human needs & maintain human dignity. (Report)  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2116443934142459994",
-      "published": "2026-10-31T08:15:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "727cd505212c80c0ea6c202c0fe3489c",
-      "title": "KPC: #Kuwait oil price up by USD 3.99 to USD 114.76 pb  @kpcofficialkw #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2116433019300933989",
-      "published": "2026-10-31T07:32:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
@@ -883,7 +861,7 @@
       }
     },
     {
-      "id": "Defense News-6539519871695693863",
+      "id": "Defense News--8911983211341487680",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
