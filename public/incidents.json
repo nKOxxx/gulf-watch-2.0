@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-31T05:25:33.661327+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-10-31T06:30:02.115895+00:00",
+  "total_incidents": 55,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1793387407",
+      "title": "After the \u2018martyr\u2019s\u2019 funeral: The families left behind by Yemen\u2019s war",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/features/2026/10/31/after-the-martyrs-funeral-the-families-left-behind-by-yemens-war?traffic_source=rss",
+      "published": "2026-10-31T05:48:25+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/31/exclusive-hezbollah-iran-war/",
+      "title": "Hezbollah unlikely to join renewed war unless Iran faces existential threat, Lebanese official says",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/31/exclusive-hezbollah-iran-war/",
+      "published": "2026-10-31T05:26:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "59fa77e013cb9e0fc5829bb76c346985",
+      "title": "US, Japan, and South Korea sign a trilateral Arctic cooperation memorandum in Atlanta, reaffirming commitment to Indo-Pacific security, North Korean denuclearization, and economic supply chain resilience.  #KUNA #US #Japan #ROK #Arctic",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2116400228643250611",
+      "published": "2026-10-31T05:21:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "50a1658e0f167d454603f3790a89984b",
       "title": "US Secretary of State Marco Rubio meets Saudi Foreign Minister Prince Faisal bin Farhan at the G20 in Atlanta, discussing security in Iran, Yemen, and Sudan, and signing the US participation agreement for Expo 2030 Riyadh.  #KUNA #US #SaudiArabia",
@@ -795,7 +861,7 @@
       }
     },
     {
-      "id": "Defense News--6696689599356289816",
+      "id": "Defense News--7500078458284182372",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
@@ -895,28 +961,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-      "title": "Israel election results: Qatar says accusations of election interference in Israel \u2018ridiculous and dangerous\u2019 \u2013 as it happened",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/live/2026/oct/29/israel-election-results-live-updates-poll-netanyahu-eisenkot-bloc-coalition-latest-news",
-      "published": "2026-10-29T17:49:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
