@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-31T04:26:11.792534+00:00",
-  "total_incidents": 52,
+  "generated_at": "2026-10-31T05:25:33.661327+00:00",
+  "total_incidents": 53,
   "incidents": [
+    {
+      "id": "50a1658e0f167d454603f3790a89984b",
+      "title": "US Secretary of State Marco Rubio meets Saudi Foreign Minister Prince Faisal bin Farhan at the G20 in Atlanta, discussing security in Iran, Yemen, and Sudan, and signing the US participation agreement for Expo 2030 Riyadh.  #KUNA #US #SaudiArabia",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2116396345607008477",
+      "published": "2026-10-31T05:06:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/31/bedouin-women-success-arab-parties-israel-election",
+      "title": "\u2018You need the power of all your votes\u2019: Bedouin women secure success for Arab parties in Israeli election",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/oct/31/bedouin-women-success-arab-parties-israel-election",
+      "published": "2026-10-31T05:00:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793413535",
+      "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
+      "published": "2026-10-31T04:51:25+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/31/live-iran-war-strait-of-hormuz/",
+      "title": "Middle East latest: Attacks on ships transiting Hormuz in October highest since start of war",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/31/live-iran-war-strait-of-hormuz/",
+      "published": "2026-10-31T04:02:47+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1793418597",
       "title": "Iran says four tankers on fire after striking mines in Hormuz",
@@ -119,28 +207,6 @@
       "source_url": "https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss",
       "published": "2026-10-31T02:51:52+00:00",
       "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793409253",
-      "title": "Dog walker threatened with gun during ICE arrest in North Hollywood",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/dog-walker-threatened-with-gun-during-ice-arrest-in-north-hollywood?traffic_source=rss",
-      "published": "2026-10-31T01:23:59+00:00",
-      "type": "raid",
       "status": "unconfirmed",
       "location": {
         "country": null,
@@ -619,28 +685,6 @@
       }
     },
     {
-      "id": "ad1b22862183fab430416b0f489e1b72",
-      "title": "The ongoing Israeli occupation military aggression has caused systematic destruction across #Lebanon, putting ancient southern sites, particularly the historic citadels of Jabal Amel, in real jeopardy (News report by Fawaz Al-Otaibi)  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2116109277349765506",
-      "published": "2026-10-30T10:05:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege",
       "title": "Houthis sending Taiz \u2018back to the stone age\u2019, governor of besieged Yemen city says",
       "source": "The Guardian",
@@ -656,28 +700,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ee067e9955c71d3053137af4213c79e6",
-      "title": "#Kuwait Petroleum Corporation (KPC): The price of Kuwaiti oil fell 78 cents to USD 110.77 per barrel (pb) in Thursday's trading, compared to USD 111.55 pb in Wednesday's trading  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2116063435242803548",
-      "published": "2026-10-30T07:03:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -773,7 +795,7 @@
       }
     },
     {
-      "id": "Defense News--3851361941674682800",
+      "id": "Defense News--6696689599356289816",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
