@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-31T07:25:57.604664+00:00",
-  "total_incidents": 54,
+  "generated_at": "2026-10-31T08:25:53.774680+00:00",
+  "total_incidents": 55,
   "incidents": [
+    {
+      "id": "2b8dd824a7ca3926759be2acd745dbb3",
+      "title": "#Kuwait carries on \"bridges of mercy\" through humanitarian & developmental initiatives that cross geographical borders that answer human needs & maintain human dignity. (Report)  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2116443934142459994",
+      "published": "2026-10-31T08:15:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/31/adapt-to-higher-prices-un-official-warns-amid-hormuz-standoff-and-threat-of-new-war/",
+      "title": "'Adapt to higher prices', UN official warns amid Hormuz standoff and threat of new war",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/31/adapt-to-higher-prices-un-official-warns-amid-hormuz-standoff-and-threat-of-new-war/",
+      "published": "2026-10-31T08:00:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "727cd505212c80c0ea6c202c0fe3489c",
+      "title": "KPC: #Kuwait oil price up by USD 3.99 to USD 114.76 pb  @kpcofficialkw #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2116433019300933989",
+      "published": "2026-10-31T07:32:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "6888d8e4c1fcb9e8d3dfa087c3d75ad1",
       "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u0646\u0637\u0642\u0629 \u062c\u0627\u0632\u0627\u0646\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (998). Alert: The danger has passed in Jazan Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
@@ -169,28 +235,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793413535",
-      "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
-      "published": "2026-10-31T04:51:25+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -707,28 +751,6 @@
       }
     },
     {
-      "id": "8fc98178f06f07a33a1412f7d4e82402",
-      "title": "#Turkiye's President Recep Tayyip Erdogan says that his country hoped renewed tensions would be resolved through diplomacy rather than military confrontation  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2116126459156664771",
-      "published": "2026-10-30T11:13:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege",
       "title": "Houthis sending Taiz \u2018back to the stone age\u2019, governor of besieged Yemen city says",
       "source": "The Guardian",
@@ -839,7 +861,7 @@
       }
     },
     {
-      "id": "Defense News-4996206646098947568",
+      "id": "Defense News--1950355654413463556",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
