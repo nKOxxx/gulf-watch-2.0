@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-31T22:25:57.528970+00:00",
-  "total_incidents": 50,
+  "generated_at": "2026-10-31T23:25:38.989299+00:00",
+  "total_incidents": 51,
   "incidents": [
+    {
+      "id": "0b164a45d480cff06b8090c45b37b4f1",
+      "title": "GCC Secretary-General Jasem Al-Budaiwi outlines 5 pillars for regional security at #ManamaDialogue2026, stressing respect for state sovereignty, collective defense integration, protection of maritime sea lanes, and full compliance with UNSC Resolution 2817.  #KUNA #GCC",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2116667854514721147",
+      "published": "2026-10-31T23:05:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 26.2285,
+        "lng": 50.586
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793483362",
+      "title": "Dutch authorities rescue 38 people adrift in rubber boat",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss",
+      "published": "2026-10-31T22:38:03+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1793483980",
       "title": "Palestine Action supporters arrested outside US embassy in London",
@@ -487,28 +531,6 @@
       }
     },
     {
-      "id": "4d13cdc2d26aaf30f96faada909df527",
-      "title": "#Kuwait's Ministry of Oil Public Relations & Petroleum Media Director: The Ministry launches the fifth edition of the \"Oil Innovates\" Award, in cooperation with Sabah Al-Ahmad Center for Giftedness & Creativity.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2116451391002599517",
-      "published": "2026-10-31T08:45:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "c718940bdbe42640b45f0074069b2016",
       "title": "The Ministry of Foreign Affairs (MoFA) convened its second diplomatic briefing for Ambassadors, Deputy Chiefs of Mission...",
       "source": "WAM News (RSS.app)",
@@ -905,7 +927,7 @@
       }
     },
     {
-      "id": "Defense News--622526366218771072",
+      "id": "Defense News--4376946731382465756",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
