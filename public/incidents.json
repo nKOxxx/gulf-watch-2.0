@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-10-31T11:26:00.819730+00:00",
-  "total_incidents": 59,
+  "generated_at": "2026-10-31T12:27:27.805311+00:00",
+  "total_incidents": 63,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1793443992",
+      "title": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace?traffic_source=rss",
+      "published": "2026-10-31T12:13:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "6dfc725267bd52a12798cdacd34ba951",
+      "title": "Ziina wins the Dubai-it Award for Companies in the Field of Business. The award recognises its success in developing a financial platform that was built in Dubai. The platform redesigned the payments experience to be simpler and smoother on mobile, and enabled business owners to accept payments directly through their phones without the need for separate payment devices. Ziina launched more than 13 products and features over four years, enabling users to send, receive, save and spend money. Its payment volume has surpassed $1.5 billion, and the platform has reached 500,000 users and supports more than 290,000 business owners, small and medium-sized enterprises, and home-based entrepreneurs in",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2116501995288953011",
+      "published": "2026-10-31T12:06:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5169d2ae43802c9f667f47cfe699266c",
+      "title": "Hamdan bin Mohammed: The Dubai-it Award for Companies in the Field of Business goes to Ziina. Built in Dubai by young Arab entrepreneurs, it made accepting payments by phone simpler for thousands of businesses. Payment volume surpassed $1.5 billion. Faisal Toukan, Sarah and Talal saw in Dubai the opportunity to build an integrated financial platform. They named it after their mother. Today, Ziina serves 500,000 users and supports 290,000 business owners. This is Dubai-it. Building from the ground up. Growing with ambition. Creating impact that reaches beyond the business. Congratulations to the Ziina team.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2116497521115849106",
+      "published": "2026-10-31T11:48:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a0f41fc9d7a34751b92dd47a79cf74b8",
+      "title": "\u0627\u062e\u062a\u062a\u0645\u062a \u0641\u064a \u0645\u062f\u064a\u0646\u0629 \u0633\u0627\u0628\u0627\u0648\u062f\u064a\u0627 \u0628\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0625\u064a\u0637\u0627\u0644\u064a\u0629 \u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u0628\u0631\u0646\u0627\u0645\u062c \u0627\u0644\u062a\u062f\u0631\u064a\u0628\u064a \u0627\u0644\u062a\u062e\u0635\u0635\u064a \u0628\u0639\u0646\u0648\u0627\u0646 \"\u0627\u0644\u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u0628\u064a\u0626\u064a\u0629 \u0627\u0644\u0639\u0627\u0628\u0631\u0629 \u0644\u0644\u062d\u062f\u0648\u062f: \u062a\u062d\u062f \u0644\u0644\u0623\u0645\u0646\"\u060c \u0627\u0644\u0630\u064a \u0646\u0638\u0645\u062a\u0647 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0628\u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0645\u0639 \u0642\u0648\u0627\u062a \u0627\u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u0625\u064a\u0637\u0627\u0644\u064a\u0629\u060c \u062e\u0644\u0627\u0644 \u0627\u0644\u0641\u062a\u0631\u0629 \u0645\u0646 19 \u0625\u0644\u0649 30 \u0623\u0643\u062a\u0648\u0628\u0631 2026\u060c \u0641\u064a \u0645\u0631\u0643\u0632 \u0627\u0644\u062a\u0645\u064a\u0632 \u0644\u062d\u0645\u0627\u064a\u0629 \u0627\u0644\u0628\u064a\u0626\u0629 \u0627\u0644\u062a\u0627\u0628\u0639 \u0644\u0645\u062f\u0631\u0633\u0629 \u0627\u0644\u063a\u0627\u0628\u0627\u062a \u0644\u0644\u0643\u0627\u0631\u0627\u0628\u064a\u0646\u064a\u064a\u0631\u064a\u060c \u0648\u0647\u062f\u0641 \u0627\u0644\u0628\u0631\u0646\u0627\u0645\u062c \u0625\u0644\u0649 \u0631\u0641\u0639 \u0643\u0641\u0627\u0621\u0629 \u0627\u0644\u0645\u0634\u0627\u0631\u0643\u064a\u0646 \u0641\u064a \u0627\u0644\u062a\u0635\u062f\u064a \u0644\u0644\u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u0628\u064a\u0626\u064a\u0629 \u0627\u0644\u0639\u0627\u0628\u0631\u0629 \u0644\u0644\u062d\u062f\u0648\u062f\u060c \u0648\u062a\u0637\u0648\u064a\u0631 \u0622\u0644\u064a\u0627\u062a \u0627\u0644\u062a\u0646\u0633\u064a\u0642 \u0648\u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0634\u0631\u0637\u064a \u0627\u0644\u062f\u0648\u0644\u064a\u060c \u0645\u0646 \u062e\u0644\u0627\u0644 \u0627\u0644\u0627\u0637\u0644\u0627\u0639 \u0639\u0644\u0649 \u0627\u0644\u062a\u062c\u0627\u0631\u0628 \u0627\u0644\u0645\u062a\u0642\u062f\u0645\u0629 \u0648\u0627\u0644\u0645\u0645\u0627\u0631\u0633\u0627\u062a \u0627\u0644\u0645\u062a\u062e\u0635\u0635\u0629 \u0641\u064a \u0647\u0630\u0627 \u0627\u0644\u0645\u062c\u0627\u0644. A specialized training program titled \u201cTransnational Environmental Crime: A Security Challenge\u201d concluded in Sabaudia, Italy, following two weeks of training from October 19 to 30, 2026. Organized by the Mini",
+      "source": "UAE MOI (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2116495754630230296",
+      "published": "2026-10-31T11:41:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a0f41fc9d7a34751b92dd47a79cf74b8",
+      "title": "\u0627\u062e\u062a\u062a\u0645\u062a \u0641\u064a \u0645\u062f\u064a\u0646\u0629 \u0633\u0627\u0628\u0627\u0648\u062f\u064a\u0627 \u0628\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0625\u064a\u0637\u0627\u0644\u064a\u0629 \u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u0628\u0631\u0646\u0627\u0645\u062c \u0627\u0644\u062a\u062f\u0631\u064a\u0628\u064a \u0627\u0644\u062a\u062e\u0635\u0635\u064a \u0628\u0639\u0646\u0648\u0627\u0646 \"\u0627\u0644\u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u0628\u064a\u0626\u064a\u0629 \u0627\u0644\u0639\u0627\u0628\u0631\u0629 \u0644\u0644\u062d\u062f\u0648\u062f: \u062a\u062d\u062f \u0644\u0644\u0623\u0645\u0646\"\u060c \u0627\u0644\u0630\u064a \u0646\u0638\u0645\u062a\u0647 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0628\u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0645\u0639 \u0642\u0648\u0627\u062a \u0627\u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u0625\u064a\u0637\u0627\u0644\u064a\u0629\u060c \u062e\u0644\u0627\u0644 \u0627\u0644\u0641\u062a\u0631\u0629 \u0645\u0646 19 \u0625\u0644\u0649 30 \u0623\u0643\u062a\u0648\u0628\u0631 2026\u060c \u0641\u064a \u0645\u0631\u0643\u0632 \u0627\u0644\u062a\u0645\u064a\u0632 \u0644\u062d\u0645\u0627\u064a\u0629 \u0627\u0644\u0628\u064a\u0626\u0629 \u0627\u0644\u062a\u0627\u0628\u0639 \u0644\u0645\u062f\u0631\u0633\u0629 \u0627\u0644\u063a\u0627\u0628\u0627\u062a \u0644\u0644\u0643\u0627\u0631\u0627\u0628\u064a\u0646\u064a\u064a\u0631\u064a\u060c \u0648\u0647\u062f\u0641 \u0627\u0644\u0628\u0631\u0646\u0627\u0645\u062c \u0625\u0644\u0649 \u0631\u0641\u0639 \u0643\u0641\u0627\u0621\u0629 \u0627\u0644\u0645\u0634\u0627\u0631\u0643\u064a\u0646 \u0641\u064a \u0627\u0644\u062a\u0635\u062f\u064a \u0644\u0644\u062c\u0631\u0627\u0626\u0645 \u0627\u0644\u0628\u064a\u0626\u064a\u0629 \u0627\u0644\u0639\u0627\u0628\u0631\u0629 \u0644\u0644\u062d\u062f\u0648\u062f\u060c \u0648\u062a\u0637\u0648\u064a\u0631 \u0622\u0644\u064a\u0627\u062a \u0627\u0644\u062a\u0646\u0633\u064a\u0642 \u0648\u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0634\u0631\u0637\u064a \u0627\u0644\u062f\u0648\u0644\u064a\u060c \u0645\u0646 \u062e\u0644\u0627\u0644 \u0627\u0644\u0627\u0637\u0644\u0627\u0639 \u0639\u0644\u0649 \u0627\u0644\u062a\u062c\u0627\u0631\u0628 \u0627\u0644\u0645\u062a\u0642\u062f\u0645\u0629 \u0648\u0627\u0644\u0645\u0645\u0627\u0631\u0633\u0627\u062a \u0627\u0644\u0645\u062a\u062e\u0635\u0635\u0629 \u0641\u064a \u0647\u0630\u0627 \u0627\u0644\u0645\u062c\u0627\u0644. A specialized training program titled \u201cTransnational Environmental Crime: A Security Challenge\u201d concluded in Sabaudia, Italy, following two weeks of training from October 19 to 30, 2026. Organized by the Mini",
+      "source": "IDF (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2116495754630230296",
+      "published": "2026-10-31T11:41:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "d81cb3b3241dfd5e9a1ca8b5e41fd701",
+      "title": "RT by @DXBMediaOffice: The Dubai-it Award for Companies in the Field of Business goes to Ziina. Built in Dubai by young Arab entrepreneurs, it made accepting payments by phone simpler for thousands of businesses. Payment volume surpassed $1.5 billion. Faisal Toukan, Sarah and Talal saw in Dubai the opportunity to build an integrated financial platform. They named it after their mother. Today, Ziina serves 500,000 users and supports 290,000 business owners. This is Dubai-it. Building from the ground up. Growing with ambition. Creating impact that reaches beyond the business. Congratulations to the Ziina team.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/HamdanMohammed/status/2116494898463662433",
+      "published": "2026-10-31T11:38:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/31/syria-in-negotiations-about-joining-makkah-pact-says-foreign-minister/",
+      "title": "Syria in negotiations about joining Makkah pact, says Foreign Minister",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/31/syria-in-negotiations-about-joining-makkah-pact-says-foreign-minister/",
+      "published": "2026-10-31T11:34:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1793444772",
       "title": "Thousands protest across Italy over living costs and military spending",
@@ -83,28 +237,6 @@
         "lng": 30.8025
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793426109",
-      "title": "Education under fire: Gaza\u2019s children face death on their way to school",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss",
-      "published": "2026-10-31T10:00:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -436,50 +568,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/31/attacks-on-ships-transiting-hormuz-in-october-highest-since-start-of-war/",
-      "title": "Attacks on ships transiting Hormuz in October highest since start of war",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/31/attacks-on-ships-transiting-hormuz-in-october-highest-since-start-of-war/",
-      "published": "2026-10-31T06:35:07+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/10/31/exclusive-hezbollah-iran-war/",
-      "title": "Hezbollah unlikely to join renewed war unless Iran faces existential threat, Lebanese official says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/10/31/exclusive-hezbollah-iran-war/",
-      "published": "2026-10-31T05:26:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -971,7 +1059,7 @@
       }
     },
     {
-      "id": "Defense News-5764322978399017972",
+      "id": "Defense News--4891307145546444479",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
