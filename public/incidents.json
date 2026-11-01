@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-11-01T17:58:33.538200+00:00",
-  "total_incidents": 59,
+  "generated_at": "2026-11-01T22:11:18.523758+00:00",
+  "total_incidents": 52,
   "incidents": [
+    {
+      "id": "af0be98f4d7533c719659291405ba4f6",
+      "title": ". The United Arab Emirates has condemned in the strongest terms the attack targeting the liquefied natural gas (LNG) tan...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DfNuDE3tUnA",
+      "published": "2026-11-01T21:40:28+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793567646",
+      "title": "Thousands displaced from Hebron as Israel carries on siege",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
+      "published": "2026-11-01T21:28:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793564904",
+      "title": "Police clash with housing crisis protesters in Portugal",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss",
+      "published": "2026-11-01T20:31:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3d3d07035388dc3f692cc3c668a74f01",
+      "title": "The Arab League condemns the attack targeting the Qatari gas tanker, Al Mayeda, while navigating in the Arabian Gulf, stressing its solidarity with #Qatar  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2116974986644635959",
+      "published": "2026-11-01T19:25:00+00:00",
+      "type": "ground",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 25.3548,
+        "lng": 51.1839
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b8c6f1636165d1fc6819060d15b7a696",
+      "title": "The Coalition Spokesman: The air defense of the Coalition to Restore Legitimacy in Yemen intercepted and ruined a ballistic missile and a drone launched by the Houthi terrorist militia against the Southern Region  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2116974162845618398",
+      "published": "2026-11-01T19:22:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793557755",
+      "title": "Arsenal go top after narrow win at Liverpool",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/2026/11/1/arsenal-go-top-after-narrow-win-at-liverpool?traffic_source=rss",
+      "published": "2026-11-01T19:09:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c268965474d5b1a40037d58319d7f3e6",
+      "title": ". The United Arab Emirates has expressed its solidarity with the Syrian Arab Republic over the victims of floods followi...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DfNXOoMNZJC",
+      "published": "2026-11-01T18:21:05+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
       "title": "Negotiators \u2018braced for worst\u2019 over US-Iran talks to reopen strait of Hormuz",
@@ -69,28 +223,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793545979",
-      "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss",
-      "published": "2026-11-01T17:30:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo#0",
       "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
       "source": "BBC Middle East",
@@ -105,28 +237,6 @@
         "lng": 34.4668
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793546708",
-      "title": "Russia detains minor over alleged Moscow attack plot after US warning",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
-      "published": "2026-11-01T16:24:16+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -172,50 +282,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793547481",
-      "title": "Dramatic helicopter rescue saves climbers stranded on Italian cliff",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/dramatic-helicopter-rescue-saves-climbers-stranded-on-italian-cliff?traffic_source=rss",
-      "published": "2026-11-01T15:40:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793547164",
-      "title": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss",
-      "published": "2026-11-01T15:38:12+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -399,50 +465,6 @@
       }
     },
     {
-      "id": "079cc10ac9c085e634523cba017804b8",
-      "title": "#Kuwait strongly condemns an attack on the #Qatari liquefied natural gas (LNG) tanker Al-Maiedah, while sailing through the Arabian Gulf, stressing its outright rejection of acts that threaten maritime security and the safety of global energy supplies  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2116901062145634305",
-      "published": "2026-11-01T14:31:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0c1e00ba72f6dd8bf223e00f4eb4723a",
-      "title": "#UN Secretary-General Antonio Guterres condemns the death of #Yemeni UN staff member Mohammad Al-Shami while in detention by Houthi militias since June 2024, calling for an immediate, impartial, transparent and comprehensive investigation into the circumstances of his death  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2116897815146234198",
-      "published": "2026-11-01T14:19:00+00:00",
-      "type": "raid",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/mena/2026/11/01/lebanon-seizes-40kg-of-cocaine-in-beirut-airports-largest-ever-drug-bust/",
       "title": "Lebanon seizes 40kg of cocaine in Beirut airport's largest ever drug bust",
       "source": "The National UAE",
@@ -465,28 +487,6 @@
       }
     },
     {
-      "id": "e75ded8ab150967889cf64d7ad5d2a76",
-      "title": "Qatar Foreign Ministry strongly condemns an attack on the liquefied natural gas (LNG) tanker Al-Maiedah, while sailing in the Arabian Gulf, describing it as a dangerous act that threatens maritime safety & global energy supplies.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2116889878285660257",
-      "published": "2026-11-01T13:47:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "fe389fb6b1529bc8c550dcd8efd691a9",
       "title": "Dubai Press Club concludes a working visit to Doha to explore opportunities to strengthen cooperation with Qatari media organisations. The programme included attendance at CNN Global Perspectives: In Doha, organised by CNN, a meeting with Sheikh Jassim bin Mansour bin Jabor Al Thani, Director of Qatar\u2019s Government Communications Office, and visits and meetings at Media City Qatar, Qatar News Agency and the headquarters of Al Kass Sports Channels.",
       "source": "Dubai Media Office (RSS.app)",
@@ -499,28 +499,6 @@
         "city": null,
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e00d18ea1d7c64451d7cd964010fb25e",
-      "title": "#Kuwait's Undersecretary of Defense representing the Minister of Defense, participates in the 22nd #Manama Dialogue on regional security held in #Bahrain.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2116879459466768676",
-      "published": "2026-11-01T13:06:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 26.2285,
-        "lng": 50.586
       },
       "credibility": 95,
       "is_government": true,
@@ -1161,138 +1139,6 @@
         "lng": 38.9968
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=99653",
-      "title": "3 congressional races that matter for defense",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/3-congressional-races-that-matter-for-defense/",
-      "published": "2026-10-29T20:41:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=99725",
-      "title": "Canada unveils first national security strategy in more than 20 years",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/canada-unveils-first-national-security-strategy-in-more-than-20-years/",
-      "published": "2026-10-29T20:07:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "Defense News-7114225190384695496",
-      "title": "New tactical comms system for US ground troops aims to break network silos",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
-      "published": "2026-10-29T19:44:45+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=99679",
-      "title": "Army\u2019s MV-75 production award could slip due to CR, raising program costs: Textron",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/10/armys-mv-75-production-award-could-slip-due-to-cr-raising-program-costs-textron/",
-      "published": "2026-10-29T19:32:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/news/2026/10/29/record-deployment-for-destroyer-uss-spruance-casts-doubt-over-us-navy-maintenance/",
-      "title": "Record deployment for destroyer USS Spruance casts doubt over US Navy maintenance",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/naval/2026/10/29/record-deployment-for-destroyer-uss-spruance-casts-doubt-over-us-navy-maintenance/",
-      "published": "2026-10-29T19:15:42+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/?p=87243",
-      "title": "At pivotal summit, Canadian-European security cooperation is a central focus",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/10/29/at-pivotal-summit-canadian-european-security-cooperation-is-a-central-focus/",
-      "published": "2026-10-29T18:04:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
