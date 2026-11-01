@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-11-01T02:27:30.518898+00:00",
+  "generated_at": "2026-11-01T03:28:48.486709+00:00",
   "total_incidents": 50,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1793492481",
+      "title": "Thousands rally in Israel urging \u2018Jewish-Arab\u2019 coalition to oust Netanyahu",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss",
+      "published": "2026-11-01T02:05:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1793488872",
       "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
@@ -304,28 +326,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "6dfc725267bd52a12798cdacd34ba951",
-      "title": "Ziina wins the Dubai-it Award for Companies in the Field of Business. The award recognises its success in developing a financial platform that was built in Dubai. The platform redesigned the payments experience to be simpler and smoother on mobile, and enabled business owners to accept payments directly through their phones without the need for separate payment devices. Ziina launched more than 13 products and features over four years, enabling users to send, receive, save and spend money. Its payment volume has surpassed $1.5 billion, and the platform has reached 500,000 users and supports more than 290,000 business owners, small and medium-sized enterprises, and home-based entrepreneurs in",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2116501995288953011",
-      "published": "2026-10-31T12:06:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -905,7 +905,7 @@
       }
     },
     {
-      "id": "Defense News--3146343653358543014",
+      "id": "Defense News--209665489576263375",
       "title": "New tactical comms system for US ground troops aims to break network silos",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
