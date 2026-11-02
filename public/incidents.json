@@ -1,35 +1,13 @@
 {
-  "generated_at": "2026-11-01T22:11:18.523758+00:00",
-  "total_incidents": 52,
+  "generated_at": "2026-11-02T01:35:25.173589+00:00",
+  "total_incidents": 53,
   "incidents": [
     {
-      "id": "af0be98f4d7533c719659291405ba4f6",
-      "title": ". The United Arab Emirates has condemned in the strongest terms the attack targeting the liquefied natural gas (LNG) tan...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DfNuDE3tUnA",
-      "published": "2026-11-01T21:40:28+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793567646",
-      "title": "Thousands displaced from Hebron as Israel carries on siege",
+      "id": "https://www.aljazeera.com/?t=1793570470",
+      "title": "Israeli officials say results stand as Netanyahu claims election \u2018stolen\u2019",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
-      "published": "2026-11-01T21:28:47+00:00",
+      "source_url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
+      "published": "2026-11-02T00:29:16+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -47,11 +25,55 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793564904",
-      "title": "Police clash with housing crisis protesters in Portugal",
+      "id": "https://www.aljazeera.com/?t=1793577637",
+      "title": "Bollywood star greets fans in bulletproof glass after bomb threat",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss",
-      "published": "2026-11-01T20:31:17+00:00",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss",
+      "published": "2026-11-02T00:14:22+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793574500",
+      "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+      "published": "2026-11-02T00:00:00+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793282284",
+      "title": "Why governors\u2019 races are important in the 2026 US midterms",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss",
+      "published": "2026-11-01T23:24:56+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -62,6 +84,50 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793568449",
+      "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
+      "published": "2026-11-01T23:19:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "af0be98f4d7533c719659291405ba4f6",
+      "title": ". The United Arab Emirates has condemned in the strongest terms the attack targeting the liquefied natural gas (LNG) tan...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DfNuDE3tUnA",
+      "published": "2026-11-01T21:40:28+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -106,28 +172,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793557755",
-      "title": "Arsenal go top after narrow win at Liverpool",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/11/1/arsenal-go-top-after-narrow-win-at-liverpool?traffic_source=rss",
-      "published": "2026-11-01T19:09:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -458,28 +502,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/01/lebanon-seizes-40kg-of-cocaine-in-beirut-airports-largest-ever-drug-bust/",
-      "title": "Lebanon seizes 40kg of cocaine in Beirut airport's largest ever drug bust",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/01/lebanon-seizes-40kg-of-cocaine-in-beirut-airports-largest-ever-drug-bust/",
-      "published": "2026-11-01T14:02:24+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8938,
-        "lng": 35.5018
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
