@@ -1,7 +1,271 @@
 {
-  "generated_at": "2026-11-03T18:29:06.302798+00:00",
-  "total_incidents": 56,
+  "generated_at": "2026-11-04T00:01:48.988914+00:00",
+  "total_incidents": 51,
   "incidents": [
+    {
+      "id": "a2669faeac522a7fde08f637dcff37b7",
+      "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0631\u064a\u0627\u0636 \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in Riyadh Province to alert of a potential danger. Please follow the instructions below:",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2117766156916236605",
+      "published": "2026-11-03T23:49:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4773c4ebba4dce0cdff2f3e3905a6461",
+      "title": "The United Nations General Assembly (UNGA) & the UN Security Council (UNSC) elect five judges to the International Court of Justice (ICJ), including Jordanian judge Mahmoud Hmoud, for a nine-year term beginning on February 6, 2027  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2117759028587602158",
+      "published": "2026-11-03T23:21:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Jordan",
+        "city": null,
+        "lat": 30.5852,
+        "lng": 36.2384
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=100098",
+      "title": "EXCLUSIVE: SNC pulls out of Navy\u2019s trainer jet competition",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/snc-pulls-out-of-navy-trainer-jet-t45-ujts-leonardo-textron/",
+      "published": "2026-11-03T23:19:46+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=100094",
+      "title": "Thales subsidiary lands US Navy contract for remote mine hunting modules",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/thales-subsidiary-lands-us-navy-contract-for-remote-mine-hunting-modules/",
+      "published": "2026-11-03T22:40:45+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793740235",
+      "title": "Palestinian families return home after Israeli siege of Hebron",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-families-return-home-after-israeli-siege-of-hebron?traffic_source=rss",
+      "published": "2026-11-03T21:15:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=100038",
+      "title": "Air Force divests its few A-29s, explores \u2018future options\u2019",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/air-force-divests-its-few-a-29s-explores-future-options/",
+      "published": "2026-11-03T20:34:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/news/2026/11/03/us-air-force-asks-industry-for-new-cruise-missile-for-ukraine/",
+      "title": "US Air Force asks industry for new cruise missile for Ukraine",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/2026/11/03/us-air-force-asks-industry-for-new-cruise-missile-for-ukraine/",
+      "published": "2026-11-03T20:14:25+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/?p=87337",
+      "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/video/2026/11/03/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
+      "published": "2026-11-03T20:00:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=99994",
+      "title": "AUSA 2026: The ground truth on the Army\u2019s next chapter",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/ausa-2026-the-ground-truth-on-the-armys-next-chapter/",
+      "published": "2026-11-03T19:56:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=100004",
+      "title": "France investing in naval power as military ambition is \u2018to be feared\u2019: Armed forces minister",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/france-investing-in-naval-power-as-military-ambition-is-to-be-feared-armed-forces-minister/",
+      "published": "2026-11-03T19:45:00+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/travel/2026/11/03/wtm-travel-expo-sees-syria-take-the-london-spotlight/",
+      "title": "Syria takes spotlight at World Travel Market in London",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/travel/2026/11/03/wtm-travel-expo-sees-syria-take-the-london-spotlight/",
+      "published": "2026-11-03T19:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a774da43f8d4414dcd762fd892c35b57",
+      "title": ". UAE President His Highness Sheikh Mohamed bin Zayed Al Nahyan today received UAE ambassadors and heads of diplomatic m...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DfSevLfNN0T",
+      "published": "2026-11-03T18:03:16+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://one.sightlinemg.com/defensenews/news/2026/11/03/defense-contractors-to-demo-cargo-drones-for-us-marine-corps/",
       "title": "Defense contractors to demo cargo drones for US Marine Corps",
@@ -25,52 +289,8 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793726443",
-      "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
-      "published": "2026-11-03T17:26:02+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793726530",
-      "title": "Russian strikes on Dnipro kill two, injure 20 others",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss",
-      "published": "2026-11-03T17:24:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
-      "title": "Trump says US will end military aid to Israel by the end of this year",
+      "title": "Trump claims US will end military aid to Israel by end of this year",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
       "published": "2026-11-03T17:17:11+00:00",
@@ -157,28 +377,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793707997",
-      "title": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss",
-      "published": "2026-11-03T17:03:24+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "60260d1184638211333018c9ac7359ac",
       "title": "#Qatar's Foreign Ministry Spokesperson Dr. Majed Al-Ansari says Doha is continuing efforts to bring the US & Iran closer together & exchange proposals aimed at bridging differences between the two sides.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -194,50 +392,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793711735",
-      "title": "Israel political deadlock leaves Netanyahu\u2019s future hanging in the balance",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance?traffic_source=rss",
-      "published": "2026-11-03T16:49:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793711828",
-      "title": "Opposition party organiser killed before South Africa elections",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/3/opposition-party-organiser-killed-ahead-of-south-africa-elections?traffic_source=rss",
-      "published": "2026-11-03T16:39:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -311,28 +465,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793716814",
-      "title": "Do sports stars have the right to free speech?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/opinions/2026/11/3/do-sports-stars-have-the-right-to-free-speech?traffic_source=rss",
-      "published": "2026-11-03T15:52:56+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/mena/2026/11/03/hidden-hands-behind-the-houthis-yemen-claims-21-irgc-and-hezbollah-agents-are-supporting-rebels/",
       "title": "Hidden hands behind the Houthis: Yemen claims 21 IRGC and Hezbollah agents are supporting rebels",
       "source": "The National UAE",
@@ -345,50 +477,6 @@
         "city": null,
         "lat": 15.5527,
         "lng": 48.5164
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793712525",
-      "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/3/syria-arrests-cell-it-links-to-isis-over-plot-against-oil-refinery?traffic_source=rss",
-      "published": "2026-11-03T15:47:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.7308,
-        "lng": 36.7094
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=99840",
-      "title": "Gambit Series offers a scalable path for collaborative combat aircraft",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/11/gambit-series-offers-a-scalable-path-for-collaborative-combat-aircraft/",
-      "published": "2026-11-03T15:34:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
       },
       "credibility": 85,
       "is_government": false,
@@ -465,28 +553,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=99949",
-      "title": "Former Army secretary Dan Driscoll heads to OpenAI",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/11/former-army-secretary-heads-to-openai/",
-      "published": "2026-11-03T15:25:12+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/?p=87485",
       "title": "French defense minister kicks off \u2018pact\u2019 with industry in rush to field naval drones",
       "source": "Defense News",
@@ -543,50 +609,6 @@
         "city": null,
         "lat": 24.4539,
         "lng": 54.3773
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/03/jordan-church-attack-suspects-charged-with-terrorism/",
-      "title": "Jordan church attack suspects charged with terrorism",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/03/jordan-church-attack-suspects-charged-with-terrorism/",
-      "published": "2026-11-03T14:36:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Jordan",
-        "city": null,
-        "lat": 30.5852,
-        "lng": 36.2384
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/11/03/trump-says-us-will-end-4bn-in-annual-military-aid-to-israel/",
-      "title": "Donald Trump says US will end $4bn in annual military aid to Israel",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/11/03/trump-says-us-will-end-4bn-in-annual-military-aid-to-israel/",
-      "published": "2026-11-03T14:22:12+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
       },
       "credibility": 85,
       "is_government": false,
@@ -729,28 +751,6 @@
       }
     },
     {
-      "id": "49cc1b6f644f561dc39e828230da0aad",
-      "title": "During the 39th session of the Council of Arab Transport Ministers, #Kuwait's Minister of Public Works calls for establishing an integrated Arab transport & logistics network to ensure supply chain continuity & boost Arab economic security.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2117606088681910379",
-      "published": "2026-11-03T13:13:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo#0",
       "title": "US strikes Iranian island ahead of midterm elections",
       "source": "BBC Middle East",
@@ -861,50 +861,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=99843",
-      "title": "Sweden\u2019s Saab launches family of AI agents for future aircraft projects",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/11/swedens-saab-launches-family-of-ai-agents-for-future-aircraft-projects/",
-      "published": "2026-11-03T06:56:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=99815",
-      "title": "The fiscal risks of bringing US troops out of Europe",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/11/the-fiscal-risks-of-bringing-us-troops-out-of-europe/",
-      "published": "2026-11-02T18:15:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/?p=87447",
       "title": "Russia is giving its drones bigger antennas to beat Ukrainian jamming",
       "source": "Defense News",
@@ -949,28 +905,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=99869",
-      "title": "Saab unveils new speed assault boat for Swedish Navy",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/11/saab-unveils-new-speed-assault-boat-for-swedish-navy/",
-      "published": "2026-11-02T17:10:08+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/news/2026/11/02/us-approves-2-1-billion-patriot-missile-sale-to-ukraine/",
       "title": "US approves $2.1 billion Patriot missile sale to Ukraine",
       "source": "Defense News",
@@ -986,50 +920,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/?p=87434",
-      "title": "Tiny Ukrainian receiver intercepts Russian drone feeds in real time",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/11/02/tiny-ukrainian-receiver-intercepts-russian-drone-feeds-in-real-time/",
-      "published": "2026-11-02T16:03:13+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "82bccde111af145f582c26fe9b32da61",
-      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u0646\u0637\u0642\u0629 \u0646\u062c\u0631\u0627\u0646\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (998). Alert: The danger has passed in Najran Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2117204754317148605",
-      "published": "2026-11-02T10:38:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
