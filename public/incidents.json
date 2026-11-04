@@ -1,14 +1,124 @@
 {
-  "generated_at": "2026-11-04T06:41:26.151141+00:00",
-  "total_incidents": 49,
+  "generated_at": "2026-11-04T15:32:27.511990+00:00",
+  "total_incidents": 54,
   "incidents": [
     {
-      "id": "https://one.sightlinemg.com/defensenews/?p=87518",
-      "title": "MBDA high-speed strike missile to have range \u2018far\u2019 exceeding Exocet",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/11/04/mbda-high-speed-strike-missile-to-have-range-far-exceeding-exocet/",
-      "published": "2026-11-04T06:30:53+00:00",
-      "type": "missile",
+      "id": "https://breakingdefense.com/?p=100164",
+      "title": "Congress\u2019s defense advocates take big hit in 2026 midterm elections",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/congresss-defense-advocates-take-big-hit-in-2026-midterm-elections/",
+      "published": "2026-11-04T15:25:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793796750",
+      "title": "Iranian leaders welcome US midterms, but Trump may still attack",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss",
+      "published": "2026-11-04T15:13:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/2026/11/03/abu-dhabi-f1-dubai-7s-jake-paul-and-golf-live-sport-still-to-come-in-the-uae/",
+      "title": "Abu Dhabi F1, Dubai 7s, Jake Paul and golf - live sport still to come in the UAE",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/sport/2026/11/03/abu-dhabi-f1-dubai-7s-jake-paul-and-golf-live-sport-still-to-come-in-the-uae/",
+      "published": "2026-11-04T14:30:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793794835",
+      "title": "Yemeni government forces claim control of strategic al-Jawf mountain range",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss",
+      "published": "2026-11-04T14:08:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war",
+      "title": "Iran unveils \u2018We will kill Trump\u2019 banner \u2013 but US president may now be tempted to resume bombing",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war",
+      "published": "2026-11-04T14:07:17+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793800077",
+      "title": "Spanish Transport Minister resigns over train crash disasters",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/spanish-transport-minister-resigns-over-train-crash-disasters?traffic_source=rss",
+      "published": "2026-11-04T13:52:11+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": null,
@@ -25,11 +135,99 @@
       }
     },
     {
-      "id": "ae15f3bb04148f2a3ece377504ab4394",
-      "title": "#Kuwait's oil price falls USD 3.27 to USD 95.45 pb -KPC  #KUNA",
+      "id": "https://www.aljazeera.com/?t=1793736115",
+      "title": "Hebron\u2019s Israeli rooftop settlers threaten the city\u2019s Palestinian identity",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/4/hebrons-israeli-rooftop-settlers-threaten-the-citys-palestinian-identity?traffic_source=rss",
+      "published": "2026-11-04T13:40:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793798958",
+      "title": "Gaza volunteer Adam Hamawy wins historic US Congress seat",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/gaza-volunteer-adam-hamawy-wins-historic-us-congress-seat?traffic_source=rss",
+      "published": "2026-11-04T13:33:05+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/11/04/iraqi-pm-ali-al-zaidi-holds-talks-in-bahrain-in-latest-regional-visit/",
+      "title": "Iraq seeks to 'revive relationship' with Bahrain on first PM visit since 2003",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/11/04/iraqi-pm-ali-al-zaidi-holds-talks-in-bahrain-in-latest-regional-visit/",
+      "published": "2026-11-04T13:32:29+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5c98b237f019b639a11d60f9a86f76f1",
+      "title": "Latifa bint Mohammed inaugurates the 12th edition of Dubai Design Week, taking place in strategic partnership with Dubai Design District (d3), a member of TECOM Group, and supported by Dubai Culture, from 3 to 8 November 2026. This year\u2019s edition brings together designers, architects and creative practitioners from more than 50 countries, presenting a multidisciplinary programme of more than 40 installations, exhibitions, commissions and activations.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2117971871799136466",
+      "published": "2026-11-04T13:26:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8dd25ac680d97b370436a68b939952f7",
+      "title": "Speaking at a ministry ceremony, #Kuwait's Minister of Oil affirms that investing in human capital is essential to institutional development, stressing that qualified employees are key to turning ambitions into tangible achievements.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2117861080571457695",
-      "published": "2026-11-04T06:06:00+00:00",
+      "source_url": "https://x.com/kuna_en/status/2117971811719647655",
+      "published": "2026-11-04T13:26:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
@@ -47,21 +245,21 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/11/04/democrats-sweep-us-midterms-trump-says-israel-aid-will-end-and-new-uae-traffic-regulations/",
-      "title": "Democrats sweep US midterms, Trump says Israel aid will end, and new UAE traffic regulations",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/11/04/democrats-sweep-us-midterms-trump-says-israel-aid-will-end-and-new-uae-traffic-regulations/",
-      "published": "2026-11-04T05:39:03+00:00",
+      "id": "043ccdd41258cc971722a3509ce37bbc",
+      "title": "RT by @DXBMediaOffice: We inaugurated the 12th edition of Dubai Design Week, which brings together creative practitioners, designers and architects from more than 50 countries around the world, providing a platform for ideas and expertise to meet, experiences to be shared, and connections to grow between local and international creative communities. We believe that the growth and continued development of the design sector depend on our ability to invest in talent and create an environment that nurtures creativity, provides opportunities for development, and enables people to exchange ideas, connect with global experiences and turn their ideas into promising projects. This is what makes Dubai",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/hhshklatifa/status/2117969386774622704",
+      "published": "2026-11-04T13:17:00+00:00",
       "type": "incident",
-      "status": "unconfirmed",
+      "status": "confirmed",
       "location": {
         "country": "UAE",
         "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
+        "lat": 25.2048,
+        "lng": 55.2708
       },
-      "credibility": 85,
-      "is_government": false,
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -69,12 +267,34 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793758672",
-      "title": "N Korea fires multiple missiles, denies US claims on Binance hack",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack?traffic_source=rss",
-      "published": "2026-11-04T05:11:00+00:00",
-      "type": "missile",
+      "id": "0087e5824e403eb29f77469948ef9f63",
+      "title": "#Kuwait reaffirms its full solidarity with #SaudiArabia & support for all measures taken by the Kingdom to safeguard its sovereignty, security & stability. The position was expressed by Deputy Prime Minister & Minister of State for Cabinet Affairs Shereeda Al-Maousherji. #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2117967267350671729",
+      "published": "2026-11-04T13:08:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "Defense News--3019145025878710625",
+      "title": "Saildrone expands its European market reach with manufacturing partner in Norway",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/11/04/saildrone-expands-its-european-market-reach-with-manufacturing-partner-in-norway/",
+      "published": "2026-11-04T12:37:22+00:00",
+      "type": "drone",
       "status": "unconfirmed",
       "location": {
         "country": null,
@@ -91,62 +311,106 @@
       }
     },
     {
-      "id": "b8ccd22e2d37043641f478e8b7c7be63",
-      "title": "Democratic candidate Sherrod Brown has secured the Ohio Senate seat after defeating his Republican rival Jon Husted in the midterm elections, US media outlets reported early Wednesday. #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2117845005330973052",
-      "published": "2026-11-04T05:02:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "d5574bf8594ffd02dd9e428925397a33",
-      "title": "Democratic candidate James Talarico defeated his Republican rival Ken Paxton, securing about 60 percent of the vote, according to preliminary results reported by US media outlets. #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2117844865237074029",
-      "published": "2026-11-04T05:02:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/future/technology/2026/11/04/how-wall-climbing-robots-could-help-gulf-energy-producers-recover-from-attacks/",
-      "title": "How wall-climbing robots could help Gulf energy producers recover from attacks",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/11/04/how-wall-climbing-robots-could-help-gulf-energy-producers-recover-from-attacks/",
-      "published": "2026-11-04T05:00:00+00:00",
+      "id": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o#0",
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T12:21:21+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": null,
+        "country": "Iran",
         "city": null,
-        "lat": 29.0,
-        "lng": 48.0
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
+      "title": "Israel\u2019s election commission rejects Netanyahu claims of voting fraud",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
+      "published": "2026-11-04T12:19:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "766056271fb2ddadbe4a06c489f46e4a",
+      "title": "#Kuwait's Chief of the General Staff of the Army discusses with Commander of the #GCC Unified Military Command issues of mutual interest aimed at supporting joint Gulf military cooperation.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2117948517234663568",
+      "published": "2026-11-04T11:54:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "7a6dcf356d946e9948d75779c0cca63d",
+      "title": "#Kuwait Direct Investment Promotion Authority in its 11th Annual Report, titled \"Driving Growth,\" affirms that direct investment inflows into Kuwait rose to KD 948 million during the fiscal year 2025/26.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2117947883785777371",
+      "published": "2026-11-04T11:51:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=99985",
+      "title": "Israel Weapons Industry expands into Southeast Asia with Thailand\u2019s deployment of counter-drone system",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/israel-weapons-industry-expands-into-southeast-asia-with-thailands-deployment-of-counter-drone-system/",
+      "published": "2026-11-04T11:09:00+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
       },
       "credibility": 85,
       "is_government": false,
@@ -157,11 +421,143 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793755473",
-      "title": "Iran says US reply to Hormuz plan \u2018unconvincing\u2019; Trump confirms strikes",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss",
-      "published": "2026-11-04T04:39:31+00:00",
+      "id": "https://one.sightlinemg.com/defensenews/?p=87543",
+      "title": "Babcock launches digital platform to link warship construction and fleet support",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/11/04/babcock-launches-digital-platform-to-link-warship-construction-and-fleet-support/",
+      "published": "2026-11-04T10:26:16+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/?p=87535",
+      "title": "France tasks Naval Group to develop large oceangoing underwater drone",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/11/04/france-tasks-naval-group-to-develop-large-oceangoing-underwater-drone/",
+      "published": "2026-11-04T09:51:15+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c9e5f9fe2cc3e11f9551d402bb6d07b9",
+      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u0646\u0637\u0642\u0629 \u062c\u0627\u0632\u0627\u0646\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (998). Alert: The danger has passed in Jazan Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2117909564762783949",
+      "published": "2026-11-04T09:19:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e29769eeae7ffc969cbfc422f9900fc4",
+      "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0645\u0646\u0637\u0642\u0629 \u062c\u0627\u0632\u0627\u0646 \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in Jazan Province to alert of a potential danger. Please follow the instructions below:",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2117908405193252906",
+      "published": "2026-11-04T09:14:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c3ce2680e145834d57023bbe5d81de9a",
+      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u0646\u0637\u0642\u0629 \u0646\u062c\u0631\u0627\u0646\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (998). Alert: The danger has passed in Najran Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2117896592338350564",
+      "published": "2026-11-04T08:27:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "90cc2fbcb64aa17f05e7dfdfebca8522",
+      "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0645\u0646\u0637\u0642\u0629 \u0646\u062c\u0631\u0627\u0646 \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in Najran Province to alert of a potential danger. Please follow the instructions below:",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2117895203411669320",
+      "published": "2026-11-04T08:22:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3c42d6c68a34a1c6b26767e7b48bbdc0",
+      "title": "Iranians from all walks of life are taking to the streets across the country to mark the National Day of Fighting Global Arrogance, amid renewed threats of military aggression by the United States.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2117879900845609003",
+      "published": "2026-11-04T07:21:00+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -169,6 +565,72 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "11095dbd6fd7337deb2d90f24dd38e03",
+      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u0646\u0637\u0642\u0629 \u0646\u062c\u0631\u0627\u0646\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (998). Alert: The danger has passed in Najran Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2117875558172242395",
+      "published": "2026-11-04T07:04:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "cb0bcb4542e261bafd3a8ad637ea23f4",
+      "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0645\u0646\u0637\u0642\u0629 \u0646\u062c\u0631\u0627\u0646 \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in Najran Province to alert of a potential danger. Please follow the instructions below:",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2117874431364083937",
+      "published": "2026-11-04T06:59:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/?p=87518",
+      "title": "MBDA\u2019s high-speed strike missile to have range \u2018far\u2019 exceeding Exocet",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/11/04/mbda-high-speed-strike-missile-to-have-range-far-exceeding-exocet/",
+      "published": "2026-11-04T06:30:53+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 90,
       "is_government": false,
@@ -215,28 +677,6 @@
         "lng": 46.6753
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4773c4ebba4dce0cdff2f3e3905a6461",
-      "title": "The United Nations General Assembly (UNGA) & the UN Security Council (UNSC) elect five judges to the International Court of Justice (ICJ), including Jordanian judge Mahmoud Hmoud, for a nine-year term beginning on February 6, 2027  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2117759028587602158",
-      "published": "2026-11-03T23:21:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Jordan",
-        "city": null,
-        "lat": 30.5852,
-        "lng": 36.2384
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -399,28 +839,6 @@
       }
     },
     {
-      "id": "a774da43f8d4414dcd762fd892c35b57",
-      "title": ". UAE President His Highness Sheikh Mohamed bin Zayed Al Nahyan today received UAE ambassadors and heads of diplomatic m...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DfSevLfNN0T",
-      "published": "2026-11-03T18:03:16+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/news/2026/11/03/defense-contractors-to-demo-cargo-drones-for-us-marine-corps/",
       "title": "Defense contractors to demo cargo drones for US Marine Corps",
       "source": "Defense News",
@@ -465,116 +883,6 @@
       }
     },
     {
-      "id": "0cf3e14dc033e2694f79bf3a62fe86d2",
-      "title": "Ahmed bin Saeed inaugurates the 12th edition of Gulfood Manufacturing 2026. Held at Dubai World Trade Centre over three days, the event brings together 2,500 exhibitors from 79 countries, alongside leading global food manufacturers, technology providers, ingredient specialists and industry decision-makers.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2117666592997970405",
-      "published": "2026-11-03T17:13:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3a83b50436324ae918c48a2d79cda790",
-      "title": "RT by @DXBMediaOffice: I attended the opening of the 12th edition of Gulfood Manufacturing today at Dubai World Trade Centre today. More than 2,500 exhibitors from 79 countries are showcasing the innovations shaping how the world produces food, from processing and packaging to automation and supply chain solutions. When global industry leaders meet in one place, partnerships and investment follow. That is how we build more resilient food systems, and why Dubai remains a global hub for industry and innovation.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/HHAhmedBinSaeed/status/2117666272116867093",
-      "published": "2026-11-03T17:12:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=99935",
-      "title": "Syria weighs joining the Mecca Pact, foreign minister says",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/11/syria-weighs-joining-the-mecca-pact-foreign-minister-says/",
-      "published": "2026-11-03T16:23:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 21.3891,
-        "lng": 39.8579
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=99939",
-      "title": "The defense show circuit keeps rolling, plus Jimmy Stewart goes to war",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/11/the-defense-show-circuit-keeps-rolling-plus-jimmy-stewart-goes-to-war/",
-      "published": "2026-11-03T16:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "d7b75ca43cee7fa8d47185daac9eeac4",
-      "title": "Dr. Ahmad Belhoul Al Falasi, Minister of Sports and Vice President of the UAE National Olympic Committee, attended the o...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DfSNXxGNH9q",
-      "published": "2026-11-03T15:31:09+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/?p=87485",
       "title": "French defense minister kicks off \u2018pact\u2019 with industry in rush to field naval drones",
       "source": "Defense News",
@@ -612,72 +920,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "af650232f958c33cb3dfc6aa77a31f8b",
-      "title": "The 10th Dubai International Baja Rally will bring international motorsport action to the heart of Dubai on Friday, 6 November, as Mushrif National Park hosts the event\u2019s Prologue Stage for the first time. Organised by the Emirates Motorsports Organization (EMSO), the rally will feature international competitors in cars, motorcycles and quads across two sessions.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2117622733408497929",
-      "published": "2026-11-03T14:19:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "bd9e1b6341f548d8c7b15db983d1f459",
-      "title": "RT by @DXBMediaOffice: Today, we marked UAE Flag Day across Dubai Airports and the Emirates Group, celebrating a flag that represents our nation\u2019s unity and pride. We honoured the legacy of the Founding Fathers and the ambition of the people who continue to shape the UAE\u2019s progress. Our flag carries the history of a nation we are proud of and the hopes of future generations. We will continue to uphold its values and contribute to the UAE\u2019s journey of progress and excellence.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/HHAhmedBinSaeed/status/2117620958592688162",
-      "published": "2026-11-03T14:12:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "75f7c75dce7a12d9ed664c5ca24f6e66",
-      "title": "FT reports that DP World\u2019s London Gateway is on course to become the UK\u2019s largest container port by 2028, overtaking Felixstowe in Suffolk.  @FT I @DP_World",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2117620676559556632",
-      "published": "2026-11-03T14:11:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -861,28 +1103,6 @@
       }
     },
     {
-      "id": "https://one.sightlinemg.com/defensenews/?p=87447",
-      "title": "Russia is giving its drones bigger antennas to beat Ukrainian jamming",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/11/02/russia-is-giving-its-drones-bigger-antennas-to-beat-ukrainian-jamming/",
-      "published": "2026-11-02T18:00:00+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
       "title": "Oil price falls amid hope of a breakthrough to end Iran war",
       "source": "The Guardian",
@@ -949,50 +1169,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll",
-      "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll",
-      "published": "2026-11-02T06:00:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen",
-      "title": "Israel has \u2018historic\u2019 opportunity to change direction, says leader of Arab coalition",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen",
-      "published": "2026-11-02T06:00:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo#0",
       "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
       "source": "BBC Middle East",
@@ -1008,72 +1184,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "c44a396e9af8b17db1c291a132412200",
-      "title": "Israel's National Bureau for Counter Terror Financing launches New Sanctions Portal and API For more information and access to the API:",
-      "source": "Israel MOD (RSS.app)",
-      "source_url": "https://x.com/Israel_MOD/status/2116845778358444402",
-      "published": "2026-11-01T10:52:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "84c7003b97a86ef3089389f691db0850",
-      "title": "\u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (31) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
-      "source": "Saudi MOI (RSS.app)",
-      "source_url": "https://x.com/MOISaudiArabia/status/2116832622320189669",
-      "published": "2026-11-01T10:00:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "c69b5d18b9fbe876fa6945ad0fb924d0",
-      "title": "Statment by H.E. the Chairman of the National Emergency Crisis and Disaster Management Authority #NCEMA on the Occasion UAE Innovation Month #UAEInnovates.",
-      "source": "UAE NCEMA (RSS.app)",
-      "source_url": "https://x.com/NCEMAUAE/status/2116787489251934538",
-      "published": "2026-11-01T07:00:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
