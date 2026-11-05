@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-04T21:58:09.603583+00:00",
-  "total_incidents": 56,
+  "generated_at": "2026-11-05T02:34:49.298729+00:00",
+  "total_incidents": 57,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1793818934",
-      "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
+      "id": "https://www.aljazeera.com/?t=1793831560",
+      "title": "Israel\u2019s Herzog accepts vote results, opens talks on forming a government",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
-      "published": "2026-11-04T21:13:56+00:00",
+      "source_url": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss",
+      "published": "2026-11-05T01:53:30+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Palestine",
+        "country": "Israel",
         "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
+        "lat": 31.0461,
+        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -25,11 +25,33 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793821579",
-      "title": "US midterm election results live: Trump blames Iran war after losses",
+      "id": "https://www.aljazeera.com/?t=1793839017",
+      "title": "Africa\u2019s richest man launches mega oil tank farm in Namibia",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
-      "published": "2026-11-04T21:00:00+00:00",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss",
+      "published": "2026-11-05T00:39:18+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793829390",
+      "title": "Iran war live: Trump says war caused election wipeout but he \u2018had to do it\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
+      "published": "2026-11-05T00:00:00+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -47,11 +69,11 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793817072",
-      "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+      "id": "https://www.aljazeera.com/?t=1793827763",
+      "title": "Ethiopia expels 6 Sudan diplomats, orders closure of consulate, reports say",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
-      "published": "2026-11-04T20:31:56+00:00",
+      "source_url": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss",
+      "published": "2026-11-04T23:43:26+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -69,11 +91,11 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793821619",
-      "title": "Will the US resume its attacks on Iran?",
+      "id": "https://www.aljazeera.com/?t=1793832955",
+      "title": "Trump blames Iran war for midterms losses",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
-      "published": "2026-11-04T20:25:50+00:00",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss",
+      "published": "2026-11-04T23:30:01+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -83,6 +105,72 @@
         "lng": 53.688
       },
       "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=100266",
+      "title": "Navy unfairly evaluated Saildrone MUSV proposal, court finds",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/navy-unfairly-evaluated-saildrone-musv-proposal-court-finds/",
+      "published": "2026-11-04T23:23:22+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/news/2026/11/04/amid-iran-conflict-non-hostile-deaths-of-2-us-airmen-raise-overseas-toll-to-23/",
+      "title": "Amid Iran conflict, \u2018non-hostile\u2019 deaths of 2 US airmen raise overseas toll",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/11/04/amid-iran-conflict-non-hostile-deaths-of-2-us-airmen-raise-overseas-toll-to-23/",
+      "published": "2026-11-04T23:08:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=100262",
+      "title": "What now? Budget fight, Hegseth impeachment on deck for defense-focused lawmakers after midterms",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/what-now-budget-fight-hegseth-impeachment-on-deck-for-defense-focused-lawmakers-after-midterms/",
+      "published": "2026-11-04T22:47:45+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -147,28 +235,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1793822275",
-      "title": "Iranians celebrate Democrat victory in US midterms",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
-      "published": "2026-11-04T19:59:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
@@ -641,7 +707,7 @@
       }
     },
     {
-      "id": "Defense News-1157758602019194978",
+      "id": "Defense News-1272235180682554343",
       "title": "Saildrone expands its European market reach with manufacturing partner in Norway",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/global/europe/2026/11/04/saildrone-expands-its-european-market-reach-with-manufacturing-partner-in-norway/",
@@ -677,28 +743,6 @@
         "lng": 34.8516
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=99985",
-      "title": "Israel Weapons Industry expands into Southeast Asia with Thailand\u2019s deployment of counter-drone system",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/11/israel-weapons-industry-expands-into-southeast-asia-with-thailands-deployment-of-counter-drone-system/",
-      "published": "2026-11-04T11:09:00+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -897,28 +941,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=100098",
-      "title": "EXCLUSIVE: SNC pulls out of Navy\u2019s trainer jet competition, leaving Textron likely winner",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/11/snc-pulls-out-of-navy-trainer-jet-t45-ujts-leonardo-textron/",
-      "published": "2026-11-03T23:19:46+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
