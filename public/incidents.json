@@ -1,13 +1,57 @@
 {
-  "generated_at": "2026-11-07T02:01:17.813273+00:00",
+  "generated_at": "2026-11-07T08:56:19.116068+00:00",
   "total_incidents": 50,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1794002370",
-      "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/07/gazan-couples-tie-the-knot-in-mass-wedding-offering-brief-respite-from-war/",
+      "title": "Gazan couples tie the knot in mass wedding offering brief respite from war",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/07/gazan-couples-tie-the-knot-in-mass-wedding-offering-brief-respite-from-war/",
+      "published": "2026-11-07T08:45:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "24dc40d6d6c0a4222dffac17885d819c",
+      "title": "#Kuwait Petroleum Corporation (KPC): Kuwaiti oil price went up by USD 2.48 to USD 88.69 per barrel (pb) in Friday's trading, compared with USD 86.21 the previous day  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2118969525374681221",
+      "published": "2026-11-07T07:31:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794035321",
+      "title": "Qatari PM says US willing to seek solution to war with Iran",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
-      "published": "2026-11-07T00:00:00+00:00",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
+      "published": "2026-11-07T07:10:37+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -25,18 +69,18 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1794000170",
-      "title": "EU tells TikTok to fix \u2018harmful\u2019 For You feed, threatens fines",
+      "id": "https://www.aljazeera.com/?t=1794034268",
+      "title": "Trump confirms US strikes in Iran, insists \u2018it\u2019s not a war\u2019",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss",
-      "published": "2026-11-06T23:33:28+00:00",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss",
+      "published": "2026-11-07T07:05:01+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": null,
+        "country": "Iran",
         "city": null,
-        "lat": 29.0,
-        "lng": 48.0
+        "lat": 32.4279,
+        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
@@ -47,11 +91,121 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1793996047",
-      "title": "How Trump\u2019s unconvincing narrative on Iran lost him the US midterms",
+      "id": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
+      "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
+      "published": "2026-11-07T07:00:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/07/syria-seizes-more-than-280kg-of-narcotics-smuggled-from-lebanon/",
+      "title": "Syria seizes more than 280kg of narcotics smuggled from Lebanon",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/07/syria-seizes-more-than-280kg-of-narcotics-smuggled-from-lebanon/",
+      "published": "2026-11-07T06:59:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1793962501",
+      "title": "How the Iran war helped Democrats win the midterms",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
-      "published": "2026-11-06T23:07:22+00:00",
+      "source_url": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss",
+      "published": "2026-11-07T06:26:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
+      "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
+      "published": "2026-11-07T06:00:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/europe/2026/11/07/race-to-find-hoaxers-behind-europes-flight-disruption/",
+      "title": "Race to find hoaxers behind Europe's flight disruption",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/europe/2026/11/07/race-to-find-hoaxers-behind-europes-flight-disruption/",
+      "published": "2026-11-07T04:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
+      "title": "US carries out another round of \u2018minor\u2019 strikes on Iran, Trump says",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
+      "published": "2026-11-07T03:07:01+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -84,28 +238,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794000994",
-      "title": "Palestinian couples tie the knot in mass wedding in Gaza",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
-      "published": "2026-11-06T21:37:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -487,28 +619,6 @@
       }
     },
     {
-      "id": "91ab56c64a3bdf35feea4c9fc8b6b4bd",
-      "title": "Saudi-led Coalition to Support Legitimacy in Yemen announced that it had intercepted and destroyed a drone in the Makkah region  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2118712282452517375",
-      "published": "2026-11-06T14:29:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo#0",
       "title": "US midterm results spark fears in Israel over future of two countries' ties",
       "source": "BBC Middle East",
@@ -546,28 +656,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "eed2ac2b1c470d7e4b6d8f26b1092b86",
-      "title": "#Kuwait condemns & denounces the armed attack in southern Egypt, that resulted in the death of two border guard officers.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2118666184920854777",
-      "published": "2026-11-06T11:25:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -971,72 +1059,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
-      "title": "South Korea says it will expand naval operations closer to strait of Hormuz",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
-      "published": "2026-11-05T04:22:49+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.5,
-        "lng": 56.5
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/2026/nov/04/food-grown-in-settlements-west-bank-sold-in-australia-produce-of-israel-ntwnfb",
-      "title": "Food grown in illegal West Bank settlements being sold in Australia as \u2018produce of Israel\u2019",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/australia-news/2026/nov/04/food-grown-in-settlements-west-bank-sold-in-australia-produce-of-israel-ntwnfb",
-      "published": "2026-11-04T20:00:43+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
-      "title": "The midterms were a thumping rebuke of the US-Israel relationship",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
-      "published": "2026-11-04T19:22:43+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o#0",
       "title": "Iran's chief negotiator says Americans voted 'no to war'",
       "source": "BBC Middle East",
@@ -1073,28 +1095,6 @@
         "lng": 34.8516
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3c42d6c68a34a1c6b26767e7b48bbdc0",
-      "title": "Iranians from all walks of life are taking to the streets across the country to mark the National Day of Fighting Global Arrogance, amid renewed threats of military aggression by the United States.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2117879900845609003",
-      "published": "2026-11-04T07:21:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 70,
       "is_government": false,
       "casualties": {
         "total": 0,
