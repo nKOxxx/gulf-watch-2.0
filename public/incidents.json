@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-11-07T20:18:36.978928+00:00",
+  "generated_at": "2026-11-07T23:41:15.875736+00:00",
   "total_incidents": 50,
   "incidents": [
+    {
+      "id": "037e02496c96326d2bb9791566ec1073",
+      "title": "Bahraini Foreign Minister Abdullatif Al-Zayani discussed with his Iraqi counterpart Fuad Hussein the latest regional developments and efforts to de-escalate tensions and enhance regional security and stability. #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2119193742280196510",
+      "published": "2026-11-07T22:22:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "39d4779de4dd1d383e156379e3e1378d",
+      "title": "CENTCOM announced it forces disabled a commercial vessel in the Gulf of Oman after the ship's civilian crew ignored repeated warnings and attempted to violate the naval blockade against Iran multiple times. #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2119193289358278996",
+      "published": "2026-11-07T22:20:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo#0",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-07T22:19:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "901b6fa65344d51afb7fac186305fdb8",
+      "title": "Egypt's Foreign Minister Badr Abdelatty reopened the historic headquarters of the Egyptian Embassy in Libya's capital, Tripoli, on Saturday, in a ceremony featuring the minister and Libya's acting foreign minister Taher Al-Baour.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2119193021220626506",
+      "published": "2026-11-07T22:19:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 34.4346,
+        "lng": 35.8362
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794083912",
+      "title": "M\u00e9lenchon promises action against Israeli annexation if elected President",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
+      "published": "2026-11-07T20:53:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794082205",
+      "title": "Who is behind Europe\u2019s suspected hybrid attacks?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
+      "published": "2026-11-07T20:48:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794082293",
+      "title": "Israel\u2019s president picks Eisenkot over Netanyahu to form next government",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+      "published": "2026-11-07T20:26:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.aljazeera.com/?t=1794082133",
       "title": "Ukraine\u2019s Zaporizhzhia faces threat as Russian drones close in",
@@ -69,28 +223,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1794074692",
-      "title": "Trump orders DOJ to investigate Democrats for \u2018threatening\u2019 people",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people?traffic_source=rss",
-      "published": "2026-11-07T19:42:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "f57847e53a615208f4bfd6761777e569",
       "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u0646\u0637\u0642\u0629 \u062c\u0627\u0632\u0627\u0646\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (998). Alert: The danger has passed in Jazan Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
       "source": "Saudi Civil Defense (RSS.app)",
@@ -128,50 +260,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794072963",
-      "title": "Yemeni gov\u2019t forces report advances as Houthis say deadly strikes hit Sanaa",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
-      "published": "2026-11-07T19:06:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Yemen",
-        "city": null,
-        "lat": 15.3694,
-        "lng": 44.191
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794078149",
-      "title": "Demonstration in Berlin calls for an end to arming Israel",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/demonstration-in-berlin-calls-for-an-end-to-arming-israel?traffic_source=rss",
-      "published": "2026-11-07T19:04:04+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -392,94 +480,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0f9316858db3b7c60bd1a38b41ebce92",
-      "title": "#Egypt's Foreign Minister and Minister of International Cooperation Badr Abdelatty warns of the dangers posed by Israeli occupation practices in the West Bank, including settlement expansion and attempts to impose a fait accompli  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2119014758254780785",
-      "published": "2026-11-07T10:31:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "45340882443cdc7dcdc39b12fd212ca4",
-      "title": "Addressing the Oxford Union in the British city of Oxford, #Qatar's Prime Minister and Foreign Minister Sheikh Mohammad bin Abdulrahman has called for a greater role for economically prosperous small states in shaping international peace and security  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2119000659991171424",
-      "published": "2026-11-07T09:35:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "bd7ab57276be0a9ef8b736200f537420",
-      "title": "From the Gulf sands to deep space, the passion of Kuwaiti researcher Abdullah Al-Harbi has turned from a mere hobby of stargazing into a scientific document embraced by key world space agencies (Photo feature)  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2118995092899795177",
-      "published": "2026-11-07T09:12:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "24dc40d6d6c0a4222dffac17885d819c",
-      "title": "#Kuwait Petroleum Corporation (KPC): Kuwaiti oil price went up by USD 2.48 to USD 88.69 per barrel (pb) in Friday's trading, compared with USD 86.21 the previous day  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2118969525374681221",
-      "published": "2026-11-07T07:31:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
