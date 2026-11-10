@@ -1,13 +1,695 @@
 {
-  "generated_at": "2026-11-10T13:35:59.101836+00:00",
-  "total_incidents": 56,
+  "generated_at": "2026-11-10T20:53:52.637652+00:00",
+  "total_incidents": 54,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1794339418",
+      "title": "US soldier arrested in UK on suspicion of spying for Russia",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
+      "published": "2026-11-10T20:41:53+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794342074",
+      "title": "Iraq blocks Iranian football team\u2019s plane from landing over US sanctions",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions?traffic_source=rss",
+      "published": "2026-11-10T20:23:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794335949",
+      "title": "Salvadoran troops target Haitian gang, leaving 20 dead",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss",
+      "published": "2026-11-10T20:22:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 20,
+        "military": 20,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "7cf6e5c658ad8d4bfbf0807473205942",
+      "title": "#Kuwait's Minister of State for Youth and Sports Affairs Dr. Tariq Al-Jalahma says the Gulf Bank Marathon marks a successful model for a sustainable relationship between the public and private sectors  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120250208114139408",
+      "published": "2026-11-10T20:20:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794339155",
+      "title": "F1 champion Lewis Hamilton visits Gaza border",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
+      "published": "2026-11-10T20:14:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794322281",
+      "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss",
+      "published": "2026-11-10T20:07:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/economy/2026/11/10/federal-reserve-inflation-interest-rates-december/",
+      "title": "Hot US inflation report seals Federal Reserve rate increase",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/economy/2026/11/10/federal-reserve-inflation-interest-rates-december/",
+      "published": "2026-11-10T20:02:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in",
+      "title": "Israeli opposition hurries to seize control as new Knesset is sworn in",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in",
+      "published": "2026-11-10T19:59:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=100681",
+      "title": "France awards $1.7 billion contract to Airbus-Thales team for new military satellites",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/france-awards-1-7-billion-contract-to-airbus-thales-team-for-new-military-satellites/",
+      "published": "2026-11-10T19:45:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=100651",
+      "title": "Beyond the CMMC pause: Protecting the engineering data defense programs depend on",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/beyond-the-cmmc-pause-protecting-the-engineering-data-defense-programs-depend-on/",
+      "published": "2026-11-10T19:39:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794334885",
+      "title": "Rubio says no need for major combat operations against Iran",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
+      "published": "2026-11-10T19:34:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/news/2026/11/10/most-americans-want-new-democratic-congress-to-end-trumps-iran-war-poll-finds/",
+      "title": "Most Americans want new Democratic Congress to end Trump\u2019s Iran war, poll finds",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/mideast-africa/2026/11/10/most-americans-want-new-democratic-congress-to-end-trumps-iran-war-poll-finds/",
+      "published": "2026-11-10T19:29:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/11/10/us-soldier-arrested-britain-spy-russia/",
+      "title": "US soldier arrested in UK as part of espionage allegations investigation",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/11/10/us-soldier-arrested-britain-spy-russia/",
+      "published": "2026-11-10T19:28:17+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/?p=87784",
+      "title": "Ukraine urges US to speed up interceptor deliveries as Russia targets power grid",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/11/10/ukraine-urges-us-to-speed-up-interceptor-deliveries-as-russia-targets-power-grid/",
+      "published": "2026-11-10T18:57:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a0e3a139fa5791f41b94dda5542ba516",
+      "title": "Saudi Crown Prince and Prime Minister Prince Mohammad bin Salman discusses withKing of Bahrain Hamad bin Isa Al Khalifa the latest regional developments and efforts to enhance regional security and stability, along with historical relations and bilateral cooperation  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120226973431521714",
+      "published": "2026-11-10T18:47:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.794,
+        "lng": 34.9896
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a0d38586902fca706db74ae1fab323bd",
+      "title": "Mohammed bin Rashid bin Mohammed attends the closing ceremony of the 15th edition of the Hamdan Bin Mohammed Bin Rashid Al Maktoum International Photography Award at the Museum of the Future in Dubai. The edition was held under the theme \u2018Family\u2019. His Highness honoured Bangladeshi photographer Pinu Rahman, winner of the Grand Prize, and the recipients of the Special Awards. Japanese photographer Kazuyoshi Nomachi received the Appreciation Award, Syrian photographer Dr. Ali Mohamad received the Content Creator Award, and French photographer V\u00e9ronique de Viguerie received the HIPA Photographer of the Year Award.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2120223583314325539",
+      "published": "2026-11-10T18:34:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/10/lebanons-long-awaited-second-airport-to-open-on-december-14/",
+      "title": "Lebanon's long-awaited second airport to open on December 14",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/10/lebanons-long-awaited-second-airport-to-open-on-december-14/",
+      "published": "2026-11-10T18:32:33+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a656c4df23c29a42d195e13a0fb31484",
+      "title": "Special Envoy of the Chinese Government on the Middle East Zhai Jun says that his country is ready to work alongside the Sultanate of #Oman to resolve regional crises through diplomatic channels and sound dialogue  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120221701900312825",
+      "published": "2026-11-10T18:27:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 21.4735,
+        "lng": 55.9754
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/news/2026/11/10/first-ever-collaborative-combat-aircraft-fly-in-formation-demonstrate-air-combat-maneuvers/",
+      "title": "First-ever Collaborative Combat Aircraft fly in formation, demonstrate air combat maneuvers",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/11/10/first-ever-collaborative-combat-aircraft-fly-in-formation-demonstrate-air-combat-maneuvers/",
+      "published": "2026-11-10T18:17:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "6931aa2825151de54c9fe088c49918de",
+      "title": "#Qatar affirms its mediation efforts to bridge the gap between the #uS and Iran are ongoing, saying these efforts have gained significant momentum over the past few days and weeks, in coordination with regional and international partners  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120211831079760085",
+      "published": "2026-11-10T17:47:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "460a278315dadb8d4528354e695f43c9",
+      "title": ". Dr. Anwar Gargash, Diplomatic Adviser to the UAE President, has affirmed that the UAE, under the leadership of Preside...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DfkcixuNdx5",
+      "published": "2026-11-10T17:30:03+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o#0",
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T17:03:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/future/science/2026/11/10/do-glps1s-cause-blindness/",
+      "title": "FDA orders new warning on GLP-1 drugs over potential risk of blindness",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/future/science/2026/11/10/do-glps1s-cause-blindness/",
+      "published": "2026-11-10T16:59:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/10/f1-legend-lewis-hamilton-sees-aid-parcels-waiting-at-gaza-border/",
+      "title": "F1 legend Lewis Hamilton sees aid parcels waiting at Gaza border",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/10/f1-legend-lewis-hamilton-sees-aid-parcels-waiting-at-gaza-border/",
+      "published": "2026-11-10T16:57:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=100574",
+      "title": "Why Britain needs a maritime-first defense strategy",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/why-britain-needs-a-maritime-first-defense-strategy/",
+      "published": "2026-11-10T16:14:31+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
+      "title": "Lewis Hamilton visits Egypt\u2019s Rafah crossing and Gaza aid facilities",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
+      "published": "2026-11-10T15:39:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/?p=87737",
+      "title": "Report: Russian ships are pumping tanks, MRAPs and rocket launchers into Africa",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/mideast-africa/2026/11/10/report-russian-ships-are-pumping-tanks-mraps-and-rocket-launchers-into-africa/",
+      "published": "2026-11-10T15:24:07+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o#0",
+      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T15:21:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "37c3a95d0958eb125e7132a3fa3e5838",
+      "title": "ADNOC Logistics and Services confirms that one of its vessels sustained damage following an attack in the UAE\u2019s territor...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DfkKDYltsNb",
+      "published": "2026-11-10T14:48:28+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b9de7906139449f108afac895b9de073",
+      "title": "#Kuwait's Minister of Defense takes part in the 23rd session of the Gulf Cooperation Council Joint Defence Council, attended by #GCC defence ministers & GCC Secretary-General Jassem Al-Budaiwi.  #KUNA #KUNA_Video",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120165109670584546",
+      "published": "2026-11-10T14:42:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=100553",
+      "title": "A Pentagon impeachment showdown, plus defense funding in limbo",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/a-pentagon-impeachment-showdown-plus-defense-funding-in-limbo/",
+      "published": "2026-11-10T14:22:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo#0",
       "title": "Iran rejects French claims it was behind supermarket fridge hacking",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T13:31:14+00:00",
+      "published": "2026-11-10T13:45:13+00:00",
       "type": "cyber",
       "status": "unconfirmed",
       "location": {
@@ -25,33 +707,11 @@
       }
     },
     {
-      "id": "4a9a6e1d1752313339de9d7847afde5b",
-      "title": "#Kuwait's expresses its solidarity with #Turkiye following an explosion at an iron & steel factory in Izmir province that left several people dead & injured.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2120145148453527887",
-      "published": "2026-11-10T13:22:00+00:00",
-      "type": "explosion",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "50b33381f0df29264016f29965ecfcb4",
-      "title": "Mansoor bin Mohammed announces the launch of the evaluation cycle for the third edition of the Hamdan bin Mohammed Order of Merit for Sports Education School. Applications will close on 1 February 2027, and the two winning schools\u2014one from the public sector and one from the private sector\u2014will be selected and honoured on 15 April 2027.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2120141562000884078",
-      "published": "2026-11-10T13:08:00+00:00",
+      "id": "ee7f21f3d86f96d42c71f4cbb91e2eaf",
+      "title": "Jasem Mohamed Albudaiwi, Secretary-General of the Gulf Cooperation Council (GCC), welcomed the launch of the third round...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DfkAnvCNJqU",
+      "published": "2026-11-10T13:26:03+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
@@ -59,138 +719,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/travel/2026/11/10/passports-redundant-in-five-years-suggests-dubai-airports-chief/",
-      "title": "Passports 'redundant' in five years, suggests Dubai Airports chief",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/travel/2026/11/10/passports-redundant-in-five-years-suggests-dubai-airports-chief/",
-      "published": "2026-11-10T13:04:56+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794297113",
-      "title": "Iran lifts 2,000km limit on its ballistic missiles: What that means",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/10/iran-lifts-2000km-limit-on-its-ballistic-missiles-what-that-means?traffic_source=rss",
-      "published": "2026-11-10T12:56:41+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794310925",
-      "title": "At least 12 people killed in motorway crash in southeastern Bulgaria",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/10/at-least-12-people-killed-in-motorway-crash-in-southeastern-bulgaria?traffic_source=rss",
-      "published": "2026-11-10T12:54:04+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/11/10/sharjah-approves-housing-support-for-1100-families-and-raises-marriage-grant-limit-to-dh50000/",
-      "title": "Sharjah approves housing support for 1,100 families and raises marriage grant limit to Dh50,000",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/11/10/sharjah-approves-housing-support-for-1100-families-and-raises-marriage-grant-limit-to-dh50000/",
-      "published": "2026-11-10T12:52:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.3463,
-        "lng": 55.4209
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "03f35eee8582a5dda41d048e82696797",
-      "title": "Organization of Arab Petroleum Exporting Countries Chief affirms that artificial intelligence, big data analytics & digital twins enable organizations to make more accurate, rapid & effective decisions.  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2120136554647638259",
-      "published": "2026-11-10T12:48:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b1c916f16ce9edf194811f01c23f83c8",
-      "title": "#Kuwait's Minister of Defense takes part in the 23rd session of the Gulf Cooperation Council Joint Defence Council, attended by #GCC defence ministers & GCC Secretary-General Jassem Al-Budaiwi.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2120136146072072193",
-      "published": "2026-11-10T12:47:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
@@ -245,226 +773,6 @@
       }
     },
     {
-      "id": "d456aa761a2931b4f6806715b5f7d3fc",
-      "title": "#Kuwait Red Crescent Society Chief affirms the society's commitment to strengthening medical & humanitarian cooperation with #Jordan's King Hussein Cancer Center & expanding support for patients unable to afford treatment.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2120135697386340641",
-      "published": "2026-11-10T12:45:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/europe/2026/11/10/europeans-upbeat-after-qatari-pms-update-on-us-iran-peace-talks-and-trump-meeting/",
-      "title": "Europeans upbeat after Qatari PM update on US-Iran peace talks and Trump meeting",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/europe/2026/11/10/europeans-upbeat-after-qatari-pms-update-on-us-iran-peace-talks-and-trump-meeting/",
-      "published": "2026-11-10T12:40:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "162ca148353575249eb7df9e8a98610b",
-      "title": "#Kuwait submits the final report of the committee tasked with developing the governance framework for ALECSO, as part of preparations for the organization's 28th General Conference, scheduled for Thursday.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2120132381805867279",
-      "published": "2026-11-10T12:32:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/10/turkey-shuns-israel-at-cop31-climate-summit/",
-      "title": "Turkey shuns Israel at Cop31 climate summit",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/10/turkey-shuns-israel-at-cop31-climate-summit/",
-      "published": "2026-11-10T12:29:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o#0",
-      "title": "Israel's new parliament to be sworn in as leaders compete to form government",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10T12:25:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794307371",
-      "title": "Why the GCC is setting up an advanced military command base in Kuwait",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait?traffic_source=rss",
-      "published": "2026-11-10T12:09:54+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794304628",
-      "title": "Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean?traffic_source=rss",
-      "published": "2026-11-10T11:52:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 23.5859,
-        "lng": 58.4059
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ae01405a5f3a4d54af16b3332153df37",
-      "title": "Nakheel, a member of Dubai Holding Real Estate, unveiles Palm Springs, a 3.8 million sq m residential masterplan adjacent to Palm Jebel Ali in southern Dubai. Planned for almost 50,000 residents, the community will bring together homes, education, healthcare, sport, and leisure facilities across 15 neighbourhoods.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2120121768174346441",
-      "published": "2026-11-10T11:49:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b8b6c667b26349c1d45f24f090faab48",
-      "title": "Dubai Aerospace Enterprise (DAE) announces its financial results for the nine months ended 30 September 2026, reporting revenue of US$1.4 billion, up 13.2% year-on-year. Profit before tax and exceptional items rose by 8.8% to US$370.7 million. Total assets increased to US$26.8 billion at the end of September 2026, while its owned, managed, committed and mandated fleet is projected to grow to approximately 1,300 aircraft.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2120120112938402171",
-      "published": "2026-11-10T11:43:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/10/netanyahu-rivals-strike-first-deal-as-israel-prepares-to-swear-in-parliament/",
-      "title": "Netanyahu rivals strike first deal as Israel prepares to swear in parliament",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/10/netanyahu-rivals-strike-first-deal-as-israel-prepares-to-swear-in-parliament/",
-      "published": "2026-11-10T11:30:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo#0",
       "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
       "source": "BBC Middle East",
@@ -479,72 +787,6 @@
         "lng": 34.8516
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0e6ea1cda42f7f253ff452b9c1e0227d",
-      "title": "#Kuwait's Ministry of Interior warns against using buses for transportation or rental activities beyond the scope of licenses granted to companies.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2120115138841681972",
-      "published": "2026-11-10T11:23:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "9e998f5f4729f8686487caa5e29501eb",
-      "title": "RT by @DXBMediaOffice: As part of the Dubai Sports Sector Strategic Plan 2033, we announce the launch of the third and most comprehensive edition of the \u2018Hamdan Bin Mohammed Order of Merit for Sports Education School, which will see public and private schools across Dubai compete for the honour. Our goal is to make sport an essential part of school life alongside academic achievement, while investing in sporting talent and advancing Dubai\u2019s position as a leading sports destination and a hub for attracting talent.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/sheikhmansoor/status/2120114973922005085",
-      "published": "2026-11-10T11:22:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794304543",
-      "title": "Who moves first in Iran-US diplomacy?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/opinions/2026/11/10/who-moves-first-in-iran-us-diplomacy?traffic_source=rss",
-      "published": "2026-11-10T11:14:16+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -685,28 +927,6 @@
       }
     },
     {
-      "id": "1d9f939e677aa89cc4f5570bd56c5c85",
-      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (911). Alert: The danger has passed in Riyadh City. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2119955122478313865",
-      "published": "2026-11-10T00:47:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/video/2026/nov/09/four-killed-in-sand-embankment-collapse-in-gaza-video",
       "title": "Four killed in sand embankment collapse in Gaza - video",
       "source": "The Guardian",
@@ -721,28 +941,6 @@
         "lng": 34.4668
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=100433",
-      "title": "Korean Air Aerospace pushes forward with Collaborative Combat Aircraft plans",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/11/korean-air-aerospace-pushes-forward-with-collaborative-combat-aircraft-plans/",
-      "published": "2026-11-09T19:19:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -817,138 +1015,6 @@
       }
     },
     {
-      "id": "https://breakingdefense.com/?p=100458",
-      "title": "Army fields launched effects to 11 of 12 divisions, with Griffon Aerospace delivering the majority",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/11/army-fields-launched-effects-to-11-of-12-divisions-with-griffon-aerospace-delivering-the-majority/",
-      "published": "2026-11-09T17:21:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/news/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan/",
-      "title": "Neros to expand domestic drone production with $450M Pentagon loan",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan/",
-      "published": "2026-11-09T15:45:23+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=100483",
-      "title": "Defense industry takes aim at \u2018right to repair\u2019 as NDAA decision looms",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/11/defense-industry-takes-aim-at-right-to-repair-as-ndaa-decision-looms/",
-      "published": "2026-11-09T15:36:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/?p=87655",
-      "title": "Drones incoming! New innovations on offer in UAS tech | Defense News Weekly Full Episode 11.10.26",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/video/2026/11/09/drones-incoming-new-innovations-on-offer-in-uas-tech-defense-news-weekly-full-episode-11-10-26/",
-      "published": "2026-11-09T14:05:00+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/?p=87657",
-      "title": "Drones that see, sense and hunt | Business of Defense \u2013 Part 2",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/video/2026/11/09/drones-that-see-sense-and-hunt-business-of-defense-part-2/",
-      "published": "2026-11-09T14:04:00+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/?p=87687",
-      "title": "Swiss neutrality proponents challenge arms firms in vote on easing of exports",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/11/09/swiss-neutrality-proponents-challenge-arms-firms-in-vote-on-easing-of-exports/",
-      "published": "2026-11-09T12:19:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
       "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
       "source": "The Guardian",
@@ -985,28 +1051,6 @@
         "lng": 34.4668
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/film/2026/nov/09/a-fox-under-a-pink-moon-review-iran-refugee",
-      "title": "A Fox Under a Pink Moon review \u2013 Iranian teen refugee paints boldly imaginative self-portrait",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/film/2026/nov/09/a-fox-under-a-pink-moon-review-iran-refugee",
-      "published": "2026-11-09T10:00:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1056,50 +1100,6 @@
         "total": 100,
         "military": 0,
         "civilian": 100
-      }
-    },
-    {
-      "id": "4b6128f0f7f305180df4dbe6f424584d",
-      "title": "\u0641\u062a\u062d \u0627\u0644\u0628\u0644\u0627\u063a\u0627\u062a \u0627\u0644\u062c\u0646\u0627\u0626\u064a\u0629 File Criminal Reports #\u062e\u062f\u0645\u0627\u062a\u064a_\u0631\u0642\u0645\u064a\u0629 #MOI_go_digital #\u062e\u062f\u0645\u0627\u062a_\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 #MOI_Services @uaedgov #\u0641\u062e\u0648\u0631\u064a\u0646_\u0628\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \ud83c\udde6\ud83c\uddea \u0644\u0644\u062f\u062e\u0648\u0644 \u0625\u0644\u0649 \u0627\u0644\u062e\u062f\u0645\u0629 \u0628\u0634\u0643\u0644 \u0645\u0628\u0627\u0634\u0631 \u060c \u064a\u0631\u062c\u0649 \u0627\u0644\u0636\u063a\u0637 \u0639\u0644\u0649 \u0627\u0644\u0631\u0627\u0628\u0637 \u0627\u0644\u062a\u0627\u0644\u064a To access the service directly, please click on the following link",
-      "source": "UAE MOI (RSS.app)",
-      "source_url": "https://x.com/moiuae/status/2119477122221879761",
-      "published": "2026-11-08T17:08:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4b6128f0f7f305180df4dbe6f424584d",
-      "title": "\u0641\u062a\u062d \u0627\u0644\u0628\u0644\u0627\u063a\u0627\u062a \u0627\u0644\u062c\u0646\u0627\u0626\u064a\u0629 File Criminal Reports #\u062e\u062f\u0645\u0627\u062a\u064a_\u0631\u0642\u0645\u064a\u0629 #MOI_go_digital #\u062e\u062f\u0645\u0627\u062a_\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 #MOI_Services @uaedgov #\u0641\u062e\u0648\u0631\u064a\u0646_\u0628\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \ud83c\udde6\ud83c\uddea \u0644\u0644\u062f\u062e\u0648\u0644 \u0625\u0644\u0649 \u0627\u0644\u062e\u062f\u0645\u0629 \u0628\u0634\u0643\u0644 \u0645\u0628\u0627\u0634\u0631 \u060c \u064a\u0631\u062c\u0649 \u0627\u0644\u0636\u063a\u0637 \u0639\u0644\u0649 \u0627\u0644\u0631\u0627\u0628\u0637 \u0627\u0644\u062a\u0627\u0644\u064a To access the service directly, please click on the following link",
-      "source": "IDF (RSS.app)",
-      "source_url": "https://x.com/moiuae/status/2119477122221879761",
-      "published": "2026-11-08T17:08:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
       }
     },
     {
@@ -1188,50 +1188,6 @@
         "total": 33,
         "military": 0,
         "civilian": 33
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cx240e5py64jo#1",
-      "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-07T16:25:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.defensenews.com/news/2026/11/07/european-troops-set-to-train-in-poland-for-postwar-ukraine-deployment/",
-      "title": "European troops set to train in Poland for postwar Ukraine deployment",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/news/2026/11/07/european-troops-set-to-train-in-poland-for-postwar-ukraine-deployment/",
-      "published": "2026-11-07T15:05:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
       }
     }
   ]
