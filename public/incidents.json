@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-11T01:17:54.631075+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-11-11T07:48:16.105240+00:00",
+  "total_incidents": 55,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1794351839",
-      "title": "Iran war live: Hegseth survives impeachment bid; Iran denies US talks",
+      "id": "https://www.aljazeera.com/?t=1794259574",
+      "title": "Is Washington rethinking its relationship with Israel?",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
-      "published": "2026-11-11T00:01:26+00:00",
-      "type": "incident",
+      "source_url": "https://www.aljazeera.com/opinions/2026/11/11/is-washington-rethinking-its-relationship-with-israel?traffic_source=rss",
+      "published": "2026-11-11T07:26:17+00:00",
+      "type": "naval",
       "status": "unconfirmed",
       "location": {
-        "country": "Iran",
+        "country": "Israel",
         "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
+        "lat": 31.0461,
+        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -25,20 +25,64 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1794348665",
-      "title": "Fire contained on platform in Iran\u2019s South Pars gas field",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field?traffic_source=rss",
-      "published": "2026-11-10T23:38:02+00:00",
+      "id": "5b411836e7cf1ad909fa7b5fc22a6136",
+      "title": "#Morocco has unveiled a tourism roadmap to attract 26 million visitors by 2030, while its National Ports Agency & the French Development Agency have signed a joint declaration on EUR 100 million in port financing  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120417544133652979",
+      "published": "2026-11-11T07:25:00+00:00",
       "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "663993eaff59d746ae7dbb3de4fc09c3",
+      "title": "#Kuwait's oil price falls USD 7.38 to USD 81.31 pb -KPC  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120417015844221222",
+      "published": "2026-11-11T07:23:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/11/iran-war-live-shipping-oil-tanker-attack-indians/",
+      "title": "Middle East latest: Four Indian crew members injured in attack on Liberia-flagged oil tanker in Gulf",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/11/iran-war-live-shipping-oil-tanker-attack-indians/",
+      "published": "2026-11-11T06:53:15+00:00",
+      "type": "ground",
       "status": "unconfirmed",
       "location": {
-        "country": "Iran",
+        "country": null,
         "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
+        "lat": 29.0,
+        "lng": 48.0
       },
-      "credibility": 90,
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -47,11 +91,11 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1794353493",
-      "title": "Massive fire as Israeli settlers burn down business near Nablus",
+      "id": "https://www.aljazeera.com/?t=1794319297",
+      "title": "Netanyahu fights to stay relevant as Israel\u2019s opposition closes in",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/massive-fire-as-israeli-settlers-burn-down-business-near-nablus?traffic_source=rss",
-      "published": "2026-11-10T23:33:43+00:00",
+      "source_url": "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss",
+      "published": "2026-11-11T06:23:04+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -69,42 +113,20 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/us/2026/11/10/iran-fairford-plot-charges/",
-      "title": "US charges three men over alleged Iran-backed terror plots, including at RAF Fairford",
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/11/former-iraqi-legislator-found-dead-in-beirut-in-suspected-assassination/",
+      "title": "Former Iraqi legislator found dead in Beirut in suspected assassination",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/11/10/iran-fairford-plot-charges/",
-      "published": "2026-11-10T22:15:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794346299",
-      "title": "UNIFIL patrol comes under fire in southern Lebanon",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon?traffic_source=rss",
-      "published": "2026-11-10T22:03:50+00:00",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/11/former-iraqi-legislator-found-dead-in-beirut-in-suspected-assassination/",
+      "published": "2026-11-11T06:21:38+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Lebanon",
         "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
+        "lat": 33.8938,
+        "lng": 35.5018
       },
-      "credibility": 90,
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -113,33 +135,11 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1794344996",
-      "title": "US poll shows death penalty lost majority support for first time since 1971",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss",
-      "published": "2026-11-10T22:03:20+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/11/10/us-energy-permitting-bill-gains-momentum-but-hurdles-remain/",
-      "title": "US energy permitting bill gains momentum but hurdles remain",
+      "id": "https://www.thenationalnews.com/arts-culture/art-design/2026/11/11/across-the-indian-ocean-art-here-2026-traces-the-ties-that-bind-india-and-the-gulf/",
+      "title": "Across the Indian Ocean: Art Here 2026 traces the ties that bind India and the Gulf",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/11/10/us-energy-permitting-bill-gains-momentum-but-hurdles-remain/",
-      "published": "2026-11-10T21:26:55+00:00",
+      "source_url": "https://www.thenationalnews.com/arts-culture/art-design/2026/11/11/across-the-indian-ocean-art-here-2026-traces-the-ties-that-bind-india-and-the-gulf/",
+      "published": "2026-11-11T05:51:16+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -157,7 +157,227 @@
       }
     },
     {
-      "id": "Defense News--5975616824211891794",
+      "id": "https://www.aljazeera.com/?t=1794369109",
+      "title": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss",
+      "published": "2026-11-11T05:39:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/11/11/uae-ship-attack-israels-new-parliament-and-the-next-us-ambassador-to-the-uae/",
+      "title": "UAE ship attack, Israel\u2019s new parliament and the next US ambassador to the UAE",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/11/11/uae-ship-attack-israels-new-parliament-and-the-next-us-ambassador-to-the-uae/",
+      "published": "2026-11-11T05:34:05+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794367487",
+      "title": "US charges three men for allegedly plotting attack on UK base",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss",
+      "published": "2026-11-11T05:01:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
+      "title": "Thousands without shelter face lethal conditions in storm-hit Gaza as they wait for 150,000 tents",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
+      "published": "2026-11-11T05:00:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/11/fresh-concerns-over-gaza-doctor-held-by-israel",
+      "title": "Fresh concerns raised over Gaza doctor held by Israel for 23 months without charge",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/11/fresh-concerns-over-gaza-doctor-held-by-israel",
+      "published": "2026-11-11T05:00:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/11/11/polands-orlen-becomes-first-buyer-to-cancel-qatarenergy-lng-contract/",
+      "title": "Poland\u2019s Orlen becomes first buyer to cancel QatarEnergy LNG contract",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/11/11/polands-orlen-becomes-first-buyer-to-cancel-qatarenergy-lng-contract/",
+      "published": "2026-11-11T04:59:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 25.3548,
+        "lng": 51.1839
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/11/father-and-son-among-at-least-seven-killed-in-israeli-attacks-on-gaza/",
+      "title": "Father and son among at least seven killed in Israeli attacks on Gaza",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/11/father-and-son-among-at-least-seven-killed-in-israeli-attacks-on-gaza/",
+      "published": "2026-11-11T04:57:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/11/egypts-foreign-minister-says-countrys-military-is-helping-saudi-arabia-defend-sensitive-sites/",
+      "title": "Egyptian Foreign Minister says country's military is helping Saudi Arabia defend 'sensitive' sites",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/11/egypts-foreign-minister-says-countrys-military-is-helping-saudi-arabia-defend-sensitive-sites/",
+      "published": "2026-11-11T04:36:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/arts-culture/film-tv/2026/11/11/switzerland-refused-visas-to-gaza-survivors-now-their-film-is-its-oscar-choice/",
+      "title": "Switzerland refused visas to Gaza survivors. Now their film is its Oscar choice",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/arts-culture/film-tv/2026/11/11/switzerland-refused-visas-to-gaza-survivors-now-their-film-is-its-oscar-choice/",
+      "published": "2026-11-11T03:08:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ce1adfa21abb5ff22b333fcbd65af8c6",
+      "title": "The US House of Representatives on Tuesday rejected a bid to impeach Defense Secretary Pete Hegseth by a vote of 211-204, referring the articles of impeachment to a specialised committee for review, effectively freezing the proceedings.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120326255220293755",
+      "published": "2026-11-11T01:22:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "Defense News--7223568929255584142",
       "title": "US soldier arrested in UK for suspected \u2018espionage\u2019 for Russia",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/global/europe/2026/11/10/us-soldier-arrested-in-uk-for-suspected-espionage-for-russia/",
@@ -238,28 +458,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/economy/2026/11/10/federal-reserve-inflation-interest-rates-december/",
-      "title": "Hot US inflation report seals Federal Reserve rate increase",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/economy/2026/11/10/federal-reserve-inflation-interest-rates-december/",
-      "published": "2026-11-10T20:02:23+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -355,28 +553,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/us/2026/11/10/us-soldier-arrested-britain-spy-russia/",
-      "title": "US soldier arrested in UK as part of espionage allegations investigation",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/11/10/us-soldier-arrested-britain-spy-russia/",
-      "published": "2026-11-10T19:28:17+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/?p=87784",
       "title": "Ukraine urges US to speed up interceptor deliveries as Russia targets power grid",
       "source": "Defense News",
@@ -443,28 +619,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/10/lebanons-long-awaited-second-airport-to-open-on-december-14/",
-      "title": "Lebanon's long-awaited second airport to open on December 14",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/10/lebanons-long-awaited-second-airport-to-open-on-december-14/",
-      "published": "2026-11-10T18:32:33+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "a656c4df23c29a42d195e13a0fb31484",
       "title": "Special Envoy of the Chinese Government on the Middle East Zhai Jun says that his country is ready to work alongside the Sultanate of #Oman to resolve regional crises through diplomatic channels and sound dialogue  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -502,28 +656,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "6931aa2825151de54c9fe088c49918de",
-      "title": "#Qatar affirms its mediation efforts to bridge the gap between the #uS and Iran are ongoing, saying these efforts have gained significant momentum over the past few days and weeks, in coordination with regional and international partners  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2120211831079760085",
-      "published": "2026-11-10T17:47:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -656,28 +788,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "37c3a95d0958eb125e7132a3fa3e5838",
-      "title": "ADNOC Logistics and Services confirms that one of its vessels sustained damage following an attack in the UAE\u2019s territor...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DfkKDYltsNb",
-      "published": "2026-11-10T14:48:28+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -971,50 +1081,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/video/2026/nov/09/displaced-families-suffer-in-gaza-floods-as-70000-tents-wrecked-video",
-      "title": "Displaced families suffer in Gaza floods as 70,000 tents wrecked \u2013 video",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/video/2026/nov/09/displaced-families-suffer-in-gaza-floods-as-70000-tents-wrecked-video",
-      "published": "2026-11-09T18:04:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
-      "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
-      "published": "2026-11-09T17:54:40+00:00",
-      "type": "cyber",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o#0",
       "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
       "source": "BBC Middle East",
@@ -1144,28 +1210,6 @@
         "total": 0,
         "military": 0,
         "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo#1",
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T04:03:12+00:00",
-      "type": "airstrike",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 33,
-        "military": 0,
-        "civilian": 33
       }
     }
   ]
