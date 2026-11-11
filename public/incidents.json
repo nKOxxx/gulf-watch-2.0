@@ -1,35 +1,13 @@
 {
-  "generated_at": "2026-11-10T20:53:52.637652+00:00",
-  "total_incidents": 54,
+  "generated_at": "2026-11-11T01:17:54.631075+00:00",
+  "total_incidents": 53,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1794339418",
-      "title": "US soldier arrested in UK on suspicion of spying for Russia",
+      "id": "https://www.aljazeera.com/?t=1794351839",
+      "title": "Iran war live: Hegseth survives impeachment bid; Iran denies US talks",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
-      "published": "2026-11-10T20:41:53+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794342074",
-      "title": "Iraq blocks Iranian football team\u2019s plane from landing over US sanctions",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions?traffic_source=rss",
-      "published": "2026-11-10T20:23:03+00:00",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
+      "published": "2026-11-11T00:01:26+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -47,11 +25,99 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1794335949",
-      "title": "Salvadoran troops target Haitian gang, leaving 20 dead",
+      "id": "https://www.aljazeera.com/?t=1794348665",
+      "title": "Fire contained on platform in Iran\u2019s South Pars gas field",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss",
-      "published": "2026-11-10T20:22:21+00:00",
+      "source_url": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field?traffic_source=rss",
+      "published": "2026-11-10T23:38:02+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794353493",
+      "title": "Massive fire as Israeli settlers burn down business near Nablus",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/massive-fire-as-israeli-settlers-burn-down-business-near-nablus?traffic_source=rss",
+      "published": "2026-11-10T23:33:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/11/10/iran-fairford-plot-charges/",
+      "title": "US charges three men over alleged Iran-backed terror plots, including at RAF Fairford",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/11/10/iran-fairford-plot-charges/",
+      "published": "2026-11-10T22:15:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794346299",
+      "title": "UNIFIL patrol comes under fire in southern Lebanon",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon?traffic_source=rss",
+      "published": "2026-11-10T22:03:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794344996",
+      "title": "US poll shows death penalty lost majority support for first time since 1971",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss",
+      "published": "2026-11-10T22:03:20+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -63,8 +129,96 @@
       "credibility": 90,
       "is_government": false,
       "casualties": {
-        "total": 20,
-        "military": 20,
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/11/10/us-energy-permitting-bill-gains-momentum-but-hurdles-remain/",
+      "title": "US energy permitting bill gains momentum but hurdles remain",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/11/10/us-energy-permitting-bill-gains-momentum-but-hurdles-remain/",
+      "published": "2026-11-10T21:26:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "Defense News--5975616824211891794",
+      "title": "US soldier arrested in UK for suspected \u2018espionage\u2019 for Russia",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/11/10/us-soldier-arrested-in-uk-for-suspected-espionage-for-russia/",
+      "published": "2026-11-10T21:24:11+00:00",
+      "type": "raid",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "825564f799d63533bcea53cbb18a4b7b",
+      "title": "#Kuwait Oil Tanker Company (KOTC) wins the regional and international Maritime Security and Safety Award, presented by the Maritime Standard (TMS), during its annual ceremony held in the Emirate of Dubai  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120265518770799003",
+      "published": "2026-11-10T21:21:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=100693",
+      "title": "Allen Control Systems launches new division to develop counter-drone lasers",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/allen-control-systems-launches-new-division-to-develop-counter-drone-lasers/",
+      "published": "2026-11-10T20:56:37+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
         "civilian": 0
       }
     },
@@ -84,50 +238,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794339155",
-      "title": "F1 champion Lewis Hamilton visits Gaza border",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
-      "published": "2026-11-10T20:14:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794322281",
-      "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss",
-      "published": "2026-11-10T20:07:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -215,28 +325,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794334885",
-      "title": "Rubio says no need for major combat operations against Iran",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran?traffic_source=rss",
-      "published": "2026-11-10T19:34:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -487,50 +575,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/future/science/2026/11/10/do-glps1s-cause-blindness/",
-      "title": "FDA orders new warning on GLP-1 drugs over potential risk of blindness",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/science/2026/11/10/do-glps1s-cause-blindness/",
-      "published": "2026-11-10T16:59:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/10/f1-legend-lewis-hamilton-sees-aid-parcels-waiting-at-gaza-border/",
-      "title": "F1 legend Lewis Hamilton sees aid parcels waiting at Gaza border",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/10/f1-legend-lewis-hamilton-sees-aid-parcels-waiting-at-gaza-border/",
-      "published": "2026-11-10T16:57:56+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=100574",
       "title": "Why Britain needs a maritime-first defense strategy",
       "source": "Breaking Defense",
@@ -641,28 +685,6 @@
       }
     },
     {
-      "id": "b9de7906139449f108afac895b9de073",
-      "title": "#Kuwait's Minister of Defense takes part in the 23rd session of the Gulf Cooperation Council Joint Defence Council, attended by #GCC defence ministers & GCC Secretary-General Jassem Al-Budaiwi.  #KUNA #KUNA_Video",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2120165109670584546",
-      "published": "2026-11-10T14:42:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=100553",
       "title": "A Pentagon impeachment showdown, plus defense funding in limbo",
       "source": "Breaking Defense",
@@ -700,28 +722,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ee7f21f3d86f96d42c71f4cbb91e2eaf",
-      "title": "Jasem Mohamed Albudaiwi, Secretary-General of the Gulf Cooperation Council (GCC), welcomed the launch of the third round...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DfkAnvCNJqU",
-      "published": "2026-11-10T13:26:03+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -787,28 +787,6 @@
         "lng": 34.8516
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/?p=87752",
-      "title": "France orders military Earth-observation satellites for more than \u20ac1.5 billion",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/europe/2026/11/10/france-orders-military-earth-observation-satellites-for-more-than-e1-5-billion/",
-      "published": "2026-11-10T11:13:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -927,6 +905,28 @@
       }
     },
     {
+      "id": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
+      "title": "Trump says US war in Iran \u2018effectively over\u2019 as he plays down escalation concerns",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
+      "published": "2026-11-09T22:58:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.theguardian.com/world/video/2026/nov/09/four-killed-in-sand-embankment-collapse-in-gaza-video",
       "title": "Four killed in sand embankment collapse in Gaza - video",
       "source": "The Guardian",
@@ -1005,28 +1005,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
-      "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
-      "published": "2026-11-09T10:59:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
       },
       "credibility": 90,
       "is_government": false,
