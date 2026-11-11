@@ -1,14 +1,102 @@
 {
-  "generated_at": "2026-11-11T07:48:16.105240+00:00",
-  "total_incidents": 55,
+  "generated_at": "2026-11-11T16:19:15.208195+00:00",
+  "total_incidents": 50,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1794259574",
-      "title": "Is Washington rethinking its relationship with Israel?",
+      "id": "d7cdd2a9fb495870419d03c81eaffdb2",
+      "title": "#Kuwait's Minister of Defense heads the country's delegation to the 43rd meeting of #GCC interior ministers in #Bahrain, representing the First Deputy Prime Minister & Minister of Interior.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120548526446744002",
+      "published": "2026-11-11T16:05:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 26.0667,
+        "lng": 50.5577
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a50f5ae18d3133d50f16552cb3ab8f55",
+      "title": "Representative of His Highness the Amir, His Highness the Prime Minister, meets with #Lebanon's Prime Minister on the sidelines of the 31st UN Climate Change Conference. They reviwed strategic bilateral relations & ways to boost cooperation between the two nations.  #KUNA_Video #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120548030126411818",
+      "published": "2026-11-11T16:03:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "d963d34e2b446d63eefdfd0de2b7efb0",
+      "title": "Representative of His Highness the Amir, His Highness the Prime Minister, meets with #Lebanon's Prime Minister on the sidelines of the 31st UN Climate Change Conference. They reviwed strategic bilateral relations & ways to boost cooperation between the two nations.  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120547337823023378",
+      "published": "2026-11-11T16:00:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/11/un-aid-chief-criticises-delays-in-gaza-relief-and-rejects-waiting-for-israel-to-form-government/",
+      "title": "UN aid chief criticises delays in Gaza relief and rejects waiting for Israel to form government",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/11/un-aid-chief-criticises-delays-in-gaza-relief-and-rejects-waiting-for-israel-to-form-government/",
+      "published": "2026-11-11T15:50:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794317384",
+      "title": "Israel is \u2018disrupting entire ecosystems\u2019, including Lebanon\u2019s wheat crop",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/opinions/2026/11/11/is-washington-rethinking-its-relationship-with-israel?traffic_source=rss",
-      "published": "2026-11-11T07:26:17+00:00",
-      "type": "naval",
+      "source_url": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss",
+      "published": "2026-11-11T15:48:39+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "Israel",
@@ -25,11 +113,77 @@
       }
     },
     {
-      "id": "5b411836e7cf1ad909fa7b5fc22a6136",
-      "title": "#Morocco has unveiled a tourism roadmap to attract 26 million visitors by 2030, while its National Ports Agency & the French Development Agency have signed a joint declaration on EUR 100 million in port financing  #KUNA #Kuwait",
+      "id": "https://www.aljazeera.com/?t=1794399936",
+      "title": "Can Tehran survive a \u2018zero oil\u2019 budget, if US blockade on Iran persists?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists?traffic_source=rss",
+      "published": "2026-11-11T15:40:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=100791",
+      "title": "Turkey prepares to withdraw from base in Iraq in shift for Ankara-Baghdad relations: Analysts",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/turkey-prepares-to-withdraw-from-base-in-iraq-in-shift-for-ankara-baghdad-relations-analysts/",
+      "published": "2026-11-11T15:39:45+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.3152,
+        "lng": 44.3661
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794403855",
+      "title": "Bessent\u2019s relocation: From US to EU, is Iran bringing war to Western soil?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news-analysis/2026/11/11/bessents-relocation-from-us-to-eu-is-iran-bringing-war-to-western-soil?traffic_source=rss",
+      "published": "2026-11-11T15:33:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "711069c0299fc60935dccb450532b910",
+      "title": "#Kuwait's First Deputy Prime Minister & Minister of Interior chairs a meeting with relevant government entities & representatives of several transport companies to discuss measures to protect roads & state properties from damage caused by overloaded trucks.  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2120417544133652979",
-      "published": "2026-11-11T07:25:00+00:00",
+      "source_url": "https://x.com/kuna_en/status/2120538127404081184",
+      "published": "2026-11-11T15:24:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
@@ -47,21 +201,21 @@
       }
     },
     {
-      "id": "663993eaff59d746ae7dbb3de4fc09c3",
-      "title": "#Kuwait's oil price falls USD 7.38 to USD 81.31 pb -KPC  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2120417015844221222",
-      "published": "2026-11-11T07:23:00+00:00",
+      "id": "https://one.sightlinemg.com/defensenews/news/2026/11/11/inside-warhounds-plan-to-engineer-a-better-military-working-dog/",
+      "title": "Inside Warhound\u2019s plan to engineer a better military working dog",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/11/11/inside-warhounds-plan-to-engineer-a-better-military-working-dog/",
+      "published": "2026-11-11T15:00:00+00:00",
       "type": "incident",
-      "status": "confirmed",
+      "status": "unconfirmed",
       "location": {
-        "country": "Kuwait",
+        "country": null,
         "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
+        "lat": 29.0,
+        "lng": 48.0
       },
-      "credibility": 95,
-      "is_government": true,
+      "credibility": 90,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -69,11 +223,33 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/11/iran-war-live-shipping-oil-tanker-attack-indians/",
-      "title": "Middle East latest: Four Indian crew members injured in attack on Liberia-flagged oil tanker in Gulf",
+      "id": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo#0",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T14:51:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/11/11/ras-al-khaimah-beaches-reopen-after-supertanker-oil-spill/",
+      "title": "Ras Al Khaimah beaches reopen after supertanker oil spill",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/11/iran-war-live-shipping-oil-tanker-attack-indians/",
-      "published": "2026-11-11T06:53:15+00:00",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/11/11/ras-al-khaimah-beaches-reopen-after-supertanker-oil-spill/",
+      "published": "2026-11-11T14:30:11+00:00",
       "type": "ground",
       "status": "unconfirmed",
       "location": {
@@ -91,12 +267,188 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1794319297",
-      "title": "Netanyahu fights to stay relevant as Israel\u2019s opposition closes in",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss",
-      "published": "2026-11-11T06:23:04+00:00",
+      "id": "93a622f4d2dda547c4b2d8ecb69ff326",
+      "title": "His Highness the Deputy Amir & Crown Prince receives the credentials of newly appointed ambassadors to #Kuwait. The ambassadors are Maxwell Nyarko Lartey of #Ghana, Ali bin Ahmad bin Salem Al-Shanfari of #Oman & Osama Abdulsahib Mohsen Al-Nashi of #Iraq.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120523242964164634",
+      "published": "2026-11-11T14:25:00+00:00",
       "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794401331",
+      "title": "Rubio backs blockade, Vance wants deal: Is Trump\u2019s team split on Iran war?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss",
+      "published": "2026-11-11T14:10:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/11/11/new-dubai-student-card-combines-public-transport-discounts-and-international-benefits/",
+      "title": "New Dubai student card combines public transport discounts and international benefits",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/11/11/new-dubai-student-card-combines-public-transport-discounts-and-international-benefits/",
+      "published": "2026-11-11T13:39:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ec09dda2871dc52d1e328f26dba3ab69",
+      "title": "Deepening Security Cooperation: Israel MOD Hosts Senior Delegation from Peru for Israeli Technology Showcase \ud83c\uddf5\ud83c\uddea\ud83c\uddee\ud83c\uddf1 Read More:",
+      "source": "Israel MOD (RSS.app)",
+      "source_url": "https://x.com/Israel_MOD/status/2120490708867961220",
+      "published": "2026-11-11T12:15:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9735f5db24564a926bb6233e18b33f2f",
+      "title": "\u0641\u064a \u0638\u0644 \u0627\u0644\u062d\u0627\u0644\u0629 \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0645\u062a\u0648\u0642\u0639\u0629\u060c \u064a\u064f\u0631\u062c\u0649 \u062a\u0648\u062e\u064a \u0627\u0644\u062d\u064a\u0637\u0629 \u0648\u0627\u0644\u062d\u0630\u0631\u060c \u0648\u0627\u0644\u0627\u0644\u062a\u0632\u0627\u0645 \u0628\u0625\u0631\u0634\u0627\u062f\u0627\u062a \u0627\u0644\u0633\u0644\u0627\u0645\u0629\u060c \u0648\u062e\u0641\u0636 \u0627\u0644\u0633\u0631\u0639\u0627\u062a \u0623\u062b\u0646\u0627\u0621 \u0627\u0644\u0642\u064a\u0627\u062f\u0629\u060c \u0648\u0627\u0644\u0627\u0628\u062a\u0639\u0627\u062f \u0639\u0646 \u0623\u0645\u0627\u0643\u0646 \u062c\u0631\u064a\u0627\u0646 \u0627\u0644\u0623\u0648\u062f\u064a\u0629 \u0648\u062a\u062c\u0645\u0639\u0627\u062a \u0627\u0644\u0645\u064a\u0627\u0647 With unsettled weather expected across the country, please exercise caution, follow safety guidelines, reduce speed while driving, stay away from valley channels and areas where water collects \u0645\u0644\u06a9 \u0645\u06cc\u06ba \u0645\u062a\u0648\u0642\u0639 \u0628\u0627\u0631\u0634\u0648\u06ba\u060c \u062a\u06cc\u0632 \u06c1\u0648\u0627\u0624\u06ba\u060c \u06af\u0631\u062c \u0686\u0645\u06a9 \u0627\u0648\u0631 \u06a9\u0645 \u062d\u062f\u0650 \u0646\u06af\u0627\u06c1 \u06a9\u06d2 \u067e\u06cc\u0634\u0650 \u0646\u0638\u0631\u060c \u0627\u062d\u062a\u06cc\u0627\u0637 \u0628\u0631\u062a\u06cc\u06ba\u060c \u0633\u0691\u06a9\u0648\u06ba \u067e\u0631 \u0631\u0641\u062a\u0627\u0631 \u06a9\u0645 \u0631\u06a9\u06be\u06cc\u06ba\u060c \u0648\u0627\u062f\u06cc\u0648\u06ba \u0627\u0648\u0631 \u067e\u0627\u0646\u06cc \u062c\u0645\u0639 \u06c1\u0648\u0646\u06d2 \u0648\u0627\u0644\u06d2 \u0639\u0644\u0627\u0642\u0648\u06ba \u0633\u06d2 \u062f\u0648\u0631 \u0631\u06c1\u06cc\u06ba\u060c \u0627\u0648\u0631 \u0633\u0645\u0646\u062f\u0631 \u0648 \u0633\u0627\u062d\u0644\u0648\u06ba \u067e\u0631 \u062c\u0627\u0646\u06d2 \u0633\u06d2 \u06af\u0631\u06cc\u0632 \u06a9\u0631\u06cc\u06ba\u06d4 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a #\u0641\u062e\u0648\u0631\u064a\u0646_\u0628\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \ud83c\udde6\ud83c\uddea #\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a_\u0623\u0645\u0646_\u0648\u0623\u0645\u0627\u0646 #MOIUAE",
+      "source": "UAE MOI (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2120477022283846086",
+      "published": "2026-11-11T11:21:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9735f5db24564a926bb6233e18b33f2f",
+      "title": "\u0641\u064a \u0638\u0644 \u0627\u0644\u062d\u0627\u0644\u0629 \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0645\u062a\u0648\u0642\u0639\u0629\u060c \u064a\u064f\u0631\u062c\u0649 \u062a\u0648\u062e\u064a \u0627\u0644\u062d\u064a\u0637\u0629 \u0648\u0627\u0644\u062d\u0630\u0631\u060c \u0648\u0627\u0644\u0627\u0644\u062a\u0632\u0627\u0645 \u0628\u0625\u0631\u0634\u0627\u062f\u0627\u062a \u0627\u0644\u0633\u0644\u0627\u0645\u0629\u060c \u0648\u062e\u0641\u0636 \u0627\u0644\u0633\u0631\u0639\u0627\u062a \u0623\u062b\u0646\u0627\u0621 \u0627\u0644\u0642\u064a\u0627\u062f\u0629\u060c \u0648\u0627\u0644\u0627\u0628\u062a\u0639\u0627\u062f \u0639\u0646 \u0623\u0645\u0627\u0643\u0646 \u062c\u0631\u064a\u0627\u0646 \u0627\u0644\u0623\u0648\u062f\u064a\u0629 \u0648\u062a\u062c\u0645\u0639\u0627\u062a \u0627\u0644\u0645\u064a\u0627\u0647 With unsettled weather expected across the country, please exercise caution, follow safety guidelines, reduce speed while driving, stay away from valley channels and areas where water collects \u0645\u0644\u06a9 \u0645\u06cc\u06ba \u0645\u062a\u0648\u0642\u0639 \u0628\u0627\u0631\u0634\u0648\u06ba\u060c \u062a\u06cc\u0632 \u06c1\u0648\u0627\u0624\u06ba\u060c \u06af\u0631\u062c \u0686\u0645\u06a9 \u0627\u0648\u0631 \u06a9\u0645 \u062d\u062f\u0650 \u0646\u06af\u0627\u06c1 \u06a9\u06d2 \u067e\u06cc\u0634\u0650 \u0646\u0638\u0631\u060c \u0627\u062d\u062a\u06cc\u0627\u0637 \u0628\u0631\u062a\u06cc\u06ba\u060c \u0633\u0691\u06a9\u0648\u06ba \u067e\u0631 \u0631\u0641\u062a\u0627\u0631 \u06a9\u0645 \u0631\u06a9\u06be\u06cc\u06ba\u060c \u0648\u0627\u062f\u06cc\u0648\u06ba \u0627\u0648\u0631 \u067e\u0627\u0646\u06cc \u062c\u0645\u0639 \u06c1\u0648\u0646\u06d2 \u0648\u0627\u0644\u06d2 \u0639\u0644\u0627\u0642\u0648\u06ba \u0633\u06d2 \u062f\u0648\u0631 \u0631\u06c1\u06cc\u06ba\u060c \u0627\u0648\u0631 \u0633\u0645\u0646\u062f\u0631 \u0648 \u0633\u0627\u062d\u0644\u0648\u06ba \u067e\u0631 \u062c\u0627\u0646\u06d2 \u0633\u06d2 \u06af\u0631\u06cc\u0632 \u06a9\u0631\u06cc\u06ba\u06d4 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a #\u0641\u062e\u0648\u0631\u064a\u0646_\u0628\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \ud83c\udde6\ud83c\uddea #\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a_\u0623\u0645\u0646_\u0648\u0623\u0645\u0627\u0646 #MOIUAE",
+      "source": "IDF (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2120477022283846086",
+      "published": "2026-11-11T11:21:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "d0b95343007cde0a6c66ab6525bea061",
+      "title": "The National Emergency Crisis and Disaster Management Authority (NCEMA), in coordination with the Ministry of Health and...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DfmVsI7tB_G",
+      "published": "2026-11-11T11:08:38+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
+      "title": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
+      "published": "2026-11-11T09:11:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=100783",
+      "title": "Israel\u2019s Rafael unveils new, larger cruise missile dubbed Super Ice",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/israels-rafael-unveils-new-larger-cruise-missile-dubbed-super-ice/",
+      "published": "2026-11-11T08:00:00+00:00",
+      "type": "missile",
       "status": "unconfirmed",
       "location": {
         "country": "Israel",
@@ -104,28 +456,6 @@
         "lat": 31.0461,
         "lng": 34.8516
       },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/11/former-iraqi-legislator-found-dead-in-beirut-in-suspected-assassination/",
-      "title": "Former Iraqi legislator found dead in Beirut in suspected assassination",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/11/former-iraqi-legislator-found-dead-in-beirut-in-suspected-assassination/",
-      "published": "2026-11-11T06:21:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8938,
-        "lng": 35.5018
-      },
       "credibility": 85,
       "is_government": false,
       "casualties": {
@@ -135,87 +465,21 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/arts-culture/art-design/2026/11/11/across-the-indian-ocean-art-here-2026-traces-the-ties-that-bind-india-and-the-gulf/",
-      "title": "Across the Indian Ocean: Art Here 2026 traces the ties that bind India and the Gulf",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/arts-culture/art-design/2026/11/11/across-the-indian-ocean-art-here-2026-traces-the-ties-that-bind-india-and-the-gulf/",
-      "published": "2026-11-11T05:51:16+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794369109",
-      "title": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss",
-      "published": "2026-11-11T05:39:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/11/11/uae-ship-attack-israels-new-parliament-and-the-next-us-ambassador-to-the-uae/",
-      "title": "UAE ship attack, Israel\u2019s new parliament and the next US ambassador to the UAE",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/11/11/uae-ship-attack-israels-new-parliament-and-the-next-us-ambassador-to-the-uae/",
-      "published": "2026-11-11T05:34:05+00:00",
+      "id": "e307098b4c586ee90e54c6979f6bc235",
+      "title": ". The Anwar Gargash Diplomatic Academy (AGDA) has expanded its international partnerships, signing three Memoranda of Un...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/Dfl_IowI5ar",
+      "published": "2026-11-11T07:51:43+00:00",
       "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794367487",
-      "title": "US charges three men for allegedly plotting attack on UK base",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss",
-      "published": "2026-11-11T05:01:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
+      "status": "confirmed",
       "location": {
         "country": null,
         "city": null,
         "lat": 29.0,
         "lng": 48.0
       },
-      "credibility": 90,
-      "is_government": false,
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -267,117 +531,7 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/business/energy/2026/11/11/polands-orlen-becomes-first-buyer-to-cancel-qatarenergy-lng-contract/",
-      "title": "Poland\u2019s Orlen becomes first buyer to cancel QatarEnergy LNG contract",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/11/11/polands-orlen-becomes-first-buyer-to-cancel-qatarenergy-lng-contract/",
-      "published": "2026-11-11T04:59:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/11/father-and-son-among-at-least-seven-killed-in-israeli-attacks-on-gaza/",
-      "title": "Father and son among at least seven killed in Israeli attacks on Gaza",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/11/father-and-son-among-at-least-seven-killed-in-israeli-attacks-on-gaza/",
-      "published": "2026-11-11T04:57:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/11/egypts-foreign-minister-says-countrys-military-is-helping-saudi-arabia-defend-sensitive-sites/",
-      "title": "Egyptian Foreign Minister says country's military is helping Saudi Arabia defend 'sensitive' sites",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/11/egypts-foreign-minister-says-countrys-military-is-helping-saudi-arabia-defend-sensitive-sites/",
-      "published": "2026-11-11T04:36:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/arts-culture/film-tv/2026/11/11/switzerland-refused-visas-to-gaza-survivors-now-their-film-is-its-oscar-choice/",
-      "title": "Switzerland refused visas to Gaza survivors. Now their film is its Oscar choice",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/arts-culture/film-tv/2026/11/11/switzerland-refused-visas-to-gaza-survivors-now-their-film-is-its-oscar-choice/",
-      "published": "2026-11-11T03:08:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ce1adfa21abb5ff22b333fcbd65af8c6",
-      "title": "The US House of Representatives on Tuesday rejected a bid to impeach Defense Secretary Pete Hegseth by a vote of 211-204, referring the articles of impeachment to a specialised committee for review, effectively freezing the proceedings.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2120326255220293755",
-      "published": "2026-11-11T01:22:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "Defense News--7223568929255584142",
+      "id": "Defense News-6981664943702717835",
       "title": "US soldier arrested in UK for suspected \u2018espionage\u2019 for Russia",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/global/europe/2026/11/10/us-soldier-arrested-in-uk-for-suspected-espionage-for-russia/",
@@ -392,28 +546,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "825564f799d63533bcea53cbb18a4b7b",
-      "title": "#Kuwait Oil Tanker Company (KOTC) wins the regional and international Maritime Security and Safety Award, presented by the Maritime Standard (TMS), during its annual ceremony held in the Emirate of Dubai  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2120265518770799003",
-      "published": "2026-11-10T21:21:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -436,28 +568,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "7cf6e5c658ad8d4bfbf0807473205942",
-      "title": "#Kuwait's Minister of State for Youth and Sports Affairs Dr. Tariq Al-Jalahma says the Gulf Bank Marathon marks a successful model for a sustainable relationship between the public and private sectors  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2120250208114139408",
-      "published": "2026-11-10T20:20:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -575,72 +685,6 @@
       }
     },
     {
-      "id": "a0e3a139fa5791f41b94dda5542ba516",
-      "title": "Saudi Crown Prince and Prime Minister Prince Mohammad bin Salman discusses withKing of Bahrain Hamad bin Isa Al Khalifa the latest regional developments and efforts to enhance regional security and stability, along with historical relations and bilateral cooperation  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2120226973431521714",
-      "published": "2026-11-10T18:47:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.794,
-        "lng": 34.9896
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a0d38586902fca706db74ae1fab323bd",
-      "title": "Mohammed bin Rashid bin Mohammed attends the closing ceremony of the 15th edition of the Hamdan Bin Mohammed Bin Rashid Al Maktoum International Photography Award at the Museum of the Future in Dubai. The edition was held under the theme \u2018Family\u2019. His Highness honoured Bangladeshi photographer Pinu Rahman, winner of the Grand Prize, and the recipients of the Special Awards. Japanese photographer Kazuyoshi Nomachi received the Appreciation Award, Syrian photographer Dr. Ali Mohamad received the Content Creator Award, and French photographer V\u00e9ronique de Viguerie received the HIPA Photographer of the Year Award.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2120223583314325539",
-      "published": "2026-11-10T18:34:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a656c4df23c29a42d195e13a0fb31484",
-      "title": "Special Envoy of the Chinese Government on the Middle East Zhai Jun says that his country is ready to work alongside the Sultanate of #Oman to resolve regional crises through diplomatic channels and sound dialogue  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2120221701900312825",
-      "published": "2026-11-10T18:27:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 21.4735,
-        "lng": 55.9754
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/news/2026/11/10/first-ever-collaborative-combat-aircraft-fly-in-formation-demonstrate-air-combat-maneuvers/",
       "title": "First-ever Collaborative Combat Aircraft fly in formation, demonstrate air combat maneuvers",
       "source": "Defense News",
@@ -663,28 +707,6 @@
       }
     },
     {
-      "id": "460a278315dadb8d4528354e695f43c9",
-      "title": ". Dr. Anwar Gargash, Diplomatic Adviser to the UAE President, has affirmed that the UAE, under the leadership of Preside...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DfkcixuNdx5",
-      "published": "2026-11-10T17:30:03+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o#0",
       "title": "Israel's new parliament sworn in as leaders compete to form government",
       "source": "BBC Middle East",
@@ -699,28 +721,6 @@
         "lng": 34.8516
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=100574",
-      "title": "Why Britain needs a maritime-first defense strategy",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/11/why-britain-needs-a-maritime-first-defense-strategy/",
-      "published": "2026-11-10T16:14:31+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -787,28 +787,6 @@
         "lng": 34.4668
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=100553",
-      "title": "A Pentagon impeachment showdown, plus defense funding in limbo",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/11/a-pentagon-impeachment-showdown-plus-defense-funding-in-limbo/",
-      "published": "2026-11-10T14:22:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -1059,29 +1037,7 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/nov/09/witnesses-struggle-save-people-buried-gaza-landslide",
-      "title": "Witnesses recount struggle to save people buried in \u2018horrifying\u2019 Gaza landslide",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/09/witnesses-struggle-save-people-buried-gaza-landslide",
-      "published": "2026-11-09T18:27:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o#1",
       "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
@@ -1103,7 +1059,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo#1",
       "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
@@ -1125,7 +1081,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo#1",
       "title": "Seven dead and more than 100 injured after trains collide in Egypt",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
@@ -1144,72 +1100,6 @@
         "total": 100,
         "military": 0,
         "civilian": 100
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo#1",
-      "title": "Iran executes three men for 'armed unrest' after January protests",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-08T13:37:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "47c361283619a195910e432cbd206b3e",
-      "title": "\u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (33) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 @GDM_MOI #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
-      "source": "Saudi MOI (RSS.app)",
-      "source_url": "https://x.com/MOISaudiArabia/status/2119369336855175619",
-      "published": "2026-11-08T10:00:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "520265b73ede6101b7463a2370be4886",
-      "title": "The Islamic Revolution Guards Corps (IRGC) says it is continuously monitoring the activities and launch points of the U.S. Central Command\u2019s Task Force Scorpion Strike, and is ready to respond to any renewed aggression.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2119340109174559119",
-      "published": "2026-11-08T08:03:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
       }
     }
   ]
