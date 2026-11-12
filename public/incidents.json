@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-11-11T22:49:36.980197+00:00",
-  "total_incidents": 62,
+  "generated_at": "2026-11-12T03:54:31.696413+00:00",
+  "total_incidents": 55,
   "incidents": [
+    {
+      "id": "https://www.thenationalnews.com/magazine/2026/11/12/how-abu-dhabis-old-airport-terminal-became-a-destination-for-world-leading-designers/",
+      "title": "How Abu Dhabi's old airport terminal became a destination for world-leading designers",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/magazine/2026/11/12/how-abu-dhabis-old-airport-terminal-became-a-destination-for-world-leading-designers/",
+      "published": "2026-11-12T03:07:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
+      "title": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
+      "published": "2026-11-12T03:00:07+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/opinion/editorial/2026/11/12/uae-war-iran-middle-east/",
+      "title": "The UAE proved it can withstand war. What it does next is just as important",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/opinion/editorial/2026/11/12/uae-war-iran-middle-east/",
+      "published": "2026-11-12T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/11/12/hegseth-tomb-unknown-soldier/",
+      "title": "US soldier appears to admonish Pentagon chief Hegseth's group at Tomb of Unknown Soldier",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/11/12/hegseth-tomb-unknown-soldier/",
+      "published": "2026-11-12T02:59:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c2ab8cc2e4cc5a88ac7aa0be69a6e164",
+      "title": "The Saudi Civil Defense announced that it responded to the fall of shrapnel from two ballistic missiles launched by the Houthi terrorist militia toward the Makkah region before they were intercepted and destroyed.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120699283099865117",
+      "published": "2026-11-12T02:04:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a932e6ef662450248129eb35e3c7d4e7",
+      "title": "The Saudi Civil Defense announced that it had responded to the fall of shrapnel from two ballistic missiles, including debris that landed in Sabuhah village. The missiles had been launched by the Houthi terrorist militia toward the Makkah region before being intercepted and destroyed, the Civil Defense said in a statement.",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120695849474834505",
+      "published": "2026-11-12T01:51:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794446253",
+      "title": "Israel strikes intensive care at Gaza\u2019s Nasser Hospital",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital?traffic_source=rss",
+      "published": "2026-11-12T01:20:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794442919",
+      "title": "Nvidia shares plunge amid reports board to discuss CEO Huang\u2019s future",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
+      "published": "2026-11-12T00:43:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794436317",
+      "title": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier?traffic_source=rss",
+      "published": "2026-11-12T00:42:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "fe7e3b98ed467feed95cff5c6627e36a",
       "title": "The Council of Arab Justice Ministers condemns all forms of aggression, regardless of their type or source, against any Arab country, or any infringement upon its security  #KUNA",
@@ -25,160 +223,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/11/iraqi-pm-orders-inquiry-into-oil-product-smuggling-in-area-controlled-by-iran-backed-militia/",
-      "title": "Iraqi PM orders inquiry into oil product smuggling in area controlled by Iran-backed militia",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/11/iraqi-pm-orders-inquiry-into-oil-product-smuggling-in-area-controlled-by-iran-backed-militia/",
-      "published": "2026-11-11T21:11:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794426080",
-      "title": "Hormuz Strait will \u2018never return\u2019 to pre-war status, Iran\u2019s Ghalibaf says",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
-      "published": "2026-11-11T21:03:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794430780",
-      "title": "Hoax bomb threats target schools across Italy, UK and Ireland",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss",
-      "published": "2026-11-11T21:01:42+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794413501",
-      "title": "Oil production nears pre-Iran war levels, OPEC says",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says?traffic_source=rss",
-      "published": "2026-11-11T20:45:30+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794429675",
-      "title": "Gaza goalkeeper killed in Israeli attack",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/gaza-goalkeeper-killed-in-israeli-attack?traffic_source=rss",
-      "published": "2026-11-11T20:44:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794428872",
-      "title": "Scenes show aftermath of horrific Israeli strike on Gaza tents",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/scenes-show-aftermath-of-horrific-israeli-strike-on-gaza-tents?traffic_source=rss",
-      "published": "2026-11-11T20:33:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794423489",
-      "title": "F1 champion Lewis Hamilton calls on Israel to open Gaza\u2019s Rafah border",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/11/f1-champion-lewis-hamilton-calls-on-israel-to-open-rafah-border?traffic_source=rss",
-      "published": "2026-11-11T20:24:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "dcf3cbfc560abac32403db7874799525",
       "title": "#US Embassy in Kuwait organizes an event highlighting American innovation, space exploration and the development of the commercial space industry, in cooperation with American Business Council Kuwait (ABCK) and Advance Space Civilization Initiative (ASCI)  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -194,28 +238,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/11/eisenkot-says-israel-should-not-return-to-war-for-now/",
-      "title": "Eisenkot says Israel should not return to war for now",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/11/eisenkot-says-israel-should-not-return-to-war-for-now/",
-      "published": "2026-11-11T19:40:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -355,28 +377,6 @@
       }
     },
     {
-      "id": "17df22036136dd40685968ef1c04e795",
-      "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0645\u062d\u0627\u0641\u0638\u0629 \u064a\u0646\u0628\u0639 \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in Yanbu Governorate to alert of a potential danger. Please follow the instructions below:",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2120591036120502324",
-      "published": "2026-11-11T18:54:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/nov/11/trump-planning-military-assault-or-tighter-sanctions-iranian-officials",
       "title": "Trump planning new military assault or tighter sanctions, say Iranian officials",
       "source": "The Guardian",
@@ -392,28 +392,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ecac74528e4d69e15258f4ee7b87e1ef",
-      "title": "French Ambassador in Kuwait Olivier Gauvin confirms historic and strategic relations between the two friendly nations, emphasizing his country's firm commitment to #Kuwait's security, stability, and closer defensive and military cooperation  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2120584641149116905",
-      "published": "2026-11-11T18:29:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -458,72 +436,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/combat-sports/2026/11/11/merab-dvalishvili-left-bloodied-after-attack-by-usman-nurmagomedov-during-hotel-interview-in-abu-dhabi/",
-      "title": "Merab Dvalishvili left bloodied after attack by Usman Nurmagomedov during hotel interview in Abu Dhabi",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/sport/combat-sports/2026/11/11/merab-dvalishvili-left-bloodied-after-attack-by-usman-nurmagomedov-during-hotel-interview-in-abu-dhabi/",
-      "published": "2026-11-11T17:51:21+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/11/kurdish-minister-rebuts-nonsense-claims-over-khor-mor-gasfield-attack/",
-      "title": "Kurdish minister rebuts 'nonsense' claims over Khor Mor gasfield attack",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/11/kurdish-minister-rebuts-nonsense-claims-over-khor-mor-gasfield-attack/",
-      "published": "2026-11-11T17:49:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 26.2172,
-        "lng": 50.1971
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "423de6a9a21fb623ee65bf3757df3aac",
-      "title": "The Saudi-led Coalition to Support Legitimacy in Yemen announces that it had intercepted and destroyed two drones, launched by the Houthi militia towards Makkah and the Southern Region in #Saudi Arabia  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2120571925076361533",
-      "published": "2026-11-11T17:38:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -641,28 +553,6 @@
       }
     },
     {
-      "id": "05a6d4dc14fcece94c068e8295a4411f",
-      "title": "King Hamad bin Isa Al Khalifa of #Bahrain reaffirms the deep-rooted historical and fraternal relations binding Gulf Cooperation Council (GCC) states, stressing the strong ties established by their leaders across all fields  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2120562307583361142",
-      "published": "2026-11-11T17:00:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 32.794,
-        "lng": 34.9896
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo#0",
       "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
       "source": "BBC Middle East",
@@ -700,28 +590,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/11/un-aid-chief-criticises-delays-in-gaza-relief-and-rejects-waiting-for-israel-to-form-government/",
-      "title": "UN aid chief criticises delays in Gaza relief and rejects waiting for Israel to form government",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/11/un-aid-chief-criticises-delays-in-gaza-relief-and-rejects-waiting-for-israel-to-form-government/",
-      "published": "2026-11-11T15:50:24+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -927,7 +795,7 @@
       }
     },
     {
-      "id": "Defense News-2056804591154491191",
+      "id": "Defense News--1441876050651105379",
       "title": "US soldier arrested in UK for suspected \u2018espionage\u2019 for Russia",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/global/europe/2026/11/10/us-soldier-arrested-in-uk-for-suspected-espionage-for-russia/",
@@ -1313,28 +1181,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
-      "title": "Trump says US war in Iran \u2018effectively over\u2019 as he plays down escalation concerns",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
-      "published": "2026-11-09T22:58:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
