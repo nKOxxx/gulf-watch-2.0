@@ -1,22 +1,506 @@
 {
-  "generated_at": "2026-11-12T03:54:31.696413+00:00",
-  "total_incidents": 55,
+  "generated_at": "2026-11-12T12:56:00.965930+00:00",
+  "total_incidents": 58,
   "incidents": [
     {
-      "id": "https://www.thenationalnews.com/magazine/2026/11/12/how-abu-dhabis-old-airport-terminal-became-a-destination-for-world-leading-designers/",
-      "title": "How Abu Dhabi's old airport terminal became a destination for world-leading designers",
+      "id": "https://www.thenationalnews.com/business/property/2026/11/12/emaars-mall-footfall-down-10-per-cent-due-to-iran-war-says-alabbar/",
+      "title": "Emaar\u2019s mall footfall down 10 per cent due to Iran war, says Alabbar",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/magazine/2026/11/12/how-abu-dhabis-old-airport-terminal-became-a-destination-for-world-leading-designers/",
-      "published": "2026-11-12T03:07:00+00:00",
+      "source_url": "https://www.thenationalnews.com/business/property/2026/11/12/emaars-mall-footfall-down-10-per-cent-due-to-iran-war-says-alabbar/",
+      "published": "2026-11-12T12:43:26+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2503758d2e939129daf8fddffccba384",
+      "title": "The Dubai Films and Games Commission will host the first Dubai Playtest Night on Saturday, 14 November, from 2.00 pm to 6.00 pm at the Dubai Media Council\u2019s office. The event will bring together local game developers, studios and players for an interactive showcase of 10 locally developed games, which participants can test before their commercial release. The initiative supports Dubai Media Council\u2019s vision of positioning Dubai as a leading regional hub for the gaming industry. For registration:",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2120860104967041183",
+      "published": "2026-11-12T12:43:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "7e0548bf9bdc2f5822d441126233bf23",
+      "title": "#Kuwait's Army Chief of Staff heads a supreme military committee meeting to discuss coordination and cooperation between military and security agencies, and how to enhance readiness in carrying out joint tasks  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120859993415016620",
+      "published": "2026-11-12T12:43:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/europe/2026/11/12/two-iranians-convicted-of-spying-for-tehran-in-britain/",
+      "title": "Two Iranians convicted of spying for Tehran in Britain",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/europe/2026/11/12/two-iranians-convicted-of-spying-for-tehran-in-britain/",
+      "published": "2026-11-12T12:29:41+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo#0",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12T12:26:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/2026/11/12/fertiglobe-boosts-uae-exports-to-95-of-production-but-logistics-costs-hit-profit/",
+      "title": "Fertiglobe boosts UAE exports to 95% of production but logistics costs hit profit",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/2026/11/12/fertiglobe-boosts-uae-exports-to-95-of-production-but-logistics-costs-hit-profit/",
+      "published": "2026-11-12T12:25:40+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "UAE",
         "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
+        "lat": 23.4241,
+        "lng": 53.8478
       },
       "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
+      "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
+      "published": "2026-11-12T12:19:01+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/markets/2026/11/12/gulf-business-leaders-rally-behind-nvidias-jensen-huang-as-board-weighs-his-future/",
+      "title": "Gulf business leaders rally behind Nvidia's Jensen Huang as board weighs his future",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/markets/2026/11/12/gulf-business-leaders-rally-behind-nvidias-jensen-huang-as-board-weighs-his-future/",
+      "published": "2026-11-12T12:04:30+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/commentisfree/2026/nov/12/gaza-benjamin-netanyahu-israel-opposition-palestinians",
+      "title": "Time for a harsh truth: even with Netanyahu gone, the killing won\u2019t stop in Gaza | Owen Jones",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/commentisfree/2026/nov/12/gaza-benjamin-netanyahu-israel-opposition-palestinians",
+      "published": "2026-11-12T12:00:47+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8c4bb9842e2e2b046830395d028d9c34",
+      "title": "The Dubai Films and Games Commission will host the first Dubai Playtest Night on Saturday, 14 November, from 2.00 pm to 6.00 pm at the Dubai Media Council\u2019s office. The event will bring together local game developers, studios and players for an interactive showcase of 10 locally developed games, which participants can test before their commercial release. The initiative supports Dubai Media Council\u2019s vision of positioning Dubai as a leading regional hub for the gaming industry. For registration:",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2120849312611782927",
+      "published": "2026-11-12T12:00:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e4db53f14382bf6a0dd6d8e62b52863b",
+      "title": "#Kuwait Ambassador to the Czech Republic & Czech Deputy Prime Minister and Minister of Defense discuss bilateral relations & ways to expand cooperation, particularly in military & defense fields  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120844601913192566",
+      "published": "2026-11-12T11:42:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f6ce4103e76d3d102e7d933a34cbb28f",
+      "title": "#Kuwait Red Crescent Society & #Jordan National Red Crescent Society stress boosting humanitarian & relief cooperation and coordination to support Palestinians in Gaza  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120843754684735949",
+      "published": "2026-11-12T11:38:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/12/israels-war-on-lebanon-threatens-climate-goals-minister-says/",
+      "title": "Israel's war on Lebanon threatens climate goals, minister says",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/12/israels-war-on-lebanon-threatens-climate-goals-minister-says/",
+      "published": "2026-11-12T10:46:59+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9c99e9a0b2d7544fba7ad695e67d3617",
+      "title": "Weekly security report #\u0645\u0645\u0644\u0643\u0629_\u0627\u0644\u0628\u062d\u0631\u064a\u0646 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 #\u0627\u0644\u0623\u0645\u0646_\u0641\u064a_\u0623\u0633\u0628\u0648\u0639 #Bahrain #Moi",
+      "source": "Bahrain MOI (RSS.app)",
+      "source_url": "https://www.instagram.com/p/Dfo2ITTAaKj",
+      "published": "2026-11-12T10:31:32+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 26.0667,
+        "lng": 50.5577
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794404285",
+      "title": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news-analysis/2026/11/12/from-the-uk-to-the-gulf-are-us-overseas-bases-becoming-liabilities?traffic_source=rss",
+      "published": "2026-11-12T09:38:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "602e8a32d546feeca74cf8899dafb7c5",
+      "title": "#Kuwait's Foreign Ministry condemns the Houthi militia's continued terrorist attacks on several areas in #Saudi Arabia using ballistic missiles, cruise missiles & drones  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120805774335074575",
+      "published": "2026-11-12T09:07:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0e98e9796be3e87fb54eb0a9da596a8c",
+      "title": "#Kuwait's oil price went up USD 1.06 to USD 82.37 pb -KPC  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120801196977824089",
+      "published": "2026-11-12T08:49:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "6e02219d229f4df84f6ea6a40335a5e1",
+      "title": "#Kuwait's Air Force Commander discusses aspects of joint military cooperation with #Turkyie's Chief of General Staff  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120800852201877741",
+      "published": "2026-11-12T08:48:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f1a21ebea7127637d2370711e37cd968",
+      "title": "Saudi-led coalition intercepts & destroys drone targeting Riyadh  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120800235018416337",
+      "published": "2026-11-12T08:45:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e93fc8c1e08ec854b9c04f0fff53c7cb",
+      "title": "Dubai Chambers signs a cooperation agreement with the University of Toronto to launch a specialised executive education programme for family business leaders in Dubai. The programme, delivered by the university\u2019s Rotman School of Management, aims to empower participants to harness agentic AI to develop their businesses, enhance operational efficiency and competitiveness, and support long-term continuity across generations.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2120788087244833017",
+      "published": "2026-11-12T07:57:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "7b1ac5d533ce33d02b15fe92fa7074b4",
+      "title": "IRGC commander Ahmad Vahidi said the path of Martyr Hassan Tehrani Moghaddam, founder of Iran's missile program, cannot be halted by threats or sanctions.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2120767658152890791",
+      "published": "2026-11-12T06:36:00+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "1015469d6bfe30975a3658b07368ec30",
+      "title": "US Secretary of State and National Security Advisor Marco Rubio spoke with Director of the Office of the Chinese Communist Party Central Foreign Affairs Commission, Politburo Member, and Foreign Minister Wang Yi and discussed strategic stability and bilateral relations.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2120728397881946600",
+      "published": "2026-11-12T04:00:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/news/2026/11/11/guard-appears-to-rebuke-hegseths-delegation-at-tomb-of-the-unknown-soldier/",
+      "title": "Guard appears to rebuke Hegseth\u2019s delegation at Tomb of the Unknown Soldier",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/11/11/guard-appears-to-rebuke-hegseths-delegation-at-tomb-of-the-unknown-soldier/",
+      "published": "2026-11-12T03:32:11+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -40,204 +524,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/opinion/editorial/2026/11/12/uae-war-iran-middle-east/",
-      "title": "The UAE proved it can withstand war. What it does next is just as important",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/opinion/editorial/2026/11/12/uae-war-iran-middle-east/",
-      "published": "2026-11-12T03:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/11/12/hegseth-tomb-unknown-soldier/",
-      "title": "US soldier appears to admonish Pentagon chief Hegseth's group at Tomb of Unknown Soldier",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/11/12/hegseth-tomb-unknown-soldier/",
-      "published": "2026-11-12T02:59:04+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "c2ab8cc2e4cc5a88ac7aa0be69a6e164",
-      "title": "The Saudi Civil Defense announced that it responded to the fall of shrapnel from two ballistic missiles launched by the Houthi terrorist militia toward the Makkah region before they were intercepted and destroyed.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2120699283099865117",
-      "published": "2026-11-12T02:04:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a932e6ef662450248129eb35e3c7d4e7",
-      "title": "The Saudi Civil Defense announced that it had responded to the fall of shrapnel from two ballistic missiles, including debris that landed in Sabuhah village. The missiles had been launched by the Houthi terrorist militia toward the Makkah region before being intercepted and destroyed, the Civil Defense said in a statement.",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2120695849474834505",
-      "published": "2026-11-12T01:51:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794446253",
-      "title": "Israel strikes intensive care at Gaza\u2019s Nasser Hospital",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital?traffic_source=rss",
-      "published": "2026-11-12T01:20:55+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794442919",
-      "title": "Nvidia shares plunge amid reports board to discuss CEO Huang\u2019s future",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
-      "published": "2026-11-12T00:43:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794436317",
-      "title": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier?traffic_source=rss",
-      "published": "2026-11-12T00:42:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "fe7e3b98ed467feed95cff5c6627e36a",
-      "title": "The Council of Arab Justice Ministers condemns all forms of aggression, regardless of their type or source, against any Arab country, or any infringement upon its security  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2120638202553782363",
-      "published": "2026-11-11T22:02:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "dcf3cbfc560abac32403db7874799525",
-      "title": "#US Embassy in Kuwait organizes an event highlighting American innovation, space exploration and the development of the commercial space industry, in cooperation with American Business Council Kuwait (ABCK) and Advance Space Civilization Initiative (ASCI)  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2120608440888250476",
-      "published": "2026-11-11T20:03:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -282,94 +568,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "cbc7749eaacc8f7417f3df266341d220",
-      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u062d\u0627\u0641\u0638\u0629 \u062e\u0645\u064a\u0633 \u0645\u0634\u064a\u0637\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (998). Alert: The danger has passed in Khamis Mushait Governorate. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2120593763424759984",
-      "published": "2026-11-11T19:05:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "009edfbc6f5f0d4deb5dc811b73ec5f7",
-      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u062d\u0627\u0641\u0638\u0629 \u064a\u0646\u0628\u0639\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (911). Alert: The danger has passed in Yanbu Governorate. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2120593587477897438",
-      "published": "2026-11-11T19:04:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "39aedc6a3e670bd995a8d1c3695cf889",
-      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0637\u0627\u0626\u0641\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (911). Alert: The danger has passed in Taif Governorate. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2120593392816046549",
-      "published": "2026-11-11T19:03:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e0ca2238335e9f5e99a69056b286f612",
-      "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0645\u062d\u0627\u0641\u0638\u0629 \u062e\u0645\u064a\u0633 \u0645\u0634\u064a\u0637 \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in Khamis Mushait Governorate to alert of a potential danger. Please follow the instructions below:",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2120591173903413628",
-      "published": "2026-11-11T18:55:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -751,8 +949,30 @@
       }
     },
     {
+      "id": "828fb2a0b842f8dd0b7cec4fbd5bc39d",
+      "title": "RT by @NCEMAUAE: The National Emergency Crisis and Disaster Management Authority (NCEMA), in coordination with the Ministry of Health and Prevention (MoHAP) and the Federal Authority for Identity, Citizenship, Customs and Port Security (ICP), has announced the easing of precautionary entry measures for nationals of the Republic of Uganda. The measures were introduced in June 2026 in response to developments related to the Ebola virus. The authorities reaffirmed that these measures reflect the UAE\u2019s commitment to protecting public health, strengthening preparedness, and responding to health risks, while continuing to monitor the epidemiological situation and update precautionary measures in l",
+      "source": "UAE NCEMA (RSS.app)",
+      "source_url": "https://x.com/mohapuae/status/2120430057340420342",
+      "published": "2026-11-11T08:14:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
       "id": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
-      "title": "Thousands without shelter face lethal conditions in storm-hit Gaza as they wait for 150,000 tents",
+      "title": "\u2018The cold is lethal\u2019: storms leave thousands in Gaza without shelter",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
       "published": "2026-11-11T05:00:32+00:00",
@@ -795,7 +1015,7 @@
       }
     },
     {
-      "id": "Defense News--1441876050651105379",
+      "id": "Defense News--5296078735221088237",
       "title": "US soldier arrested in UK for suspected \u2018espionage\u2019 for Russia",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/global/europe/2026/11/10/us-soldier-arrested-in-uk-for-suspected-espionage-for-russia/",
@@ -949,28 +1169,6 @@
       }
     },
     {
-      "id": "https://one.sightlinemg.com/defensenews/?p=87737",
-      "title": "Report: Russian ships are pumping tanks, MRAPs and rocket launchers into Africa",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/mideast-africa/2026/11/10/report-russian-ships-are-pumping-tanks-mraps-and-rocket-launchers-into-africa/",
-      "published": "2026-11-10T15:24:07+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o#0",
       "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
       "source": "BBC Middle East",
@@ -993,7 +1191,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo#0",
+      "id": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo#1",
       "title": "Iran rejects French claims it was behind supermarket fridge hacking",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
@@ -1008,50 +1206,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "74d5692315c8cd6f72de0c391d68408f",
-      "title": "\u0627\u0646\u0637\u0644\u0642\u062a \u0645\u0646\u0627\u0641\u0633\u0627\u062a \u0627\u0644\u0646\u0633\u062e\u0629 \u0627\u0644\u0639\u0627\u0634\u0631\u0629 \u0645\u0646 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0634\u0631\u0637\u0629 \u0644\u0644\u0641\u0631\u0642 \u0627\u0644\u062a\u062e\u0635\u0635\u064a\u0629\u060c \u0627\u0644\u062a\u064a \u064a\u0646\u0638\u0645\u0647\u0627 \u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a \u0648\u062a\u0633\u062a\u0636\u064a\u0641\u0647\u0627 \u0627\u0644\u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0634\u0631\u0637\u0629 \u062f\u0628\u064a\u060c \u0641\u064a \u0645\u064a\u062f\u0627\u0646 \u0627\u0644\u0631\u0645\u0627\u064a\u0629 \u0628\u0627\u0644\u0631\u0648\u064a\u0629 \u0641\u064a \u062f\u0628\u064a\u060c \u0628\u0645\u0634\u0627\u0631\u0643\u0629 144 \u0644\u0627\u0639\u0628\u0627\u064b \u064a\u0645\u062b\u0644\u0648\u0646 18 \u0641\u0631\u064a\u0642\u0627\u064b \u0645\u0646 \u0645\u062e\u062a\u0644\u0641 \u0627\u0644\u0642\u064a\u0627\u062f\u0627\u062a \u0648\u0627\u0644\u062c\u0647\u0627\u062a \u0627\u0644\u0634\u0631\u0637\u064a\u0629 \u0648\u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0639\u0644\u0649 \u0645\u0633\u062a\u0648\u0649 \u0627\u0644\u062f\u0648\u0644\u0629\u060c \u0628\u062d\u0636\u0648\u0631 \u0627\u0644\u0639\u0645\u064a\u062f \u0627\u0644\u062f\u0643\u062a\u0648\u0631 \u0639\u0645\u0631 \u0645\u062d\u0645\u062f \u0627\u0644\u062e\u064a\u0627\u0644 \u0645\u062f\u064a\u0631 \u0625\u062f\u0627\u0631\u0629 \u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a \u0631\u0626\u064a\u0633 \u0627\u0644\u0644\u062c\u0646\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629 \u0628\u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629\u060c \u0648\u0639\u062f\u062f \u0645\u0646 \u0627\u0644\u0636\u0628\u0627\u0637\u060c \u0648\u064a\u062a\u0646\u0627\u0641\u0633 \u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0648\u0646 \u0636\u0645\u0646 5 \u0645\u0633\u0627\u0628\u0642\u0627\u062a \u062a\u062e\u0635\u0635\u064a\u0629 \u062a\u0634\u0645\u0644 \u0627\u0644\u0647\u062c\u0648\u0645\u060c \u0648\u0625\u0646\u0642\u0627\u0630 \u0631\u0647\u064a\u0646\u0629\u060c \u0648\u0625\u0646\u0642\u0627\u0630 \u0636\u0627\u0628\u0637\u060c \u0648\u0627\u0644\u0628\u0631\u062c\u060c \u0648\u0627\u0644\u0645\u0648\u0627\u0646\u0639 The 10th edition of the Police Specialized Teams Championship, organized by the Police Sports Association and hosted by Dubai Police General HQs, has kicked off at Al Ruwayyah Shooting Range in Dubai. The championship br",
-      "source": "UAE MOI (RSS.app)",
-      "source_url": "https://x.com/moiuae/status/2120135898591568273",
-      "published": "2026-11-10T12:46:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "74d5692315c8cd6f72de0c391d68408f",
-      "title": "\u0627\u0646\u0637\u0644\u0642\u062a \u0645\u0646\u0627\u0641\u0633\u0627\u062a \u0627\u0644\u0646\u0633\u062e\u0629 \u0627\u0644\u0639\u0627\u0634\u0631\u0629 \u0645\u0646 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0634\u0631\u0637\u0629 \u0644\u0644\u0641\u0631\u0642 \u0627\u0644\u062a\u062e\u0635\u0635\u064a\u0629\u060c \u0627\u0644\u062a\u064a \u064a\u0646\u0638\u0645\u0647\u0627 \u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a \u0648\u062a\u0633\u062a\u0636\u064a\u0641\u0647\u0627 \u0627\u0644\u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0634\u0631\u0637\u0629 \u062f\u0628\u064a\u060c \u0641\u064a \u0645\u064a\u062f\u0627\u0646 \u0627\u0644\u0631\u0645\u0627\u064a\u0629 \u0628\u0627\u0644\u0631\u0648\u064a\u0629 \u0641\u064a \u062f\u0628\u064a\u060c \u0628\u0645\u0634\u0627\u0631\u0643\u0629 144 \u0644\u0627\u0639\u0628\u0627\u064b \u064a\u0645\u062b\u0644\u0648\u0646 18 \u0641\u0631\u064a\u0642\u0627\u064b \u0645\u0646 \u0645\u062e\u062a\u0644\u0641 \u0627\u0644\u0642\u064a\u0627\u062f\u0627\u062a \u0648\u0627\u0644\u062c\u0647\u0627\u062a \u0627\u0644\u0634\u0631\u0637\u064a\u0629 \u0648\u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0639\u0644\u0649 \u0645\u0633\u062a\u0648\u0649 \u0627\u0644\u062f\u0648\u0644\u0629\u060c \u0628\u062d\u0636\u0648\u0631 \u0627\u0644\u0639\u0645\u064a\u062f \u0627\u0644\u062f\u0643\u062a\u0648\u0631 \u0639\u0645\u0631 \u0645\u062d\u0645\u062f \u0627\u0644\u062e\u064a\u0627\u0644 \u0645\u062f\u064a\u0631 \u0625\u062f\u0627\u0631\u0629 \u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a \u0631\u0626\u064a\u0633 \u0627\u0644\u0644\u062c\u0646\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629 \u0628\u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629\u060c \u0648\u0639\u062f\u062f \u0645\u0646 \u0627\u0644\u0636\u0628\u0627\u0637\u060c \u0648\u064a\u062a\u0646\u0627\u0641\u0633 \u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0648\u0646 \u0636\u0645\u0646 5 \u0645\u0633\u0627\u0628\u0642\u0627\u062a \u062a\u062e\u0635\u0635\u064a\u0629 \u062a\u0634\u0645\u0644 \u0627\u0644\u0647\u062c\u0648\u0645\u060c \u0648\u0625\u0646\u0642\u0627\u0630 \u0631\u0647\u064a\u0646\u0629\u060c \u0648\u0625\u0646\u0642\u0627\u0630 \u0636\u0627\u0628\u0637\u060c \u0648\u0627\u0644\u0628\u0631\u062c\u060c \u0648\u0627\u0644\u0645\u0648\u0627\u0646\u0639 The 10th edition of the Police Specialized Teams Championship, organized by the Police Sports Association and hosted by Dubai Police General HQs, has kicked off at Al Ruwayyah Shooting Range in Dubai. The championship br",
-      "source": "IDF (RSS.app)",
-      "source_url": "https://x.com/moiuae/status/2120135898591568273",
-      "published": "2026-11-10T12:46:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1118,94 +1272,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "7e27e3dcdae78f1ae155dd97bb821170",
-      "title": "RT by @moiuae: As part of the Annual Government Meetings, I attended the session titled \u2018Emerging Stronger\u2019 alongside my brother Mohammed bin Rashid, where we discussed the enduring unity, strength, and resolve of our nation and people in addressing recent challenges. Every individual has an important role in contributing to our collective advancement. The UAE will continue its journey of progress with determination and readiness, guided by a steadfast commitment to preparing for the changes and challenges of the future. The resilience of the UAE lies in our shared values, and our nation\u2019s security and stability will forever remain at the heart of our priorities.",
-      "source": "UAE MOI (RSS.app)",
-      "source_url": "https://x.com/MohamedBinZayed/status/2120068246657503739",
-      "published": "2026-11-10T08:17:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "7e27e3dcdae78f1ae155dd97bb821170",
-      "title": "RT by @moiuae: As part of the Annual Government Meetings, I attended the session titled \u2018Emerging Stronger\u2019 alongside my brother Mohammed bin Rashid, where we discussed the enduring unity, strength, and resolve of our nation and people in addressing recent challenges. Every individual has an important role in contributing to our collective advancement. The UAE will continue its journey of progress with determination and readiness, guided by a steadfast commitment to preparing for the changes and challenges of the future. The resilience of the UAE lies in our shared values, and our nation\u2019s security and stability will forever remain at the heart of our priorities.",
-      "source": "IDF (RSS.app)",
-      "source_url": "https://x.com/MohamedBinZayed/status/2120068246657503739",
-      "published": "2026-11-10T08:17:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm",
-      "title": "New Knesset speaker could be key to ousting Netanyahu as Israel\u2019s PM",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/10/new-knesset-speaker-ousting-netanyahu-israel-pm",
-      "published": "2026-11-10T06:00:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o#1",
-      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09T10:41:57+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 95,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
