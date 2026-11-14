@@ -1,13 +1,101 @@
 {
-  "generated_at": "2026-11-14T19:15:29.147646+00:00",
-  "total_incidents": 45,
+  "generated_at": "2026-11-14T23:06:01.692121+00:00",
+  "total_incidents": 44,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1794680833",
-      "title": "US blames outdated technology for nationwide flight disruption",
+      "id": "https://www.aljazeera.com/?t=1794693156",
+      "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss",
-      "published": "2026-11-14T18:32:40+00:00",
+      "source_url": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
+      "published": "2026-11-14T22:00:45+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "94d45e5dd1921a6e8aeb9c80e069dbb5",
+      "title": "Minister of State for Youth and Sports Affairs Dr. Tareq Al-Jalahma honored the winners of the #Kuwait Artificial Intelligence Hackathon, held as part of the Kuwait Youth and Sports Season, with the participation of more than 500 young men and women #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2121721608360308880",
+      "published": "2026-11-14T21:47:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794691953",
+      "title": "US flights resume after ageing technology blamed for outage",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss",
+      "published": "2026-11-14T21:36:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794684626",
+      "title": "Deadly car bomb blast kills two near Syria\u2019s capital",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
+      "published": "2026-11-14T19:46:36+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794680798",
+      "title": "Tens of thousands march in latest Portugal housing protests",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/14/tens-of-thousands-march-in-latest-portugal-housing-protests?traffic_source=rss",
+      "published": "2026-11-14T19:27:55+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -47,28 +135,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1794579413",
-      "title": "Portugal vs Denmark LIVE: UEFA Nations League",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss",
-      "published": "2026-11-14T16:45:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "56a7d472d14d8f7ff9c24285cac938ab",
       "title": "The Kuwaiti Army concludes the exercise (Kazma-12) under the patronage and in the presence of Minister of Defense Sheikh Abdullah Ali Abdullah Al-Salem Al-Sabah  #KUNA #KUWAIT",
       "source": "KUNA Kuwait (RSS.app)",
@@ -84,72 +150,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794672661",
-      "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
-      "published": "2026-11-14T16:13:43+00:00",
-      "type": "airstrike",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794666302",
-      "title": "EU calls for immediate humanitarian access to Gaza",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
-      "published": "2026-11-14T15:57:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794670471",
-      "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American\u2019s home",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
-      "published": "2026-11-14T15:36:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.7683,
-        "lng": 35.2137
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -191,28 +191,6 @@
         "city": null,
         "lat": 31.0461,
         "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "58df5d495654ed22e20b2f7512b65939",
-      "title": "#Kuwait's Junior Padel Team secures second place in the Asian Junior Padel Championship, held in the Indonesian capital, Jakarta, following a 1-2 loss to Iran in the final match  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2121603180693696587",
-      "published": "2026-11-14T13:56:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 95,
       "is_government": true,
