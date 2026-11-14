@@ -1,7 +1,337 @@
 {
-  "generated_at": "2026-11-14T06:43:21.606262+00:00",
-  "total_incidents": 59,
+  "generated_at": "2026-11-14T14:18:00.051292+00:00",
+  "total_incidents": 52,
   "incidents": [
+    {
+      "id": "e5107b927ded237524416085f443fba7",
+      "title": "Foreign ministers of #Kuwait, #Jordan, the #UAE, #Indonesia, #Pakistan, #Turkiye, #Algeria, #Djibouti, #Saudi Arabia, #Sudan, #Somalia, #Oman, #Palestine, #Qatar, #Lebanon, #Libya, #Egypt and #Mauritania bitingly condemn an Israeli occupation airstrike on a Palestinian medical center  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2121604235473158278",
+      "published": "2026-11-14T14:00:00+00:00",
+      "type": "airstrike",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "58df5d495654ed22e20b2f7512b65939",
+      "title": "#Kuwait's Junior Padel Team secures second place in the Asian Junior Padel Championship, held in the Indonesian capital, Jakarta, following a 1-2 loss to Iran in the final match  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2121603180693696587",
+      "published": "2026-11-14T13:56:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794658278",
+      "title": "How does Iran view shift in US approach after JD Vance ordered away?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
+      "published": "2026-11-14T13:24:44+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a6a62239795d20b1d1ee0a48e4b2a44d",
+      "title": "#Kuwait's Junior Padel Team secures second place in the Asian Junior Padel Championship, held in the Indonesian capital, Jakarta, following a 1-2 loss to Iran in the final match  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2121594315604398490",
+      "published": "2026-11-14T13:21:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/11/14/uae-condemns-israeli-air-strikes-on-nasser-medical-complex-in-gaza/",
+      "title": "UAE condemns Israeli air strikes on Nasser Medical Complex in Gaza",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/11/14/uae-condemns-israeli-air-strikes-on-nasser-medical-complex-in-gaza/",
+      "published": "2026-11-14T13:17:31+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3eb06c4c19caa9bb0273aa9f43f9941c",
+      "title": ". The United Arab Emirates has strongly condemned and denounced the Israeli airstrikes on Nasser Medical Complex in the ...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DfuQWubtTb8",
+      "published": "2026-11-14T12:55:57+00:00",
+      "type": "airstrike",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794660705",
+      "title": "Green turtles move from \u2018endangered\u2019 to \u2018least concern\u2019 status",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/green-turtles-move-from-endangered-to-least-concern-status?traffic_source=rss",
+      "published": "2026-11-14T12:53:18+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794658441",
+      "title": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/ethiopia-blames-egypt-eritrea-for-tigray-attacks?traffic_source=rss",
+      "published": "2026-11-14T12:28:19+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.8206,
+        "lng": 30.8025
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794650626",
+      "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+      "published": "2026-11-14T11:43:06+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/11/14/dubai-private-schools-to-report-pupils-who-miss-five-consecutive-days-without-explanation/",
+      "title": "Dubai private schools to report pupils who miss five consecutive days without explanation",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/11/14/dubai-private-schools-to-report-pupils-who-miss-five-consecutive-days-without-explanation/",
+      "published": "2026-11-14T11:38:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
+      "title": "Eisenkot condemns Netanyahu\u2019s \u2018racist\u2019 campaign against Israel\u2019s Arab citizens",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
+      "published": "2026-11-14T11:11:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3c9ecd0f50fb1e9bb3287a37b43b8926",
+      "title": "Kuwaiti charitable organizations continued their humanitarian initiatives across several countries this week, providing food aid, healthcare, education, clean water, orphan care and winter relief under the \"Kuwait Stands by You\" campaign. (News Report)  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2121560404530754008",
+      "published": "2026-11-14T11:06:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "edfa6c79346963b0071a53268f0bcbdf",
+      "title": "The Philippines urges ASEAN member states to sustain joint efforts to promote regional peace & security ahead of the 49th ASEAN Summit.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2121539051899568575",
+      "published": "2026-11-14T09:41:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "37fc8c7f483d460f9c3130833e8de07b",
+      "title": "\u0648\u0641\u062f \u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0628\u062d\u0631\u064a\u0646 \u0627\u0644\u0634\u0642\u064a\u0642\u0629 \u064a\u0637\u0644\u0639 \u0639\u0644\u0649 \u0623\u0641\u0636\u0644 \u0627\u0644\u0645\u0645\u0627\u0631\u0633\u0627\u062a \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0628\u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0627\u0644\u062a\u0641\u0627\u0635\u064a\u0644  Bahraini Delegation Visits MOI to Explore Best Security Practices",
+      "source": "UAE MOI (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2121519194554708136",
+      "published": "2026-11-14T08:22:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 26.0667,
+        "lng": 50.5577
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "37fc8c7f483d460f9c3130833e8de07b",
+      "title": "\u0648\u0641\u062f \u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0628\u062d\u0631\u064a\u0646 \u0627\u0644\u0634\u0642\u064a\u0642\u0629 \u064a\u0637\u0644\u0639 \u0639\u0644\u0649 \u0623\u0641\u0636\u0644 \u0627\u0644\u0645\u0645\u0627\u0631\u0633\u0627\u062a \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0628\u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0627\u0644\u062a\u0641\u0627\u0635\u064a\u0644  Bahraini Delegation Visits MOI to Explore Best Security Practices",
+      "source": "IDF (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2121519194554708136",
+      "published": "2026-11-14T08:22:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 26.0667,
+        "lng": 50.5577
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "b27fd846180fc69b017f70a1f1a1bc46",
       "title": "KPC: Kuwait oil price gains USD 1.85 to reach USD 85.29 per barrel.  #KUNA",
@@ -25,50 +355,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1794581815",
-      "title": "Siege fuels disease fears in Yemen\u2019s Taiz",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/14/siege-fuels-disease-fears-in-yemens-besieged-taiz?traffic_source=rss",
-      "published": "2026-11-14T06:17:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 38.0962,
-        "lng": 46.2738
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794573310",
-      "title": "Could one daily pill narrow the diabetes treatment gap in the Global South?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/14/could-one-daily-pill-narrow-the-diabetes-treatment-gap-in-the-global-south?traffic_source=rss",
-      "published": "2026-11-14T06:14:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/nov/14/drones-redefining-warfare-sudan-massacring-civilians",
       "title": "Terror from the skies: drones are redefining warfare in Sudan, and massacring its civilians",
       "source": "The Guardian",
@@ -83,116 +369,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/14/iran-war-live-irgc-strait-of-hormuz/",
-      "title": "Middle East latest: IRGC says two oil tankers caught fire after hitting sea mines in Hormuz",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/14/iran-war-live-irgc-strait-of-hormuz/",
-      "published": "2026-11-14T04:42:53+00:00",
-      "type": "ground",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794628704",
-      "title": "Iranian shopkeeper goes viral for Netanyahu resemblance",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/iranian-shopkeeper-goes-viral-for-netanyahu-resemblance?traffic_source=rss",
-      "published": "2026-11-14T04:29:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/11/14/is-your-child-being-bullied-at-school-warning-signs-uae-parents-should-look-out-for/",
-      "title": "Is your child being bullied at school? Warning signs UAE parents should look out for",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/11/14/is-your-child-being-bullied-at-school-warning-signs-uae-parents-should-look-out-for/",
-      "published": "2026-11-14T04:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/14/from-civil-war-to-political-deadlock-the-deep-roots-of-iraqi-kurdistans-kdp-puk-rift/",
-      "title": "From civil war to political deadlock: the deep roots of Iraqi Kurdistan's KDP-PUK rift",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/14/from-civil-war-to-political-deadlock-the-deep-roots-of-iraqi-kurdistans-kdp-puk-rift/",
-      "published": "2026-11-14T03:30:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/arts-culture/art-design/2026/11/14/at-art-mumbai-uae-galleries-reflect-on-historic-and-contemporary-ties-between-india-and-the-gulf/",
-      "title": "At Art Mumbai, UAE galleries reflect on historic and contemporary ties between India and the Gulf",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/arts-culture/art-design/2026/11/14/at-art-mumbai-uae-galleries-reflect-on-historic-and-contemporary-ties-between-india-and-the-gulf/",
-      "published": "2026-11-14T03:12:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -245,28 +421,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
-      "title": "Eisenkot accuses Netanyahu of \u2018racist\u2019 campaign against Israel\u2019s Arab minority",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
-      "published": "2026-11-13T22:36:38+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "d99150833314b815170e55d8b1a262fe",
       "title": "#US Federal Aviation Administration issues a nationwide ground stop for all US airports following a communication issue impacting all Air Route Traffic Control Centers as FAA technicians are investigating the issue  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -279,72 +433,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/11/13/gcc-iran-compensation-attacks/",
-      "title": "GCC demands Iran pay full compensation for attacks on Gulf states",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/11/13/gcc-iran-compensation-attacks/",
-      "published": "2026-11-13T22:15:15+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/11/13/new-orleans-rescue-operations-underway-after-tanker-strikes-docked-cruise-ship/",
-      "title": "Passengers and crew safe after tanker strikes docked cruise ship in New Orleans",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/11/13/new-orleans-rescue-operations-underway-after-tanker-strikes-docked-cruise-ship/",
-      "published": "2026-11-13T21:58:44+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e3a5674022d89e7048b9f05e1445f0f0",
-      "title": "Intelligence chiefs of #Egypt, #Turkiye and #Qatar calls for an immediate cessation of ongoing Israeli occupation violations in the #Gaza Strip  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2121351464211632378",
-      "published": "2026-11-13T21:16:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
       },
       "credibility": 95,
       "is_government": true,
@@ -370,28 +458,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3c483f28ab10afb5efbcfea32e7aac14",
-      "title": "#Egypt's Foreign Minister Dr. Badr Abdelatty reiterates his country's unwavering support for #Syria's unity, sovereignty and territorial integrity  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2121318751949787245",
-      "published": "2026-11-13T19:06:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -436,28 +502,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5f731ec7e0a28a3f73e3e699d305f174",
-      "title": "#Turkiye & #Qatar sign five agreements , including a mutual defense pact, during the 12th meeting of the Turkiye-Qatar High Strategic Committee in Istanbul  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2121304641539338646",
-      "published": "2026-11-13T18:10:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -597,50 +641,6 @@
       }
     },
     {
-      "id": "6f394ce347e05c6dc8c5a2ae8c814695",
-      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u0646\u0637\u0642\u0629 \u062c\u0627\u0632\u0627\u0646\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (998). Alert: The danger has passed in Jazan Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2121253274321875078",
-      "published": "2026-11-13T14:46:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3f00cd3249a5386972fe6c1b76cf6007",
-      "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0645\u0646\u0637\u0642\u0629 \u062c\u0627\u0632\u0627\u0646 \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in Jazan Province to alert of a potential danger. Please follow the instructions below:",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2121251867078668359",
-      "published": "2026-11-13T14:40:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=101015",
       "title": "UK to buy three new mine-hunting drone motherships under Norway agreement",
       "source": "Breaking Defense",
@@ -729,50 +729,6 @@
       }
     },
     {
-      "id": "1b29503b4b2862d95c6f224670d23476",
-      "title": "The Dubai Electronic Security Center signs an agreement with the International Telecommunication Union to strengthen digital resilience by developing large-scale digital crisis scenarios and practical solutions that enhance societal preparedness and the ability to respond to digital risks.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2121218655430295800",
-      "published": "2026-11-13T12:28:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "d303cf5b7be38cacce4a6fc142160a17",
-      "title": ". The Dubai Electronic Security Center (DESC) has signed an agreement with the International Telecommunication Union (IT...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/Dfrn1uDI3UJ",
-      "published": "2026-11-13T12:23:35+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "fda8474fed78940c6e4edfeccbb76b8c",
       "title": "RT by @moiuae: #AbuDhabiPolice and @CivilDefenceAD teams have controlled a fire that broke out this afternoon, Friday, 13 November 2026, at a construction site in Al Bahyah, Abu Dhabi. No injuries were reported, and cooling and smoke extraction operations are underway.",
       "source": "UAE MOI (RSS.app)",
@@ -853,28 +809,6 @@
         "lng": 54.3773
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "bfe4ac6c2e44f83ebb17c0e975b6a8cd",
-      "title": ". Abu Dhabi Future Energy Company PJSC \u2013 Masdar, a global clean energy leader, has celebrated the completion of the US$9...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DfrOuvbNoR7",
-      "published": "2026-11-13T08:44:02+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -1125,50 +1059,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/video/2026/nov/12/israeli-strike-on-gaza-hospital-kills-surgeon-and-five-others-video",
-      "title": "Israeli strike on Gaza hospital kills surgeon and five others \u2013 video",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/video/2026/nov/12/israeli-strike-on-gaza-hospital-kills-surgeon-and-five-others-video",
-      "published": "2026-11-12T14:23:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "9c99e9a0b2d7544fba7ad695e67d3617",
-      "title": "Weekly security report #\u0645\u0645\u0644\u0643\u0629_\u0627\u0644\u0628\u062d\u0631\u064a\u0646 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 #\u0627\u0644\u0623\u0645\u0646_\u0641\u064a_\u0623\u0633\u0628\u0648\u0639 #Bahrain #Moi",
-      "source": "Bahrain MOI (RSS.app)",
-      "source_url": "https://www.instagram.com/p/Dfo2ITTAaKj",
-      "published": "2026-11-12T10:31:32+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 26.0667,
-        "lng": 50.5577
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "7b1ac5d533ce33d02b15fe92fa7074b4",
       "title": "IRGC commander Ahmad Vahidi said the path of Martyr Hassan Tehrani Moghaddam, founder of Iran's missile program, cannot be halted by threats or sanctions.",
       "source": "Mehr News (RSS.app)",
@@ -1250,50 +1140,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "ec09dda2871dc52d1e328f26dba3ab69",
-      "title": "Deepening Security Cooperation: Israel MOD Hosts Senior Delegation from Peru for Israeli Technology Showcase \ud83c\uddf5\ud83c\uddea\ud83c\uddee\ud83c\uddf1 Read More:",
-      "source": "Israel MOD (RSS.app)",
-      "source_url": "https://x.com/Israel_MOD/status/2120490708867961220",
-      "published": "2026-11-11T12:15:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "828fb2a0b842f8dd0b7cec4fbd5bc39d",
-      "title": "RT by @NCEMAUAE: The National Emergency Crisis and Disaster Management Authority (NCEMA), in coordination with the Ministry of Health and Prevention (MoHAP) and the Federal Authority for Identity, Citizenship, Customs and Port Security (ICP), has announced the easing of precautionary entry measures for nationals of the Republic of Uganda. The measures were introduced in June 2026 in response to developments related to the Ebola virus. The authorities reaffirmed that these measures reflect the UAE\u2019s commitment to protecting public health, strengthening preparedness, and responding to health risks, while continuing to monitor the epidemiological situation and update precautionary measures in l",
-      "source": "UAE NCEMA (RSS.app)",
-      "source_url": "https://x.com/mohapuae/status/2120430057340420342",
-      "published": "2026-11-11T08:14:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
