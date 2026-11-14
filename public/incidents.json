@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-11-13T23:41:47.007910+00:00",
+  "generated_at": "2026-11-14T06:43:21.606262+00:00",
   "total_incidents": 59,
   "incidents": [
+    {
+      "id": "b27fd846180fc69b017f70a1f1a1bc46",
+      "title": "KPC: Kuwait oil price gains USD 1.85 to reach USD 85.29 per barrel.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2121488518711038022",
+      "published": "2026-11-14T06:20:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794581815",
+      "title": "Siege fuels disease fears in Yemen\u2019s Taiz",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/14/siege-fuels-disease-fears-in-yemens-besieged-taiz?traffic_source=rss",
+      "published": "2026-11-14T06:17:27+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 38.0962,
+        "lng": 46.2738
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794573310",
+      "title": "Could one daily pill narrow the diabetes treatment gap in the Global South?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/14/could-one-daily-pill-narrow-the-diabetes-treatment-gap-in-the-global-south?traffic_source=rss",
+      "published": "2026-11-14T06:14:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/14/drones-redefining-warfare-sudan-massacring-civilians",
+      "title": "Terror from the skies: drones are redefining warfare in Sudan, and massacring its civilians",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/14/drones-redefining-warfare-sudan-massacring-civilians",
+      "published": "2026-11-14T06:00:37+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/14/iran-war-live-irgc-strait-of-hormuz/",
+      "title": "Middle East latest: IRGC says two oil tankers caught fire after hitting sea mines in Hormuz",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/14/iran-war-live-irgc-strait-of-hormuz/",
+      "published": "2026-11-14T04:42:53+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794628704",
+      "title": "Iranian shopkeeper goes viral for Netanyahu resemblance",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/iranian-shopkeeper-goes-viral-for-netanyahu-resemblance?traffic_source=rss",
+      "published": "2026-11-14T04:29:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/11/14/is-your-child-being-bullied-at-school-warning-signs-uae-parents-should-look-out-for/",
+      "title": "Is your child being bullied at school? Warning signs UAE parents should look out for",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/11/14/is-your-child-being-bullied-at-school-warning-signs-uae-parents-should-look-out-for/",
+      "published": "2026-11-14T04:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/14/from-civil-war-to-political-deadlock-the-deep-roots-of-iraqi-kurdistans-kdp-puk-rift/",
+      "title": "From civil war to political deadlock: the deep roots of Iraqi Kurdistan's KDP-PUK rift",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/14/from-civil-war-to-political-deadlock-the-deep-roots-of-iraqi-kurdistans-kdp-puk-rift/",
+      "published": "2026-11-14T03:30:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/arts-culture/art-design/2026/11/14/at-art-mumbai-uae-galleries-reflect-on-historic-and-contemporary-ties-between-india-and-the-gulf/",
+      "title": "At Art Mumbai, UAE galleries reflect on historic and contemporary ties between India and the Gulf",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/arts-culture/art-design/2026/11/14/at-art-mumbai-uae-galleries-reflect-on-historic-and-contemporary-ties-between-india-and-the-gulf/",
+      "published": "2026-11-14T03:12:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "3b45b7c6eafe374b5a7a66c7367e0308",
       "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u0646\u0637\u0642\u0629 \u0646\u062c\u0631\u0627\u0646\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (998). Alert: The danger has passed in Najran Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
@@ -18,28 +216,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794605183",
-      "title": "Rescue efforts under way after tanker strikes river cruise boat in US",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
-      "published": "2026-11-13T22:47:16+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -136,7 +312,7 @@
     },
     {
       "id": "https://www.thenationalnews.com/news/us/2026/11/13/new-orleans-rescue-operations-underway-after-tanker-strikes-docked-cruise-ship/",
-      "title": "New Orleans rescue operations underway after tanker strikes docked cruise ship",
+      "title": "Passengers and crew safe after tanker strikes docked cruise ship in New Orleans",
       "source": "The National UAE",
       "source_url": "https://www.thenationalnews.com/news/us/2026/11/13/new-orleans-rescue-operations-underway-after-tanker-strikes-docked-cruise-ship/",
       "published": "2026-11-13T21:58:44+00:00",
@@ -149,50 +325,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/11/13/flights-grounded-faa-nationwide-ground-stop/",
-      "title": "FAA issues ground stop for all US airports due to 'extraordinary circumstances'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/11/13/flights-grounded-faa-nationwide-ground-stop/",
-      "published": "2026-11-13T21:43:28+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794604818",
-      "title": "FAA grounds US flights nationwide after \u2018communication issue\u2019",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
-      "published": "2026-11-13T21:32:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -216,28 +348,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/economy/2026/11/13/imf-says-more-progresses-needed-on-lebanons-banking-sector-reform/",
-      "title": "IMF says more progresses needed on Lebanon's banking sector reform",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/economy/2026/11/13/imf-says-more-progresses-needed-on-lebanons-banking-sector-reform/",
-      "published": "2026-11-13T19:56:26+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -311,28 +421,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/13/gaza-baby-dies-from-exposure-to-cold-as-who-warns-of-rising-infection-rates/",
-      "title": "Gaza baby dies from exposure to cold as WHO warns of rising infection rates",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/13/gaza-baby-dies-from-exposure-to-cold-as-who-warns-of-rising-infection-rates/",
-      "published": "2026-11-13T18:22:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/?p=87655",
       "title": "Drones incoming! New innovations on offer in UAS tech | Defense News Weekly Full Episode 11.10.26",
       "source": "Defense News",
@@ -377,28 +465,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/opinion/comment/2026/11/13/cop31-architecture-climate/",
-      "title": "Why the energy transition needs a new approach to urban planning",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/opinion/comment/2026/11/13/cop31-architecture-climate/",
-      "published": "2026-11-13T17:56:52+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/news/2026/11/13/judges-close-part-of-icc-afghanistan-investigations-that-could-look-at-us-troops/",
       "title": "Judges close part of ICC Afghanistan investigations that could look at US troops",
       "source": "Defense News",
@@ -421,28 +487,6 @@
       }
     },
     {
-      "id": "d707aee0261017ac3f93a9ffc42ed29d",
-      "title": "At least 26 Indians were killed and another 20 were injured following a head on collision between a mini-bus and a container truck in Golaghat district of the north eastern Indian state of Assam  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2121297938446004435",
-      "published": "2026-11-13T17:43:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/?p=87903",
       "title": "Italy boosts GCAP fighter spending as Army vehicles take a hit in budget",
       "source": "Defense News",
@@ -458,28 +502,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e7d83e4c6ff2d3cac824789c9f3912b8",
-      "title": "Chief of the General Staff of the Kuwaiti Army Lt. Gen. Khaled Al-Shuraian discusses with Spanish Ambassador to Kuwait Manuel Hernandez Gamallo several issues of mutual interest  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2121284999919829133",
-      "published": "2026-11-13T16:52:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1109,28 +1131,6 @@
       "source_url": "https://www.theguardian.com/world/video/2026/nov/12/israeli-strike-on-gaza-hospital-kills-surgeon-and-five-others-video",
       "published": "2026-11-12T14:23:47+00:00",
       "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
-      "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
-      "published": "2026-11-12T12:19:01+00:00",
-      "type": "airstrike",
       "status": "unconfirmed",
       "location": {
         "country": "Palestine",
