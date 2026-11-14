@@ -1,7 +1,183 @@
 {
-  "generated_at": "2026-11-14T14:18:00.051292+00:00",
-  "total_incidents": 52,
+  "generated_at": "2026-11-14T19:15:29.147646+00:00",
+  "total_incidents": 45,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1794680833",
+      "title": "US blames outdated technology for nationwide flight disruption",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss",
+      "published": "2026-11-14T18:32:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0eb47cbe06f4f77f24f2d559453e1672",
+      "title": "UAE President meets Mohammed bin Rashid at Al Marmoom in Dubai. During the meeting, Their Highnesses held cordial discussions and reviewed a number of issues related to the nation and its people, particularly the UAE\u2019s development priorities and efforts to further enhance the wellbeing of its people. The discussions also focused on preparing for future needs, supporting continued growth and prosperity, and strengthening the UAE\u2019s global competitiveness and standing.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2121648610312179923",
+      "published": "2026-11-14T16:57:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794579413",
+      "title": "Portugal vs Denmark LIVE: UEFA Nations League",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss",
+      "published": "2026-11-14T16:45:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "56a7d472d14d8f7ff9c24285cac938ab",
+      "title": "The Kuwaiti Army concludes the exercise (Kazma-12) under the patronage and in the presence of Minister of Defense Sheikh Abdullah Ali Abdullah Al-Salem Al-Sabah  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2121643571182792800",
+      "published": "2026-11-14T16:37:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794672661",
+      "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
+      "published": "2026-11-14T16:13:43+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794666302",
+      "title": "EU calls for immediate humanitarian access to Gaza",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+      "published": "2026-11-14T15:57:22+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794670471",
+      "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American\u2019s home",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
+      "published": "2026-11-14T15:36:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ef4b1835e4682a65ce1982b8822699f8",
+      "title": "Eleven ASEAN member states' ministers sign the ASEAN Digital Economy Framework Agreement (DEFA) in the #Philippines, this world-first regional pact establishes common rules to strengthen digital market security and facilitate cross-border transactions  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2121625977159602480",
+      "published": "2026-11-14T15:27:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "e5107b927ded237524416085f443fba7",
       "title": "Foreign ministers of #Kuwait, #Jordan, the #UAE, #Indonesia, #Pakistan, #Turkiye, #Algeria, #Djibouti, #Saudi Arabia, #Sudan, #Somalia, #Oman, #Palestine, #Qatar, #Lebanon, #Libya, #Egypt and #Mauritania bitingly condemn an Israeli occupation airstrike on a Palestinian medical center  #KUNA",
@@ -30,50 +206,6 @@
       "source": "KUNA Kuwait (RSS.app)",
       "source_url": "https://x.com/kuna_en/status/2121603180693696587",
       "published": "2026-11-14T13:56:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794658278",
-      "title": "How does Iran view shift in US approach after JD Vance ordered away?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
-      "published": "2026-11-14T13:24:44+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a6a62239795d20b1d1ee0a48e4b2a44d",
-      "title": "#Kuwait's Junior Padel Team secures second place in the Asian Junior Padel Championship, held in the Indonesian capital, Jakarta, following a 1-2 loss to Iran in the final match  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2121594315604398490",
-      "published": "2026-11-14T13:21:00+00:00",
       "type": "naval",
       "status": "confirmed",
       "location": {
@@ -135,72 +267,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1794660705",
-      "title": "Green turtles move from \u2018endangered\u2019 to \u2018least concern\u2019 status",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/green-turtles-move-from-endangered-to-least-concern-status?traffic_source=rss",
-      "published": "2026-11-14T12:53:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794658441",
-      "title": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/ethiopia-blames-egypt-eritrea-for-tigray-attacks?traffic_source=rss",
-      "published": "2026-11-14T12:28:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.8206,
-        "lng": 30.8025
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794650626",
-      "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
-      "published": "2026-11-14T11:43:06+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.thenationalnews.com/news/uae/2026/11/14/dubai-private-schools-to-report-pupils-who-miss-five-consecutive-days-without-explanation/",
       "title": "Dubai private schools to report pupils who miss five consecutive days without explanation",
       "source": "The National UAE",
@@ -245,50 +311,6 @@
       }
     },
     {
-      "id": "3c9ecd0f50fb1e9bb3287a37b43b8926",
-      "title": "Kuwaiti charitable organizations continued their humanitarian initiatives across several countries this week, providing food aid, healthcare, education, clean water, orphan care and winter relief under the \"Kuwait Stands by You\" campaign. (News Report)  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2121560404530754008",
-      "published": "2026-11-14T11:06:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "edfa6c79346963b0071a53268f0bcbdf",
-      "title": "The Philippines urges ASEAN member states to sustain joint efforts to promote regional peace & security ahead of the 49th ASEAN Summit.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2121539051899568575",
-      "published": "2026-11-14T09:41:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "37fc8c7f483d460f9c3130833e8de07b",
       "title": "\u0648\u0641\u062f \u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0628\u062d\u0631\u064a\u0646 \u0627\u0644\u0634\u0642\u064a\u0642\u0629 \u064a\u0637\u0644\u0639 \u0639\u0644\u0649 \u0623\u0641\u0636\u0644 \u0627\u0644\u0645\u0645\u0627\u0631\u0633\u0627\u062a \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0628\u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0627\u0644\u062a\u0641\u0627\u0635\u064a\u0644  Bahraini Delegation Visits MOI to Explore Best Security Practices",
       "source": "UAE MOI (RSS.app)",
@@ -323,28 +345,6 @@
         "city": null,
         "lat": 26.0667,
         "lng": 50.5577
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b27fd846180fc69b017f70a1f1a1bc46",
-      "title": "KPC: Kuwait oil price gains USD 1.85 to reach USD 85.29 per barrel.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2121488518711038022",
-      "published": "2026-11-14T06:20:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
       },
       "credibility": 95,
       "is_government": true,
@@ -413,28 +413,6 @@
         "lng": 48.0
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "d99150833314b815170e55d8b1a262fe",
-      "title": "#US Federal Aviation Administration issues a nationwide ground stop for all US airports following a communication issue impacting all Air Route Traffic Control Centers as FAA technicians are investigating the issue  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2121371224345301377",
-      "published": "2026-11-13T22:34:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -685,28 +663,6 @@
       }
     },
     {
-      "id": "44a1e4036a1776fdc9594d78fada706b",
-      "title": "DIP Holding reports third-quarter 2026 results, with like-for-like revenue rising 8.7% to AED 262.4 million and like-for-like adjusted EBITDA rising 13.6% to AED 194.6 million.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2121227357155713037",
-      "published": "2026-11-13T13:03:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cm75261e3pdko#0",
       "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
       "source": "BBC Middle East",
@@ -730,28 +686,6 @@
     },
     {
       "id": "fda8474fed78940c6e4edfeccbb76b8c",
-      "title": "RT by @moiuae: #AbuDhabiPolice and @CivilDefenceAD teams have controlled a fire that broke out this afternoon, Friday, 13 November 2026, at a construction site in Al Bahyah, Abu Dhabi. No injuries were reported, and cooling and smoke extraction operations are underway.",
-      "source": "UAE MOI (RSS.app)",
-      "source_url": "https://x.com/ADPoliceHQ/status/2121195765569823226",
-      "published": "2026-11-13T10:57:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "fda8474fed78940c6e4edfeccbb76b8c",
       "title": "RT by @CivilDefenceAD: #AbuDhabiPolice and @CivilDefenceAD teams have controlled a fire that broke out this afternoon, Friday, 13 November 2026, at a construction site in Al Bahyah, Abu Dhabi. No injuries were reported, and cooling and smoke extraction operations are underway.",
       "source": "Abu Dhabi Civil Defence (RSS.app)",
       "source_url": "https://x.com/ADPoliceHQ/status/2121195765569823226",
@@ -765,28 +699,6 @@
         "lng": 54.3773
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "fda8474fed78940c6e4edfeccbb76b8c",
-      "title": "RT by @moiuae: #AbuDhabiPolice and @CivilDefenceAD teams have controlled a fire that broke out this afternoon, Friday, 13 November 2026, at a construction site in Al Bahyah, Abu Dhabi. No injuries were reported, and cooling and smoke extraction operations are underway.",
-      "source": "IDF (RSS.app)",
-      "source_url": "https://x.com/ADPoliceHQ/status/2121195765569823226",
-      "published": "2026-11-13T10:57:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -1073,72 +985,6 @@
         "lng": 51.389
       },
       "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo#0",
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T16:59:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2838d97f8ce07c17ef2d802b89546386",
-      "title": "\u062d\u0636\u0648\u0631 \u064a\u0639\u0643\u0633 \u0645\u0643\u0627\u0646\u0629 \u0627\u0644\u0643\u0641\u0627\u0621\u0627\u062a \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 \u0641\u064a \u0627\u0644\u0645\u062c\u0627\u0644 \u0627\u0644\u0637\u0628\u064a \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u060c \u0628\u062a\u0639\u064a\u064a\u0646 \u0627\u0644\u0644\u0648\u0627\u0621 \u0627\u0644\u0631\u0643\u0646 \u0639\u0627\u0626\u0634\u0629 \u0633\u0644\u0637\u0627\u0646 \u0627\u0644\u0638\u0627\u0647\u0631\u064a\u060c \u0631\u0626\u064a\u0633\u0627\u064b \u0644\u0644\u062c\u0646\u0629 \u0627\u0644\u062f\u0648\u0644\u064a\u0629 \u0644\u0644\u0637\u0628 \u0627\u0644\u0639\u0633\u0643\u0631\u064a (ICMM). A prominent Emirati presence on the international military medicine stage, embodied by the appointment of Major General Staff Aysha Sultan Aldhaheri as President of the International Committee of Military Medicine (ICMM). #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a\u064a\u0629 #MOD #UAEMinistryOfDefence",
-      "source": "UAE MOD (RSS.app)",
-      "source_url": "https://x.com/modgovae/status/2120562104600326204",
-      "published": "2026-11-11T16:59:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o#0",
-      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T16:45:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
