@@ -1,23 +1,199 @@
 {
-  "generated_at": "2026-11-15T11:13:46.741881+00:00",
-  "total_incidents": 47,
+  "generated_at": "2026-11-15T17:50:40.171898+00:00",
+  "total_incidents": 44,
   "incidents": [
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/15/egypt-reopens-embassy-in-tripoli-after-a-12-year-hiatus/",
-      "title": "Egypt reopens embassy in Tripoli after a 12-year hiatus",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/15/egypt-reopens-embassy-in-tripoli-after-a-12-year-hiatus/",
-      "published": "2026-11-15T11:06:11+00:00",
+      "id": "f176bb99e4321f43039b1c3f4e025d32",
+      "title": "#Kuwait's Minister of Foreign Affairs discusses the latest regional developments with #Oman's Minister of Foreign Affairs, stressing the importance of supporting diplomatic efforts aimed at reducing tensions and enhancing security and stability in the region  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2122021737533485403",
+      "published": "2026-11-15T17:39:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "594be5a6cb38c09f769a83ac121300fb",
+      "title": "#Qatar's Prime Minister and Minister of Foreign Affairs discusses the latest developments in the region with #Lebanon's Prime Minister  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2122021198016004211",
+      "published": "2026-11-15T17:37:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+      "title": "Iran launches drone attacks against US military base in Bahrain",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+      "published": "2026-11-15T17:36:09+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "1102157aeed287dd3010604a87f7402b",
+      "title": "#Saudi-led Coalition to Support Legitimacy in Yemen intercepts & destroys drone in the Madinah region of Saudi Arabia, launched by the terrorist Houthi militia  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2122020660457173063",
+      "published": "2026-11-15T17:35:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794752115",
+      "title": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss",
+      "published": "2026-11-15T17:33:00+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Lebanon",
+        "country": "Yemen",
         "city": null,
-        "lat": 34.4346,
-        "lng": 35.8362
+        "lat": 12.7855,
+        "lng": 45.0187
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "735efb4c87127e7b1b12abdc3525e035",
+      "title": "#Saudi-led Coalition to Support Legitimacy in Yemen intercepts & destroys two drones in the Mecca region of Saudi Arabia, launched by the terrorist Houthi militia  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2122020268453314836",
+      "published": "2026-11-15T17:33:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 21.3891,
+        "lng": 39.8579
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/15/iran-attacks-bahrain-in-blatant-challenge-to-peace-push/",
+      "title": "Iran attacks Bahrain in 'blatant challenge' to peace push",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/15/iran-attacks-bahrain-in-blatant-challenge-to-peace-push/",
+      "published": "2026-11-15T17:27:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
       },
       "credibility": 85,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/15/lebanon-in-talks-for-20-year-gas-deal-with-qatar/",
+      "title": "Lebanon in talks for 20-year gas deal with Qatar",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/15/lebanon-in-talks-for-20-year-gas-deal-with-qatar/",
+      "published": "2026-11-15T16:38:37+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9a43b4da1ad89c38f067265abf5268c3",
+      "title": "Mansoor bin Mohammed: Today, I attended the final round of the DP World Tour Championship at Jumeirah Golf Estates, the finale of the Race to Dubai and the Rolex Series, featuring 50 of the world\u2019s best golfers. Congratulations to Tyrrell Hatton on winning his first DP World Tour Championship by five shots and securing his sixth Rolex Series title, and to Rory McIlroy on his record-equalling eighth Race to Dubai title. Dubai continues to strengthen its position as a leading global sporting destination, bringing world champions together, celebrating their achievements and inspiring future generations of talent.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2122005536690643322",
+      "published": "2026-11-15T16:35:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -26,14 +202,14 @@
     },
     {
       "id": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-      "title": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
+      "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - as it happened",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-      "published": "2026-11-15T11:04:08+00:00",
+      "published": "2026-11-15T15:59:04+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Bahrain",
+        "country": "Saudi Arabia",
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
@@ -47,11 +223,33 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/15/senior-hamas-military-commander-killed-in-israeli-strike-in-southern-gaza/",
-      "title": "Senior Hamas military commander killed in Israeli strike in southern Gaza",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/15/senior-hamas-military-commander-killed-in-israeli-strike-in-southern-gaza/",
-      "published": "2026-11-15T10:30:19+00:00",
+      "id": "a5329c4d08021b75697b56084c4037ea",
+      "title": "RT by @DXBMediaOffice: Today, I attended the final round of the DP World Tour Championship at Jumeirah Golf Estates, the finale of the Race to Dubai and the Rolex Series, featuring 50 of the world\u2019s best golfers. Congratulations to Tyrrell Hatton on winning his first DP World Tour Championship by five shots and securing his sixth Rolex Series title, and to Rory McIlroy on his record-equalling eighth Race to Dubai title. Dubai continues to strengthen its position as a leading global sporting destination, bringing world champions together, celebrating their achievements and inspiring future generations of talent.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/sheikhmansoor/status/2121995596450218231",
+      "published": "2026-11-15T15:55:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794755977",
+      "title": "70 bodies recovered from Gaza rubble, thousands still missing",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss",
+      "published": "2026-11-15T15:32:43+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -60,7 +258,7 @@
         "lat": 31.5017,
         "lng": 34.4668
       },
-      "credibility": 85,
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -69,62 +267,18 @@
       }
     },
     {
-      "id": "2c3513ed2f9e0dccce987dfd0c05cbb6",
-      "title": "#Saudi Arabia strongly condemns Iranian attacks on #Bahrain  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2121913552499884221",
-      "published": "2026-11-15T10:29:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "743d2c67d2e43e75219c36723fbab4d8",
-      "title": "#Kuwait strongly condemns Iranian attacks on #Bahrain  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2121908839599505662",
-      "published": "2026-11-15T10:11:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794650017",
-      "title": "Drone attacks on power stations plunge Sudan\u2019s cities into darkness",
+      "id": "https://www.aljazeera.com/?t=1794744969",
+      "title": "Will Iraq\u2019s oil smuggling crackdown disarm militias without a conflict?",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss",
-      "published": "2026-11-15T09:59:37+00:00",
-      "type": "drone",
+      "source_url": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
+      "published": "2026-11-15T15:21:21+00:00",
+      "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": null,
+        "country": "Iraq",
         "city": null,
-        "lat": 29.0,
-        "lng": 48.0
+        "lat": 33.2232,
+        "lng": 43.6793
       },
       "credibility": 90,
       "is_government": false,
@@ -135,41 +289,19 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1794729819",
-      "title": "Iran says it targets US radar in Bahrain. What do we know?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss",
-      "published": "2026-11-15T09:41:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
+      "id": "3a0b7116923e4448ff2bc259a2641616",
+      "title": "GCC Secretary-General strongly condemns Iranian drone attacks targeting Bahrain, describing them as a blatant violation of the Kingdom's sovereignty & international law.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2121966906169028691",
+      "published": "2026-11-15T14:01:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
       "location": {
         "country": "Bahrain",
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
       },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b2a79694a3d1fa22da0a550f595bbbae",
-      "title": "#Bahrain strongly condemns continued Iranian attacks on its territory  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2121897175944757716",
-      "published": "2026-11-15T09:24:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
       "credibility": 95,
       "is_government": true,
       "casualties": {
@@ -179,42 +311,20 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/15/southern-yemeni-forces-withdraw-from-area-near-bab-al-mandab/",
-      "title": "Yemen government forces pullback hands Houthis greater leverage over Bab Al Mandeb",
+      "id": "https://www.thenationalnews.com/business/energy/2026/11/15/uae-engineering-firm-kent-heads-for-record-order-book-despite-iran-war/",
+      "title": "UAE engineering firm Kent heads for record order book despite Iran war",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/15/southern-yemeni-forces-withdraw-from-area-near-bab-al-mandab/",
-      "published": "2026-11-15T09:15:55+00:00",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/11/15/uae-engineering-firm-kent-heads-for-record-order-book-despite-iran-war/",
+      "published": "2026-11-15T13:16:03+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": null,
+        "country": "UAE",
         "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
+        "lat": 32.4279,
+        "lng": 53.688
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794731715",
-      "title": "Thousands in Portugal protest against surging rental prices",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss",
-      "published": "2026-11-15T08:40:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -238,138 +348,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "8aab89444b59192d76f9278e86c85ce0",
-      "title": "#Kuwait Foreign Petroleum Exploration Company k.s.c.c. (#KUFPEC) announces that its subsidiary KUFPEC Egypt Limited began gas production at Mina West field in the Mediterranean Sea  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2121877469711970539",
-      "published": "2026-11-15T08:06:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "082e4e6cacca6ef3f47a6ab2231907dd",
-      "title": "Analysts explain that civilian suffering in #Sudan is mounting as drone attacks target vital facilities, markets and service infrastructure, disrupting electricity & water supplies, crippling hospitals & limiting access to food & healthcare  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2121875708184055897",
-      "published": "2026-11-15T07:59:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/arts-culture/art-design/2026/11/15/holy-mothers-of-gaza-eduardo-castaldo-palestine-art/",
-      "title": "Italian artist tears paintings of Virgin Mary to reveal images of Palestinian mothers in Gaza",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/arts-culture/art-design/2026/11/15/holy-mothers-of-gaza-eduardo-castaldo-palestine-art/",
-      "published": "2026-11-15T07:51:13+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack/",
-      "title": "Jordan church attack: Court sentences three men to death by hanging",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack/",
-      "published": "2026-11-15T07:41:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Jordan",
-        "city": null,
-        "lat": 30.5852,
-        "lng": 36.2384
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "bb6b6c8c1d8b88c718098c97158c609a",
-      "title": "Dubai\u2019s Roads and Transport Authority launches a five-star system to rate the performance of taxi companies in the emirate through Integrated system that links incentives to service quality, operational efficiency, sustainability and customer satisfaction. The assessment rests on 4 pillars and 18 indicators to measure company performance and spur competition and innovation, providing an integrated framework for measuring taxi company performance against defined criteria covering service quality, customer satisfaction, traffic safety, operational efficiency, digital transformation and environmental sustainability.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2121866374406688969",
-      "published": "2026-11-15T07:22:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/15/eu-eyes-investments-and-jobs-in-major-jordan-and-syria-push-commissioner-says/",
-      "title": "EU eyes investments and jobs in major Jordan and Syria push, commissioner says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/15/eu-eyes-investments-and-jobs-in-major-jordan-and-syria-push-commissioner-says/",
-      "published": "2026-11-15T06:46:56+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -971,28 +949,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/commentisfree/2026/nov/12/the-guardian-view-on-gazas-misery-dont-let-palestinian-deaths-mount-in-this-bleak-winter",
-      "title": "The Guardian view on Gaza\u2019s misery: don\u2019t let Palestinian deaths mount in this bleak winter | Editorial",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/commentisfree/2026/nov/12/the-guardian-view-on-gazas-misery-dont-let-palestinian-deaths-mount-in-this-bleak-winter",
-      "published": "2026-11-12T18:54:58+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o#0",
       "title": "Two men guilty of spying for Iran over plan to target journalists and lawyer",
       "source": "BBC Middle East",
@@ -1005,28 +961,6 @@
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo#0",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T16:54:12+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
       },
       "credibility": 95,
       "is_government": false,
