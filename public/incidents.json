@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-16T02:51:39.234740+00:00",
-  "total_incidents": 43,
+  "generated_at": "2026-11-16T11:44:21.524021+00:00",
+  "total_incidents": 52,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1794795452",
-      "title": "Houthis advance in Yemen as government forces move to defend Aden",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
-      "published": "2026-11-16T02:22:29+00:00",
+      "id": "4558e127e143d518bda2638275d51b54",
+      "title": "The third edition of Emaar Dubai Premier Padel P1 2026 concludes at Hamdan Sports Complex. Organised by Gallop Global in collaboration with the Dubai Sports Council, Dubai Department of Economy and Tourism and UAE Padel Association, the tournament ran from 8 to 15 November 2026, bringing together 248 players across the men\u2019s and women\u2019s competitions, with more than 8,150 spectators attending the final day.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2122291621270331562",
+      "published": "2026-11-16T11:32:00+00:00",
       "type": "incident",
-      "status": "unconfirmed",
+      "status": "confirmed",
       "location": {
-        "country": "Yemen",
+        "country": "UAE",
         "city": null,
-        "lat": 12.7855,
-        "lng": 45.0187
+        "lat": 25.2048,
+        "lng": 55.2708
       },
-      "credibility": 90,
-      "is_government": false,
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -25,40 +25,18 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1794764615",
-      "title": "After a nationwide ground stop, US faces aviation infrastructure questions",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/16/after-a-nationwide-ground-stop-us-faces-aviation-infrastructure-questions?traffic_source=rss",
-      "published": "2026-11-16T00:45:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/11/16/uss-theodore-roosevelt-middle-east-centcom/",
-      "title": "USS Theodore Roosevelt aircraft carrier arrives in Middle East",
+      "id": "https://www.thenationalnews.com/news/uae/2026/11/16/uae-ship-carrying-more-than-4300-tonnes-of-aid-for-gaza-arrives-in-al-arish/",
+      "title": "UAE ship carrying more than 4,300 tonnes of aid for Gaza arrives in Al Arish",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/11/16/uss-theodore-roosevelt-middle-east-centcom/",
-      "published": "2026-11-16T00:28:33+00:00",
-      "type": "incident",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/11/16/uae-ship-carrying-more-than-4300-tonnes-of-aid-for-gaza-arrives-in-al-arish/",
+      "published": "2026-11-16T11:30:09+00:00",
+      "type": "naval",
       "status": "unconfirmed",
       "location": {
-        "country": null,
+        "country": "Palestine",
         "city": null,
-        "lat": 29.0,
-        "lng": 48.0
+        "lat": 31.5017,
+        "lng": 34.4668
       },
       "credibility": 85,
       "is_government": false,
@@ -69,20 +47,20 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1794787519",
-      "title": "Czechs rally against gov\u2019t threat to media independence",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss",
-      "published": "2026-11-16T00:26:32+00:00",
-      "type": "incident",
+      "id": "https://www.thenationalnews.com/news/uk/2026/11/16/iran-boasts-us-airbase-in-britain-is-within-missile-range/",
+      "title": "Iran boasts US airbase in Britain is within missile range",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uk/2026/11/16/iran-boasts-us-airbase-in-britain-is-within-missile-range/",
+      "published": "2026-11-16T11:26:47+00:00",
+      "type": "missile",
       "status": "unconfirmed",
       "location": {
-        "country": "Saudi Arabia",
+        "country": "Iran",
         "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
+        "lat": 32.4279,
+        "lng": 53.688
       },
-      "credibility": 90,
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -91,11 +69,77 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1794781328",
-      "title": "Eisenkot says Netanyahu can\u2019t remain Israel PM amid alleged vote meddling",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss",
-      "published": "2026-11-16T00:01:45+00:00",
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/16/head-of-israels-arab-list-elected-deputy-speaker-of-knesset/",
+      "title": "Head of Israel's Arab list elected deputy speaker of Knesset",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/16/head-of-israels-arab-list-elected-deputy-speaker-of-knesset/",
+      "published": "2026-11-16T11:22:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/16/iraqs-al-zaidi-meets-top-judge-to-discuss-jurf-al-sakhar-oil-smuggling-case/",
+      "title": "Iraq's Al Zaidi meets top judge to discuss Jurf Al Sakhar oil-smuggling case",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/16/iraqs-al-zaidi-meets-top-judge-to-discuss-jurf-al-sakhar-oil-smuggling-case/",
+      "published": "2026-11-16T11:13:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo#0",
+      "title": "Yemeni forces retreat to defend port city from Houthis",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T11:09:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
+      "title": "Revealed: Israel uploaded millions of photos to Amazon\u2019s facial recognition platform to track Palestinians",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
+      "published": "2026-11-16T11:00:56+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -113,11 +157,187 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1794784112",
-      "title": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
+      "id": "https://www.thenationalnews.com/news/gulf/2026/11/16/bahrain-jails-members-of-iran-linked-terror-group-for-15-years-to-life/",
+      "title": "Bahrain jails members of Iran-linked terror group for 15 years to life",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/11/16/bahrain-jails-members-of-iran-linked-terror-group-for-15-years-to-life/",
+      "published": "2026-11-16T11:00:41+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "a80c22cd4e6b4a8fc192faf216b2d070",
+      "title": ". The United Arab Emirates has achieved the International Atomic Energy Agency\u2019s (IAEA) Broader Conclusion for the fourt...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DfzJYUQthvb",
+      "published": "2026-11-16T10:31:12+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794740948",
+      "title": "Lebanon\u2019s second airport could provide economic and political benefits",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
-      "published": "2026-11-16T00:00:00+00:00",
+      "source_url": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
+      "published": "2026-11-16T10:28:22+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Lebanon",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=101090",
+      "title": "Estonian drone company targeted in sabotage attempt as part of \u2018Russia\u2019s hybrid war against Europe\u2019: Prime Minister Michal",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/estonian-drone-company-targeted-in-sabotage-attempt-as-part-of-russias-hybrid-war-against-europe-prime-minister-michal/",
+      "published": "2026-11-16T10:25:57+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2dfe11530974beecb0b592645e745f0a",
+      "title": ". The Ahmed bin Rashid Humanitarian Ship has arrived at Al Arish Port in the Arab Republic of Egypt, carrying more than ...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DfzIP3QtxHm",
+      "published": "2026-11-16T10:22:06+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "06159667519d9ae5b4587e5a1ab248de",
+      "title": "Mansoor bin Mohammed crowns Juan Lebr\u00f3n and Leandro Augsburger winners of the third edition of Emaar Dubai Premier Padel P1 2026. The tournament was organised by Gallop Global in collaboration with the Dubai Sports Council, Dubai Department of Economy and Tourism (DET) and UAE Padel Association at Hamdan Sports Complex. His Highness also crowns Martina Calvo and Claudia Fern\u00e1ndez champions of the women's competition.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2122273248650113071",
+      "published": "2026-11-16T10:19:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "594b5b6dcbb3d80d9559f75ede52408b",
+      "title": "#Kuwait Red Crescent Society (#KRCS) stresses that advance preparedness, effective planning & capacity-building are essential to reducing disaster risks & improving emergency response  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2122273245265092630",
+      "published": "2026-11-16T10:19:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f70f7fd7ec740e41184853310ca2bf6d",
+      "title": "#NATO-Istanbul Cooperation Initiative Regional Center in #Kuwait organizes training course titled \"Maritime Counterterrorism\" in collaboration with NATO's Maritime Security Centre of Excellence (MARSEC COE) with #GCC participation  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2122272256428536096",
+      "published": "2026-11-16T10:15:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794807153",
+      "title": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume?traffic_source=rss",
+      "published": "2026-11-16T10:14:27+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -128,6 +348,270 @@
       },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794815841",
+      "title": "Jordan bans Telegram over national security concerns",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/16/jordan-bans-telegram-messing-app-over-national-security-concerns?traffic_source=rss",
+      "published": "2026-11-16T10:12:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Jordan",
+        "city": null,
+        "lat": 30.5852,
+        "lng": 36.2384
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/11/16/dubai-opera-issues-warning-about-proliferation-of-fake-ticket-websites/",
+      "title": "Dubai Opera issues warning over surge in counterfeit ticket websites",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/11/16/dubai-opera-issues-warning-about-proliferation-of-fake-ticket-websites/",
+      "published": "2026-11-16T10:02:21+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "1d2444dcdd5fc786c4b2088f7c3c4846",
+      "title": "#Kuwait takes part in #Doha's Arab Youth Forum for Peace & Security 2026  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2122268628166869255",
+      "published": "2026-11-16T10:00:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 25.2854,
+        "lng": 51.531
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "8f67c60dce66d7a0f83a8832632162ce",
+      "title": "His Highness the Amir receives His Highness the Crown Prince, His Highness the Prime Minister, First Deputy Prime Minister & Interior Minister, Defense Minister and Foreign Minister  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2122268173063929937",
+      "published": "2026-11-16T09:58:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ece3b2ad7784c0293650a0439a0a858d",
+      "title": "His Highness the Amir receives His Highness the Crown Prince, His Highness the Prime Minister, First Deputy Prime Minister & Interior Minister, Defense Minister and Foreign Minister  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2122267782251241485",
+      "published": "2026-11-16T09:57:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794820788",
+      "title": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
+      "published": "2026-11-16T09:31:36+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "7b5e307f63f252eb13cfa9332482fa0b",
+      "title": ". As @ArabYouthCenter approaches its tenth anniversary, Mansour bin Zayed reaffirms the importance of empowering youth a...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DfzCZBSIJSo",
+      "published": "2026-11-16T09:30:10+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/11/16/iran-escalates-threats-against-us-forces-and-gulf-states-as-third-american-carrier-arrives/",
+      "title": "Iran escalates threats against US forces and Gulf states as third American carrier arrives",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/11/16/iran-escalates-threats-against-us-forces-and-gulf-states-as-third-american-carrier-arrives/",
+      "published": "2026-11-16T09:21:12+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o#0",
+      "title": "UK and allies urge Israel to allow rapid humanitarian access to Gaza",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T08:56:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ccc1432441fbc1f8613c28e6a8d221a1",
+      "title": ". Mannesmann Energy has signed three strategic agreements with JINGBO from China, SIMGETEK from T\u00fcrkiye and Modutec from...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/Dfy83Y3ohym",
+      "published": "2026-11-16T08:42:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3155befa31a96674e5332dac2830fcce",
+      "title": "IMOD Director General Visits Kela: \u201cWe Are Investing Hundreds of Millions of Shekels in the Defense-Tech Industry to Deliver Operational Solutions to the Battlefield - Rapidly and at Scale\u201d Read More:",
+      "source": "Israel MOD (RSS.app)",
+      "source_url": "https://x.com/Israel_MOD/status/2122243735664869729",
+      "published": "2026-11-16T08:21:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c6c15a5cb88eb63483bfef0ab72d3569",
+      "title": "India's first overseas chemical warehouse opens in Jebel Ali Free Zone (Jafza), giving Indian chemical exporters a base to hold stock close to buyers and deliver faster across the Middle East, Africa, Europe and Asia. It is the first hub in a planned network across 30 markets, as India aims to more than double chemical exports to US$60 billion by 2030.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2122239872161419509",
+      "published": "2026-11-16T08:06:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -150,28 +634,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/11/15/fetterman-leave-democrats-threat/",
-      "title": "US Democrat threatens leave party if it picks Senate leader hostile to Israel",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/11/15/fetterman-leave-democrats-threat/",
-      "published": "2026-11-15T18:39:02+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -215,138 +677,6 @@
         "lng": 53.688
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f176bb99e4321f43039b1c3f4e025d32",
-      "title": "#Kuwait's Minister of Foreign Affairs discusses the latest regional developments with #Oman's Minister of Foreign Affairs, stressing the importance of supporting diplomatic efforts aimed at reducing tensions and enhancing security and stability in the region  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2122021737533485403",
-      "published": "2026-11-15T17:39:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "594be5a6cb38c09f769a83ac121300fb",
-      "title": "#Qatar's Prime Minister and Minister of Foreign Affairs discusses the latest developments in the region with #Lebanon's Prime Minister  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2122021198016004211",
-      "published": "2026-11-15T17:37:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "1102157aeed287dd3010604a87f7402b",
-      "title": "#Saudi-led Coalition to Support Legitimacy in Yemen intercepts & destroys drone in the Madinah region of Saudi Arabia, launched by the terrorist Houthi militia  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2122020660457173063",
-      "published": "2026-11-15T17:35:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "735efb4c87127e7b1b12abdc3525e035",
-      "title": "#Saudi-led Coalition to Support Legitimacy in Yemen intercepts & destroys two drones in the Mecca region of Saudi Arabia, launched by the terrorist Houthi militia  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2122020268453314836",
-      "published": "2026-11-15T17:33:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 21.3891,
-        "lng": 39.8579
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/15/iran-attacks-bahrain-in-blatant-challenge-to-peace-push/",
-      "title": "Iran attacks Bahrain in 'blatant challenge' to peace push",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/15/iran-attacks-bahrain-in-blatant-challenge-to-peace-push/",
-      "published": "2026-11-15T17:27:42+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/15/lebanon-in-talks-for-20-year-gas-deal-with-qatar/",
-      "title": "Lebanon in talks for 20-year gas deal with Qatar",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/15/lebanon-in-talks-for-20-year-gas-deal-with-qatar/",
-      "published": "2026-11-15T16:38:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -399,35 +729,13 @@
       }
     },
     {
-      "id": "a5329c4d08021b75697b56084c4037ea",
-      "title": "RT by @DXBMediaOffice: Today, I attended the final round of the DP World Tour Championship at Jumeirah Golf Estates, the finale of the Race to Dubai and the Rolex Series, featuring 50 of the world\u2019s best golfers. Congratulations to Tyrrell Hatton on winning his first DP World Tour Championship by five shots and securing his sixth Rolex Series title, and to Rory McIlroy on his record-equalling eighth Race to Dubai title. Dubai continues to strengthen its position as a leading global sporting destination, bringing world champions together, celebrating their achievements and inspiring future generations of talent.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/sheikhmansoor/status/2121995596450218231",
-      "published": "2026-11-15T15:55:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3a0b7116923e4448ff2bc259a2641616",
-      "title": "GCC Secretary-General strongly condemns Iranian drone attacks targeting Bahrain, describing them as a blatant violation of the Kingdom's sovereignty & international law.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2121966906169028691",
-      "published": "2026-11-15T14:01:00+00:00",
+      "id": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo#0",
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T13:42:58+00:00",
       "type": "drone",
-      "status": "confirmed",
+      "status": "unconfirmed",
       "location": {
         "country": "Bahrain",
         "city": null,
@@ -435,7 +743,7 @@
         "lng": 53.688
       },
       "credibility": 95,
-      "is_government": true,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -443,21 +751,21 @@
       }
     },
     {
-      "id": "00680e648a30de1eaa8d4fa43e8c9897",
-      "title": ". The GCC statistical report confirmed that the region\u2019s waste management sector is evolving from municipal services int...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/DfwWSn3IENE",
-      "published": "2026-11-15T08:26:35+00:00",
+      "id": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo#0",
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T08:17:41+00:00",
       "type": "incident",
-      "status": "confirmed",
+      "status": "unconfirmed",
       "location": {
-        "country": null,
+        "country": "Palestine",
         "city": null,
-        "lat": 29.0,
-        "lng": 48.0
+        "lat": 31.5017,
+        "lng": 34.4668
       },
       "credibility": 95,
-      "is_government": true,
+      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -480,28 +788,6 @@
       },
       "credibility": 70,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "abea8dc444e96470740e2739efa80b6f",
-      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (911). Alert: The danger has passed in Riyadh City. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2121774471237275900",
-      "published": "2026-11-15T01:17:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -853,94 +1139,6 @@
         "lng": 53.688
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "fda8474fed78940c6e4edfeccbb76b8c",
-      "title": "RT by @CivilDefenceAD: #AbuDhabiPolice and @CivilDefenceAD teams have controlled a fire that broke out this afternoon, Friday, 13 November 2026, at a construction site in Al Bahyah, Abu Dhabi. No injuries were reported, and cooling and smoke extraction operations are underway.",
-      "source": "Abu Dhabi Civil Defence (RSS.app)",
-      "source_url": "https://x.com/ADPoliceHQ/status/2121195765569823226",
-      "published": "2026-11-13T10:57:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "849ed2ddbb7ccbbc34ba55117738f964",
-      "title": "RT by @CivilDefenceAD: #AbuDhabiPolice and @CivilDefenceAD teams have controlled a fire that broke out this afternoon, Friday, 13 November 2026, in a warehouse in Al Mafraq Industrial Area in Abu Dhabi. No injuries were reported, and cooling and smoke extraction operations are underway.",
-      "source": "Abu Dhabi Civil Defence (RSS.app)",
-      "source_url": "https://x.com/ADPoliceHQ/status/2121195326715592994",
-      "published": "2026-11-13T10:55:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 24.4539,
-        "lng": 54.3773
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award",
-      "title": "Boxer on death row in Iran vows \u2018not to bow before oppression\u2019 after winning rights prize",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award",
-      "published": "2026-11-13T06:00:11+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4162c0f5193e84a8d10ec871db599d15",
-      "title": "The IRGC said its Aerospace Force destroyed a U.S. early warning radar in Bahrain in retaliation for an air attack on a telecommunications tower in Sirik, warning that any further violations will bring a limitless response.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2121091169186717959",
-      "published": "2026-11-13T04:01:00+00:00",
-      "type": "airstrike",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 26.0667,
-        "lng": 50.5577
-      },
-      "credibility": 70,
       "is_government": false,
       "casualties": {
         "total": 0,
