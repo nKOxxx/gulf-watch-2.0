@@ -1,7 +1,821 @@
 {
-  "generated_at": "2026-11-17T14:39:24.507973+00:00",
-  "total_incidents": 47,
+  "generated_at": "2026-11-17T22:59:03.620020+00:00",
+  "total_incidents": 55,
   "incidents": [
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
+      "title": "Israeli parliament elects new speaker backed by Netanyahu\u2019s opponents",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
+      "published": "2026-11-17T22:30:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794949697",
+      "title": "Russian military plane crash in Siberia kills 19",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
+      "published": "2026-11-17T22:21:16+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/news/2026/11/17/hanwha-transforms-ship-into-floating-multi-rocket-launcher/",
+      "title": "Hanwha transforms ship into floating multi-rocket launcher",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/11/17/hanwha-transforms-ship-into-floating-multi-rocket-launcher/",
+      "published": "2026-11-17T22:06:50+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "7c48d9013e76d4e486f5a9ca31536dba",
+      "title": "The General Staff of the Kuwaiti Armed Forces announced that its air defenses are actively engaging with drone threats The General Staff urged the public to be calm and follow safety and security instructions issued by relevant authorities #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2122808604856062056",
+      "published": "2026-11-17T21:46:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794941378",
+      "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
+      "published": "2026-11-17T21:35:24+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/11/17/us-jets-strike-irgc-missile-launch-site-on-irans-qeshm-island-in-self-defence/",
+      "title": "US jets strike IRGC missile launch site on Iran's Qeshm Island in 'self-defence'",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/us/2026/11/17/us-jets-strike-irgc-missile-launch-site-on-irans-qeshm-island-in-self-defence/",
+      "published": "2026-11-17T21:28:37+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794948628",
+      "title": "UK sanctions Israeli settlement firms to protect two-state solution",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
+      "published": "2026-11-17T21:28:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794847325",
+      "title": "\u2018Zero transparency\u2019: Inside Trump\u2019s plans for Venezuela\u2019s oil money",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
+      "published": "2026-11-17T21:26:42+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794946952",
+      "title": "Moment Russian military plane crashes in Siberia, killing 19",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss",
+      "published": "2026-11-17T21:25:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794946437",
+      "title": "Whistleblower: Deadly drone strike in Kuwait could\u2019ve been avoided",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
+      "published": "2026-11-17T21:14:31+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=101338",
+      "title": "ICEYE makes $2B bid for Italian rocket firm Avio",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/iceye-makes-2b-bid-for-italian-rocket-firm-avio/",
+      "published": "2026-11-17T21:12:16+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0ee47d7498131476e8d30f4957eb603a",
+      "title": "#Kuwait warns Israeli occupation nuclear ambiguity, Iran's nuclear program undermine Middle East stability.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2122798753492918738",
+      "published": "2026-11-17T21:07:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794937027",
+      "title": "US Navy chief says Iran war has put \u2018strain\u2019 on maritime forces",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
+      "published": "2026-11-17T20:57:56+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=101321",
+      "title": "Army kicks off \u2018manufacturing rodeo\u2019 with focus on small drones",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/army-kicks-off-manufacturing-rodeo-with-focus-on-small-drones/",
+      "published": "2026-11-17T20:44:33+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/news/2026/11/17/watch-a-large-aerial-drone-evacuate-a-wounded-ukrainian-soldier-from-the-front-line/",
+      "title": "Watch a large aerial drone evacuate a wounded Ukrainian soldier from the front line",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/video/2026/11/17/watch-a-large-aerial-drone-evacuate-a-wounded-ukrainian-soldier-from-the-front-line/",
+      "published": "2026-11-17T20:31:20+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqrlg377638yo#0",
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T20:30:20+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
+      "title": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
+      "published": "2026-11-17T20:21:48+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=101274",
+      "title": "Army Aviation fleet facing more accidents, lower readiness rates: Obadal",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/army-aviation-fleet-facing-more-accidents-lower-readiness-rates-obadal/",
+      "published": "2026-11-17T19:42:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/news/2026/11/17/laneve-formally-nominated-for-army-chief-of-staff-role/",
+      "title": "LaNeve formally nominated for Army chief of staff role",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/news/pentagon-congress/2026/11/17/laneve-formally-nominated-for-army-chief-of-staff-role/",
+      "published": "2026-11-17T19:33:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/?p=88036",
+      "title": "Finland\u2019s Iceye bids \u20ac2 billion for Italian rocket maker Avio",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/11/17/finlands-iceye-bids-e2-billion-for-italian-rocket-maker-avio/",
+      "published": "2026-11-17T19:13:19+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "2af08e48b98dd373f6ae5de604104e1b",
+      "title": "#GCC chief condemns repeated Iranian attacks on #Bahrain, urges #UN Security Council action.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2122769812208206107",
+      "published": "2026-11-17T19:12:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "0355c6d6c96cc39555d81086823e2958",
+      "title": "Kuwait warns Israeli nuclear ambiguity, Iran's nuclear program undermine Middle East stability.  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2122769429146591233",
+      "published": "2026-11-17T19:10:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/future/technology/2026/11/17/apple-system-status-outage-app-store/",
+      "title": "Apple disruption affects iCloud, support and App Store for users",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/future/technology/2026/11/17/apple-system-status-outage-app-store/",
+      "published": "2026-11-17T19:06:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o#0",
+      "title": "UK sanctions firms over Israeli West Bank settlements",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T18:27:27+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/video/2026/nov/17/inferno-engulfs-gas-tanker-in-strait-of-hormuz-after-reported-strike-video",
+      "title": "Inferno engulfs gas tanker in strait of Hormuz after reported strike \u2013 video",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/video/2026/nov/17/inferno-engulfs-gas-tanker-in-strait-of-hormuz-after-reported-strike-video",
+      "published": "2026-11-17T18:20:59+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.5,
+        "lng": 56.5
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=101281",
+      "title": "White House officially nominates LaNeve for Army Chief",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/white-house-officially-nominates-laneve-for-army-chief/",
+      "published": "2026-11-17T17:55:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/17/anti-arab-hate-speech-surged-on-social-media-during-israel-election-report",
+      "title": "Anti-Arab hate speech surged on social media during Israel\u2019s election, report finds",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/17/anti-arab-hate-speech-surged-on-social-media-during-israel-election-report",
+      "published": "2026-11-17T17:44:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.5247,
+        "lng": 39.5692
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=101245",
+      "title": "Russia reportedly wants Finland to leave NATO as part of Ukraine deal. History, geography explain why.",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/russia-reportedly-wants-finland-to-leave-nato-as-part-of-ukraine-deal-history-geography-explain-why/",
+      "published": "2026-11-17T17:39:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/17/iran-will-pay-a-price-if-dirty-bomb-is-detonated-in-us/",
+      "title": "Iran will 'pay a price' if dirty bomb is detonated in US",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/17/iran-will-pay-a-price-if-dirty-bomb-is-detonated-in-us/",
+      "published": "2026-11-17T17:34:02+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/17/palestinians-blame-leadership-rather-than-israel-for-postponed-elections/",
+      "title": "Palestinians blame leadership rather than Israel for postponed elections",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/17/palestinians-blame-leadership-rather-than-israel-for-postponed-elections/",
+      "published": "2026-11-17T17:13:55+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.defensenews.com/news/2026/11/17/lithuanian-president-says-us-troop-rotations-will-continue-beyond-latest-deployment/",
+      "title": "Lithuanian president\u00a0says US troop rotations will continue beyond latest deployment",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/11/17/lithuanian-president-says-us-troop-rotations-will-continue-beyond-latest-deployment/",
+      "published": "2026-11-17T17:04:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e4f4a786778265fafa67b762e9497e4e",
+      "title": "Kuwait Cabinet reaffirms climate commitments at COP31, stressing unified action across government. The Cabinet also condemns continued Iranian attacks on Bahrain as violations of sovereignty and international law.  #KUNA #KUWAIT #CABINET",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2122735586922369031",
+      "published": "2026-11-17T16:56:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/17/live-iran-war-oman-tanker-indian-crew-india/",
+      "title": "Middle East latest: 21 Indians evacuated following strikes on tanker",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/17/live-iran-war-oman-tanker-indian-crew-india/",
+      "published": "2026-11-17T16:54:09+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b3a8ea429334a9ae8d42378ea22f7320",
+      "title": ". H.H. Sheikh Hamdan bin Zayed Al Nahyan, Ruler's Representative in Al Dhafra Region and Chairman of Dolphin Energy Limi...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/Df2Yk5TtjrZ",
+      "published": "2026-11-17T16:41:43+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/11/17/iraq-resumes-pumping-crude-oil-for-export-through-pipeline-to-turkey/",
+      "title": "Iraq resumes pumping crude oil for export through pipeline to Turkey",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/11/17/iraq-resumes-pumping-crude-oil-for-export-through-pipeline-to-turkey/",
+      "published": "2026-11-17T16:38:54+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington",
+      "title": "Trump claims US is \u2018looking into\u2019 Iranian bomb plot in Washington despite \u2018no credible threats\u2019",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington",
+      "published": "2026-11-17T16:03:34+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://breakingdefense.com/?p=101158",
+      "title": "A new Air Force stunt plane, plus a shakeup for special operations",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com/2026/11/a-new-air-force-stunt-plane-plus-a-shakeup-for-special-operations/",
+      "published": "2026-11-17T16:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "6ee9c7d20ad2a55faf417483ca7a74c9",
       "title": "#Palestine Tomorrow for Community Development Association announces the distribution of winter clothing to around 2,000 displaced families across the #Gaza Strip, as part of a series of upcoming winter relief projects supported by the #Kuwait Relief Society  #KUNA",
@@ -18,50 +832,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "27551fcc26615ad2ae4acc4a2898b319",
-      "title": "Hamdan bin Mohammed visits Amazon\u2019s new corporate office in Dubai Internet City, where he is briefed on the company\u2019s operations and expansion in the UAE, reflecting its commitment to supporting the country\u2019s economic diversification and digital transformation. During the visit, His Highness also attends an exclusive demonstration of Alexa for Shopping, an AI-powered service. The new office spans more than 196,000 square feet in Dubai Internet City, the region\u2019s largest technology hub and part of TECOM Group.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2122694747160826033",
-      "published": "2026-11-17T14:14:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794918088",
-      "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss",
-      "published": "2026-11-17T14:09:08+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -113,204 +883,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/opinion/comment/2026/11/17/lebanon-israel-hezbollah-iran-us-donald-trump-midterm-elections/",
-      "title": "Why Trump\u2019s midterm electoral setback leaves Lebanon further exposed",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/opinion/comment/2026/11/17/lebanon-israel-hezbollah-iran-us-donald-trump-midterm-elections/",
-      "published": "2026-11-17T14:00:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Lebanon",
-        "city": null,
-        "lat": 33.8547,
-        "lng": 35.8623
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/17/israeli-opposition-pushes-to-install-new-knesset-speaker/",
-      "title": "Israeli opposition pushes to install new Knesset speaker",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/17/israeli-opposition-pushes-to-install-new-knesset-speaker/",
-      "published": "2026-11-17T13:34:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "913ce97e6f840a4b12967aaa5cb7220f",
-      "title": ". The United Arab Emirates has condemned in the strongest terms the renewed hostile attack by Iran targeting the Kingdom...",
-      "source": "WAM News (RSS.app)",
-      "source_url": "https://www.instagram.com/p/Df2DH0kNpBb",
-      "published": "2026-11-17T13:34:14+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794921954",
-      "title": "\u2018Unprecedented\u2019 Ukraine attack on Crimean bridge",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss",
-      "published": "2026-11-17T13:29:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o#0",
-      "title": "UK sanctions firms over Israeli West Bank settlements",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T13:10:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794919205",
-      "title": "Infantino\u2019s FIFA challenger Diallo claims to have support beyond Europe",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss",
-      "published": "2026-11-17T13:09:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqrlg377638yo#0",
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "source": "BBC Middle East",
-      "source_url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T13:02:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794914554",
-      "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss",
-      "published": "2026-11-17T12:50:12+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/11/17/meth-filling-void-in-gulf-as-syrias-captagon-trade-collapses-un-warns/",
-      "title": "Meth replaces Captagon as Syria's drug trade collapses, UN warns",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/11/17/meth-filling-void-in-gulf-as-syrias-captagon-trade-collapses-un-warns/",
-      "published": "2026-11-17T12:35:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "a3b7688c8438191f543e2ab22a212902",
       "title": "#Kuwait's Ambassador to #India Meshal Al-Shemali says that the 65th anniversary of diplomatic ties between the two countries offers an important opportunity to strengthen their strategic partnership and expand bilateral cooperation  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -323,28 +895,6 @@
         "city": null,
         "lat": 29.3117,
         "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3007672117738aa67ae40bb33bcff262",
-      "title": "#Kuwait's Foreign Ministry strongly condemns continued Iranian attacks targeting #Bahrain, describing them as a flagrant violation of the Kingdom's sovereignty and territorial integrity, international law, the UN Charter and UN Security Council Resolution 2817  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2122666781475008964",
-      "published": "2026-11-17T12:22:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 95,
       "is_government": true,
@@ -369,72 +919,6 @@
         "lng": 34.8516
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f99276324db2659fe266137ff1f79bb3",
-      "title": "Kuwait's Foreign Ministry strongly condemns the continued Iranian attacks targeting Bahrain, most recently an attack on Tuesday, describing them as a flagrant violation of the Kingdom's sovereignty & territorial integrity, international law, the UN Charter & UN Security Council Resolution 2817.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2122663953520021970",
-      "published": "2026-11-17T12:11:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5cf90a2de3bec70c67766967c4d47330",
-      "title": "#Oman's Sultan Haitham bin Tariq discusses the latest regional developments and diplomatic efforts to ease tensions during a meeting with Iranian Foreign Minister Abbas Araghchi in Muscat  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2122657751532785802",
-      "published": "2026-11-17T11:46:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Oman",
-        "city": null,
-        "lat": 23.5859,
-        "lng": 58.4059
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/17/trump-to-discuss-iran-war-with-xi-and-putin-as-he-begins-asia-trip/",
-      "title": "Trump to discuss Iran war with Xi and Putin as he begins Asia trip",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/17/trump-to-discuss-iran-war-with-xi-and-putin-as-he-begins-asia-trip/",
-      "published": "2026-11-17T11:35:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -487,73 +971,7 @@
       }
     },
     {
-      "id": "d18a080dbfca8fff59b90ba357944983",
-      "title": "#UN Human Rights Office said Tuesday more than 2,230 civilians were killed in Sudan between January & end of October 2026, including more than 1,630 killed in drone strikes across the country. The office documented at least 1,390 civilian deaths from January through June, more than 80% from drone strikes, and further 840 from July through October, including nearly 520 people killed in drone strikes.  #Kuna",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2122637812608479677",
-      "published": "2026-11-17T10:27:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 630,
-        "military": 0,
-        "civilian": 630
-      }
-    },
-    {
-      "id": "012668390b1792e92c09738fcaf58ded",
-      "title": "#Bahrain Defense Force said air defenses intercepted, destroyed several Iranian aerial threats before reaching their targets. In a statement, the General Command accused Iran of continuing systematic campaign of attacks against Bahrain, saying all units remained on high alert.",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2122618597088411954",
-      "published": "2026-11-17T09:11:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "546561e33d6ed244b8e063bcf5514692",
-      "title": "The 9th International Conference on Energy Research & Development opened at Sabah Al-Salem University City under patronage of His Highness the Prime Minister Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah, drawing participants from Kuwait & abroad for three days of talks. Speaking on behalf of His Highness the Prime Minister, Minister of Electricity, Water and Renewable Energy Dr. Sabeeh Al-Mukhaizeem said #Kuwait is expanding capacity & improving reliability of its electricity & water systems to meet demand & support development projects.  #Kuna",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2122614807874408556",
-      "published": "2026-11-17T08:56:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "Defense News--345563800930439341",
+      "id": "Defense News--3568032565719343660",
       "title": "French troops operating in non-combat roles in Ukraine, broadcaster RFI reports",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/global/europe/2026/11/17/french-troops-operating-in-non-combat-roles-in-ukraine-broadcaster-rfi-reports/",
@@ -663,226 +1081,6 @@
       }
     },
     {
-      "id": "https://one.sightlinemg.com/defensenews/news/2026/11/16/us-army-takes-urgent-action-to-build-concrete-bunkers-across-the-middle-east/",
-      "title": "US Army takes \u2018urgent\u2019 action to build concrete bunkers across the Middle East",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/global/mideast-africa/2026/11/16/us-army-takes-urgent-action-to-build-concrete-bunkers-across-the-middle-east/",
-      "published": "2026-11-16T20:43:10+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=101149",
-      "title": "Vulcan failure deepens concerns over US military launch capacity",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/11/vulcan-failure-deepens-concerns-over-us-military-launch-capacity/",
-      "published": "2026-11-16T20:07:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
-      "title": "Saudi Arabia strategy challenged by anti-Houthi forces in Yemen",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
-      "published": "2026-11-16T19:04:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=101123",
-      "title": "LeoLabs acquires FishEye to bolster its missile defense chops",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/11/leolabs-acquires-fisheye-to-bolster-its-missile-defense-chops/",
-      "published": "2026-11-16T19:01:00+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/news/video/2026/nov/16/let-the-aid-in-deadly-winter-approaches-in-gaza-the-latest",
-      "title": "\u2018Let the aid in\u2019: Deadly winter approaches in Gaza - The Latest",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/news/video/2026/nov/16/let-the-aid-in-deadly-winter-approaches-in-gaza-the-latest",
-      "published": "2026-11-16T18:13:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=101126",
-      "title": "Italy unveils plans to develop a new naval missile launcher",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/11/italy-unveils-plans-to-develop-a-new-naval-missile-launcher/",
-      "published": "2026-11-16T18:07:01+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/?p=87873",
-      "title": "New tools for troops to gun down drones | Defense News Weekly Full Episode 11.17.26",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/video/2026/11/16/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26/",
-      "published": "2026-11-16T18:03:38+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/news/audio/2026/nov/16/let-the-aid-in-deadly-winter-approaches-in-gaza-the-latest",
-      "title": "\u2018Let the aid in\u2019: deadly winter approaches in Gaza \u2013 The Latest",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/news/audio/2026/nov/16/let-the-aid-in-deadly-winter-approaches-in-gaza-the-latest",
-      "published": "2026-11-16T17:16:27+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=101067",
-      "title": "Army\u2019s G-TEAD expands OTA awards to push more vendors to prototyping stage",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/11/armys-g-tead-expands-ota-awards-to-push-more-vendors-to-prototyping-stage/",
-      "published": "2026-11-16T16:06:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://breakingdefense.com/?p=101087",
-      "title": "Navy eyes \u2018operational employment\u2019 of key UUV programs, admiral says",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com/2026/11/navy-eyes-operational-employment-of-key-uuv-programs-admiral-says/",
-      "published": "2026-11-16T14:47:07+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo#0",
       "title": "Yemeni forces retreat to defend port city from Houthis",
       "source": "BBC Middle East",
@@ -897,28 +1095,6 @@
         "lng": 48.5164
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
-      "title": "Revealed: Israel uploaded millions of photos to Amazon\u2019s facial recognition platform to track Palestinians",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
-      "published": "2026-11-16T11:00:56+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
