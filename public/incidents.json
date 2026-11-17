@@ -1,22 +1,264 @@
 {
-  "generated_at": "2026-11-16T22:19:25.090188+00:00",
-  "total_incidents": 39,
+  "generated_at": "2026-11-17T04:37:16.210576+00:00",
+  "total_incidents": 44,
   "incidents": [
     {
-      "id": "https://www.thenationalnews.com/news/us/2026/11/16/israeli-military-syria-druze-sweida/",
-      "title": "Israeli military operations in Syria continue 'relentlessly', UN says",
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/17/iran-war-live-tanker-attack-strait-of-hormuz/",
+      "title": "Middle East latest: Tanker attacked in Strait of Hormuz off Oman, UKMTO says",
       "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/11/16/israeli-military-syria-druze-sweida/",
-      "published": "2026-11-16T21:47:40+00:00",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/17/iran-war-live-tanker-attack-strait-of-hormuz/",
+      "published": "2026-11-17T04:29:25+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Oman",
+        "city": null,
+        "lat": 21.4735,
+        "lng": 55.9754
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794887857",
+      "title": "Gunfire erupts in occupied West Bank settler attack",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
+      "published": "2026-11-17T04:00:08+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Israel",
+        "country": null,
         "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
+        "lat": 31.9466,
+        "lng": 35.3027
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/11/17/president-sheikh-mohamed-thanked-for-hosting-crucial-peace-talks-in-meeting-with-russian-security-chief/",
+      "title": "President Sheikh Mohamed thanked for hosting crucial peace talks in meeting with Russian security chief",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/11/17/president-sheikh-mohamed-thanked-for-hosting-crucial-peace-talks-in-meeting-with-russian-security-chief/",
+      "published": "2026-11-17T03:59:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/aviation/2026/11/17/dubai-airport-handles-more-than-50-million-passengers-as-airlines-resume-flights/",
+      "title": "Dubai airport on target for 70 million passengers by year-end amid recovery from war",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/business/aviation/2026/11/17/dubai-airport-handles-more-than-50-million-passengers-as-airlines-resume-flights/",
+      "published": "2026-11-17T03:35:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/football/2026/11/17/iraq-grapples-with-federation-mess-and-uncertainty-over-graham-arnolds-future/",
+      "title": "Iraq grapples with federation mess and uncertainty over Graham Arnold's future",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/sport/football/2026/11/17/iraq-grapples-with-federation-mess-and-uncertainty-over-graham-arnolds-future/",
+      "published": "2026-11-17T03:24:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794878797",
+      "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+      "published": "2026-11-17T03:12:54+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uk/2026/11/17/britain-lost-its-moral-compass-over-gaza-says-burnham/",
+      "title": "Britain lost its \u2018moral compass\u2019 over Gaza, says Burnham",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uk/2026/11/17/britain-lost-its-moral-compass-over-gaza-says-burnham/",
+      "published": "2026-11-17T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/opinion/editorial/2026/11/17/arab-hope-makers-sheikh-mohammed-bin-rashid-hamdan/",
+      "title": "Hope needs opportunity to flourish",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/opinion/editorial/2026/11/17/arab-hope-makers-sheikh-mohammed-bin-rashid-hamdan/",
+      "published": "2026-11-17T03:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794874931",
+      "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+      "published": "2026-11-17T01:38:13+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Yemen",
+        "city": null,
+        "lat": 12.7855,
+        "lng": 45.0187
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794872359",
+      "title": "Irish court jails man for life over Dublin knife attack that sparked riots",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
+      "published": "2026-11-17T01:19:56+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794877824",
+      "title": "EU countries announce migrant deportation centre in Rwanda",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
+      "published": "2026-11-17T01:12:28+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1794870262",
+      "title": "Iran war live: Houthis advance in Yemen as Vance rejects \u2018forever war\u2019",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
+      "published": "2026-11-16T23:57:49+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -39,28 +281,6 @@
         "lng": 48.5164
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/future/technology/2026/11/16/ai-export-rules-jensen-huang-trump/",
-      "title": "After Jensen Huang's resignation, US Commerce finalises AI export rule",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/future/technology/2026/11/16/ai-export-rules-jensen-huang-trump/",
-      "published": "2026-11-16T21:20:22+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -113,28 +333,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1794856148",
-      "title": "Sudanese army air attack kills 13 in western Sudan: Rights group",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
-      "published": "2026-11-16T21:06:19+00:00",
-      "type": "airstrike",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/news/2026/11/16/us-army-takes-urgent-action-to-build-concrete-bunkers-across-the-middle-east/",
       "title": "US Army takes \u2018urgent\u2019 action to build concrete bunkers across the Middle East",
       "source": "Defense News",
@@ -147,28 +345,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794861110",
-      "title": "London Palestine Film Festival returns for 27th year",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss",
-      "published": "2026-11-16T20:36:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 31.9522,
-        "lng": 35.2332
       },
       "credibility": 90,
       "is_government": false,
@@ -215,28 +391,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1794854616",
-      "title": "Israeli opposition accuses Netanyahu of attempted \u2018coup\u2019",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
-      "published": "2026-11-16T20:00:07+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -421,50 +575,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/uk/2026/11/16/long-arm-of-hate-second-iran-aligned-tv-channel-faces-uk-closure/",
-      "title": "'Long arm of hate': Second Iran-aligned TV channel faces UK closure",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/11/16/long-arm-of-hate-second-iran-aligned-tv-channel-faces-uk-closure/",
-      "published": "2026-11-16T17:02:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/16/stable-syria-in-europes-interest-eu-wins-backing-for-deal-with-damascus/",
-      "title": "\u2018Stable Syria in Europe\u2019s interest\u2019: EU wins backing for deal with Damascus",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/16/stable-syria-in-europes-interest-eu-wins-backing-for-deal-with-damascus/",
-      "published": "2026-11-16T16:49:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 33.5138,
-        "lng": 36.2765
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "68b2b3ea38de06550c502770df2d7b00",
       "title": "#Saudi Arabia's northwestern oasis city of Al-Ula is offering investors opportunities to pursue a plethora of development projects, adding to state investments there worth 10 billion Saudi riyals (USD 2.7 bln) in line with the Gulf Arab kingdom's 2030 vision  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -575,7 +685,7 @@
       }
     },
     {
-      "id": "Defense News-3207487840532352953",
+      "id": "Defense News--9205446357173217689",
       "title": "Drone, meet bullet \u2014 companies develop new counter UAS capability | Business of Defense \u2013 Part 3",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/video/2026/11/16/drone-meet-bullet-companies-develop-new-counter-uas-capability-business-of-defense-part-3/",
