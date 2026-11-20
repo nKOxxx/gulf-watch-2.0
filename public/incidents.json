@@ -1,7 +1,425 @@
 {
-  "generated_at": "2026-11-20T03:30:55.295351+00:00",
-  "total_incidents": 51,
+  "generated_at": "2026-11-20T13:11:41.559291+00:00",
+  "total_incidents": 47,
   "incidents": [
+    {
+      "id": "2f443650fdb14e59e8c6c9cbfbc15999",
+      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u0646\u0637\u0642\u0629 \u062c\u0627\u0632\u0627\u0646\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (998). Alert: The danger has passed in Jazan Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2123763124855537975",
+      "published": "2026-11-20T12:59:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9f3cd7430a79b441b342cf06d7f3d740",
+      "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0645\u0646\u0637\u0642\u0629 \u062c\u0627\u0632\u0627\u0646 \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in Jazan Province to alert of a potential danger. Please follow the instructions below:",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2123761248252854293",
+      "published": "2026-11-20T12:51:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "434f82628304ab6c517f679aa0fb78cd",
+      "title": "Dubai Municipality opens Ghadeer Al Tair Park, the first in a new generation of community parks redefining the role of parks in residential neighbourhoods. Spanning 9,600 square metres, the park has an innovative, open design that puts it within a five-minute reach of residents in the surrounding neighbourhoods. Facilities include two children's play areas, a jogging track, fitness equipment, a multipurpose hall and a dedicated space at the heart of the park for community events and gatherings. The park is part of Dubai Municipality's project to develop 35 new-generation community parks. The remaining parks will open in phases through April 2027, supporting the objectives of the Blue and Gre",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2123761068791230679",
+      "published": "2026-11-20T12:51:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/20/live-iran-war-saudi-arabia-houthis/",
+      "title": "Middle East latest: Saudi coalition and Houthis threaten strikes on ports",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/20/live-iran-war-saudi-arabia-houthis/",
+      "published": "2026-11-20T12:37:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9fde80e5dff330c8304c04d3fe51f3b0",
+      "title": "Czech Parliament Speaker Tomio Okamura emphasizes the importance of strengthening bilateral cooperation between his country and #Kuwait in a manner that serves the aspirations of both friendly nations  #KUNA #KUWAIT",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2123756860184429015",
+      "published": "2026-11-20T12:34:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795168072",
+      "title": "What does the ICJ\u2019s Rohingya genocide ruling mean for Gaza?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza?traffic_source=rss",
+      "published": "2026-11-20T12:20:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795159431",
+      "title": "US targets Iran\u2019s ship-to-ship transfers: Can Tehran break the blockade?",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss",
+      "published": "2026-11-20T12:19:24+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/video/2026/nov/20/how-the-war-in-iran-turned-the-gulf-into-a-climate-catastrophe-video-explainer",
+      "title": "How the war in Iran turned the Gulf into a climate catastrophe \u2013 video explainer",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/video/2026/nov/20/how-the-war-in-iran-turned-the-gulf-into-a-climate-catastrophe-video-explainer",
+      "published": "2026-11-20T12:00:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://one.sightlinemg.com/defensenews/?p=88163",
+      "title": "Dutch defense-industry plan targets 40% growth, \u20ac15 billion revenue by 2030",
+      "source": "Defense News",
+      "source_url": "https://www.defensenews.com/global/europe/2026/11/20/dutch-defense-industry-plan-targets-40-growth-e15-billion-revenue-by-2030/",
+      "published": "2026-11-20T11:56:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f0c81cc4463270fe4b7d95bb7bf22f31",
+      "title": "The Community Development Authority in Dubai participates in Early Childhood Week with a series of initiatives aimed at supporting children's development and equipping families with the knowledge and tools to meet their needs. Held from 16 to 22 November as part of the Year of the Family 2026, the week is organised by the Ministry of Family in collaboration with the Abu Dhabi Early Childhood Authority. The Executive Council of Dubai has tasked the CDA with coordinating the participation of 12 local entities in delivering around 12 initiatives and events. The collaboration aims to expand the reach of awareness programmes and interactive activities for children and their families. @CDA_Dubai",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2123745636969558383",
+      "published": "2026-11-20T11:49:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "56c0d27011bc28edff8729aef9af975a",
+      "title": "From Bengaluru to Delhi: Israel MOD Deepens Defense and Technology Cooperation in India \ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf3 Read More:",
+      "source": "Israel MOD (RSS.app)",
+      "source_url": "https://x.com/Israel_MOD/status/2123743759863067087",
+      "published": "2026-11-20T11:42:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795160716",
+      "title": "US appoints new cybersecurity chief after series of tech failures",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/20/us-appoints-new-cybersecurity-chief-after-series-of-tech-failures?traffic_source=rss",
+      "published": "2026-11-20T11:26:28+00:00",
+      "type": "cyber",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "aa26de038e6585694333f501a06a0102",
+      "title": "flydubai will grow its network with five additional routes from December, becoming the first UAE airline to introduce new nonstop services to Aktau and Atyrau in Kazakhstan and Tyumen in Russia, while resuming flights to Shymkent in Kazakhstan and Samarkand in Uzbekistan.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2123730523382263994",
+      "published": "2026-11-20T10:49:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/lifestyle/2026/11/20/we-are-not-just-a-fair-weather-friend-harrods-boss-on-the-importance-of-the-middle-east/",
+      "title": "\u2018We are not just a fair-weather friend\u2019: Harrods boss on the importance of the Middle East",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/lifestyle/2026/11/20/we-are-not-just-a-fair-weather-friend-harrods-boss-on-the-importance-of-the-middle-east/",
+      "published": "2026-11-20T10:47:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4f7dd304d978a8b9669c6fe535e4c5b3",
+      "title": "The General Traffic Department announces temporary closures on Gulf Street from 1:00 am until noon on Saturday in conjunction with a cycling marathon.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2123718086075293917",
+      "published": "2026-11-20T10:00:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/20/exclusive-syria-m5-roads-jordan/",
+      "title": "Gulf consortium starts work to repair Syria's main motorway",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/20/exclusive-syria-m5-roads-jordan/",
+      "published": "2026-11-20T09:55:57+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "66bac14ca62ef468fa52f86f0e5278a8",
+      "title": "The #UN marks World Children's Day amid warnings that armed conflicts, humanitarian crises, poverty, displacement & climate change are increasingly threatening the lives and basic rights of millions of children worldwide.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2123699707620794858",
+      "published": "2026-11-20T08:47:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "327cde92c5090bfeb985fce5603deb02",
+      "title": "KPC: Kuwaiti oil price rises 59 cents to USD 81.88 per barrel.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2123698298036871643",
+      "published": "2026-11-20T08:41:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests",
+      "title": "Iraq university\u2019s removal of male professors teaching women sparks weeks of protests",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests",
+      "published": "2026-11-20T05:00:23+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "20f2e52959e5b84d2ddb3f5c471bcbfe",
       "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u062d\u0627\u0641\u0638\u0629 \u062e\u0645\u064a\u0633 \u0645\u0634\u064a\u0637\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (998). Alert: The danger has passed in Khamis Mushait Governorate. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
@@ -91,64 +509,20 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1795141144",
-      "title": "Trump nominee refuses to call Jan 6 an \u2018attack\u2019 at Senate hearing",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss",
-      "published": "2026-11-20T02:25:33+00:00",
+      "id": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo#0",
+      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T00:13:21+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": null,
         "city": null,
-        "lat": 29.0,
-        "lng": 48.0
+        "lat": 15.5527,
+        "lng": 48.5164
       },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/podcasts/beyond-the-headlines/2026/11/20/what-will-come-of-iraqs-jurf-al-sakhar-operation/",
-      "title": "What will come of Iraq\u2019s Jurf Al Sakhar operation?",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/podcasts/beyond-the-headlines/2026/11/20/what-will-come-of-iraqs-jurf-al-sakhar-operation/",
-      "published": "2026-11-20T02:00:01+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1795134363",
-      "title": "Haiti police say 34 gang members killed in capital raid",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
-      "published": "2026-11-20T00:31:02+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
+      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -172,50 +546,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "94ddb8edab89b47ab32551c0bf02f02b",
-      "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0645\u062f\u064a\u0646\u0629 \u062c\u064a\u0632\u0627\u0646 \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in Jizan City to alert of a potential danger. Please follow the instructions below:",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2123567269183660398",
-      "published": "2026-11-20T00:01:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1795125561",
-      "title": "Iran war live: Houthis escalate attacks on Saudi capital",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
-      "published": "2026-11-19T23:58:40+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -259,28 +589,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/19/arab-and-muslim-countries-welcome-uk-and-australian-sanctions-over-israeli-settlements/",
-      "title": "Arab and Muslim countries welcome UK and Australian sanctions over Israeli settlements",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/19/arab-and-muslim-countries-welcome-uk-and-australian-sanctions-over-israeli-settlements/",
-      "published": "2026-11-19T19:55:46+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -347,94 +655,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "6337ad8ed5891520fd24bb44757f5305",
-      "title": "Ahmed bin Saeed, Chairman and Chief Executive, Emirates Airline & Group, and Saeed Al Tayer, Chairman of Emirates National Oil Company (ENOC) Group, witness the signing of an agreement between Emirates Skywards and ENOC Group. The partnership enables members to earn Skywards Miles on eligible everyday purchases, including fuel, groceries, car washes and vehicle servicing, across ENOC\u2019s UAE network. The network includes more than 215 ZOOM convenience stores, 54 AutoPro automotive service centres and 49 ProWash facilities.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2123481423789371488",
-      "published": "2026-11-19T18:19:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "eb959f7bed64d8886cba634efcad724a",
-      "title": "The NATO-Istanbul Cooperation Initiative (ICI) Regional Center in #Kuwait concludes a training course on countering maritime terrorism, in cooperation with the #NATO Maritime Security Centre of Excellence in #Turkiye  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2123480922020307362",
-      "published": "2026-11-19T18:17:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f829f04cc99d90737309f7099adc71d9",
-      "title": "Hamdan bin Mohammed inaugurates the Ahmed Khamis Al Hameli School at the Joint Aviation Institute. The school honours the memory and distinguished service of one of the UAE\u2019s aviation pioneers, who helped lay the foundations of military aviation in the country. Naming the school after him reflects the UAE\u2019s tradition of honouring those who have served the nation with dedication. His Highness also attends a graduation ceremony for military personnel who have completed specialised courses in joint aviation. The courses form part of ongoing efforts to develop the professional skills and technical expertise of military personnel, improve operational performance and strengthen combat readiness, h",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2123476846226579623",
-      "published": "2026-11-19T18:01:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/19/irgcs-esmail-qaani-holds-talks-with-kataib-hezbollah-as-showdown-with-iraqi-forces-averted/",
-      "title": "IRGC's Esmail Qaani holds talks with Kataib Hezbollah as showdown with Iraqi forces averted",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/19/irgcs-esmail-qaani-holds-talks-with-kataib-hezbollah-as-showdown-with-iraqi-forces-averted/",
-      "published": "2026-11-19T17:53:50+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -531,28 +751,6 @@
       }
     },
     {
-      "id": "a2a5095eda42ba69064a247e4a825bd5",
-      "title": "As part of Dubai\u2019s National Month celebrations, UAE Skiers Academy have announced this year\u2019s initiative \u2018Our Flag at the Summit\u2019. On 2 December, 15 skiers from the UAE Skiers Academy will carry the UAE flag to a peak in the Austrian Alps in the Ischgl area and raise it to mark the 55th Eid Al Etihad. The UAE Skiers Academy is organising this journey with support from the Ministry of Sports, the Dubai Sports Council, the UAE Winter Sports Federation, McDonald\u2019s UAE and Ski Dubai.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2123458822752842115",
-      "published": "2026-11-19T16:50:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=101376",
       "title": "The real-world missile defense lessons from Ukraine and Iran \u2014 and how they matter for China",
       "source": "Breaking Defense",
@@ -575,160 +773,6 @@
       }
     },
     {
-      "id": "948009a453a0ca6a246187f22db09b28",
-      "title": "#Kuwait Air Force, represented by Salem Al-Sabah Air Base, hosts a delegation from the North Atlantic Treaty Organization Allied Command Operations as part of efforts to promote military cooperation & share expertise  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2123454615593128013",
-      "published": "2026-11-19T16:33:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "de7d77d54fb64a82f71d22171127a834",
-      "title": "Saudi Civil Defense: Houthi militia attacks Riyadh Financial District tower, causing material damage  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2123443434014773513",
-      "published": "2026-11-19T15:49:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "efd49856b6d514552db5eaedf2f44039",
-      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062e\u0631\u062c\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (911). Alert: The danger has passed in Al Kharj Governorate. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2123433549726445909",
-      "published": "2026-11-19T15:09:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "37836605944623808743d667d3de5879",
-      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (911). Alert: The danger has passed in Riyadh City. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2123433408055357734",
-      "published": "2026-11-19T15:09:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "703c700db3f3f320afb1631173cf5f78",
-      "title": "Beijing, Moscow, Washington vow to safeguard international stability & security  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2123423635318681701",
-      "published": "2026-11-19T14:30:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "fb678df1f8a0b4feebe52228ba14fc56",
-      "title": "#Kuwait's Minister of State for Youth and Sports Affairs welcomes visiting Vice President of the Spanish club FC Barcelona to discuss several topics of mutual interest & prospects for sports cooperation  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2123413714074272168",
-      "published": "2026-11-19T13:50:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "c0dcfdd957efa13b0747c1e9857776cf",
-      "title": "The International Court of Justice finds Myanmar guilty of genocide against its Muslim Rohingya minority during military operations in 2016 & 2017  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2123409658706555361",
-      "published": "2026-11-19T13:34:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/?p=88123",
       "title": "Ukraine plans to double drone supplies, triple deep strikes",
       "source": "Defense News",
@@ -744,28 +788,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2c56e9d5d15f8edf80e706de22281fb0",
-      "title": "Chinese President calls for stronger cooperation between China, Russia & the United States to address global challenges & safeguard international peace & security  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2123406136334274789",
-      "published": "2026-11-19T13:20:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -839,28 +861,6 @@
       }
     },
     {
-      "id": "a7b30239eee99002fa6521b4b4e658b4",
-      "title": "Weekly security report #\u0645\u0645\u0644\u0643\u0629_\u0627\u0644\u0628\u062d\u0631\u064a\u0646 #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 #\u0627\u0644\u0623\u0645\u0646_\u0641\u064a_\u0623\u0633\u0628\u0648\u0639 #Bahrain #Moi",
-      "source": "Bahrain MOI (RSS.app)",
-      "source_url": "https://www.instagram.com/p/Df634wNnODs",
-      "published": "2026-11-19T10:32:51+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 26.0667,
-        "lng": 50.5577
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "4752164c8b8a5567dae51af877a5560a",
       "title": "Israel and the Czech Republic Deepen Defense Cooperation: Czech Prime Minister and Senior Officials Visit Arrow Unit and Israel Missile Defense Organization; Czech Defense Minister Meets Israel Ministry of Defense Leadership \ud83c\uddee\ud83c\uddf1\ud83c\udde8\ud83c\uddff Read More:",
       "source": "Israel MOD (RSS.app)",
@@ -876,28 +876,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://one.sightlinemg.com/defensenews/?p=88105",
-      "title": "Japanese nuclear submarines are a bad idea for East China Sea security \u2014 for now",
-      "source": "Defense News",
-      "source_url": "https://www.defensenews.com/opinion/2026/11/19/japanese-nuclear-submarines-are-a-bad-idea-for-east-china-sea-security-for-now/",
-      "published": "2026-11-19T09:36:51+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -993,28 +971,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/nov/18/wednesday-briefing-how-naza-shook-israel-and-sparked-a-debate-the-country-had-ignored",
-      "title": "\u2018They want silence\u2019: how the film NAZA is shaking Israel",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/18/wednesday-briefing-how-naza-shook-israel-and-sparked-a-debate-the-country-had-ignored",
-      "published": "2026-11-18T06:44:25+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/cqrlg377638yo#0",
       "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
       "source": "BBC Middle East",
@@ -1073,50 +1029,6 @@
         "lng": 53.688
       },
       "credibility": 95,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "9447977b7df17dad44f887763b3ab2a7",
-      "title": "Peter Kuznick, Professor of History and Director of the Nuclear Studies Institute at American University, says the war on Iran carries an unacceptable risk of nuclear escalation.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2122569662974025829",
-      "published": "2026-11-17T05:56:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 70,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5c3d149f563b53766955bc17360fb333",
-      "title": "Iran's 2,000-kilometer missile range has reflected strategic choices, not technological constraints. Recent military statements have raised the question of whether Tehran is ready to move beyond that limit.",
-      "source": "Mehr News (RSS.app)",
-      "source_url": "https://x.com/MehrnewsCom/status/2122569544707305569",
-      "published": "2026-11-17T05:56:00+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 35.6892,
-        "lng": 51.389
-      },
-      "credibility": 70,
       "is_government": false,
       "casualties": {
         "total": 0,
