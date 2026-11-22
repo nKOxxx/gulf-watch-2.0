@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-21T19:28:41.020365+00:00",
-  "total_incidents": 49,
+  "generated_at": "2026-11-22T00:27:47.229256+00:00",
+  "total_incidents": 55,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1795286243",
-      "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+      "id": "https://www.aljazeera.com/?t=1795302197",
+      "title": "Iran war live: Iran targets US military in Bahrain; Houthi strikes continue",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
-      "published": "2026-11-21T18:42:38+00:00",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+      "published": "2026-11-21T23:59:03+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": null,
+        "country": "Bahrain",
         "city": null,
-        "lat": 29.0,
-        "lng": 48.0
+        "lat": 32.4279,
+        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
@@ -25,11 +25,33 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1795283892",
-      "title": "FBI national crime database suffers suspected breach: Reports",
+      "id": "https://www.aljazeera.com/?t=1795295999",
+      "title": "Lebanese president demands Israel withdrawal, decries Iran\u2019s interference",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
-      "published": "2026-11-21T18:19:10+00:00",
+      "source_url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
+      "published": "2026-11-21T23:44:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.arabnews.com/world/belgium-faces-air-traffic-shutdown-due-to-national-strike-monday-3013428",
+      "title": "Belgium faces air traffic shutdown due to national strike Monday",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/world/belgium-faces-air-traffic-shutdown-due-to-national-strike-monday-3013428",
+      "published": "2026-11-21T23:25:32+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -38,8 +60,272 @@
         "lat": 29.0,
         "lng": 48.0
       },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795302838",
+      "title": "Iran faces a \u2018silent economic war\u2019, says Iranian president",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+      "published": "2026-11-21T23:18:14+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.arabnews.com/middle-east/libya-loses-308-million-as-armed-group-blocks-oil-pipeline-for-over-20-days-3013427",
+      "title": "Libya loses $30.8 million as armed group blocks oil pipeline for over 20 days",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/middle-east/libya-loses-308-million-as-armed-group-blocks-oil-pipeline-for-over-20-days-3013427",
+      "published": "2026-11-21T22:47:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795298387",
+      "title": "Bahrain says Iranian attack hits industrial facility",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+      "published": "2026-11-21T22:02:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9da2a36b57bc36910187037794ff3e21",
+      "title": "The Coalition to Support Legitimacy in #Yemen announce the interception and destruction of a ballistic missile launched by the terrorist Houthi militia toward the Saudi Western Region  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2124260863129321836",
+      "published": "2026-11-21T21:57:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b0ab15a4c35cbabe60121875bde71feb",
+      "title": "Secretary-General of the Gulf Cooperation Council Jasem Al-Budaiwi expresses the #GCC's full solidarity with the Kingdom of #Bahrain following the Bahraini Ministry of Interior's announcement of a fire erupted at an industrial facility in the kingdom due to Iran's aggression #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2124260581897032025",
+      "published": "2026-11-21T21:56:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795291732",
+      "title": "Bahrain says Iranian attack causes fire at industrial facility",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+      "published": "2026-11-21T21:31:03+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.arabnews.com/middle-east/eisenkot-invites-netanyahus-party-for-israeli-coalition-talks-3013421",
+      "title": "Eisenkot invites Netanyahu\u2019s party for Israeli coalition talks",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/middle-east/eisenkot-invites-netanyahus-party-for-israeli-coalition-talks-3013421",
+      "published": "2026-11-21T21:09:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795285675",
+      "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+      "published": "2026-11-21T20:56:35+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5687c91761105adfe962775c0e67970a",
+      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u0646\u0637\u0642\u0629 \u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (911). Alert: The danger has passed in Makkah Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2124243840806658334",
+      "published": "2026-11-21T20:49:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "5acbd488f799fa0d0c12f67004f67627",
+      "title": "#Bahrain's Ministry of Interior (MoI): Civilian industrial facility had been targeted by a blatant Iranian aggression, resulting in a fire at the site  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2124242753609486358",
+      "published": "2026-11-21T20:45:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "de24512257ed1146d43fea853ea45099",
+      "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0645\u0646\u0637\u0642\u0629 \u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629 \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in Makkah Province to alert of a potential danger. Please follow the instructions below:",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/SaudiDCD/status/2124241673806860436",
+      "published": "2026-11-21T20:40:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "13d905bb518a17a511eaca2e63f984dc",
+      "title": "Prime Minister of #Pakistan Shehbaz Sharif strongly condemns the Houthi attack on the King Abdullah Financial District in #Riyadh  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2124227664772804807",
+      "published": "2026-11-21T19:45:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -61,72 +347,6 @@
         "lng": 48.0
       },
       "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1795284174",
-      "title": "Trump says he wants \u2018permanent\u2019 deal to stop Iran getting nuclear weapons",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
-      "published": "2026-11-21T18:05:51+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1795283501",
-      "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
-      "published": "2026-11-21T17:54:19+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1795277234",
-      "title": "Russian strike kills two, wounds 60, in Zelenskyy\u2019s hometown",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
-      "published": "2026-11-21T17:20:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -355,50 +575,6 @@
       }
     },
     {
-      "id": "1e391cc443ba77e8bd7f0eb4e024e92c",
-      "title": "#Kuwait's humanitarian initiatives restore hope & support thousands of people worldwide  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2124101481158553807",
-      "published": "2026-11-21T11:23:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "acaa6c17343c3f61d7248879e4173769",
-      "title": "#Qatar's Deputy Prime Minister and Minister of State for Defense Affairs meets with #US CENTCOM Commander  #KUNA #Kuwait",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2124093198645486052",
-      "published": "2026-11-21T10:50:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/nov/21/displaced-families-gaza-winter-misery",
       "title": "\u2018We \u200bare tired from all this suffering\u2019: displaced families in Gaza brace for another winter of misery",
       "source": "The Guardian",
@@ -470,50 +646,6 @@
       "source": "Saudi Civil Defense (RSS.app)",
       "source_url": "https://x.com/SaudiDCD/status/2123916773229781420",
       "published": "2026-11-20T23:09:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "6a4c729e399881cb7969313c35a3c52f",
-      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0633\u0644\u064a\u0644\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (911). Alert: The danger has passed in As Sulayyil Governorate. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2123915555287535977",
-      "published": "2026-11-20T23:05:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "fb52ac44bf06d2410251253dda6e071a",
-      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (911). Alert: The danger has passed in Riyadh City. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2123914997336281345",
-      "published": "2026-11-20T23:02:00+00:00",
       "type": "incident",
       "status": "confirmed",
       "location": {
