@@ -1,7 +1,535 @@
 {
-  "generated_at": "2026-11-22T08:10:37.867417+00:00",
-  "total_incidents": 43,
+  "generated_at": "2026-11-22T16:26:01.230837+00:00",
+  "total_incidents": 51,
   "incidents": [
+    {
+      "id": "29db4329a4eeb2d4f6cca3ca6071b11a",
+      "title": "Kuwait's Burgan Club defeats Oman Club 35-29 in the 42nd Gulf Handball Clubs Cup Winners' Championship, currently being held in Bahrain.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2124530216802394496",
+      "published": "2026-11-22T15:47:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 26.0667,
+        "lng": 50.5577
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
+      "title": "Netanyahu rival condemns settler arson attacks on Palestinian villages in West Bank",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
+      "published": "2026-11-22T15:22:38+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 31.9466,
+        "lng": 35.3027
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795349110",
+      "title": "Drone attacks kill four near Sudan\u2019s capital, damage UN building",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
+      "published": "2026-11-22T15:03:38+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795356595",
+      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
+      "published": "2026-11-22T14:48:50+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/22/russian-ship-hit-by-suspected-drone-attack-at-libyan-naval-base/",
+      "title": "Russian ship hit by suspected drone attack at Libyan naval base",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/22/russian-ship-hit-by-suspected-drone-attack-at-libyan-naval-base/",
+      "published": "2026-11-22T14:47:34+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795357749",
+      "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
+      "published": "2026-11-22T14:30:27+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795350259",
+      "title": "Iran unveils dual-missile launcher, new \u2018missile city\u2019: What to know",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
+      "published": "2026-11-22T14:20:41+00:00",
+      "type": "missile",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "dc1dc36068d80d904cdfa4e98c6923f4",
+      "title": "RT by @DXBMediaOffice: On the sidelines of Dubai Future Week, I had the pleasure of meeting a distinguished group of women leaders from the UAE and around the world for a dialogue that brought together culture, science, technology, business, and society. We exchanged perspectives on the role of women in shaping the future and defining the opportunities and possibilities that lie ahead. Women worldwide continue to demonstrate their ability to drive change, create opportunities, and push the boundaries of innovation. In Dubai and the UAE, we believe that empowering women and investing in their potential is essential to building a more progressive and diverse society, and shaping a future where",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/hhshklatifa/status/2124508106457833757",
+      "published": "2026-11-22T14:19:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "40079c442eee20494ab6ec80f9440e22",
+      "title": "Minister of Foreign Affairs receives a phone call from Acting Commissioner-General of the UN Relief & Works Agency for Palestine Refugees in the Near East, Christian Saunders.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2124504153544065264",
+      "published": "2026-11-22T14:03:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 31.9522,
+        "lng": 35.2332
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
+      "title": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
+      "published": "2026-11-22T13:36:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 26.5,
+        "lng": 56.5
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "9e4af71e3a0272409f92f9acd70fb2ac",
+      "title": "Dubai hosts the fourth edition of the Capital Market Summit organised by Dubai Financial Market. 8\u20139 December 2026 Madinat Jumeirah, Dubai 60 sessions 100 speakers Participants 1,500+ financial leaders  @DFMalerts",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2124494436612833317",
+      "published": "2026-11-22T13:25:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "c9e741dac7a3e908ffbf8925ccc2568d",
+      "title": "\u062f\u0628\u064a \u062a\u0633\u062a\u0636\u064a\u0641 \u0642\u0645\u0629 \u0623\u0633\u0648\u0627\u0642 \u0631\u0623\u0633 \u0627\u0644\u0645\u0627\u0644 \u0641\u064a \u0646\u0633\u062e\u062a\u0647\u0627 \u0627\u0644\u0631\u0627\u0628\u0639\u0629 \u0645\u0646 \u062a\u0646\u0638\u064a\u0645 \u0633\u0648\u0642 \u062f\u0628\u064a \u0627\u0644\u0645\u0627\u0644\u064a \u0627\u0644\u062a\u0627\u0631\u064a\u062e 8 - 9 \u062f\u064a\u0633\u0645\u0628\u0631 2026 \u0627\u0644\u0645\u0648\u0642\u0639 \u0645\u062f\u064a\u0646\u0629 \u062c\u0645\u064a\u0631\u0627\u060c \u062f\u0628\u064a 60 \u062c\u0644\u0633\u0629 100 \u0645\u062a\u062d\u062f\u062b \u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0648\u0646 +1500 \u0645\u0646 \u0627\u0644\u0642\u064a\u0627\u062f\u0627\u062a \u0627\u0644\u0645\u0627\u0644\u064a\u0629  @DFMalerts",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2124494146534780944",
+      "published": "2026-11-22T13:24:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "6446cf5f7682de225d38fc3c8d2eabd3",
+      "title": "Iranian Space Agency (ISA) Chief Hassan Salarieh says construction operation of more than 35 satellites is ongoing in the country, indicating a sea change in the scientific technology of satellite construction in the country.",
+      "source": "Mehr News (RSS.app)",
+      "source_url": "https://x.com/MehrnewsCom/status/2124492948515492070",
+      "published": "2026-11-22T13:19:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 70,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/22/lebanese-army-seizes-264kg-of-explosives-smuggled-from-syria/",
+      "title": "Lebanese army seizes 264kg of explosives smuggled from Syria",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/22/lebanese-army-seizes-264kg-of-explosives-smuggled-from-syria/",
+      "published": "2026-11-22T12:55:15+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 34.8021,
+        "lng": 38.9968
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e41b8f9ef4fafeea5ce3f027baf9fab8",
+      "title": "The Arab League strongly condemns an attack targeting a civilian industrial facility in Bahrain, describing it as a flagrant violation of the kingdom's sovereignty & a threat to its security, stability & territorial integrity.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2124475627642261548",
+      "published": "2026-11-22T12:10:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 26.0667,
+        "lng": 50.5577
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "6e3739ae74640b340a203fad904cd821",
+      "title": "The Coalition to Support Legitimacy in Yemen announces the interception & destruction of a drone launched by the Houthi militia towards the Riyadh region.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2124474977772618151",
+      "published": "2026-11-22T12:08:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/11/22/two-injured-one-critically-in-iranian-attack-on-industrial-plant-in-bahrain/",
+      "title": "Two injured, one critically, in Iranian attack on industrial plant in Bahrain",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/11/22/two-injured-one-critically-in-iranian-attack-on-industrial-plant-in-bahrain/",
+      "published": "2026-11-22T11:14:43+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Bahrain",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "00e234aecf1030bf9557e9d24b114a60",
+      "title": "His Highness the Amir receives His Highness the Crown Prince, His Highness the Prime Minister, First Deputy Prime Minister & Interior Minister, Defense Minister & Foreign Minister at Bayan Palace  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2124457835933118749",
+      "published": "2026-11-22T10:59:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "e6a88cd88d77e20c3efa00529521df64",
+      "title": "#Arab parliament condemns Iranian attack on #Bahrain's industrial facility  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2124454516955271564",
+      "published": "2026-11-22T10:46:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "31595ecdafb26b8e4d306daf6a96e611",
+      "title": "His Highness the Prime Minister congratulates the President of #Lebanon on his country's Independence Day  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2124451369499148547",
+      "published": "2026-11-22T10:34:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 33.8547,
+        "lng": 35.8623
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "6c0aee351f24c5b18f240005307b4d82",
+      "title": "RT by @SaudiDCD: \u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (34) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 @GDM_MOI #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/MOISaudiArabia/status/2124442766856139227",
+      "published": "2026-11-22T10:00:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "6c0aee351f24c5b18f240005307b4d82",
+      "title": "\u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (34) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 @GDM_MOI #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
+      "source": "Saudi MOI (RSS.app)",
+      "source_url": "https://x.com/MOISaudiArabia/status/2124442766856139227",
+      "published": "2026-11-22T10:00:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "d989e34c47ce31a075b80458952c1e7a",
+      "title": ". Etihad Credit Insurance (ECI), the UAE\u2019s federal export credit company, and its counterpart in Kazakhstan, KazakhExpor...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DgChlG5tr8u",
+      "published": "2026-11-22T09:51:16+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "580e99979625c6df5c1f560aa98ac6cd",
+      "title": ". The United Arab Emirates has condemned in the strongest terms the renewed hostile attack by Iran targeting the Kingdom...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DgCfhH9t2tZ",
+      "published": "2026-11-22T09:33:16+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "f6f805f27f5f0a4e3bf8311c03a03744",
       "title": "\u0633\u0639\u0627\u062f\u0629 \u0627\u0644\u0639\u0645\u064a\u062f \u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632 \u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0627\u0644\u0623\u062d\u0645\u062f \u0645\u062f\u064a\u0631 \u0639\u0627\u0645 \u0627\u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u062c\u0646\u0627\u0626\u064a\u0629 \u0627\u0644\u0627\u062a\u062d\u0627\u062f\u064a\u0629 \u0628\u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \"\u0628\u0631\u0624\u064a\u0629 \u0642\u064a\u0627\u062f\u062a\u0646\u0627 \u0627\u0644\u0631\u0634\u064a\u062f\u0629\u060c \u0639\u0645\u0644\u062a \u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0639\u0644\u0649 \u062a\u0631\u0633\u064a\u062e \u062a\u0639\u0627\u0648\u0646 \u0625\u0642\u0644\u064a\u0645\u064a \u0623\u0643\u062b\u0631 \u0643\u0641\u0627\u0621\u0629 \u0648\u0641\u0627\u0639\u0644\u064a\u0629 \u0641\u064a \u062a\u0639\u0642\u0651\u0628 \u0639\u0627\u0626\u062f\u0627\u062a \u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0648\u0627\u0633\u062a\u0631\u062f\u0627\u062f\u0647\u0627\u060c \u0648\u0633\u062a\u0648\u0627\u0635\u0644 \u062f\u0639\u0645 \u0645\u0633\u064a\u0631\u0629 \u0634\u0628\u0643\u0629 \"\u0645\u064a\u0646\u0627 \u0623\u0631\u064a\u0646\" \u0648\u0627\u0644\u0628\u0646\u0627\u0621 \u0639\u0644\u0649 \u0645\u0646\u062c\u0632\u0627\u062a \u0631\u0626\u0627\u0633\u062a\u0647\u0627 \u0644\u0639\u0627\u0645 2026\u060c \u0625\u064a\u0645\u0627\u0646\u0627\u064b \u0628\u0623\u0647\u0645\u064a\u0629 \u0627\u0644\u0639\u0645\u0644 \u0627\u0644\u0645\u0634\u062a\u0631\u0643 \u0641\u064a \u062d\u0645\u0627\u064a\u0629 \u0623\u0645\u0646 \u062f\u0648\u0644\u0646\u0627 \u0648\u0627\u0633\u062a\u0642\u0631\u0627\u0631 \u0627\u0642\u062a\u0635\u0627\u062f\u0627\u062a\u0646\u0627\". H.E. Brigadier General Abdulaziz Abdullah Al Ahmad, Director General of the Federal Criminal Police \"Guided by the vision of our wise leadership, the UAE has worked to foster more efficient and effective regional cooperation in tracing and recovering proceeds of crime. We will continue to support MENA-ARIN\u2019s progress and build on the achievement",
@@ -47,138 +575,6 @@
       }
     },
     {
-      "id": "6211f985f7c37dd91fa479a4f5d9ee09",
-      "title": "#Kuwait condemns continuous Iranian attacks targeting #Bahrain  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2124400250479636644",
-      "published": "2026-11-22T07:11:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/11/22/thick-fog-sparks-red-alert-from-uae-meteorologists/",
-      "title": "Thick fog sparks red alert from UAE meteorologists",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/11/22/thick-fog-sparks-red-alert-from-uae-meteorologists/",
-      "published": "2026-11-22T06:32:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/climate/environment/2026/11/22/lewis-pugh-swim-through-strait-of-hormuz/",
-      "title": "'Explosions around me': Endurance swimmer Lewis Pugh's risky journey through Strait of Hormuz",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/climate/environment/2026/11/22/lewis-pugh-swim-through-strait-of-hormuz/",
-      "published": "2026-11-22T06:02:02+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 26.5,
-        "lng": 56.5
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1795323614",
-      "title": "ICE agents detain two people at Seattle airport",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/ice-agents-detain-two-people-at-seattle-airport?traffic_source=rss",
-      "published": "2026-11-22T05:06:32+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "9da2a36b57bc36910187037794ff3e21",
-      "title": "The Coalition to Support Legitimacy in #Yemen announce the interception and destruction of a ballistic missile launched by the terrorist Houthi militia toward the Saudi Western Region  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2124260863129321836",
-      "published": "2026-11-21T21:57:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b0ab15a4c35cbabe60121875bde71feb",
-      "title": "Secretary-General of the Gulf Cooperation Council Jasem Al-Budaiwi expresses the #GCC's full solidarity with the Kingdom of #Bahrain following the Bahraini Ministry of Interior's announcement of a fire erupted at an industrial facility in the kingdom due to Iran's aggression #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2124260581897032025",
-      "published": "2026-11-21T21:56:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "5687c91761105adfe962775c0e67970a",
       "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u0646\u0637\u0642\u0629 \u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (911). Alert: The danger has passed in Makkah Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
       "source": "Saudi Civil Defense (RSS.app)",
@@ -193,28 +589,6 @@
         "lng": 48.0
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5acbd488f799fa0d0c12f67004f67627",
-      "title": "#Bahrain's Ministry of Interior (MoI): Civilian industrial facility had been targeted by a blatant Iranian aggression, resulting in a fire at the site  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2124242753609486358",
-      "published": "2026-11-21T20:45:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -245,28 +619,6 @@
       }
     },
     {
-      "id": "13d905bb518a17a511eaca2e63f984dc",
-      "title": "Prime Minister of #Pakistan Shehbaz Sharif strongly condemns the Houthi attack on the King Abdullah Financial District in #Riyadh  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2124227664772804807",
-      "published": "2026-11-21T19:45:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=101656",
       "title": "Despite Hegseth memo, Canada hasn\u2019t seen changes to defense relationship with US, says DefMin",
       "source": "Breaking Defense",
@@ -282,50 +634,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "eed76ed3a17662f6aee907ae84ef7927",
-      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u0646\u0637\u0642\u0629 \u062c\u0627\u0632\u0627\u0646\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (998). Alert: The danger has passed in Jazan Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2124126243431891206",
-      "published": "2026-11-21T13:02:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "5e10527c8ab2dcb146af6226797d221b",
-      "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0645\u0646\u0637\u0642\u0629 \u062c\u0627\u0632\u0627\u0646 \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in Jazan Province to alert of a potential danger. Please follow the instructions below:",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2124125202732679318",
-      "published": "2026-11-21T12:58:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -370,50 +678,6 @@
       },
       "credibility": 85,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f0f2e8fef251dbcc094e28c3e7971da7",
-      "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0631\u064a\u0627\u0636\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (911). Alert: The danger has passed in Riyadh City. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (911).",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2123919694822314313",
-      "published": "2026-11-20T23:21:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f53573d86a6ebd814a3c33df0d02b4d5",
-      "title": "\u062a\u0645 \u0625\u0637\u0644\u0627\u0642 \u0625\u0646\u0630\u0627\u0631 \u0645\u0646 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0644\u0644\u0625\u0646\u0630\u0627\u0631 \u0627\u0644\u0645\u0628\u0643\u0631 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0641\u064a \u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0631\u064a\u0627\u0636 \u0644\u0644\u062a\u062d\u0630\u064a\u0631 \u0645\u0646 \u062e\u0637\u0631\u060c \u0627\u062a\u0628\u0639 \u0627\u0644\u0622\u062a\u064a: A warning has been issued by the National Early Warning Platform in Riyadh City to alert of a potential danger. Please follow the instructions below:",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/SaudiDCD/status/2123916773229781420",
-      "published": "2026-11-20T23:09:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -854,94 +1118,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
-      "title": "Israeli tanks cross \u2018yellow line\u2019 boundary into Hamas-controlled central Gaza",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
-      "published": "2026-11-19T12:40:46+00:00",
-      "type": "ground",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/nov/19/car-rams-into-palestinian-residents-four-times-in-israeli-city-kafr-qasim",
-      "title": "Eight injured after driver in Israel repeatedly rams car into Palestinians",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/19/car-rams-into-palestinian-residents-four-times-in-israeli-city-kafr-qasim",
-      "published": "2026-11-19T12:36:37+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "4752164c8b8a5567dae51af877a5560a",
-      "title": "Israel and the Czech Republic Deepen Defense Cooperation: Czech Prime Minister and Senior Officials Visit Arrow Unit and Israel Missile Defense Organization; Czech Defense Minister Meets Israel Ministry of Defense Leadership \ud83c\uddee\ud83c\uddf1\ud83c\udde8\ud83c\uddff Read More:",
-      "source": "Israel MOD (RSS.app)",
-      "source_url": "https://x.com/Israel_MOD/status/2123356484218073333",
-      "published": "2026-11-19T10:03:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a6358ff333ddbe0ca994f40767754f90",
-      "title": "\u062a\u0635\u0648\u064a\u0631 \u0623\u0648 \u0646\u0634\u0631 \u0623\u0648 \u062a\u062f\u0627\u0648\u0644 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0630\u0627\u062a \u0635\u0644\u0629 \u0628\u0627\u0644\u062a\u0635\u062f\u064a \u0644\u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0648\u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a \u0627\u0644\u0645\u0633\u064a\u0631\u0629 \u0648\u0645\u0648\u0627\u0642\u0639 \u0633\u0642\u0648\u0637\u0647\u0627 \u064a\u0639\u0631\u0636\u0643 \u0644\u0644\u0645\u0633\u0627\u0621\u0644\u0629 \u0627\u0644\u0642\u0627\u0646\u0648\u0646\u064a\u0629. #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 Filming, publishing, or sharing information related to countering missiles and drones and their impact sites exposes you to legal liability. #Ministry_of_Interior",
-      "source": "Saudi MOI (RSS.app)",
-      "source_url": "https://x.com/MOISaudiArabia/status/2123340517920616676",
-      "published": "2026-11-19T09:00:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
