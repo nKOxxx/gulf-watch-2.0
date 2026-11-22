@@ -1,22 +1,88 @@
 {
-  "generated_at": "2026-11-22T00:27:47.229256+00:00",
-  "total_incidents": 55,
+  "generated_at": "2026-11-22T08:10:37.867417+00:00",
+  "total_incidents": 43,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1795302197",
-      "title": "Iran war live: Iran targets US military in Bahrain; Houthi strikes continue",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
-      "published": "2026-11-21T23:59:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
+      "id": "f6f805f27f5f0a4e3bf8311c03a03744",
+      "title": "\u0633\u0639\u0627\u062f\u0629 \u0627\u0644\u0639\u0645\u064a\u062f \u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632 \u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0627\u0644\u0623\u062d\u0645\u062f \u0645\u062f\u064a\u0631 \u0639\u0627\u0645 \u0627\u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u062c\u0646\u0627\u0626\u064a\u0629 \u0627\u0644\u0627\u062a\u062d\u0627\u062f\u064a\u0629 \u0628\u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \"\u0628\u0631\u0624\u064a\u0629 \u0642\u064a\u0627\u062f\u062a\u0646\u0627 \u0627\u0644\u0631\u0634\u064a\u062f\u0629\u060c \u0639\u0645\u0644\u062a \u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0639\u0644\u0649 \u062a\u0631\u0633\u064a\u062e \u062a\u0639\u0627\u0648\u0646 \u0625\u0642\u0644\u064a\u0645\u064a \u0623\u0643\u062b\u0631 \u0643\u0641\u0627\u0621\u0629 \u0648\u0641\u0627\u0639\u0644\u064a\u0629 \u0641\u064a \u062a\u0639\u0642\u0651\u0628 \u0639\u0627\u0626\u062f\u0627\u062a \u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0648\u0627\u0633\u062a\u0631\u062f\u0627\u062f\u0647\u0627\u060c \u0648\u0633\u062a\u0648\u0627\u0635\u0644 \u062f\u0639\u0645 \u0645\u0633\u064a\u0631\u0629 \u0634\u0628\u0643\u0629 \"\u0645\u064a\u0646\u0627 \u0623\u0631\u064a\u0646\" \u0648\u0627\u0644\u0628\u0646\u0627\u0621 \u0639\u0644\u0649 \u0645\u0646\u062c\u0632\u0627\u062a \u0631\u0626\u0627\u0633\u062a\u0647\u0627 \u0644\u0639\u0627\u0645 2026\u060c \u0625\u064a\u0645\u0627\u0646\u0627\u064b \u0628\u0623\u0647\u0645\u064a\u0629 \u0627\u0644\u0639\u0645\u0644 \u0627\u0644\u0645\u0634\u062a\u0631\u0643 \u0641\u064a \u062d\u0645\u0627\u064a\u0629 \u0623\u0645\u0646 \u062f\u0648\u0644\u0646\u0627 \u0648\u0627\u0633\u062a\u0642\u0631\u0627\u0631 \u0627\u0642\u062a\u0635\u0627\u062f\u0627\u062a\u0646\u0627\". H.E. Brigadier General Abdulaziz Abdullah Al Ahmad, Director General of the Federal Criminal Police \"Guided by the vision of our wise leadership, the UAE has worked to foster more efficient and effective regional cooperation in tracing and recovering proceeds of crime. We will continue to support MENA-ARIN\u2019s progress and build on the achievement",
+      "source": "UAE MOI (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2124404795494805804",
+      "published": "2026-11-22T07:29:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
       "location": {
-        "country": "Bahrain",
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 100,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f6f805f27f5f0a4e3bf8311c03a03744",
+      "title": "\u0633\u0639\u0627\u062f\u0629 \u0627\u0644\u0639\u0645\u064a\u062f \u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632 \u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0627\u0644\u0623\u062d\u0645\u062f \u0645\u062f\u064a\u0631 \u0639\u0627\u0645 \u0627\u0644\u0634\u0631\u0637\u0629 \u0627\u0644\u062c\u0646\u0627\u0626\u064a\u0629 \u0627\u0644\u0627\u062a\u062d\u0627\u062f\u064a\u0629 \u0628\u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \"\u0628\u0631\u0624\u064a\u0629 \u0642\u064a\u0627\u062f\u062a\u0646\u0627 \u0627\u0644\u0631\u0634\u064a\u062f\u0629\u060c \u0639\u0645\u0644\u062a \u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0639\u0644\u0649 \u062a\u0631\u0633\u064a\u062e \u062a\u0639\u0627\u0648\u0646 \u0625\u0642\u0644\u064a\u0645\u064a \u0623\u0643\u062b\u0631 \u0643\u0641\u0627\u0621\u0629 \u0648\u0641\u0627\u0639\u0644\u064a\u0629 \u0641\u064a \u062a\u0639\u0642\u0651\u0628 \u0639\u0627\u0626\u062f\u0627\u062a \u0627\u0644\u062c\u0631\u064a\u0645\u0629 \u0648\u0627\u0633\u062a\u0631\u062f\u0627\u062f\u0647\u0627\u060c \u0648\u0633\u062a\u0648\u0627\u0635\u0644 \u062f\u0639\u0645 \u0645\u0633\u064a\u0631\u0629 \u0634\u0628\u0643\u0629 \"\u0645\u064a\u0646\u0627 \u0623\u0631\u064a\u0646\" \u0648\u0627\u0644\u0628\u0646\u0627\u0621 \u0639\u0644\u0649 \u0645\u0646\u062c\u0632\u0627\u062a \u0631\u0626\u0627\u0633\u062a\u0647\u0627 \u0644\u0639\u0627\u0645 2026\u060c \u0625\u064a\u0645\u0627\u0646\u0627\u064b \u0628\u0623\u0647\u0645\u064a\u0629 \u0627\u0644\u0639\u0645\u0644 \u0627\u0644\u0645\u0634\u062a\u0631\u0643 \u0641\u064a \u062d\u0645\u0627\u064a\u0629 \u0623\u0645\u0646 \u062f\u0648\u0644\u0646\u0627 \u0648\u0627\u0633\u062a\u0642\u0631\u0627\u0631 \u0627\u0642\u062a\u0635\u0627\u062f\u0627\u062a\u0646\u0627\". H.E. Brigadier General Abdulaziz Abdullah Al Ahmad, Director General of the Federal Criminal Police \"Guided by the vision of our wise leadership, the UAE has worked to foster more efficient and effective regional cooperation in tracing and recovering proceeds of crime. We will continue to support MENA-ARIN\u2019s progress and build on the achievement",
+      "source": "IDF (RSS.app)",
+      "source_url": "https://x.com/moiuae/status/2124404795494805804",
+      "published": "2026-11-22T07:29:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "6211f985f7c37dd91fa479a4f5d9ee09",
+      "title": "#Kuwait condemns continuous Iranian attacks targeting #Bahrain  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2124400250479636644",
+      "published": "2026-11-22T07:11:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
         "city": null,
         "lat": 32.4279,
         "lng": 53.688
       },
-      "credibility": 90,
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/11/22/thick-fog-sparks-red-alert-from-uae-meteorologists/",
+      "title": "Thick fog sparks red alert from UAE meteorologists",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uae/2026/11/22/thick-fog-sparks-red-alert-from-uae-meteorologists/",
+      "published": "2026-11-22T06:32:34+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -25,20 +91,20 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1795295999",
-      "title": "Lebanese president demands Israel withdrawal, decries Iran\u2019s interference",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
-      "published": "2026-11-21T23:44:00+00:00",
-      "type": "incident",
+      "id": "https://www.thenationalnews.com/climate/environment/2026/11/22/lewis-pugh-swim-through-strait-of-hormuz/",
+      "title": "'Explosions around me': Endurance swimmer Lewis Pugh's risky journey through Strait of Hormuz",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/climate/environment/2026/11/22/lewis-pugh-swim-through-strait-of-hormuz/",
+      "published": "2026-11-22T06:02:02+00:00",
+      "type": "explosion",
       "status": "unconfirmed",
       "location": {
-        "country": "Israel",
+        "country": null,
         "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
+        "lat": 26.5,
+        "lng": 56.5
       },
-      "credibility": 90,
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -47,11 +113,11 @@
       }
     },
     {
-      "id": "https://www.arabnews.com/world/belgium-faces-air-traffic-shutdown-due-to-national-strike-monday-3013428",
-      "title": "Belgium faces air traffic shutdown due to national strike Monday",
-      "source": "Arab News",
-      "source_url": "https://www.arabnews.com/world/belgium-faces-air-traffic-shutdown-due-to-national-strike-monday-3013428",
-      "published": "2026-11-21T23:25:32+00:00",
+      "id": "https://www.aljazeera.com/?t=1795323614",
+      "title": "ICE agents detain two people at Seattle airport",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/ice-agents-detain-two-people-at-seattle-airport?traffic_source=rss",
+      "published": "2026-11-22T05:06:32+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
@@ -59,72 +125,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1795302838",
-      "title": "Iran faces a \u2018silent economic war\u2019, says Iranian president",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
-      "published": "2026-11-21T23:18:14+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.arabnews.com/middle-east/libya-loses-308-million-as-armed-group-blocks-oil-pipeline-for-over-20-days-3013427",
-      "title": "Libya loses $30.8 million as armed group blocks oil pipeline for over 20 days",
-      "source": "Arab News",
-      "source_url": "https://www.arabnews.com/middle-east/libya-loses-308-million-as-armed-group-blocks-oil-pipeline-for-over-20-days-3013427",
-      "published": "2026-11-21T22:47:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1795298387",
-      "title": "Bahrain says Iranian attack hits industrial facility",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
-      "published": "2026-11-21T22:02:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 90,
       "is_government": false,
@@ -172,72 +172,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1795291732",
-      "title": "Bahrain says Iranian attack causes fire at industrial facility",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
-      "published": "2026-11-21T21:31:03+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.arabnews.com/middle-east/eisenkot-invites-netanyahus-party-for-israeli-coalition-talks-3013421",
-      "title": "Eisenkot invites Netanyahu\u2019s party for Israeli coalition talks",
-      "source": "Arab News",
-      "source_url": "https://www.arabnews.com/middle-east/eisenkot-invites-netanyahus-party-for-israeli-coalition-talks-3013421",
-      "published": "2026-11-21T21:09:06+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 80,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1795285675",
-      "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
-      "published": "2026-11-21T20:56:35+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -355,160 +289,6 @@
       }
     },
     {
-      "id": "ea403a6b1e6f057269a15089720ea82b",
-      "title": "Mansoor bin Mohammed visits the sixth edition of the Icons of Porsche festival in Dubai. Held for the first time at The Square Nad Al Sheba, the festival features over 1,000 Porsche sports cars on display, with more than 30,000 fans expected to attend over the two days. During the visit, His Highness explored the various curated precincts, viewing a selection of classic and modern Porsche sports cars, alongside art installations, entertainment and experiences that bring together the Porsche community in Dubai each year.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2124183515059433772",
-      "published": "2026-11-21T16:49:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "65bfab94b4c5bf7fdac8d86dc74e4699",
-      "title": "Hamdan bin Mohammed: Today, we directed Dubai Future Foundation to organise the next edition of Dubai Future Week over five days, from 17 to 21 November 2027, with an even greater focus on engaging all segments of society in designing the future. The inaugural edition welcomed more than 25,000 visitors and participants over four days, bringing together important discussions on the future of humanity and what it means to be a human of the future. Dubai will remain a city of the future and the world's leading destination for those determined to shape it.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2124171874020339950",
-      "published": "2026-11-21T16:03:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "a4e39c9401c178ace51a74ff508f799a",
-      "title": "RT by @DXBMediaOffice: Today, we directed Dubai Future Foundation to organise the next edition of Dubai Future Week over five days, from 17 to 21 November 2027, with an even greater focus on engaging all segments of society in designing the future. The inaugural edition welcomed more than 25,000 visitors and participants over four days, bringing together important discussions on the future of humanity and what it means to be a human of the future. Dubai will remain a city of the future and the world's leading destination for those determined to shape it.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/HamdanMohammed/status/2124163356231942167",
-      "published": "2026-11-21T15:29:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "b47ff2b141025bf9385ca284b610c13e",
-      "title": "The Gulf Tennis Cup (Men and Women) kicks off at the Kuwait Tennis Federation courts on Saturday, with all Gulf national teams participating, mainly to foster competition and enhance the level of the regional sport  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2124156258160710011",
-      "published": "2026-11-21T15:01:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "d1464ddab7e71179f4c3f1c2c86ffd91",
-      "title": "#GCC Secretary General Jasem Al-Budaiwi strongly condemns the continued brutal terrorist attacks committed by the Israeli occupation forces against the Palestinian people in the Gaza Strip, as well as the bombardment and targeting of innocent civilians across the enclave  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2124149853773045903",
-      "published": "2026-11-21T14:36:00+00:00",
-      "type": "explosion",
-      "status": "confirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "e7d17932623a7949a1e544324fb72617",
-      "title": "Addressing a parliamentary event in #Italy, the GCC Secretary General: GCC states have made partnership and dialogue a strategic foundation in their relations with their neighborhood and partners, and are keen to build ties that support security and stability and open broader horizons for shared development and prosperity  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2124137517708427481",
-      "published": "2026-11-21T13:47:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/21/iraqi-governments-control-of-jurf-al-sakhar-marks-rare-success-but-key-issues-remain/",
-      "title": "Iraqi government's control of Jurf Al Sakhar marks rare success \u2013 but key issues remain",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/21/iraqi-governments-control-of-jurf-al-sakhar-marks-rare-success-but-key-issues-remain/",
-      "published": "2026-11-21T13:10:05+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "eed76ed3a17662f6aee907ae84ef7927",
       "title": "\u062a\u0646\u0628\u064a\u0647 \u0632\u0627\u0644 \u0627\u0644\u062e\u0637\u0631 \u0639\u0646 \u0645\u0646\u0637\u0642\u0629 \u062c\u0627\u0632\u0627\u0646\u060c \u0644\u0633\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0641\u064a \u0627\u062a\u0628\u0627\u0639 \u062a\u0639\u0644\u064a\u0645\u0627\u062a #\u0627\u0644\u062f\u0641\u0627\u0639_\u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u062c\u0645\u0647\u0631 \u0648\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0646\u0647\u0627\u0626\u064a\u064b\u0627. \u0641\u064a \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u062a\u0635\u0644 \u0628\u0627\u0644\u0631\u0642\u0645 (998). Alert: The danger has passed in Jazan Province. For your safety, continue following #CivilDefense instructions and avoid gathering and filming. In case of emergency, call (998).",
       "source": "Saudi Civil Defense (RSS.app)",
@@ -546,28 +326,6 @@
       },
       "credibility": 100,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/21/strikes-kill-nine-in-gaza-as-board-of-peace-adviser-criticises-israel/",
-      "title": "Strikes kill nine in Gaza as Board of Peace adviser criticises Israel",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/21/strikes-kill-nine-in-gaza-as-board-of-peace-adviser-criticises-israel/",
-      "published": "2026-11-21T12:18:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1181,28 +939,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "fbd0b2955c4367270ec8e21843a3f18a",
-      "title": "\u0627\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0644\u0648\u0627\u0621 \u0627\u0644\u0631\u0643\u0646 \u062d\u0645\u064a\u062f \u0645\u062d\u0645\u062f \u0627\u0644\u0631\u0645\u064a\u062b\u064a\u060c \u0642\u0627\u0626\u062f \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0628\u062d\u0631\u064a\u0629\u060c \u0627\u0644\u0641\u0631\u064a\u0642 \u0628\u062d\u0631\u064a \u0625\u064a\u063a\u0648\u0631 \u062f\u0648\u062e\u0627\u0646\u0648\u0641\u060c \u0627\u0644\u0645\u0644\u062d\u0642 \u0627\u0644\u0631\u0648\u0633\u064a \u0644\u0634\u0624\u0648\u0646 \u0627\u0644\u062f\u0641\u0627\u0639 \u0644\u062f\u0649 \u0627\u0644\u062f\u0648\u0644\u0629\u060c \u062d\u064a\u062b \u062c\u0631\u0649 \u062e\u0644\u0627\u0644 \u0627\u0644\u0644\u0642\u0627\u0621 \u0628\u062d\u062b \u0639\u062f\u062f \u0645\u0646 \u0627\u0644\u0645\u0648\u0636\u0648\u0639\u0627\u062a \u0630\u0627\u062a \u0627\u0644\u0627\u0647\u062a\u0645\u0627\u0645 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u060c \u0648\u0645\u0646\u0627\u0642\u0634\u0629 \u0633\u0628\u0644 \u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u062a\u0646\u0633\u064a\u0642 \u0648\u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0639\u0633\u0643\u0631\u064a \u0628\u064a\u0646 \u0627\u0644\u062c\u0627\u0646\u0628\u064a\u0646. \u0643\u0645\u0627 \u062a\u0646\u0627\u0648\u0644 \u0627\u0644\u0644\u0642\u0627\u0621 \u0623\u0647\u0645\u064a\u0629 \u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u062e\u0628\u0631\u0627\u062a \u0648\u0627\u0644\u062a\u062c\u0627\u0631\u0628\u060c \u0648\u062a\u0637\u0648\u064a\u0631 \u0645\u062c\u0627\u0644\u0627\u062a \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u060c \u0628\u0645\u0627 \u064a\u0633\u0647\u0645 \u0641\u064a \u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0639\u0644\u0627\u0642\u0627\u062a \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u0629 \u0628\u064a\u0646 \u0627\u0644\u0628\u0644\u062f\u064a\u0646. Major General Staff Humaid Mohammed Al Rumaithi, Commander of the UAE Naval Forces, received Vice Admiral Igor Dukhanov, Russian Defence Attache to the UAE. The meeting addressed a range of matters of mutual interest, with discussions focusing on prospects for enhancing military coordination and cooperation between the two si",
-      "source": "UAE MOD (RSS.app)",
-      "source_url": "https://x.com/modgovae/status/2123279783081714038",
-      "published": "2026-11-19T04:58:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 23.4241,
-        "lng": 53.8478
       },
       "credibility": 100,
       "is_government": true,
