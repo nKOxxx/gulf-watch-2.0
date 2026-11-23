@@ -1,7 +1,139 @@
 {
-  "generated_at": "2026-11-22T22:33:32.542082+00:00",
+  "generated_at": "2026-11-23T03:47:21.412231+00:00",
   "total_incidents": 43,
   "incidents": [
+    {
+      "id": "https://www.aljazeera.com/?t=1795400146",
+      "title": "Belgium\u2019s airports set to shut down due to anti-austerity strike",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike?traffic_source=rss",
+      "published": "2026-11-23T03:15:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/23/passport-scam-iran/",
+      "title": "Iran's phantom agents: The sham passports used by IRGC operatives in Lebanon and Iraq",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/23/passport-scam-iran/",
+      "published": "2026-11-23T03:10:01+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/23/un-endorses-united-coastguard-taskforce-for-red-sea-safety/",
+      "title": "UN maritime agency endorses coastguard task force for Red Sea safety",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/23/un-endorses-united-coastguard-taskforce-for-red-sea-safety/",
+      "published": "2026-11-23T03:00:00+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 20.0,
+        "lng": 38.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795258025",
+      "title": "\u2018Extremely concerning\u2019: Inside a US Army plan to detonate Iowa lead stores",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss",
+      "published": "2026-11-23T02:09:15+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795398498",
+      "title": "Libya\u2019s military says \u2018fully prepared\u2019 after Benghazi attacks",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss",
+      "published": "2026-11-23T01:51:32+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795398073",
+      "title": "Israeli forces continue house demolitions in southern Lebanon",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-forces-continue-house-demolitions-in-southern-lebanon?traffic_source=rss",
+      "published": "2026-11-23T01:43:29+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
     {
       "id": "54346fff56cd7bee703cedf5005bd0a2",
       "title": "Embassy of #Oman to #Kuwait celebrated the Sultanate's National Day, in the presence of His Highness the Prime Minister Sheikh Ahmad Abdullah Al-Ahmad Al-Sabah, some ministers, senior state officials and heads of diplomatic missions  #KUNA",
@@ -18,28 +150,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1795384440",
-      "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
-      "published": "2026-11-22T22:01:48+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -113,50 +223,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1795359202",
-      "title": "On China, is Trump bucking the US national security establishment?",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss",
-      "published": "2026-11-22T19:30:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1795361220",
-      "title": "\u2018Horrific\u2019 and \u2018chilling\u2019: Officials condemn ICE arrests at Seattle airport",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss",
-      "published": "2026-11-22T19:10:00+00:00",
-      "type": "raid",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "46d242dd75e1e55350f054e8a4bbaef6",
       "title": "#US President Donald Trump threatens to resume military operations against Iran if no deal is reached, warning that any Iranian attempt to breach the maritime blockade would be met with a decisive response  #KUNA",
       "source": "KUNA Kuwait (RSS.app)",
@@ -172,28 +238,6 @@
       },
       "credibility": 95,
       "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/11/22/us-and-iran-could-still-reach-deal-says-egyptian-foreign-minister/",
-      "title": "US and Iran could still reach deal, says Egyptian Foreign Minister",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/11/22/us-and-iran-could-still-reach-deal-says-egyptian-foreign-minister/",
-      "published": "2026-11-22T18:19:17+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 85,
-      "is_government": false,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -237,28 +281,6 @@
         "lng": 48.0
       },
       "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/22/russian-ship-hit-by-suspected-drone-attack-at-libyan-naval-base/",
-      "title": "Russian ship hit by suspected drone attack at Libyan naval base",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/22/russian-ship-hit-by-suspected-drone-attack-at-libyan-naval-base/",
-      "published": "2026-11-22T14:47:34+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -399,21 +421,21 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/22/lebanese-army-seizes-264kg-of-explosives-smuggled-from-syria/",
-      "title": "Lebanese army seizes 264kg of explosives smuggled from Syria",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/22/lebanese-army-seizes-264kg-of-explosives-smuggled-from-syria/",
-      "published": "2026-11-22T12:55:15+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
+      "id": "6c0aee351f24c5b18f240005307b4d82",
+      "title": "RT by @SaudiDCD: \u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (34) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 @GDM_MOI #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
+      "source": "Saudi Civil Defense (RSS.app)",
+      "source_url": "https://x.com/MOISaudiArabia/status/2124442766856139227",
+      "published": "2026-11-22T10:00:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
       "location": {
-        "country": "Syria",
+        "country": "Saudi Arabia",
         "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
+        "lat": 29.0,
+        "lng": 48.0
       },
-      "credibility": 85,
-      "is_government": false,
+      "credibility": 100,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -430,28 +452,6 @@
       "status": "confirmed",
       "location": {
         "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "6c0aee351f24c5b18f240005307b4d82",
-      "title": "RT by @SaudiDCD: \u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (34) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 @GDM_MOI #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
-      "source": "Saudi Civil Defense (RSS.app)",
-      "source_url": "https://x.com/MOISaudiArabia/status/2124442766856139227",
-      "published": "2026-11-22T10:00:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Saudi Arabia",
         "city": null,
         "lat": 29.0,
         "lng": 48.0
