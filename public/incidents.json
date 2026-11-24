@@ -1,20 +1,86 @@
 {
-  "generated_at": "2026-11-24T02:20:46.531817+00:00",
-  "total_incidents": 53,
+  "generated_at": "2026-11-24T12:41:11.808623+00:00",
+  "total_incidents": 61,
   "incidents": [
     {
-      "id": "https://www.thenationalnews.com/news/uk/2026/11/24/gazan-children-arrive-for-treatment-in-the-uk/",
-      "title": "Gazan children arrive for treatment in the UK",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uk/2026/11/24/gazan-children-arrive-for-treatment-in-the-uk/",
-      "published": "2026-11-24T02:00:00+00:00",
-      "type": "incident",
+      "id": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o#0",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T12:12:48+00:00",
+      "type": "airstrike",
       "status": "unconfirmed",
       "location": {
         "country": "Palestine",
         "city": null,
         "lat": 31.5017,
         "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "63378f0ac842729e1bfe2765bfb6a865",
+      "title": "Dubai Press Club hosts a session featuring Mona Ghanem Al Marri, Vice Chairperson and Managing Director of Dubai Media Council and President of Dubai Press Club, as part of the second week of the sports track of the Dubai Content Creators Programme, organised in collaboration with Dubai Sports Council. The session explores the evolution of Dubai\u2019s media sector, the key elements of successful digital content creation, and the role of content creators in shaping public awareness. @DubaiPressClub",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2125197889303712096",
+      "published": "2026-11-24T12:00:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.arabnews.com/finance/saudi-arabia-to-support-wages-of-eligible-workers-for-up-to-3-months-3013831",
+      "title": "Saudi Arabia to support wages of eligible workers for up to 3 months",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/finance/saudi-arabia-to-support-wages-of-eligible-workers-for-up-to-3-months-3013831",
+      "published": "2026-11-24T11:57:55+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uk/2026/11/24/uk-sanctions-houthis-over-shipping-attacks-and-alleged-torture/",
+      "title": "UK sanctions Houthis over shipping attacks and alleged torture",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/uk/2026/11/24/uk-sanctions-houthis-over-shipping-attacks-and-alleged-torture/",
+      "published": "2026-11-24T11:34:38+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
       },
       "credibility": 85,
       "is_government": false,
@@ -25,18 +91,40 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1795483751",
-      "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
-      "published": "2026-11-24T01:32:12+00:00",
+      "id": "https://www.arabnews.com/middle-east/uk-sanctions-houthis-and-4-top-officials-over-attacks-prisoner-abuse-3013845",
+      "title": "UK sanctions Houthis and 4 top officials over attacks, prisoner abuse",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/middle-east/uk-sanctions-houthis-and-4-top-officials-over-attacks-prisoner-abuse-3013845",
+      "published": "2026-11-24T11:30:31+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Qatar",
+        "country": null,
         "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795457846",
+      "title": "The \u2018eighth front\u2019: Why Israel\u2019s influence war in the US is failing",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/24/the-eighth-front-why-israels-influence-war-in-the-us-is-failing?traffic_source=rss",
+      "published": "2026-11-24T11:30:07+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
       },
       "credibility": 90,
       "is_government": false,
@@ -47,20 +135,152 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1795468162",
-      "title": "Israeli minister approves return of Flydubai flights",
+      "id": "https://www.aljazeera.com/?t=1795511273",
+      "title": "Why are Russian warships off Libya, and will Ukraine\u2019s attack change that?",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
-      "published": "2026-11-24T01:09:51+00:00",
+      "source_url": "https://www.aljazeera.com/news/2026/11/24/why-are-russian-warships-off-libya-and-will-ukraines-attack-change-that?traffic_source=rss",
+      "published": "2026-11-24T11:27:35+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795509498",
+      "title": "Iraq orders takeover of oilfields in areas under Kurdish control",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss",
+      "published": "2026-11-24T11:19:04+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "f65977157f7590966d48def41ae01305",
+      "title": "#Kuwait News Agency wins the Best Report & Best Photo awards at the 52nd General Assembly of the Federation of Arab News Agencies in Abu Dhabi, #UAE.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2125187599559950588",
+      "published": "2026-11-24T11:19:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 24.4539,
+        "lng": 54.3773
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/travel/2026/11/24/eurowings-to-launch-direct-flights-to-damascus-from-four-german-cities/",
+      "title": "Eurowings to launch direct flights to Damascus from four German cities",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/travel/2026/11/24/eurowings-to-launch-direct-flights-to-damascus-from-four-german-cities/",
+      "published": "2026-11-24T11:17:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Syria",
+        "city": null,
+        "lat": 33.5138,
+        "lng": 36.2765
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "3805c527e1af41f8fee4164a90b518b0",
+      "title": "The Eighth Conference on Cybersecurity Education & Research kicks off, organized by #Kuwait College of Science & Technology with Kuwait's National Cyber Security Center, Cardiff University & Kuwait Information Technology Society.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2125187055344857523",
+      "published": "2026-11-24T11:17:00+00:00",
+      "type": "cyber",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b754cc8aae5481bbe56585f655ca5157",
+      "title": "Speaking at a lecture at the Saud Al-Nasser Al-Sabah Diplomatic Institute, #UN Special Envoy says that #Kuwait is an important partner in efforts to achieve peace in #Yemen, citing its longstanding tradition of quiet diplomacy.  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2125185652333351046",
+      "published": "2026-11-24T11:11:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/arts-culture/art-design/2026/11/24/frieze-abu-dhabi-six-galleries-report-more-than-12m-each-in-sales-at-inaugural-fair/",
+      "title": "Frieze Abu Dhabi: Six galleries report more than $1.2m each in sales at inaugural fair",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/arts-culture/art-design/2026/11/24/frieze-abu-dhabi-six-galleries-report-more-than-12m-each-in-sales-at-inaugural-fair/",
+      "published": "2026-11-24T11:06:50+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
         "country": "UAE",
         "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
+        "lat": 24.4539,
+        "lng": 54.3773
       },
-      "credibility": 90,
+      "credibility": 85,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -69,55 +289,11 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1795477379",
-      "title": "Bukele shares details on deaths of Salvadoran troops in Haiti intervention",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss",
-      "published": "2026-11-24T01:06:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1795477210",
-      "title": "US adds Megaspeed, firm at centre of Nvidia scandal, to export control list",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss",
-      "published": "2026-11-24T00:52:47+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1795470884",
-      "title": "Iran war live: Iran says three ships catch fire after hitting Hormuz mines",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
-      "published": "2026-11-24T00:00:00+00:00",
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/24/live-iran-war-hormuz-tanker/",
+      "title": "Middle East latest: Iran says four tankers struck naval mines in Strait of Hormuz",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/24/live-iran-war-hormuz-tanker/",
+      "published": "2026-11-24T11:03:34+00:00",
       "type": "naval",
       "status": "unconfirmed",
       "location": {
@@ -126,8 +302,272 @@
         "lat": 32.4279,
         "lng": 53.688
       },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.arabnews.com/middle-east/israeli-airstrike-kills-senior-hamas-security-official-in-gaza-hamas-sources-say-3013840",
+      "title": "Israeli airstrike kills senior Hamas security official in Gaza, Hamas sources say",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/middle-east/israeli-airstrike-kills-senior-hamas-security-official-in-gaza-hamas-sources-say-3013840",
+      "published": "2026-11-24T11:02:23+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.arabnews.com/saudi-arabia/saudi-tip-off-helps-oman-foil-smuggling-of-500000-controlled-pills-3013839",
+      "title": "Saudi tip-off helps Oman foil smuggling of 500,000 controlled pills",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/saudi-arabia/saudi-tip-off-helps-oman-foil-smuggling-of-500000-controlled-pills-3013839",
+      "published": "2026-11-24T10:58:31+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 21.4735,
+        "lng": 55.9754
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795512370",
+      "title": "Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak?traffic_source=rss",
+      "published": "2026-11-24T10:47:41+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
       "credibility": 90,
       "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.arabnews.com/corporate-and-sponsored-content/how-russias-polyjet-technologies-are-supporting-construction-projects-in-saudi-arabia-3013834",
+      "title": "How Russia\u2019s PolyJET technologies are supporting construction projects in Saudi Arabia",
+      "source": "Arab News",
+      "source_url": "https://www.arabnews.com/corporate-and-sponsored-content/how-russias-polyjet-technologies-are-supporting-construction-projects-in-saudi-arabia-3013834",
+      "published": "2026-11-24T10:43:40+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Saudi Arabia",
+        "city": null,
+        "lat": 23.8859,
+        "lng": 45.0792
+      },
+      "credibility": 80,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "635fd8d83b4095832856cfb1cb40e928",
+      "title": "KPC: #Kuwait crude oil is down 34 cents to USD 80.40 pb @kpcofficialkw  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2125174016914739709",
+      "published": "2026-11-24T10:25:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/11/24/is-iran-weighing-tanker-convoy-to-break-us-blockade/",
+      "title": "Is Iran weighing tanker convoy to break US blockade?",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/gulf/2026/11/24/is-iran-weighing-tanker-convoy-to-break-us-blockade/",
+      "published": "2026-11-24T10:05:33+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795506445",
+      "title": "Why S Korea issued air raid alert after Russian jets flew near its airspace",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/24/why-s-korea-issued-air-raid-alert-after-russian-jets-flew-near-its-airspace?traffic_source=rss",
+      "published": "2026-11-24T09:53:55+00:00",
+      "type": "airstrike",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795509331",
+      "title": "Russian strike kills two in Ukraine, days after ship attack off Libya",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss",
+      "published": "2026-11-24T09:51:26+00:00",
+      "type": "naval",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "6baec26a7840dc9a14c033e15929c618",
+      "title": "The #UAE reports 11 fatalities in a collision between a passenger bus & a truck in Ras Al Khaimah, with emergency teams responding to the scene  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2125157405075837410",
+      "published": "2026-11-24T09:19:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "75f8d22d8177f89911f7d95f4b8f18c4",
+      "title": "His Highness the Amir signs Decree-Law No. 140 of 2026, approving the Unified Excise Tax Agreement for the Gulf Cooperation Council (#GCC) states & its amendment annex  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2125153901611500005",
+      "published": "2026-11-24T09:05:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795503009",
+      "title": "US army says detonation of lead explosives in Iowa will proceed",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/24/us-army-says-detonation-of-lead-explosives-in-iowa-will-proceed?traffic_source=rss",
+      "published": "2026-11-24T08:24:08+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "6c8438ceadf7d0f24e7a41fbd1e18460",
+      "title": ". The Ministry of Interior (MoI) has reported a traffic accident involving a collision between a passenger bus and a tru...",
+      "source": "WAM News (RSS.app)",
+      "source_url": "https://www.instagram.com/p/DgHQHwQIxG_",
+      "published": "2026-11-24T05:55:03+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 95,
+      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -215,50 +655,6 @@
         "lng": 48.0
       },
       "credibility": 100,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/11/23/us-qatar-critical-minerals-framework/",
-      "title": "US deepens Gulf partnerships with Qatar critical minerals framework",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/11/23/us-qatar-critical-minerals-framework/",
-      "published": "2026-11-23T22:41:58+00:00",
-      "type": "naval",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "66dc970b3180d0a42ae285e8f7806ea9",
-      "title": "#US Secretary of State Marco Rubio appreciates #Qatar's global mediation efforts and stresses the importance of continued close coordination to deter threats and promote stability and security across the Middle East  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2124990648063271348",
-      "published": "2026-11-23T22:17:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Qatar",
-        "city": null,
-        "lat": 25.3548,
-        "lng": 51.1839
-      },
-      "credibility": 95,
       "is_government": true,
       "casualties": {
         "total": 0,
@@ -399,50 +795,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/2026/11/23/un-warns-black-sea-drone-attacks-threaten-food-exports-as-russia-ukraine-war-widens/",
-      "title": "UN warns Black Sea drone attacks threaten food exports as Russia-Ukraine war widens",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/2026/11/23/un-warns-black-sea-drone-attacks-threaten-food-exports-as-russia-ukraine-war-widens/",
-      "published": "2026-11-23T20:40:13+00:00",
-      "type": "drone",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/us/2026/11/23/us-syria-troops-training/",
-      "title": "US 'discussing military training for Syrian forces'",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/us/2026/11/23/us-syria-troops-training/",
-      "published": "2026-11-23T20:31:09+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://one.sightlinemg.com/defensenews/?p=88169",
       "title": "A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
       "source": "Defense News",
@@ -458,28 +810,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3ab6635c8bc095a8f9f8b8fec78cdf7a",
-      "title": "Washington sanctions Iran\u2019s global shadow banking networks  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2124957489661714656",
-      "published": "2026-11-23T20:05:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Iran",
-        "city": null,
-        "lat": 32.4279,
-        "lng": 53.688
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -597,50 +927,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/uae/2026/11/23/president-sheikh-mohamed-speaks-with-syrian-leader-ahmad-al-shara/",
-      "title": "President Sheikh Mohamed speaks with Syrian leader Ahmad Al Shara",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/uae/2026/11/23/president-sheikh-mohamed-speaks-with-syrian-leader-ahmad-al-shara/",
-      "published": "2026-11-23T17:49:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.3463,
-        "lng": 55.4209
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/23/egypt-and-iraq-pledge-closer-energy-and-military-ties-as-al-zaidi-makes-first-cairo-visit/",
-      "title": "Egypt and Iraq pledge closer energy and military ties as Al Zaidi makes first Cairo visit",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/23/egypt-and-iraq-pledge-closer-energy-and-military-ties-as-al-zaidi-makes-first-cairo-visit/",
-      "published": "2026-11-23T17:40:31+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Egypt",
-        "city": null,
-        "lat": 30.0444,
-        "lng": 31.2357
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o#0",
       "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
       "source": "BBC Middle East",
@@ -656,50 +942,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "0dcec7cb6d88da6a690449fdbc0c68f5",
-      "title": "Kuwait #Cabinet reviews regional developments & reaffirms national security  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2124908061819117718",
-      "published": "2026-11-23T16:48:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "29468c57abc00ac405ce9bc442e6fba2",
-      "title": "Ahmed bin Saeed inaugurates the Future Growth Nexus Summit, organised by Dubai Airport Freezone (DAFZ) in partnership with Forbes Middle East to mark the freezone\u2019s 30th anniversary. The summit brings together more than 300 participants, including 27 speakers, with senior government officials, local and global business leaders, investors and industry experts in attendance. DAFZ\u2019s trade exceeded AED 479 billion in 2025, accounting for 15.4% of Dubai\u2019s non-oil trade. Its business community includes more than 3,300 companies, among them over 600 multinational corporations with regional headquarters in the freezone.",
-      "source": "Dubai Media Office (RSS.app)",
-      "source_url": "https://x.com/DXBMediaOffice/status/2124887909635588343",
-      "published": "2026-11-23T15:28:00+00:00",
-      "type": "naval",
-      "status": "confirmed",
-      "location": {
-        "country": "UAE",
-        "city": null,
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -795,28 +1037,6 @@
       }
     },
     {
-      "id": "fc96692e3ec68487275d9ef8ba967fc0",
-      "title": "#Kuwait's Minister of Foreign Affairs discusses with #UN Special Envoy for #Yemen Hans Grundberg the latest developments & the efforts to advance a comprehensive political solution to the crisis  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2124860170379346367",
-      "published": "2026-11-23T13:38:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 15.5527,
-        "lng": 48.5164
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/world/2026/nov/23/students-from-gaza-win-visa-battle-to-study-in-ireland",
       "title": "Twenty Gaza students due to leave for Ireland after winning visa battle",
       "source": "The Guardian",
@@ -832,28 +1052,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "f08f4f97b402e92973691957bc2cc422",
-      "title": "His Highness the Prime Minister of #Kuwait discusses energy cooperation with BP Chief Executive Officer  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2124847009119023495",
-      "published": "2026-11-23T12:46:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -1074,28 +1272,6 @@
       },
       "credibility": 70,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "6c0aee351f24c5b18f240005307b4d82",
-      "title": "\u062e\u0644\u0627\u0644 \u0623\u0633\u0628\u0648\u0639.. \u0636\u0628\u0637 (34) \u0645\u062e\u0627\u0644\u0641\u064b\u0627 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u064a\u0626\u0629 \u0641\u064a \u0639\u062f\u062f \u0645\u0646 \u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u0645\u0645\u0644\u0643\u0629. @SFES_KSA @security_gov @BG994 @GDM_MOI #\u0644\u0623\u062c\u0644_\u0628\u064a\u0626\u0629_\u0645\u0633\u062a\u062f\u0627\u0645\u0629",
-      "source": "Saudi MOI (RSS.app)",
-      "source_url": "https://x.com/MOISaudiArabia/status/2124442766856139227",
-      "published": "2026-11-22T10:00:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
