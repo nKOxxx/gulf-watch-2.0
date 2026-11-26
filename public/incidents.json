@@ -1,22 +1,506 @@
 {
-  "generated_at": "2026-11-26T01:50:24.884814+00:00",
-  "total_incidents": 54,
+  "generated_at": "2026-11-26T11:05:23.183121+00:00",
+  "total_incidents": 61,
   "incidents": [
     {
-      "id": "https://www.aljazeera.com/?t=1795654179",
-      "title": "ISIL blamed for multiple suicide attacks in Syria",
+      "id": "5487e5d7763133d93d6a3bc9c218cb46",
+      "title": "#Kuwait Fire Force (#KFF) concludes joint program with #Qatari Coast Security  #KUNA",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2125902448627732846",
+      "published": "2026-11-26T10:40:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Qatar",
+        "city": null,
+        "lat": 25.3548,
+        "lng": 51.1839
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795671408",
+      "title": "Palestine coach says team represents suffering but also offers hope",
       "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/isil-blamed-for-multiple-suicide-attacks-in-syria?traffic_source=rss",
-      "published": "2026-11-26T00:51:17+00:00",
+      "source_url": "https://www.aljazeera.com/sports/2026/11/26/palestine-national-football-team-coach-suffering-hope?traffic_source=rss",
+      "published": "2026-11-26T10:28:51+00:00",
       "type": "incident",
       "status": "unconfirmed",
       "location": {
-        "country": "Syria",
+        "country": null,
         "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
+        "lat": 31.9522,
+        "lng": 35.2332
       },
       "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b08a1a3124c0b15a0925fa3cf9181820",
+      "title": "DET supports more than 100 factories across seven target sectors through its Industry 4.0 Boost Programme, helping manufacturers assess their operations, identify opportunities to improve productivity, and develop practical roadmaps for adopting advanced technologies. Expert assessments identify an average productivity improvement potential of 15\u201320% per factory, with potential gains estimated at AED 3.1 billion in factory revenue and AED 1 billion in GDP.",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2125897523176825310",
+      "published": "2026-11-26T10:20:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "b153806b87e045aa718e7bffa073b5e2",
+      "title": "#GCC Emergency Management Center concludes regional radiation emergency training program  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2125897574708080711",
+      "published": "2026-11-26T10:20:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "4e9f753d2f904d17521993303d546107",
+      "title": "For the First Time in Israel and with 20 Participating Systems: Israel and the U.S. Conduct Joint Trial of Advanced Interception Solutions Against Drone Threats \ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 Read More:",
+      "source": "Israel MOD (RSS.app)",
+      "source_url": "https://x.com/Israel_MOD/status/2125897042367287669",
+      "published": "2026-11-26T10:18:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo#0",
+      "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T10:14:08+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/travel/2026/11/12/uae-dubai-abu-dhabi-flights-status/",
+      "title": "Middle East flights: Which international airlines have resumed services to the UAE?",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/travel/2026/11/12/uae-dubai-abu-dhabi-flights-status/",
+      "published": "2026-11-26T10:04:39+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795677414",
+      "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
+      "published": "2026-11-26T10:02:09+00:00",
+      "type": "drone",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/26/israel-officially-sanctions-torture-palestinian-prisoners-confessions-report",
+      "title": "Israel \u2018officially sanctions\u2019 torture of Palestinian prisoners to extract confessions, report concludes",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/26/israel-officially-sanctions-torture-palestinian-prisoners-confessions-report",
+      "published": "2026-11-26T10:00:52+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Israel",
+        "city": null,
+        "lat": 31.0461,
+        "lng": 34.8516
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/26/body-of-jordanian-sailor-missing-since-tanker-attack-off-uae-found/",
+      "title": "Body of missing Jordanian sailor found off UAE eight days after tanker attack",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/26/body-of-jordanian-sailor-missing-since-tanker-attack-off-uae-found/",
+      "published": "2026-11-26T09:57:36+00:00",
+      "type": "ground",
+      "status": "unconfirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 23.4241,
+        "lng": 53.8478
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "12502e44cf1d9e0a4b025150c2757853",
+      "title": "Six Palestinians killed in Israeli occupation attacks on #Gaza  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2125891654947151931",
+      "published": "2026-11-26T09:57:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "cef6926940e447c3d5827f2f95395da7",
+      "title": "The Integrated Care Association for Special need (#ICAN) holds World Sports Day for persons with intellectual disabilities  #KUNA #Kuwait",
+      "source": "KUNA Kuwait (RSS.app)",
+      "source_url": "https://x.com/kuna_en/status/2125890524770927084",
+      "published": "2026-11-26T09:52:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "Kuwait",
+        "city": null,
+        "lat": 29.3117,
+        "lng": 47.4818
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795685277",
+      "title": "Explosion rocks Bangkok oil depot",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/explosion-rocks-bangkok-oil-depot?traffic_source=rss",
+      "published": "2026-11-26T09:30:24+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/26/iraq-denies-sending-troops-to-kurdistan-as-crisis-talks-to-begin/",
+      "title": "Iraq denies sending troops to Kurdistan as crisis talks begin",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/26/iraq-denies-sending-troops-to-kurdistan-as-crisis-talks-to-begin/",
+      "published": "2026-11-26T09:29:17+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "ab9cc9e3cb6b2e23d2db1c5fa786bf5d",
+      "title": "Dubai Chambers discusses with Canada\u2019s Minister of Finance and National Revenue ways to strengthen trade relations between Dubai and Canada and explore opportunities to develop investment partnerships between the business communities in both markets. Trade relations between Dubai and Canada are continuing to grow. Dubai's non-oil trade with Canada reached AED 9.25 billion during the first nine months of 2026, representing an increase of 8.9% compared with the same period last year. Meanwhile, 505 new Canadian companies joined Dubai Chamber of Commerce during the first nine months of 2026, bringing the total number of active Canadian companies registered with the chamber to 4,707 by the end o",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/DXBMediaOffice/status/2125881346946216190",
+      "published": "2026-11-26T09:16:00+00:00",
+      "type": "naval",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795677441",
+      "title": "Israeli attacks on Gaza kill senior education official, seven other people",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss",
+      "published": "2026-11-26T09:00:06+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Palestine",
+        "city": null,
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/football/2026/11/26/zirkzee-backs-lammens-after-man-uniteds-sporting-draw-if-its-us-against-the-world-so-be-it/",
+      "title": "Zirkzee backs Lammens after Manchester United's Sporting draw: 'If it's us against the world, so be it'",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/sport/football/2026/11/26/zirkzee-backs-lammens-after-man-uniteds-sporting-draw-if-its-us-against-the-world-so-be-it/",
+      "published": "2026-11-26T09:00:00+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1795681918",
+      "title": "Seven injured in explosion at oil facility in Thailand\u2019s Bangkok",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss",
+      "published": "2026-11-26T08:49:20+00:00",
+      "type": "explosion",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 29.0,
+        "lng": 48.0
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/26/yemen-crisis-deepens-as-renewed-fighting-displaces-hundreds-of-thousands/",
+      "title": "Yemen crisis deepens as renewed fighting displaces hundreds of thousands",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/26/yemen-crisis-deepens-as-renewed-fighting-displaces-hundreds-of-thousands/",
+      "published": "2026-11-26T08:48:51+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": null,
+        "city": null,
+        "lat": 15.5527,
+        "lng": 48.5164
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/11/26/ten-french-isis-members-jailed-by-iraqi-court/",
+      "title": "Ten French ISIS members jailed by Iraqi court",
+      "source": "The National UAE",
+      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/26/ten-french-isis-members-jailed-by-iraqi-court/",
+      "published": "2026-11-26T08:23:09+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iraq",
+        "city": null,
+        "lat": 33.2232,
+        "lng": 43.6793
+      },
+      "credibility": 85,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.theguardian.com/film/2026/nov/26/an-eye-for-an-eye-tanaz-eshaghian",
+      "title": "\u2018She was so not regretful about killing her husband\u2019: the Iranian film that shines a light on blood money and retributive justice",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com/film/2026/nov/26/an-eye-for-an-eye-tanaz-eshaghian",
+      "published": "2026-11-26T08:00:50+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 90,
+      "is_government": false,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "52c7f86a060c4f7ca1bf89e59c6bede1",
+      "title": "RT by @DXBMediaOffice: The agreement between Dubai Islamic Bank PJSC (DIB) and Emirates NBD Bank PJSC (Emirates NBD) for DIB to acquire Emirates Islamic Bank PJSC marks a significant step in strengthening Dubai's position as a global centre for Islamic finance. On completion, the combined group is expected to have total assets of approximately AED 585 billion, reinforcing DIB's position as the UAE's largest Islamic banking group. Bringing together two complementary Islamic banking franchises will strengthen the group's ability to serve customers and support the UAE's economic ambitions. Emirates Islamic has been an important part of Emirates NBD's journey, and this agreement opens a new chap",
+      "source": "Dubai Media Office (RSS.app)",
+      "source_url": "https://x.com/HHAhmedBinSaeed/status/2125852217093828683",
+      "published": "2026-11-26T07:20:00+00:00",
+      "type": "incident",
+      "status": "confirmed",
+      "location": {
+        "country": "UAE",
+        "city": null,
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 95,
+      "is_government": true,
+      "casualties": {
+        "total": 0,
+        "military": 0,
+        "civilian": 0
+      }
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo#0",
+      "title": "Desperate appeals from women on death row in Iran after protests",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T06:01:58+00:00",
+      "type": "incident",
+      "status": "unconfirmed",
+      "location": {
+        "country": "Iran",
+        "city": null,
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -37,28 +521,6 @@
         "city": null,
         "lat": 30.0444,
         "lng": 31.2357
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1795643137",
-      "title": "Two Syrian security personnel killed in ISIL suicide attack",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/26/two-syrian-security-personnel-killed-in-isil-suicide-attack?traffic_source=rss",
-      "published": "2026-11-26T00:41:49+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Syria",
-        "city": null,
-        "lat": 34.8021,
-        "lng": 38.9968
       },
       "credibility": 90,
       "is_government": false,
@@ -113,50 +575,6 @@
       }
     },
     {
-      "id": "https://www.aljazeera.com/?t=1795643837",
-      "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
-      "published": "2026-11-26T00:00:00+00:00",
-      "type": "missile",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Yemen",
-        "city": null,
-        "lat": 15.3694,
-        "lng": 44.191
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1795644516",
-      "title": "Houthis target Saudi Arabia\u2019s Red Sea ports as strikes escalate",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss",
-      "published": "2026-11-25T23:33:39+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Saudi Arabia",
-        "city": null,
-        "lat": 23.8859,
-        "lng": 45.0792
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
       "title": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
       "source": "The Guardian",
@@ -179,20 +597,20 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/25/two-members-of-syrian-security-forces-killed-in-isis-attack-state-media-says/",
-      "title": "Two members of Syrian security forces killed in ISIS attack, state media says",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/25/two-members-of-syrian-security-forces-killed-in-isis-attack-state-media-says/",
-      "published": "2026-11-25T22:09:30+00:00",
-      "type": "incident",
+      "id": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o#0",
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "source": "BBC Middle East",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T22:18:06+00:00",
+      "type": "ground",
       "status": "unconfirmed",
       "location": {
-        "country": "Saudi Arabia",
+        "country": "Egypt",
         "city": null,
-        "lat": 24.5247,
-        "lng": 39.5692
+        "lat": 30.0444,
+        "lng": 31.2357
       },
-      "credibility": 85,
+      "credibility": 95,
       "is_government": false,
       "casualties": {
         "total": 0,
@@ -201,7 +619,7 @@
       }
     },
     {
-      "id": "Defense News--9156273442270839772",
+      "id": "Defense News--5115058132247032524",
       "title": "Carla Babb Named Head of Content for Military Times and Defense News",
       "source": "Defense News",
       "source_url": "https://www.defensenews.com/news/2026/11/25/carla-babb-named-head-of-content-for-military-times-and-defense-news/",
@@ -289,50 +707,6 @@
       }
     },
     {
-      "id": "e3d82b13ff34b426d99a128139e39e71",
-      "title": "President of the Arabian Gulf University (AGU) Dr. Saad Al-Fahaid praised Kuwait\u2019s support for the university and its role in Gulf academic cooperation during a meeting with Ambassador Jassim Al-Najem.  #KUNA #KUWAIT",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2125667100085633202",
-      "published": "2026-11-25T19:05:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/11/25/todd-boehly-lukoil/",
-      "title": "US-led group reaches deal to acquire Lukoil's global assets",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/business/energy/2026/11/25/todd-boehly-lukoil/",
-      "published": "2026-11-25T18:52:48+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://www.defensenews.com/news/2026/11/25/estimates-of-russians-killed-in-ukraine-surpass-all-combined-us-war-deaths-since-wwi/",
       "title": "Estimates of Russians killed in Ukraine surpass all combined US war deaths since WWI",
       "source": "Defense News",
@@ -352,28 +726,6 @@
         "total": 0,
         "military": 0,
         "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/25/at-least-21-killed-after-tanker-explosion-near-cairo/",
-      "title": "At least 30 killed after tanker explosion in Cairo",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/25/at-least-21-killed-after-tanker-explosion-near-cairo/",
-      "published": "2026-11-25T18:20:12+00:00",
-      "type": "explosion",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Egypt",
-        "city": null,
-        "lat": 30.0444,
-        "lng": 31.2357
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 30,
-        "military": 0,
-        "civilian": 30
       }
     },
     {
@@ -421,28 +773,6 @@
       }
     },
     {
-      "id": "38255f208706a87fd527cdf045a01c43",
-      "title": "OPEC\u2019s Haitham Al-Ghais says oil and gas producers backed COP31 draft decisions, despite reservations. He told KUNA they acted in good faith and did not block or withdraw from talks.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2125644792453272017",
-      "published": "2026-11-25T17:36:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=101931",
       "title": "Israel increases defense budget by $5 billion as concerns continue over future funding",
       "source": "Breaking Defense",
@@ -465,28 +795,6 @@
       }
     },
     {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/25/lebanese-public-transport-drivers-jam-roads-in-nationwide-protests/",
-      "title": "Lebanese public transport drivers jam roads in nationwide protests",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/25/lebanese-public-transport-drivers-jam-roads-in-nationwide-protests/",
-      "published": "2026-11-25T16:45:34+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "https://breakingdefense.com/?p=101928",
       "title": "Air Force issues Boeing $2.8 billion for more KC-46s",
       "source": "Breaking Defense",
@@ -499,28 +807,6 @@
         "city": null,
         "lat": 29.0,
         "lng": 48.0
-      },
-      "credibility": 85,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/11/25/iraqs-national-security-service-reports-two-more-oil-smuggling-operations/",
-      "title": "Iraq's National Security Service reports two more oil smuggling operations",
-      "source": "The National UAE",
-      "source_url": "https://www.thenationalnews.com/news/mena/2026/11/25/iraqs-national-security-service-reports-two-more-oil-smuggling-operations/",
-      "published": "2026-11-25T16:03:00+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Iraq",
-        "city": null,
-        "lat": 33.2232,
-        "lng": 43.6793
       },
       "credibility": 85,
       "is_government": false,
@@ -568,28 +854,6 @@
       },
       "credibility": 90,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "02a864a25fbea1c33b6b0453f2fc97d1",
-      "title": "The Sixth Gulf Forum on Family Policies kicks off in #Manama under the theme \"Gulf Families in Times of Crisis,\" with the participation of officials, #GCC states representatives, academics & specialists in family affairs.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2125607141675319624",
-      "published": "2026-11-25T15:06:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Bahrain",
-        "city": null,
-        "lat": 26.2285,
-        "lng": 50.586
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -678,50 +942,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "2aa8d65cf034de5cff76dad6c481e345",
-      "title": "The High-Level Arab Conference in #Cairo honors #Kuwaiti disability rights activist Rehab Bouresli in recognition of her role in supporting the rights of persons with disabilities & promoting their participation in society.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2125582340545990797",
-      "published": "2026-11-25T13:28:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Egypt",
-        "city": null,
-        "lat": 30.0444,
-        "lng": 31.2357
-      },
-      "credibility": 95,
-      "is_government": true,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "3c93324ca9eedae3a13fd905f2738854",
-      "title": "#Kuwait's Minister of Public Works meets with a diplomatic delegation representing #China, #Japan, #SouthKorea, #India & #Pakistan to discuss infrastructure projects & development plans in the country.  #KUNA",
-      "source": "KUNA Kuwait (RSS.app)",
-      "source_url": "https://x.com/kuna_en/status/2125579922215186804",
-      "published": "2026-11-25T13:18:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": "Kuwait",
-        "city": null,
-        "lat": 29.3117,
-        "lng": 47.4818
-      },
-      "credibility": 95,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
@@ -927,28 +1147,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/nov/24/israel-jail-palestinian-student-mahdi-tounsi-hebrew-university-without-trial",
-      "title": "Israel attempts to jail Palestinian student at Hebrew University without trial",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/24/israel-jail-palestinian-student-mahdi-tounsi-hebrew-university-without-trial",
-      "published": "2026-11-24T18:02:53+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Israel",
-        "city": null,
-        "lat": 31.0461,
-        "lng": 34.8516
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "d35a9c5639bb072a957a61d73e6412f8",
       "title": "\u062a\u0646\u0641\u0630 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629\u060c \u0628\u0627\u0644\u062a\u0646\u0633\u064a\u0642 \u0645\u0639 \u0627\u0644\u062c\u0647\u0627\u062a \u0627\u0644\u0645\u062e\u062a\u0635\u0629\u060c \"\u062a\u0645\u0631\u064a\u0646 \u0627\u0644\u0627\u062a\u062d\u0627\u062f 55\"\u060c \u064a\u0648\u0645 \u063a\u062f\u064d \u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621 25 \u0646\u0648\u0641\u0645\u0628\u0631 2026\u060c \u0641\u064a \u0643\u0627\u0641\u0629 \u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u062f\u0648\u0644\u0629\u060c \u0648\u0633\u064a\u0634\u0647\u062f \u0627\u0644\u062a\u0645\u0631\u064a\u0646 \u062a\u062d\u0631\u0643\u0627\u062a \u0645\u064a\u062f\u0627\u0646\u064a\u0629 \u0644\u0644\u0648\u062d\u062f\u0627\u062a \u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629 The Ministry of Interior, in coordination with the relevant authorities, will conduct \u201cExercise Union 55\u201d tomorrow, Wednesday, November 25, 2026, across all emirates. The exercise will involve field movements by participating units #\u0648\u0632\u0627\u0631\u0629_\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629_\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a #\u0641\u062e\u0648\u0631\u064a\u0646_\u0628\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \ud83c\udde6\ud83c\uddea #\u0627\u0644\u0627\u0645\u0627\u0631\u0627\u062a_\u0623\u0645\u0646_\u0648\u0623\u0645\u0627\u0646 #MOIUAE",
       "source": "UAE MOI (RSS.app)",
@@ -1037,7 +1235,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo#0",
+      "id": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo#1",
       "title": "Land mine casualties soar in Syria, two years after war",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
@@ -1081,28 +1279,6 @@
       }
     },
     {
-      "id": "https://www.theguardian.com/world/2026/nov/24/gaza-meningitis-epidemic-alert",
-      "title": "Gaza issues meningitis epidemic alert after steep rise in cases",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/24/gaza-meningitis-epidemic-alert",
-      "published": "2026-11-24T14:51:18+00:00",
-      "type": "incident",
-      "status": "unconfirmed",
-      "location": {
-        "country": "Palestine",
-        "city": null,
-        "lat": 31.5017,
-        "lng": 34.4668
-      },
-      "credibility": 90,
-      "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
       "id": "7777d48aa91aa1e1d784e9b5b21f37ff",
       "title": "Iran's Foreign Ministry Spokesman Esmaeil Baghaei has stressed the country\u2019s seven conditions to end war and resolve standoff with US are Tehran\u2019s legitimate rights, emphasizing Iran will not abandon its rights under pressure.",
       "source": "Mehr News (RSS.app)",
@@ -1125,7 +1301,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o#0",
+      "id": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o#1",
       "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
@@ -1147,7 +1323,7 @@
       }
     },
     {
-      "id": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o#0",
+      "id": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o#1",
       "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
       "source": "BBC Middle East",
       "source_url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
@@ -1162,28 +1338,6 @@
       },
       "credibility": 95,
       "is_government": false,
-      "casualties": {
-        "total": 0,
-        "military": 0,
-        "civilian": 0
-      }
-    },
-    {
-      "id": "330a17a2f25a553eef4bc47fbe5751af",
-      "title": "\u0627\u0633\u062a\u0642\u0628\u0644 \u0627\u0644\u0644\u0648\u0627\u0621 \u0627\u0644\u0631\u0643\u0646 \u064a\u0648\u0633\u0641 \u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0627\u0644\u0643\u0639\u0628\u064a\u060c \u0642\u0627\u0626\u062f \u0627\u0644\u0637\u064a\u0631\u0627\u0646 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u060c \u0628\u0645\u0643\u062a\u0628\u0647 \u0643\u0644\u0627\u064b \u0645\u0646 \u0627\u0644\u0641\u0631\u064a\u0642 \u0627\u0644\u0631\u0643\u0646 \u0637\u064a\u0627\u0631 \u0645\u0627\u0631\u0643 \u0644\u0648 \u0628\u0648\u064a\u0644\u060c \u0642\u0627\u0626\u062f \u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u062c\u0648\u064a \u0648\u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0627\u0644\u0641\u0631\u0646\u0633\u064a\u0629\u060c \u0648\u0627\u0644\u0641\u0631\u064a\u0642 \u0627\u0644\u0631\u0643\u0646 \u0645\u0647\u0646\u062f\u0633 \u0627\u0644\u062a\u0633\u0644\u064a\u062d \u062c\u0627\u064a\u0644 \u062f\u064a\u0627\u0632 \u062f\u064a \u062a\u0648\u064a\u0633\u062a\u0627\u060c \u0627\u0644\u0645\u062f\u064a\u0631 \u0627\u0644\u0648\u0637\u0646\u064a \u0644\u0644\u062a\u0633\u0644\u064a\u062d \u0644\u062f\u0649 \u0627\u0644\u0645\u062f\u064a\u0631\u064a\u0629 \u0627\u0644\u0639\u0627\u0645\u0629 \u0644\u0644\u062a\u0633\u0644\u064a\u062d (DGA)\u060c \u0648\u0627\u0644\u0648\u0641\u062f \u0627\u0644\u0645\u0631\u0627\u0641\u0642 \u0644\u0647\u0645\u0627. \u0648\u062a\u0646\u0627\u0648\u0644\u062a \u0627\u0644\u0644\u0642\u0627\u0621\u0627\u062a \u0639\u062f\u062f\u0627\u064b \u0645\u0646 \u0627\u0644\u0645\u0648\u0627\u0636\u064a\u0639 \u0630\u0627\u062a \u0627\u0644\u0627\u0647\u062a\u0645\u0627\u0645 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u060c \u0648\u0633\u0628\u0644 \u062a\u0639\u0632\u064a\u0632 \u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u062e\u0628\u0631\u0627\u062a \u0641\u064a \u0627\u0644\u0645\u062c\u0627\u0644\u0627\u062a \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u0629 \u0648\u0627\u0644\u062f\u0641\u0627\u0639\u064a\u0629\u060c \u0628\u0645\u0627 \u064a\u0633\u0647\u0645 \u0641\u064a \u062f\u0639\u0645 \u0627\u0644\u0623\u0647\u062f\u0627\u0641 \u0627\u0644\u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a\u0629 \u0648\u062a\u0637\u0648\u064a\u0631 \u0627\u0644\u0634\u0631\u0627\u0643\u0629 \u0628\u064a\u0646 \u0627\u0644\u0628\u0644\u062f\u064a\u0646 \u0628\u0645\u0627 \u064a\u062e\u062f\u0645 \u0627\u0644\u0645\u0635\u0627\u0644\u062d \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u0629. Major General Staff Yousef Abdullah Al Kaabi, Commander of Joint Aviation, received Lieutenant General Staff Pilot Marc Le Bouil, Air Defence and Air Operations Command commander, and Lieutenant General Staff (Arm",
-      "source": "UAE MOD (RSS.app)",
-      "source_url": "https://x.com/modgovae/status/2124805861097001049",
-      "published": "2026-11-23T10:02:00+00:00",
-      "type": "incident",
-      "status": "confirmed",
-      "location": {
-        "country": null,
-        "city": null,
-        "lat": 29.0,
-        "lng": 48.0
-      },
-      "credibility": 100,
-      "is_government": true,
       "casualties": {
         "total": 0,
         "military": 0,
